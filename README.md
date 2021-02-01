@@ -235,6 +235,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 - [Privacy Suggestions](https://www.privacytools.io/) Best place to find privacy-focused products
 - [Check For Data Breaches](https://haveibeenpwned.com/) Searches a database of security breaches to see if you were attacked
+- [De-google](https://www.reddit.com/r/privacy/wiki/de-google) De-google your life
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -993,6 +994,11 @@ premium services
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [Steam Advisor](http://steamadvisor.com/) Tells you the best games in your library to play
 - [Mango HUD](https://github.com/flightlessmango/MangoHud) Open source fraps
+- [Free to Game](https://www.freetogame.com/) Find the best free games
+- [Magical Life](https://github.com/TBye101/MagicalLife) Open source clone Rimworld
+- [Uebergame](https://github.com/Duion/Uebergame) Another open source clone of Rimworld
+- [Athenaeum](https://gitlab.com/librebob/athenaeum) Open source games store like steam
+- [Pegasus Frontend](https://pegasus-frontend.org/) Front end for you games and your ROMs
 
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
@@ -1046,6 +1052,7 @@ premium services
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
+- [Nuclear Music Player](https://nuclear.js.org/) Music client that streams froms multiple sources
 
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
@@ -1112,8 +1119,13 @@ premium services
 - [Discord](discord.com/download) Popular chattting service
 - [Steam](https://steamcommunity.com/) Popular online game service
 - [Gog Galaxy](https://www.gog.com/galaxy) GOG GALAXY 2.0 - all your games and friends in one place
+- [Mini Galaxy](https://sharkwouter.github.io/minigalaxy/) Native gog client for linux
 - [VS Codium](https://vscodium.com/) Fork of VSCode without the telemetry
 - [Libre Wolf](https://librewolf-community.gitlab.io/) Firefox without the bad management
+- [Virtual Richard Stalman](https://github.com/orospakr/vrms-arch) Richard Stalman tells you if you are downloading a non open source package
+- [Libre Sprite](https://github.com/LibreSprite/LibreSprite) Open source aseprite
+- [Edex-ui](https://github.com/GitSquared/edex-ui) Tony Stark Interface for linux
+- [Linux Dash](https://github.com/afaqurk/linux-dash) Linux dashboard online
 
 ### Adobe CC
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
@@ -1609,6 +1621,7 @@ premium services
 - [Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
 - [Defold](https://defold.com/download/) The game engine used to make the games made by king
 - [GDevelop](https://gdevelop-app.com/) Create your own games with an open source game creator with no programming needed
+- [Stride](https://stride3d.net/) Stride is an open-source MIT C# game engine designed for the future of gaming.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
