@@ -135,6 +135,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Miscellaneous](#miscellaneous)
 - [Game Engines](#game-engines)
 - [Guides](#guides)
+- [XXX](#xxx)
 
 ## VPNs
 
@@ -1643,6 +1644,19 @@ premium services
     > Step 6: Copy the course link and paste it under the previous section and click on the pause icon
 
     > Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
+
+## XXX
+
+| Website               | Downloadable?         | Ads?           |
+| --------------------- | --------------------- | -------------- |
+| https://sxyprn.com    | Yes                   | Normal         |
+| https://goodporn.to   | Yes                   | Normal         |
+| https://porntrex.com  | Required registration | Normal         |
+| https://daftsex.com   | Yes                   | Cancerous pops |
+| https://pornxp.com    | Yes                   | Normal         |
+| https://spankbang.com | Required registration | A few – Normal |
+| https://eporner.com   | Yes                   | Normal         |
+| https://porngo.com    | Yes                   | Normal         |
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
