@@ -262,6 +262,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+- [Arch Linux](archlinux.org/download) Popular opensource, rolling release OS
+- [Archfi](https://github.com/MatMoul/archfi) fully customizable arch linux installler
+- [Anarchy Linux](https://anarchyinstaller.org/) Another instllaer for arch linux
 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
@@ -1094,6 +1097,14 @@ premium services
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
+- [Legendary(CLI)](https://github.com/derrod/legendary) Native epic games laucher for linux
+- [Heroic Games Launcher(GUI)](https://github.com/flavioislima/HeroicGamesLauncher) Gui for legendary(cli) with added features
+- [Lutris](https://lutris.net/downloads) Community installers for wine games and emulators for linux
+- [Playnite](https://playnite.link/download.html) Video game library manager for windows
+- [Element(Matrix)](https://element.io/) Popular matrix client
+- [Discord](discord.com/download) Popular chattting service
+- [Steam](https://steamcommunity.com/) Popular online game service
+- [Gog Galaxy](https://www.gog.com/galaxy) GOG GALAXY 2.0 - all your games and friends in one place
 
 ### Adobe CC
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
@@ -1108,6 +1119,7 @@ premium services
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
 - [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+- [Windows Without Spyware](https://ameliorated.info/index.html) Windows 10 without spyware (de-microsofted windows)
 
 ## Ebooks
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
@@ -1574,6 +1586,10 @@ premium services
 - [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 - [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
+- [Media Bias Fact Check](https://mediabiasfactcheck.com/) Check media bias on any website
+- [Media Reaper](https://sasrip.cf/) Download videos from any website
+- [Just Delete Me](https://justdeleteme.xyz/) Directly go to the delete account page
+- [F Droid](https://f-droid.org/en/) Alternative to google play store
 
 ## Game Engines
 - [Godot](https://godotengine.org/) An open source game engine that is very flexible
@@ -1587,5 +1603,5 @@ premium services
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Igglybuff has waived all copyright and
+To the extent possible under law, FreddyMaster has waived all copyright and
 related or neighboring rights to this work.
