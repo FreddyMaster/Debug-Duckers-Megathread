@@ -265,6 +265,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Arch Linux](archlinux.org/download) Popular opensource, rolling release OS
 - [Archfi](https://github.com/MatMoul/archfi) fully customizable arch linux installler
 - [Anarchy Linux](https://anarchyinstaller.org/) Another instllaer for arch linux
+- [Arch Craft](https://archcraft-os.github.io/) Craft your own arch linux installation
+- [Zen Instller](https://sourceforge.net/projects/revenge-installer/) Another installer for arch linux
+- [Manjaro](https://manjaro.org/download/) A distro based on arch linux making it easy to get people into linux
 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
