@@ -184,6 +184,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
+- [Media Reaper](https://sasrip.cf/) Download videos from any website
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
@@ -989,6 +991,8 @@ premium services
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
+- [Steam Advisor](http://steamadvisor.com/) Tells you the best games in your library to play
+- [Mango HUD](https://github.com/flightlessmango/MangoHud) Open source fraps
 
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
@@ -1108,6 +1112,8 @@ premium services
 - [Discord](discord.com/download) Popular chattting service
 - [Steam](https://steamcommunity.com/) Popular online game service
 - [Gog Galaxy](https://www.gog.com/galaxy) GOG GALAXY 2.0 - all your games and friends in one place
+- [VS Codium](https://vscodium.com/) Fork of VSCode without the telemetry
+- [Libre Wolf](https://librewolf-community.gitlab.io/) Firefox without the bad management
 
 ### Adobe CC
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
@@ -1590,9 +1596,9 @@ premium services
 - [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 - [Media Bias Fact Check](https://mediabiasfactcheck.com/) Check media bias on any website
-- [Media Reaper](https://sasrip.cf/) Download videos from any website
 - [Just Delete Me](https://justdeleteme.xyz/) Directly go to the delete account page
 - [F Droid](https://f-droid.org/en/) Alternative to google play store
+- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) A better custom build of proton
 
 ## Game Engines
 - [Godot](https://godotengine.org/) An open source game engine that is very flexible
@@ -1602,6 +1608,7 @@ premium services
 - [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) A popular game engine used to make many AAA games all for free
 - [Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
 - [Defold](https://defold.com/download/) The game engine used to make the games made by king
+- [GDevelop](https://gdevelop-app.com/) Create your own games with an open source game creator with no programming needed
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
