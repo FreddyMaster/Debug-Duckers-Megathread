@@ -133,7 +133,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
-- [Game Engines](#gameengines)
+- [Game Engines](#game-engines)
 
 ## VPNs
 
@@ -1576,13 +1576,13 @@ premium services
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 
 ## Game Engines
--[Godot](https://godotengine.org/) An open source game engine that is very flexible
--[CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
--[Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
--[Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
--[Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) A popular game engine used to make many AAA games all for free
--[Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
--[Defold](https://defold.com/download/) The game engine used to make the games made by king
+- [Godot](https://godotengine.org/) An open source game engine that is very flexible
+- [CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
+- [Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
+- [Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
+- [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) A popular game engine used to make many AAA games all for free
+- [Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
+- [Defold](https://defold.com/download/) The game engine used to make the games made by king
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
