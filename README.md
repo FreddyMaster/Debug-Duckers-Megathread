@@ -1636,7 +1636,7 @@ premium services
 
     > Step 3: Click on "Runtime" in the top left side of the screen and Change runtime type to "GPU"
 
-    > Step 4: Click the pause icon next to " Run this cell to mount Gdrive" and go to the url to link your google account and copy the code and paste it in the box under the         url and click enter
+    > Step 4: Click the pause icon next to " Run this cell to mount Gdrive" and go to the url to link your google account and copy the code and paste it in the box under the url and click enter
 
     > Step 5: Run the cell to install skillshare dl and it should show "Succesfully Configured" after it finished installing
 
