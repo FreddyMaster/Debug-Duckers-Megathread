@@ -1626,7 +1626,7 @@ premium services
 
 ## Guides
 
-#### How to download Skillshare videos without Premium Account
+### How to download Skillshare videos without Premium Account:
 
 Requirements: You need enough storage in your Gdrive to download the course and make sure to delete any skillshare related folders to avoid errors
 
