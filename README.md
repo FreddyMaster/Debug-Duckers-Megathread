@@ -1628,7 +1628,7 @@ premium services
 
 ### How to download Skillshare videos without Premium Account:
 
-##### Requirements: You need enough storage in your Gdrive to download the course and make sure to delete any skillshare related folders to avoid errors
+##### *Requirements: You need enough storage in your Gdrive to download the course and make sure to delete any skillshare related folders to avoid errors*
 
 Step 1: Go to https://colab.research.google.com/github/calvinhobbes23/Skillshare-DL/blob/master/Skillshare_DL_[KENWAY].ipynb
 
