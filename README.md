@@ -1,18 +1,6 @@
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of arrrrrrrrr!
-
-## Preamble
-Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
-
-I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
+# Debug Duckers Megathread [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
-
-For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
-
-## Mirrors
-This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
 
 ## How to use this list
 Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
@@ -145,6 +133,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
+- [Game Engines](#gameengines)
 
 ## VPNs
 
@@ -225,7 +214,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
   - Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
   - Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
   - Web App: [KeeWeb](https://keeweb.info/)
-- [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
@@ -238,12 +226,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
 - [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
-- [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
 
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+- [Privacy Suggestions](https://www.privacytools.io/) Best place to find privacy-focused products
+- [Check For Data Breaches](https://haveibeenpwned.com/) Searches a database of security breaches to see if you were attacked
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -310,7 +299,8 @@ for any IP address.
 - [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
 - [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
-- [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
+- [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audio
+s private tracker
 - [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
 - [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
 - [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
@@ -1142,6 +1132,7 @@ premium services
 
 ## Academic Papers and Material
 - [LibGen](https://libgen.is/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [B-ok](https://b-ok.cc/) Mirror of libgen with a more user-friendly interface
 - [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
@@ -1539,7 +1530,11 @@ premium services
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Miscellaneous
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
+- [7-zip](https://www.7-zip.org/) :star2: Open source zip software
+- [Winrar](https://www.rarlab.com/) Alternative to 7-zip
+- [Epic Games Free](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
+- [Patch My PC](https://patchmypc.com/home-updater-download) Keep everything on your pc up to date at once
+- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
@@ -1577,9 +1572,17 @@ premium services
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 - [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+- [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
+- [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 
-## Contribute
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+## Game Engines
+-[Godot](https://godotengine.org/) An open source game engine that is very flexible
+-[CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
+-[Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
+-[Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
+-[Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) A popular game engine used to make many AAA games all for free
+-[Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
+-[Defold](https://defold.com/download/) The game engine used to make the games made by king
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
