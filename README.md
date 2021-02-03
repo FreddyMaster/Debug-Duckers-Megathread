@@ -984,7 +984,11 @@ premium services
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
 - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) Reddit post by /u/EssenseOfMagic
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
-- [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
+- [Steam unlocked](https://steamunlocked.net) :star2: Download DRM free steam games
+- [GOG Games](https://gog-games.com/) :star2: DDL DRM free gog games
+- [My Abandonware](https://www.myabandonware.com/) Download abandonware for free
+- [GLoad](https://gload.cc/pc) Download PC games for free
+- [Free GOG PC Games](http://freegogpcgames.com/) :star2: Magnet links site to download games from GOG.
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
@@ -1010,6 +1014,21 @@ premium services
 - [Nicoblog](https://nicoblog.org/) Plenty of ISOs, ROMs, and repacks
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+
+### Emulators
+- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) Bios files for emulators
+- [Game Boy Advanced - MGBA](https://mgba.io/) Popular Game Boy Advanced Emulator
+- [GameCube & Wii - Dolphin](https://github.com/dolphin-emu/dolphin) Very popular Wii and Gamecube emulator
+- [DS - Desmume](https://desmume.org/) DS emulator
+- [3Ds - Citra](https://citra-emu.org/) 3Ds emulator
+- [Wii U - Cemu](https://cemu.info/) Wii U emulator
+- [Nintendo Switch - Yuzu](https://yuzu-emu.org/) Nintendo Switch emulator
+- [Nintendo Switch - Ryujinx](https://ryujinx.org/) Nintendo Switch emulator
+- [Xbox 360 - Xenia](https://github.com/xenia-project/xenia) Xbox 360 emulator
+- [PSP - PPSSPP](https://www.ppsspp.org/) PSP emulator
+- [PS2 - PCSX2](https://pcsx2.net/) PS2 emulator
+- [PS3 - PCSX3](https://github.com/rpcs3/rpcs3/) PS3 emulator
+- [PS4 - Orbital](https://github.com/AlexAltea/orbital) Work in progress Ps4 emulator
 
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
