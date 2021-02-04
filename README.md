@@ -1679,7 +1679,7 @@ premium services
 ## Miscellaneous
 - [7-zip](https://www.7-zip.org/) :star2: Open source zip software
 - [Winrar](https://www.rarlab.com/) Alternative to 7-zip
-- [Epic Games Free](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
+- [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
 - [Patch My PC](https://patchmypc.com/home-updater-download) Keep everything on your pc up to date at once
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
