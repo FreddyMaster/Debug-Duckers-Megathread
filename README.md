@@ -153,17 +153,17 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
-- [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
+- [privacytools.io] :star2: (https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
-- [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
+- [ProtonVPN](https://protonvpn.com/) :star2: High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) :star2: VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
@@ -190,12 +190,12 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
-- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
+- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 - [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
-- [Media Reaper](https://sasrip.cf/) Download videos from any website
+- [Media Reaper](https://sasrip.cf/) :star2: Download videos from any website 
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
@@ -219,7 +219,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
-- [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
+- [KeePass](https://keepass.info/) :star2: Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
   - Android: [Keepass2Android](https://github.com/PhilippC/keepass2android)
   - iPhone: [KeePassium](https://keepassium.com/)
@@ -240,7 +240,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
 
 ## Privacy
-- [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+- [Prism Break](https://prism-break.org/en/) :star2: Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 - [Privacy Suggestions](https://www.privacytools.io/) Best place to find privacy-focused products
@@ -248,7 +248,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [De-google](https://www.reddit.com/r/privacy/wiki/de-google) De-google your life
 
 ### Windows 10 Privacy
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) :star2: O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
@@ -258,7 +258,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 ## Email
-- [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
+- [ProtonMail](https://protonmail.com/) :star2: Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
@@ -275,7 +275,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
-- [Arch Linux](archlinux.org/download) Popular opensource, rolling release OS
+- [Arch Linux](archlinux.org/download) :star2: Popular opensource, rolling release OS
 - [Archfi](https://github.com/MatMoul/archfi) fully customizable arch linux installler
 - [Anarchy Linux](https://anarchyinstaller.org/) Another instllaer for arch linux
 - [Arch Craft](https://archcraft-os.github.io/) Craft your own arch linux installation
@@ -358,7 +358,7 @@ s private tracker
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 #### Public Trackers
-- [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
+- [1337x](https://1337x.to/) :star2: 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
@@ -415,7 +415,7 @@ s private tracker
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
 
 ### Torrent Clients
-- [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
+- [qBitTorrent](https://www.qbittorrent.org/) :star2: Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
@@ -732,7 +732,7 @@ premium services
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
 - [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
 - [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
-- [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
+- [123Movies](https://123movies.website/) :star2: Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
 - [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
@@ -783,12 +783,12 @@ premium services
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
 #### Cartoons
-- [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
-- [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+- [KissCartoon](https://kisscartoon.ac/) :star2: Popular cartoon streaming site
+- [watchcartoononline.com](https://www.watchcartoononline.com/) :star2: Cartoons, dubbed/subbed anime streaming site
 - [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
 - [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
 - [Toonova](http://www.toonova.net/) Another site for streaming cartoons
-- [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
+- [KimCartoon](https://kimcartoon.to/) :star2: Large cartoon collection, primarily Openload
 - [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
 
 #### Sports Streaming
@@ -852,26 +852,26 @@ premium services
 - [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [1Movies](http://1movies.nl) Openload, FServer
 - [WatchFullMovie](http://watchfullmovie.co) Openload
-- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
+- [FMOVIES](https://www3.fmovies.to/) :star2: Openload, MyCloud, RapidVideo, Streamango
 - [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
 
 ## Media Centre Applications
-- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
 - [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
 - [Streama](https://github.com/streamaserver/streama) Self-hosted streaming media server.
 - [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
-- [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
+- [Stremio](https://www.stremio.com/) :star2: Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
-- [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
+- [jellyfin](https://github.com/jellyfin/jellyfin) :star2: An open-source fork of Emby
 
 ## Stremio
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
@@ -1000,14 +1000,14 @@ premium services
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) "A Legit DLC Unlocker" for Steam
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) :star2: "A Legit DLC Unlocker" for Steam
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
-- [CDRomance](https://cdromance.com/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
+- [CDRomance](https://cdromance.com/) :star2: PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [Steam Advisor](http://steamadvisor.com/) Tells you the best games in your library to play
-- [Mango HUD](https://github.com/flightlessmango/MangoHud) Open source fraps
+- [Mango HUD](https://github.com/flightlessmango/MangoHud) :star2: Open source fraps
 - [Free to Game](https://www.freetogame.com/) Find the best free games
 - [Magical Life](https://github.com/TBye101/MagicalLife) Open source clone Rimworld
 - [Uebergame](https://github.com/Duion/Uebergame) Another open source clone of Rimworld
@@ -1061,22 +1061,22 @@ premium services
 - [SameBoy - Gameboy / Gameboy Color](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
 - [TGBDual - Gameboy / Gameboy Color](http://shinh.skr.jp/tgbdualsdl/) - A Japanese Game Boy/Game Boy Color emulator. It was the first to support link cable emulation (through TCP/IP), later followed by VBA Link and then modern emulators.
 - [TGBDual-L - Gameboy / Gameboy Color](https://github.com/libertyernie/tgbdual_L) - A rebase of changes in libertyernie/tgbdual on top of tgbdual_kai
-- [mGBA - Gameboy Advance](https://github.com/mgba-emu/mgba/) - Aims to be faster and more accurate than many existing Game Boy Advance emulators.
-- [Dolphin - GameCube / Wii](https://github.com/dolphin-emu/dolphin) - A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [mGBA - Gameboy Advance](https://github.com/mgba-emu/mgba/) - :star2: Aims to be faster and more accurate than many existing Game Boy Advance emulators.
+- [Dolphin - GameCube / Wii](https://github.com/dolphin-emu/dolphin) - :star2: A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [1964js - Nintendo 64](https://github.com/schibo/1964js) - Nintendo64 emulator in JavaScript.
 - [Daedalus - Nintendo 64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
 - [Mupen64plus - Nintendo 64](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
-- [Project64 - Nintendo 64](https://github.com/project64/project64) - Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+- [Project64 - Nintendo 64](https://github.com/project64/project64) - :star2: Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
 - [Ryu64 - Nintendo 64](https://github.com/Ryu64Emulator/Ryu64) - This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
-- [DeSmuME - Nintendo DS](https://github.com/TASVideos/desmume) - It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
+- [DeSmuME - Nintendo DS](https://github.com/TASVideos/desmume) - :star2: It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
 - [Dualis - Nintendo DS](http://dualis.1emu.net/files/index.html) - A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
 - [MelonDS - Nintendo DS](https://github.com/Arisotura/melonDS) - Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
 - [3dmoom - Nintendo 3DS](https://github.com/plutooo/3dmoo/) - 3DS Emulator Prototype.
-- [Citra - Nintendo 3DS](https://github.com/citra-emu/citra) - An experimental open-source Nintendo 3DS emulator/debugger written in C++.
+- [Citra - Nintendo 3DS](https://github.com/citra-emu/citra) - :star2: An experimental open-source Nintendo 3DS emulator/debugger written in C++.
 - [Corgi3DS - Nintendo 3DS](https://github.com/PSI-Rockin/Corgi3DS/) - Corgi3DS is a dog-themed LLE 3DS emulator.
 - [FakeNES - NES](https://sourceforge.net/projects/fakenes/files/) - A highly portable NES and Famicom emulator.
 - [FCEUX - NES](http://sourceforge.net/p/fceultra/code/) - A Nintendo Entertainment System (NES), Famicom, Famicom Disk System (FDS), and Dendy emulator.
-- [Nestopia - NES](https://sourceforge.net/projects/nestopia/files/Nestopia/) - An emulator designed to emulate the NES hardware as accurately as possible.
+- [Nestopia - NES](https://sourceforge.net/projects/nestopia/files/Nestopia/) -:star2: An emulator designed to emulate the NES hardware as accurately as possible.
 - [Nintaco - NES](https://nintaco.com/source.html) - A cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
 - [Nitendulator - NES](https://github.com/quietust/nintendulator) - A Win32 NES emulator written in C++.
 - [Mesen - NES](https://github.com/SourMesen/Mesen) - A cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#.
@@ -1086,7 +1086,7 @@ premium services
 - [Snes9x - SNES](https://github.com/snes9xgit/snes9x) - A portable Super Nintendo Entertainment System emulator.
 - [ZSNES - SNES](https://sourceforge.net/projects/zsnes/files/zsnes/) - A free software Super Nintendo Entertainment System emulator written mostly in x86 assembly. Most ROM Hacks require this emulator due to its poor inaccuracies.
 - [Ryujinx - Switch](https://github.com/Ryujinx/Ryujinx) - Experimental Switch emulator written in C#.
-- [Yuzu - Switch](https://github.com/yuzu-emu/yuzu) - Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+- [Yuzu - Switch](https://github.com/yuzu-emu/yuzu) - :star2: Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
 - [Decaf - Wii U](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 
 ### SEGA
@@ -1108,14 +1108,14 @@ premium services
 - [Avocado - PSX](https://github.com/JaCzekanski/Avocado) - A Modern Playstation 1 emulator.
 - [hpsx64 - PSX](https://sourceforge.net/projects/hpsx64/files) - Highly-Experimental Playstation Simulator x64.
 - [pcsxr - PSX](https://github.com/iCatButler/pcsxr) - A forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
-- [pcsx-redux - PSX](https://github.com/grumpycoders/pcsx-redux) - Yet another fork of the Playstation Emulator, PCSX.
+- [pcsx-redux - PSX](https://github.com/grumpycoders/pcsx-redux) - :star2: Yet another fork of the Playstation Emulator, PCSX.
 - [ProjectPSX - PSX](https://github.com/BluestormDNA/ProjectPSX) - Experimental C# Playstation Emulator.
 - [Rustation-ng - PSX](https://gitlab.com/flio/rustation-ng/) - PlayStation emulator in the Rust programing language.
 - [DobieStation - PS2](https://github.com/PSI-Rockin/DobieStation/) - A young PS2 emulator with plans for an optimized Android port, as well as a fast, accurate, and easy-to-use PC port.
 - [pcsx2 - PS2](https://github.com/PCSX2/pcsx2) - Emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
-- [Play! - PS2](https://github.com/jpd002/Play-) - An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
-- [RPCS3 - PS3](https://github.com/RPCS3/rpcs3) - The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
-- [orbital - PS4](https://github.com/AlexAltea/orbital) - Virtualization-based PlayStation 4 emulator.
+- [Play! - PS2](https://github.com/jpd002/Play-) - :star2: An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
+- [RPCS3 - PS3](https://github.com/RPCS3/rpcs3) - :star2: The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
+- [orbital - PS4](https://github.com/AlexAltea/orbital) - :star2: Virtualization-based PlayStation 4 emulator.
 - [ps4delta - PS4](https://github.com/Force67/ps4delta) - PS4Delta is a very early high level PlayStation 4 emulator, written in c++.
 - [GPCS4 - PS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator which was just started.
 - [ppsspp - PSP](https://github.com/hrydgard/ppsspp) - A fast and portable PSP emulator.
@@ -1126,10 +1126,10 @@ premium services
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
 - [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
-- [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
+- [Vimm's Lair](https://vimm.net/?p=vault) :star2: Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye
+- [The Eye ROMs](http://the-eye.eu/public/rom/) :star2: Open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
 - [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
@@ -1141,7 +1141,7 @@ premium services
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
-- [NoPayStation](https://nopaystation.com) A Database for PSN content including Vita, PS3, PSX, and PSP
+- [NoPayStation](https://nopaystation.com) :star2: A Database for PSN content including Vita, PS3, PSX, and PSP
 - [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch games
 - See [Discord Servers](#discord-servers) for more Switch games
 
@@ -1226,16 +1226,16 @@ premium services
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
 - [Legendary(CLI)](https://github.com/derrod/legendary) Native epic games laucher for linux
-- [Heroic Games Launcher(GUI)](https://github.com/flavioislima/HeroicGamesLauncher) Gui for legendary(cli) with added features
-- [Lutris](https://lutris.net/downloads) Community installers for wine games and emulators for linux
+- [Heroic Games Launcher(GUI)](https://github.com/flavioislima/HeroicGamesLauncher) :star2: Gui for legendary(cli) with added features
+- [Lutris](https://lutris.net/downloads) :star2: Community installers for wine games and emulators for linux
 - [Playnite](https://playnite.link/download.html) Video game library manager for windows
 - [Element(Matrix)](https://element.io/) Popular matrix client
-- [Discord](discord.com/download) Popular chattting service
-- [Steam](https://steamcommunity.com/) Popular online game service
-- [Gog Galaxy](https://www.gog.com/galaxy) GOG GALAXY 2.0 - all your games and friends in one place
+- [Discord](discord.com/download) Popular chatting service
+- [Steam](https://steamcommunity.com/) :star2: Popular online game service
+- [Gog Galaxy](https://www.gog.com/galaxy) :star2: GOG GALAXY 2.0 - all your games and friends in one place
 - [Mini Galaxy](https://sharkwouter.github.io/minigalaxy/) Native gog client for linux
 - [VS Codium](https://vscodium.com/) Fork of VSCode without the telemetry
-- [Libre Wolf](https://librewolf-community.gitlab.io/) Firefox without the bad management
+- [Libre Wolf](https://librewolf-community.gitlab.io/) A fork of Firefox without the bad management
 - [Virtual Richard Stalman](https://github.com/orospakr/vrms-arch) Richard Stalman tells you if you are downloading a non open source package
 - [Libre Sprite](https://github.com/LibreSprite/LibreSprite) Open source aseprite
 - [Edex-ui](https://github.com/GitSquared/edex-ui) Tony Stark Interface for linux
@@ -1253,7 +1253,7 @@ premium services
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
 - [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+- [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) :star2: Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
 - [Windows Without Spyware](https://ameliorated.info/index.html) Windows 10 without spyware (de-microsofted windows)
 
 ## Ebooks
@@ -1278,8 +1278,8 @@ premium services
 - [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
 
 ## Academic Papers and Material
-- [LibGen](https://libgen.is/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
-- [B-ok](https://b-ok.cc/) Mirror of libgen with a more user-friendly interface
+- [LibGen](https://libgen.is/) :star2: search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [B-ok](https://b-ok.cc/) :star2: Mirror of libgen with a more user-friendly interface
 - [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
@@ -1300,7 +1300,7 @@ premium services
 - [Desire Course](https://desirecourse.net/)
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
 - [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) :star2: A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
 ## Audiobooks
@@ -1438,7 +1438,7 @@ premium services
 
 ## Mobile Apps
 - [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
-- [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
+- [NewPipe](https://newpipe.schabi.org/) :star2: The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
@@ -1509,7 +1509,7 @@ premium services
 - [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
 - [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
-- [PlayStation Homebrew](https://discord.gg/JJnvEN8) Home of /r/ps3homebrew and /r/ps4homebrew.
+- [PlayStation Homebrew](https://discord.gg/JJnvEN8) :star2: Home of /r/ps3homebrew and /r/ps4homebrew.
 - [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
 - [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ has more up to date games as of April 2019)
 - [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
@@ -1680,14 +1680,14 @@ premium services
 - [7-zip](https://www.7-zip.org/) :star2: Open source zip software
 - [Winrar](https://www.rarlab.com/) Alternative to 7-zip
 - [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
-- [Patch My PC](https://patchmypc.com/home-updater-download) Keep everything on your pc up to date at once
+- [Patch My PC](https://patchmypc.com/home-updater-download) :star2: Keep everything on your pc up to date at once
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 - [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
@@ -1701,7 +1701,7 @@ premium services
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
 - [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
-- [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
+- [TheTrove](https://thetrove.net/) :star2: The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
 - [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
 - [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
@@ -1722,16 +1722,16 @@ premium services
 - [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 - [Media Bias Fact Check](https://mediabiasfactcheck.com/) Check media bias on any website
-- [Just Delete Me](https://justdeleteme.xyz/) Directly go to the delete account page
-- [F Droid](https://f-droid.org/en/) Alternative to google play store
-- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) A better custom build of proton
+- [Just Delete Me](https://justdeleteme.xyz/) :star2: Directly go to the delete account page
+- [F Droid](https://f-droid.org/en/) :star2: Alternative to google play store
+- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) :star2: A better custom build of proton
 
 ## Game Engines
-- [Godot](https://godotengine.org/) An open source game engine that is very flexible
+- [Godot](https://godotengine.org/) :star2: An open source game engine that is very flexible
 - [CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
 - [Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
 - [Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
-- [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) A popular game engine used to make many AAA games all for free
+- [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) :star2:  A popular game engine used to make many AAA games all for free
 - [Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
 - [Defold](https://defold.com/download/) The game engine used to make the games made by king
 - [GDevelop](https://gdevelop-app.com/) Create your own games with an open source game creator with no programming needed
