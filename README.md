@@ -1027,10 +1027,10 @@ premium services
 
 ### Atari
 
-- [stella - Atari 2600](https://github.com/stella-emu/stella) - A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
-- [atari800 - Atari 800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
+- [Stella - Atari 2600](https://github.com/stella-emu/stella) - A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+- [Atari800 - Atari 800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
 - [Altirra - Atari 800](http://virtualdub.org/altirra.html) - Very accurate Atari 8-bit computer (All models) and 5200 console emulator.
-- [kat5200 - Atari 5200](https://kat5200.jillybunch.com/downloads.html) - An emulator for the Atari 5200 and 8-bit computers
+- [Kat5200 - Atari 5200](https://kat5200.jillybunch.com/downloads.html) - An emulator for the Atari 5200 and 8-bit computers
 - [ProSystem - Atari 7800](https://github.com/gstanton/ProSystem1_3) - ProSystem Emulator Version 1.3 by Greg Stanton
 - [Handy - Atari Lynx](https://sourceforge.net/projects/handy/files/) - "Handy" is an Atari Lynx Emulator
 - [Virtual Jaguar - Atari Jaguar](http://icculus.org/virtualjaguar/) - Virtual Jaguar is an open-source Atari Jaguar emulator.
@@ -1064,17 +1064,17 @@ premium services
 - [mGBA - Gameboy Advance](https://github.com/mgba-emu/mgba/) - Aims to be faster and more accurate than many existing Game Boy Advance emulators.
 - [Dolphin - GameCube / Wii](https://github.com/dolphin-emu/dolphin) - A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [1964js - Nintendo 64](https://github.com/schibo/1964js) - Nintendo64 emulator in JavaScript.
-- [daedalus - Nintendo 64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
-- [mupen64plus - Nintendo 64](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
-- [project64 - Nintendo 64](https://github.com/project64/project64) - Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
-- [ryu64 - Nintendo 64](https://github.com/Ryu64Emulator/Ryu64) - This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
+- [Daedalus - Nintendo 64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
+- [Mupen64plus - Nintendo 64](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
+- [Project64 - Nintendo 64](https://github.com/project64/project64) - Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+- [Ryu64 - Nintendo 64](https://github.com/Ryu64Emulator/Ryu64) - This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
 - [DeSmuME - Nintendo DS](https://github.com/TASVideos/desmume) - It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
 - [Dualis - Nintendo DS](http://dualis.1emu.net/files/index.html) - A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
-- [melonDS - Nintendo DS](https://github.com/Arisotura/melonDS) - Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
+- [MelonDS - Nintendo DS](https://github.com/Arisotura/melonDS) - Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
 - [3dmoom - Nintendo 3DS](https://github.com/plutooo/3dmoo/) - 3DS Emulator Prototype.
 - [Citra - Nintendo 3DS](https://github.com/citra-emu/citra) - An experimental open-source Nintendo 3DS emulator/debugger written in C++.
 - [Corgi3DS - Nintendo 3DS](https://github.com/PSI-Rockin/Corgi3DS/) - Corgi3DS is a dog-themed LLE 3DS emulator.
-- [fakeNES - NES](https://sourceforge.net/projects/fakenes/files/) - A highly portable NES and Famicom emulator.
+- [FakeNES - NES](https://sourceforge.net/projects/fakenes/files/) - A highly portable NES and Famicom emulator.
 - [FCEUX - NES](http://sourceforge.net/p/fceultra/code/) - A Nintendo Entertainment System (NES), Famicom, Famicom Disk System (FDS), and Dendy emulator.
 - [Nestopia - NES](https://sourceforge.net/projects/nestopia/files/Nestopia/) - An emulator designed to emulate the NES hardware as accurately as possible.
 - [Nintaco - NES](https://nintaco.com/source.html) - A cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
