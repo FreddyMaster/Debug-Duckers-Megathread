@@ -1803,7 +1803,7 @@ premium services
     
 ## The Ultimate Guide to Nintendo Piracy (NES -> Wii U) #FreeMelee
 
-[CLick Here](https://github.com/FreddyMaster/Debug-Duckers-Megathread/blob/main/The%20Ultimate%20Guide%20to%20Nintendo%20Piracy%20(NES%20-%20Wii%20U)%20FreeMelee%20Piracy.md)
+[Click Here](https://github.com/FreddyMaster/Debug-Duckers-Megathread/blob/main/The%20Ultimate%20Guide%20to%20Nintendo%20Piracy%20(NES%20-%20Wii%20U)%20FreeMelee%20Piracy.md)
 
 ## XXX
 
