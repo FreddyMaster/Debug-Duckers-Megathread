@@ -1,12 +1,6 @@
 The Ultimate Guide to Nintendo Piracy (NES -\> Wii U) \#FreeMelee {._eYtD2XCVieq6emjKBH3m}
 =================================================================
 
-![](https://www.redditstatic.com/desktop2x/img/renderTimingPixel.png)
-
-[](/r/Piracy/search?q=flair_name%3A%22Guide%22&restrict_sr=1)
-
-Guide
-
 The Ultimate Guide to Nintendo Piracy (NES -\> Wii U)
 
 \#FreeMelee
