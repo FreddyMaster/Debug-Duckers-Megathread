@@ -1389,6 +1389,7 @@ premium services
 - [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
 ## Fonts, Icons, and Graphics
+- [Get Font](https://getfont.cc/) Gets paid fonts for free
 - [Get the font](https://www.getthefont.com/) Searches through GitHub for fonts
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
@@ -1787,36 +1788,36 @@ premium services
 
 ##### *Requirements: You need enough storage in your Gdrive to download the course and make sure to delete any skillshare related folders to avoid errors*
 
-    Step 1: Go to https://colab.research.google.com/github/calvinhobbes23/Skillshare-DL/blob/master/Skillshare_DL_[KENWAY].ipynb
+    > Step 1: Go to https://colab.research.google.com/github/calvinhobbes23/Skillshare-DL/blob/master/Skillshare_DL_[KENWAY].ipynb
 
-    Step 2: Click on the arrow facing down next to "Connect" and choose "connect to hosted runtime"
+    > Step 2: Click on the arrow facing down next to "Connect" and choose "connect to hosted runtime"
 
-    Step 3: Click on "Runtime" in the top left side of the screen and Change runtime type to "GPU"
+    > Step 3: Click on "Runtime" in the top left side of the screen and Change runtime type to "GPU"
 
-    Step 4: Click the pause icon next to " Run this cell to mount Gdrive" and go to the url to link your google account and copy the code and paste it in the box under the url and click enter
+    > Step 4: Click the pause icon next to " Run this cell to mount Gdrive" and go to the url to link your google account and copy the code and paste it in the box under the url and click enter
 
-    Step 5: Run the cell to install skillshare dl and it should show "Succesfully Configured" after it finished installing
+    > Step 5: Run the cell to install skillshare dl and it should show "Succesfully Configured" after it finished installing
 
-    Step 6: Copy the course link and paste it under the previous section and click on the pause icon
+    > Step 6: Copy the course link and paste it under the previous section and click on the pause icon
 
-    Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
+    > Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
     
-## The Ultimate Guide to Nintendo Piracy (NES -> Wii U) #FreeMelee
+### Ultimate Guide to Nintendo Piracy (NES->Wii U)
 
-[Click Here](https://github.com/FreddyMaster/Debug-Duckers-Megathread/blob/main/The%20Ultimate%20Guide%20to%20Nintendo%20Piracy%20(NES%20-%20Wii%20U)%20FreeMelee%20Piracy.md)
 
 ## XXX
 
-| Website               | Downloadable?         | Ads?           |
-| --------------------- | --------------------- | -------------- |
-| https://sxyprn.com    | Yes                   | Normal         |
-| https://goodporn.to   | Yes                   | Normal         |
-| https://porntrex.com  | Required registration | Normal         |
-| https://daftsex.com   | Yes                   | Cancerous pops |
-| https://pornxp.com    | Yes                   | Normal         |
-| https://spankbang.com | Required registration | A few – Normal |
-| https://eporner.com   | Yes                   | Normal         |
-| https://porngo.com    | Yes                   | Normal         |
+| Website               | Downloadable?         | Ads?             |
+| --------------------- | --------------------- | ---------------- |
+| https://sxyprn.com    | Yes                   | Normal           |
+| https://goodporn.to   | Yes                   | Normal           |
+| https://porntrex.com  | Required registration | Normal           |
+| https://daftsex.com   | Yes                   | Cancerous popups |
+| https://pornxp.com    | Yes                   | Normal           |
+| https://spankbang.com | Required registration | A few – Normal   |
+| https://eporner.com   | Yes                   | Normal           |
+| https://porngo.com    | Yes                   | Normal           |
+| https://hqporner.com  | Yes                   | Normal           |
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
