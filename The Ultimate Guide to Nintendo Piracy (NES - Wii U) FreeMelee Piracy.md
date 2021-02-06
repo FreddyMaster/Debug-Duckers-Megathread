@@ -1,4 +1,4 @@
-The Ultimate Guide to Nintendo Piracy (NES -\> Wii U) \#FreeMelee {._eYtD2XCVieq6emjKBH3m}
+The Ultimate Guide to Nintendo Piracy (NES -> Wii U) #FreeMelee
 =================================================================
 
 The Ultimate Guide to Nintendo Piracy (NES -\> Wii U)
