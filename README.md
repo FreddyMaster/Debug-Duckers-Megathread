@@ -24,6 +24,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Windows 10 Privacy](#windows-10-privacy)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
+- [CLI Tools](#cli-tools)
 - [Decentralised Networks](#decentralised-networks)
 - [Domain Names](#domain-names)
 - [Torrenting](#torrenting)
@@ -282,6 +283,44 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Zen Instller](https://sourceforge.net/projects/revenge-installer/) Another installer for arch linux
 - [Manjaro](https://manjaro.org/download/) A distro based on arch linux making it easy to get people into linux
 
+## CLI Tools
+
+### Shells
+- [Bash](https://www.gnu.org/software/bash/) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
+- [Zsh](https://www.zsh.org/) :star2: A shell designed for interactive use, although it is also a powerful scripting language
+- [tclsh](https://tcl-lang.org/) is a very powerful cross-platform shell, suitable for a huge range of uses
+- [Fish](https://fishshell.com/) :star2: Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
+- [Ksh(Kornshell)](http://www.kornshell.com/) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
+
+### Shell Addons
+- [Oh My ZSH!](https://ohmyz.sh/) :star2: The best framework for managing your Zsh configuration
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) Same as above but, for the Fishshell framework
+- [Starship](https://github.com/starship/starship) The cross-shell prompt written in Rust
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) :star2: A fast reimplementation of Powerlevel9k ZSH theme.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) :star2: Fish-like autosuggestions for Zsh.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) :star2: Fish shell like syntax highlighting for Zsh.
+
+### File Managers
+- [Ranger](https://github.com/ranger/ranger) :star2: A VIM-inspired filemanager for the console
+- [Midnight Commander](https://midnight-commander.org/) A visual file manager, licensed under GNU General Public License
+- [nnn](https://github.com/jarun/nnn) A tiny, lightning fast, feature-packed file manager
+
+### Text Editors
+- [Vi](http://ex-vi.sourceforge.net/) One of the most common text editors on Unix
+- [Vim](https://www.vim.org/) A highly configurable text editor
+- [Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, free/libre text editor, and more
+- [Neovim](https://neovim.io/) A free open source, powerful, extensible and usable code editor
+- [Spacemacs](https://www.spacemacs.org/) A community-driven Emacs distribution
+- [Spacevim](https://spacevim.org/) A community-driven vim distribution
+
+### Terminal Emulators
+- [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: A GPU based terminal emulator that supports smooth scrolling and images
+- [st](https://st.suckless.org/) st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
+- [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html) A customizable terminal emulator forked from rxvt
+- [Alacritty](https://github.com/alacritty/alacritty) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
+- [Termite](https://github.com/thestinger/termite) Termite is a minimal VTE-based terminal emulator
+- [Terminator](https://gnome-terminator.org/) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
+ 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
 - [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
