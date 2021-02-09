@@ -1327,6 +1327,7 @@ premium services
 - [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
+- [Text to Handwriting](https://github.com/saurabhdaware/text-to-handwriting) So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting
 
 ## Textbooks
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
@@ -1501,6 +1502,8 @@ premium services
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
 - [YouTube Vanced](https://vanced.app/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [Lemudroid](https://github.com/Swordfish90/Lemuroid) An open source multi-system emulator for the phone
+- [Vigilante](https://github.com/FunkyMuse/Vigilante) Tells you when your camera or microphone is being used by an app
 
 ### Streaming Apps
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
@@ -1810,6 +1813,8 @@ premium services
 | Website               | Downloadable?         | Ads?             |
 | --------------------- | --------------------- | ---------------- |
 | https://sxyprn.com    | Yes                   | Normal           |
+| https://hqporner.com  | Yes                   | Normal           |
+| https://xxxfree.watch | Yes                   | Normal           |
 | https://goodporn.to   | Yes                   | Normal           |
 | https://porntrex.com  | Required registration | Normal           |
 | https://daftsex.com   | Yes                   | Cancerous popups |
