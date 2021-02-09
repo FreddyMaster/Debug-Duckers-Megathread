@@ -30,6 +30,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [File Managers](#file-managers)
     - [Text Editors](#text-editors)
     - [Terminal Emulators](#terminal-emulators)
+    - [Terminal Tools](#terminal-tools)
 - [Decentralised Networks](#decentralised-networks)
 - [Domain Names](#domain-names)
 - [Torrenting](#torrenting)
@@ -325,6 +326,16 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Alacritty](https://github.com/alacritty/alacritty) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
 - [Termite](https://github.com/thestinger/termite) Termite is a minimal VTE-based terminal emulator
 - [Terminator](https://gnome-terminator.org/) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
+
+### Terminal Tools
+- [Auto Jump](https://github.com/wting/autojump) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [Neofetch](https://github.com/dylanaraps/neofetch) A command-line system information tool written in bash 3.2+
+- [Archey](https://github.com/HorlogeSkynet/archey4) Archey is a simple system information tool written in Python
+- [Pfetch](https://github.com/dylanaraps/pfetch) A pretty system information tool written in POSIX sh
+- [Nfetch](https://github.com/ya-sach1/nfetch) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
+- [Exa](https://github.com/ogham/exa) Exa is a modern replacement for ls.
+- [Terminalizer](https://github.com/faressoft/terminalizer) Record your terminal and generate animated gif images or share a web player
+- [Gooey](https://github.com/chriskiehl/Gooey) Convert almost any python cli to a gui
  
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
