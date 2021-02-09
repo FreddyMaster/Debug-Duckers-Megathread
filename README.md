@@ -196,6 +196,12 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 - [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
 - [Media Reaper](https://sasrip.cf/) :star2: Download videos from any website 
+- [crx4](https://www.crx4chrome.com/) Alternative to chrome web store
+- [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) Stops website from preventing copy and paste
+- [Night Tab](https://github.com/zombieFox/nightTab) Customizable new tab page
+- [Clickbait Remover](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/) Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
+- [Happidia](https://github.com/Ademking/happydia) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
+- [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) Bypass hCaptcha
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
@@ -1625,6 +1631,7 @@ premium services
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Miscellaneous
+- [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
 - [7-zip](https://www.7-zip.org/) :star2: Open source zip software
 - [Winrar](https://www.rarlab.com/) Alternative to 7-zip
 - [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
