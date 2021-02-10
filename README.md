@@ -466,17 +466,17 @@ for any IP address.
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
 
 #### Deluge ![FOSS](oss.svg) 
-- [Deluge](https://www.deluge-torrent.org/) :star2: ![FOSS](oss.svg) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
 - [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
 
 #### rTorrent ![FOSS](oss.svg) 
-- [rTorrent](https://rakshasa.github.io/rtorrent/) (oss.svg) rTorrent is a text-based ncurses BitTorrent client written in C++
-- [ruTorrent](https://github.com/Novik/ruTorrent) ) Yet another web front-end for rTorrent
-- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki)  itHub wiki for rTorrent
+- [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++
+- [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
+- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) gitHub wiki for rTorrent
 - [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
-- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) (oss.svg) A collection of default and new, original themes for ruTorrent.
+- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
@@ -485,7 +485,7 @@ for any IP address.
 - [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
 - [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
 
-#### WebTorrent Clients
+#### WebTorrent Clients ![FOSS](oss.svg) 
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
@@ -544,7 +544,7 @@ for any IP address.
 - [GingaDADDY](https://www.gingadaddy.com/) Another popular free NZB indexer, requires sign-up
 
 ### Usenet Clients
-- [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
+- [SABnzbd](https://sabnzbd.org/) :star2: ![FOSS](oss.svg) SABnzbd is an Open Source Binary Newsreader written in Python.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 - [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
 - [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
@@ -562,9 +562,8 @@ for any IP address.
 - [Persepolis](https://github.com/persepolisdm/persepolis) ![FOSS](oss.svg) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
 - [pyLoad](https://pyload.net/) ![FOSS](oss.svg) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
-- [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
+- [Plowshare](https://github.com/mcrapet/plowshare) ![FOSS](oss.svg) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
-- [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: ![FOSS](oss.svg) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
@@ -572,11 +571,11 @@ for any IP address.
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) ![FOSS](oss.svg) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
 - [Leonflix](https://leonflix.net/) :star2: ![FOSS](oss.svg) A multi-platform desktop app for finding movies and TV shows.
-- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
-- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
+- [maulvi.github.io](https://maulvi.github.io/) ![FOSS](oss.svg) Google Drive direct download link generator
+- [RapidLeech](https://github.com/Th3-822/rapidleech) ![FOSS](oss.svg) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
 - [megatools](https://github.com/megous/megatools) ![FOSS](oss.svg) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
-- [netclix](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
+- [netclix](https://github.com/ston3o/netclix) ![FOSS](oss.svg) A simple CLI tool to get movie streaming premium links from VodLocker's API
 - [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
 - [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
@@ -660,7 +659,6 @@ for any IP address.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
-- [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
 - [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
 premium services
 - [Premiumizer](https://github.com/piejanssens/premiumizer) Premiumizer is a download management tool for premiumize.me cloud downloads.
@@ -839,21 +837,20 @@ premium services
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) ![FOSS](oss.svg) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) ![FOSS](oss.svg) a community-driven fork of Plex Home Theater
-- [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
+- [Viewscreen](https://github.com/viewscreen/viewscreen) ![FOSS](oss.svg) a personal video streaming server
 - [Streama](https://github.com/streamaserver/streama) ![FOSS](oss.svg) Self-hosted streaming media server.
-- [Myflix](https://github.com/pastapojken/Myflix) ![FOSS](oss.svg) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 - [Stremio](https://www.stremio.com/) :star2: ![FOSS](oss.svg) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
-- [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
+- [Gerbera](https://github.com/gerbera/gerbera) ![FOSS](oss.svg) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
 - [OSMC](https://osmc.tv/) ![FOSS](oss.svg) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
-- [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
+- [Rygel](https://wiki.gnome.org/Projects/Rygel) ![FOSS](oss.svg) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) :star2: ![FOSS](oss.svg) An open-source fork of Emby
 
-## Video Clients
-- [MPV](https://mpv.io/) ![FOSS](oss.svg) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
-- [VLC](https://www.videolan.org/vlc/) ![FOSS](oss.svg) A poplular open source media player that supports a wide verriety of media file formats
-- [DPlayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+## Video Clients ![FOSS](oss.svg) 
+- [MPV](https://mpv.io/) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
+- [VLC](https://www.videolan.org/vlc/) A poplular open source media player that supports a wide verriety of media file formats
+- [DPlayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
 ## Stremio ![FOSS](oss.svg) 
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
@@ -980,14 +977,14 @@ premium services
 - [GLoad](https://gload.cc/pc) Download PC games for free
 - [Free GOG PC Games](http://freegogpcgames.com/) :star2: Magnet links site to download games from GOG.
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
-- [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
-- [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
+- [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) ![FOSS](oss.svg) Steam emulator
+- [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) ![FOSS](oss.svg) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) :star2: "A Legit DLC Unlocker" for Steam
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
 - [CDRomance](https://cdromance.com/) :star2: PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
-- [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
-- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
+- [Steamless](https://github.com/atom0s/Steamless) ![FOSS](oss.svg) Steamless is a DRM remover of the SteamStub variants.
+- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) ![FOSS](oss.svg) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [Steam Advisor](http://steamadvisor.com/) Tells you the best games in your library to play
 - [Mango HUD](https://github.com/flightlessmango/MangoHud) :star2: ![FOSS](oss.svg) Open source fraps
 - [Free to Game](https://www.freetogame.com/) Find the best free games
@@ -1288,13 +1285,13 @@ premium services
 - [Gigacourse](https://gigacourse.com/)
 - [Desire Course](https://desirecourse.net/)
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
-- [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) :star2: A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [tpget](https://github.com/0x6a73/tpget) ![FOSS](oss.svg) Tutorialspoint downloader
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) :star2: ![FOSS](oss.svg) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
-- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) ![FOSS](oss.svg) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
 - [AudioBooks.Cloud](https://audiobooks.cloud/) DDL links for lots of audiobooks.
@@ -1308,7 +1305,7 @@ premium services
 - [GetComics](https://getcomics.info/) GetComics started as an alternative place to get downloaded comic files, particularly US-based comics published by DC and Marvel.
 - [Gazee!](https://hub.docker.com/r/linuxserver/gazee/) A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web-connected device with a modern web browser.
 - [Comix-Load](https://comix-load.in/) DDL links for comic books and manga in English and German.
-- [Omnibus](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
+- [Omnibus](https://github.com/fireshaper/Omnibus) ![FOSS](oss.svg) Search for and download comics that are added to GetComics.info easily
 
 ## Manga
 - [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
@@ -1322,8 +1319,8 @@ premium services
 - [Tachiyomi](https://tachiyomi.org/) Free and open source manga reader for Android.
 - [MangaZone](http://mangazoneapp.com/) A manga reader app.
 - [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
-- [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
-- [HakuNeko](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+- [Free Manga Downloader (FMD)](https://github.com/fmd-project-team/FMD) ![FOSS](oss.svg) A manga download manager and reader that supports downloading from various websites.
+- [HakuNeko](https://github.com/manga-download/hakuneko) ![FOSS](oss.svg) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
 
 ## Documentaries
 - [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
@@ -1342,7 +1339,7 @@ premium services
 - [GraphicEx](https://graphicex.com/) Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more
 - [Tomato.to](https://tomato.to/) Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [How to download paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
-- [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+- [gallery-dl](https://github.com/mikf/gallery-dl) ![FOSS](oss.svg) Command-line program to download image-galleries and -collections from several image hosting sites
 
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
@@ -1363,23 +1360,23 @@ premium services
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [Medusa](https://pymedusa.com/) ![FOSS](oss.svg) Automatic Video Library Manager for TV Shows.
 
-### Movie Automation
-- [Radarr](https://radarr.video/) :star2: ![FOSS](oss.svg) A fork of Sonarr to work with movies à la Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) ![FOSS](oss.svg) Syncs two Radarr servers through web API.
-- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) ![FOSS](oss.svg) Automatic Movie Downloading via NZBs & Torrents
-- [Watcher](https://github.com/nosmokingbandit/Watcher3) ![FOSS](oss.svg) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+### Movie Automation ![FOSS](oss.svg) 
+- [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
+- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
-### Music Automation
+### Music Automation ![FOSS](oss.svg) 
 - [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
 
-### Subtitles Automation
-- [Bazarr](https://github.com/morpheus65535/bazarr) ![FOSS](oss.svg) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-- [autosub](https://github.com/agermanidis/autosub) ![FOSS](oss.svg) Command-line utility for auto-generating subtitles for any video file using speech recognition
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) ![FOSS](oss.svg) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [subsync](https://github.com/smacke/subsync) ![FOSS](oss.svg) Automagically synchronize subtitles with the video.
-- [vlsub](https://github.com/exebetche/vlsub) ![FOSS](oss.svg)  VLC extension to download subtitles from opensubtitles.org
+### Subtitles Automation ![FOSS](oss.svg) 
+- [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+- [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
+- [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
 
 ## P2P Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file-sharing network
