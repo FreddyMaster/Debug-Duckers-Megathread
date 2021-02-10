@@ -31,6 +31,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Text Editors](#text-editors)
     - [Terminal Emulators](#terminal-emulators)
     - [Terminal Tools](#terminal-tools)
+- [Youtube Tools](#youtube-tools)
+- [Compression Tools](#compression-tools)
+- [Subreddits](#subreddits)
 - [Decentralised Networks](#decentralised-networks)
 - [Domain Names](#domain-names)
 - [Torrenting](#torrenting)
@@ -71,6 +74,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
         - [Specialty Sites](#specialty-sites)
         - [Openload Hosts](#third-party-hosts)
 - [Media Centre Applications](#media-centre-applications)
+- [Video Clients](#video-clients)
 - [Stremio](#stremio)
 - [Plex](#plex)
     - [Plex Plugins](#plex-plugins)
@@ -137,9 +141,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [PreDB Sites](#predb-sites)
 - [Dashboards and Homepages](#dashboards-and-homepages)
 - [Proxy Sites](#proxy-sites)
+- [DNS Tools](#dns-tools)
 - [File Sharing Tools](#file-sharing-tools)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
+- [Archives](#archives)
+- [Serial Keys](#serial-keys)
+- [Useful Websites](#useful-websites)
 - [Miscellaneous](#miscellaneous)
 - [Game Engines](#game-engines)
 - [Guides](#guides)
@@ -335,6 +343,26 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Exa](https://github.com/ogham/exa) Exa is a modern replacement for ls.
 - [Terminalizer](https://github.com/faressoft/terminalizer) Record your terminal and generate animated gif images or share a web player
 - [Gooey](https://github.com/chriskiehl/Gooey) Convert almost any python cli to a gui
+- [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+
+### Youtube Tools
+- [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
+- [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
+
+### Compression Tools
+- [7-zip](https://www.7-zip.org/) :star2: Open source zip software
+- [Winrar](https://www.rarlab.com/) Alternative to 7-zip
+- [Peazip](https://peazip.github.io/) Free and open source utility written in Lazarus / FreePascal
+- [Ark](https://github.com/KDE/ark) Ark is a graphical file compression/decompression utility with support for multiple formats
+
+### Subreddits
+- [/r/Piracy](https://www.reddit.com/r/Piracy) Get guides, help, and resources for safe piracy
+- [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers
+- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
+- [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen
+- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+- [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators
+- [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy
  
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
@@ -463,6 +491,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
+- [Dplayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
 ### autodl-irssi
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
@@ -666,7 +695,6 @@ premium services
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
 
 ### Streaming Sites
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
 
 #### HD Streaming
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
@@ -823,6 +851,11 @@ premium services
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) :star2: An open-source fork of Emby
 
+## Video Clients
+- [MPV](https://mpv.io/) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
+- [VLC](https://www.videolan.org/vlc/) A poplular open source media player that supports a wide verriety of media file formats
+- [DPlayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+
 ## Stremio
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
 - [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
@@ -963,6 +996,8 @@ premium services
 - [Uebergame](https://github.com/Duion/Uebergame) Another open source clone of Rimworld
 - [Athenaeum](https://gitlab.com/librebob/athenaeum) Open source games store like steam
 - [Pegasus Frontend](https://pegasus-frontend.org/) Front end for you games and your ROMs
+- [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
+- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) :star2: A better custom build of proton
 
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
@@ -1190,6 +1225,10 @@ premium services
 - [Libre Sprite](https://github.com/LibreSprite/LibreSprite) Open source aseprite
 - [Edex-ui](https://github.com/GitSquared/edex-ui) Tony Stark Interface for linux
 - [Linux Dash](https://github.com/afaqurk/linux-dash) Linux dashboard online
+- [Patch My PC](https://patchmypc.com/home-updater-download) :star2: Keep everything on your pc up to date at once
+- [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
+- [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+- [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
 
 ### Adobe CC
 - [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
@@ -1596,6 +1635,10 @@ premium services
 - [Unblocked](https://unblocked-pw.github.io/) :star2: a Proxy site for accessing your favorite blocked sites
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
+## DNS Tools
+- [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
+- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
@@ -1630,56 +1673,43 @@ premium services
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
-## Miscellaneous
-- [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
-- [7-zip](https://www.7-zip.org/) :star2: Open source zip software
-- [Winrar](https://www.rarlab.com/) Alternative to 7-zip
-- [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
-- [Patch My PC](https://patchmypc.com/home-updater-download) :star2: Keep everything on your pc up to date at once
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
-- [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
-- [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
-- [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
-- [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
-- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
-- [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
-- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
-- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
-- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
-- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
-- [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
-- [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
-- [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.
-- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
-- [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
-- [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
-- [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
+## Archives
 - [TheTrove](https://thetrove.net/) :star2: The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
-- [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
-- [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
-- [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
-- [TheWarezFolder](http://thewarezfolder.com/) Fairly out of date categorised list of warez sites.
-- [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
-- [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
-- [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
-- [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
-- [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
-- [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
-- [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 - [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) An archive of all gilded /r/Piracy comments and threads.
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
-- [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
-- [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
-- [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
+
+## Serial Keys
+- [Serials.ws](http://www.serials.ws/) Serial keys for software that may or may not work.
+- [Smart Serials](https://smartserials.com/) Threat-Free Serial Keys Site
+
+## Useful Websites
 - [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
-- [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 - [Media Bias Fact Check](https://mediabiasfactcheck.com/) Check media bias on any website
 - [Just Delete Me](https://justdeleteme.xyz/) :star2: Directly go to the delete account page
-- [F Droid](https://f-droid.org/en/) :star2: Alternative to google play store
-- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) :star2: A better custom build of proton
+- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
+- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+- [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
+- [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
+- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+- [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
+
+## Miscellaneous
+
+- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
+- [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
+- [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
+- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
+- [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
+- [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
+- [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+- [TheWarezFolder](http://thewarezfolder.com/) Fairly out of date categorised list of warez sites.
+- [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
+- [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
+- [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+- [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
+- [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
+
 
 ## Game Engines
 - [Godot](https://godotengine.org/) :star2: An open source game engine that is very flexible
@@ -1713,6 +1743,13 @@ premium services
     > Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
     
 ### Ultimate Guide to Nintendo Piracy (NES->Wii U)
+
+### External Guides
+
+- [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
+- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
 
 
 ## XXX
