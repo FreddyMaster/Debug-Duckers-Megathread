@@ -176,7 +176,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ### Self-hosted VPNs
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [OpenVPN](https://openvpn.net/) :star2: ![FOSS](oss.svg) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
@@ -192,14 +192,14 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-- [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
+- [uBlock Origin](https://github.com/gorhill/uBlock) :star2: ![FOSS](oss.svg) An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: Universal Bypass automatically skips annoying link shorteners.
-- [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
+- [Violentmonkey](https://violentmonkey.github.io/) ![FOSS](oss.svg) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 - [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
@@ -231,9 +231,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
 
 ## Password Vaults
-- [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
+- [BitWarden](https://bitwarden.com/) :star2: ![FOSS](oss.svg) Open source password management solution, can be self-hosted
 - [1Password](https://1password.com/) Popular cloud-hosted password manager
-- [KeePass](https://keepass.info/) :star2: Free, open source, light-weight, and easy-to-use password manager.
+- [KeePass](https://keepass.info/) :star2: ![FOSS](oss.svg) Free, open source, light-weight, and easy-to-use password manager.
   - [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
   - Android: [Keepass2Android](https://github.com/PhilippC/keepass2android)
   - iPhone: [KeePassium](https://keepassium.com/)
@@ -242,10 +242,10 @@ You will notice some items on this list have a :star2: next to them. Items with 
   - Web App: [KeeWeb](https://keeweb.info/)
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
-- [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
-- [LessPass](https://lesspass.com/) Stateless open source password manager
-- [Psono](https://psono.com/) Open source and self-hosted password manager for teams
-- [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
+- [Passbolt](https://www.passbolt.com/) ![FOSS](oss.svg) Free, open source, self-hosted, extensible, OpenPGP based.
+- [LessPass](https://lesspass.com/) ![FOSS](oss.svg) Stateless open source password manager
+- [Psono](https://psono.com/) ![FOSS](oss.svg) Open source and self-hosted password manager for teams
+- [Buttercup](https://buttercup.pw/) ![FOSS](oss.svg) Another open source password manager with desktop, mobile, and browser clients.
 
 ## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
@@ -275,7 +275,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ProtonMail](https://protonmail.com/) :star2: Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
-- [Tutanota](https://tutanota.com/) Secure, open source email service
+- [Tutanota](https://tutanota.com/) ![FOSS](oss.svg) Secure, open source email service
 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
@@ -286,7 +286,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 - [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
 
-## Operating Systems
+## Operating Systems ![FOSS](oss.svg) 
 - [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 - [Arch Linux](archlinux.org/download) :star2: Popular opensource, rolling release OS
@@ -298,14 +298,14 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ## CLI Tools
 
-### Shells
+### Shells ![FOSS](oss.svg) 
 - [Bash](https://www.gnu.org/software/bash/) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
-- [Zsh](https://www.zsh.org/) :star2: A shell designed for interactive use, although it is also a powerful scripting language
+- [Zsh](https://www.zsh.org/) :star2:  A shell designed for interactive use, although it is also a powerful scripting language
 - [tclsh](https://tcl-lang.org/) is a very powerful cross-platform shell, suitable for a huge range of uses
-- [Fish](https://fishshell.com/) :star2: Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
+- [Fish](https://fishshell.com/) Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
 - [Ksh(Kornshell)](http://www.kornshell.com/) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
 
-### Shell Addons
+### Shell Addons ![FOSS](oss.svg) 
 - [Oh My ZSH!](https://ohmyz.sh/) :star2: The best framework for managing your Zsh configuration
 - [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) Same as above but, for the Fishshell framework
 - [Starship](https://github.com/starship/starship) The cross-shell prompt written in Rust
@@ -313,28 +313,28 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) :star2: Fish-like autosuggestions for Zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) :star2: Fish shell like syntax highlighting for Zsh.
 
-### File Managers
-- [Ranger](https://github.com/ranger/ranger) :star2: A VIM-inspired filemanager for the console
-- [Midnight Commander](https://midnight-commander.org/) A visual file manager, licensed under GNU General Public License
+### File Managers ![FOSS](oss.svg) 
+- [Ranger](https://github.com/ranger/ranger) :star2:  A VIM-inspired filemanager for the console
+- [Midnight Commander](https://midnight-commander.org/)  A visual file manager, licensed under GNU General Public License
 - [nnn](https://github.com/jarun/nnn) A tiny, lightning fast, feature-packed file manager
 
-### Text Editors
+### Text Editors ![FOSS](oss.svg) 
 - [Vi](http://ex-vi.sourceforge.net/) One of the most common text editors on Unix
-- [Vim](https://www.vim.org/) A highly configurable text editor
-- [Emacs](https://www.gnu.org/software/emacs/) An extensible, customizable, free/libre text editor, and more
-- [Neovim](https://neovim.io/) A free open source, powerful, extensible and usable code editor
-- [Spacemacs](https://www.spacemacs.org/) A community-driven Emacs distribution
-- [Spacevim](https://spacevim.org/) A community-driven vim distribution
+- [Vim](https://www.vim.org/)  A highly configurable text editor
+- [Emacs](https://www.gnu.org/software/emacs/)  An extensible, customizable, free/libre text editor, and more
+- [Neovim](https://neovim.io/)  A free open source, powerful, extensible and usable code editor
+- [Spacemacs](https://www.spacemacs.org/)  A community-driven Emacs distribution
+- [Spacevim](https://spacevim.org/)  A community-driven vim distribution
 
-### Terminal Emulators
+### Terminal Emulators ![FOSS](oss.svg) 
 - [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: A GPU based terminal emulator that supports smooth scrolling and images
 - [st](https://st.suckless.org/) st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
-- [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html) A customizable terminal emulator forked from rxvt
+- [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html)  A customizable terminal emulator forked from rxvt
 - [Alacritty](https://github.com/alacritty/alacritty) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
 - [Termite](https://github.com/thestinger/termite) Termite is a minimal VTE-based terminal emulator
 - [Terminator](https://gnome-terminator.org/) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
-### Terminal Tools
+### Terminal Tools![FOSS](oss.svg) 
 - [Auto Jump](https://github.com/wting/autojump) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
 - [Neofetch](https://github.com/dylanaraps/neofetch) A command-line system information tool written in bash 3.2+
 - [Archey](https://github.com/HorlogeSkynet/archey4) Archey is a simple system information tool written in Python
@@ -343,17 +343,17 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Exa](https://github.com/ogham/exa) Exa is a modern replacement for ls.
 - [Terminalizer](https://github.com/faressoft/terminalizer) Record your terminal and generate animated gif images or share a web player
 - [Gooey](https://github.com/chriskiehl/Gooey) Convert almost any python cli to a gui
-- [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+- [castnow](https://github.com/xat/castnow)  Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
 ### Youtube Tools
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 
 ### Compression Tools
-- [7-zip](https://www.7-zip.org/) :star2: Open source zip software
+- [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
 - [Winrar](https://www.rarlab.com/) Alternative to 7-zip
-- [Peazip](https://peazip.github.io/) Free and open source utility written in Lazarus / FreePascal
-- [Ark](https://github.com/KDE/ark) Ark is a graphical file compression/decompression utility with support for multiple formats
+- [Peazip](https://peazip.github.io/) ![FOSS](oss.svg) Free and open source utility written in Lazarus / FreePascal
+- [Ark](https://github.com/KDE/ark) ![FOSS](oss.svg) Ark is a graphical file compression/decompression utility with support for multiple formats
 
 ### Subreddits
 - [/r/Piracy](https://www.reddit.com/r/Piracy) Get guides, help, and resources for safe piracy
@@ -451,33 +451,32 @@ for any IP address.
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
 
 ### Torrent Clients
-- [qBitTorrent](https://www.qbittorrent.org/) :star2: Popular, lightweight, multi-platform torrent client
+- [qBitTorrent](https://www.qbittorrent.org/) :star2: ![FOSS](oss.svg) Popular, lightweight, multi-platform torrent client
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
-- [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
+- [Transmission](https://transmissionbt.com/) ![FOSS](oss.svg) Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
-- [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
+- [FrostWire](https://www.frostwire.com/) ![FOSS](oss.svg) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 - [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 - [RapidBay](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
 
-#### Deluge
-- [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+#### Deluge ![FOSS](oss.svg) 
+- [Deluge](https://www.deluge-torrent.org/) :star2: ![FOSS](oss.svg) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 - [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
-- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases)
-ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
+- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 - [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
 
-#### rTorrent
-- [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
-- [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
-- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) GitHub wiki for rTorrent
+#### rTorrent ![FOSS](oss.svg) 
+- [rTorrent](https://rakshasa.github.io/rtorrent/) (oss.svg) rTorrent is a text-based ncurses BitTorrent client written in C++
+- [ruTorrent](https://github.com/Novik/ruTorrent) ) Yet another web front-end for rTorrent
+- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki)  itHub wiki for rTorrent
 - [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
-- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
+- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) (oss.svg) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
@@ -491,7 +490,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
-- [Dplayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+- [Dplayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
 ### autodl-irssi
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
@@ -557,25 +556,25 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 ## Direct Downloads
 
 ### Download Managers
-- [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [JDownloader2](https://jdownloader.org/jdownloader2) :star2: ![FOSS](oss.svg) JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
 - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
-- [Persepolis](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
-- [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+- [Persepolis](https://github.com/persepolisdm/persepolis) ![FOSS](oss.svg) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
+- [pyLoad](https://pyload.net/) ![FOSS](oss.svg) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 - [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
-- [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
-- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
-- [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
+- [youtube-dl](https://youtube-dl.org/) :star2: ![FOSS](oss.svg) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) ![FOSS](oss.svg) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
+- [youtube-dl-helper](https://youtube-dl-helper.github.io/) ![FOSS](oss.svg) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
-- [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
+- [Leonflix](https://leonflix.net/) :star2: ![FOSS](oss.svg) A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
-- [megatools](https://github.com/megous/megatools) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+- [megatools](https://github.com/megous/megatools) ![FOSS](oss.svg) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
 - [netclix](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
 - [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
@@ -584,15 +583,15 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
 - [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
 - [axel](https://github.com/axel-download-accelerator/axel) light command line download accelerator
-- [uGet](https://ugetdm.com/) Open Source Download Manager
+- [uGet](https://ugetdm.com/) ![FOSS](oss.svg) Open Source Download Manager
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 - [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-- [wget](https://www.gnu.org/software/wget/) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+- [wget](https://www.gnu.org/software/wget/) ![FOSS](oss.svg) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) Beginner guide on how to use `wget`.
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
-- [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
+- [curl](https://en.wikipedia.org/wiki/CURL) ![FOSS](oss.svg) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 - [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
 
@@ -838,25 +837,25 @@ premium services
 ## Media Centre Applications
 - [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
-- [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
-- [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
+- [Kodi](https://kodi.tv/) ![FOSS](oss.svg) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
+- [OpenPHT](https://github.com/RasPlex/OpenPHT) ![FOSS](oss.svg) a community-driven fork of Plex Home Theater
 - [Viewscreen](https://github.com/viewscreen/viewscreen) a personal video streaming server
-- [Streama](https://github.com/streamaserver/streama) Self-hosted streaming media server.
-- [Myflix](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
-- [Stremio](https://www.stremio.com/) :star2: Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
+- [Streama](https://github.com/streamaserver/streama) ![FOSS](oss.svg) Self-hosted streaming media server.
+- [Myflix](https://github.com/pastapojken/Myflix) ![FOSS](oss.svg) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+- [Stremio](https://www.stremio.com/) :star2: ![FOSS](oss.svg) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
 - [Gerbera](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 - [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
-- [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+- [OSMC](https://osmc.tv/) ![FOSS](oss.svg) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
-- [jellyfin](https://github.com/jellyfin/jellyfin) :star2: An open-source fork of Emby
+- [jellyfin](https://github.com/jellyfin/jellyfin) :star2: ![FOSS](oss.svg) An open-source fork of Emby
 
 ## Video Clients
-- [MPV](https://mpv.io/) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
-- [VLC](https://www.videolan.org/vlc/) A poplular open source media player that supports a wide verriety of media file formats
-- [DPlayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+- [MPV](https://mpv.io/) ![FOSS](oss.svg) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
+- [VLC](https://www.videolan.org/vlc/) ![FOSS](oss.svg) A poplular open source media player that supports a wide verriety of media file formats
+- [DPlayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
-## Stremio
+## Stremio ![FOSS](oss.svg) 
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
 - [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
 - [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
@@ -950,7 +949,7 @@ premium services
 - [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
 - [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
-## Kodi
+## Kodi ![FOSS](oss.svg) 
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
 - [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) :star2: Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
 - [Recommended Addons - November 2019](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/) Latest working Kodi addons compiled into one place
@@ -990,14 +989,14 @@ premium services
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 - [Steam Advisor](http://steamadvisor.com/) Tells you the best games in your library to play
-- [Mango HUD](https://github.com/flightlessmango/MangoHud) :star2: Open source fraps
+- [Mango HUD](https://github.com/flightlessmango/MangoHud) :star2: ![FOSS](oss.svg) Open source fraps
 - [Free to Game](https://www.freetogame.com/) Find the best free games
-- [Magical Life](https://github.com/TBye101/MagicalLife) Open source clone Rimworld
-- [Uebergame](https://github.com/Duion/Uebergame) Another open source clone of Rimworld
-- [Athenaeum](https://gitlab.com/librebob/athenaeum) Open source games store like steam
-- [Pegasus Frontend](https://pegasus-frontend.org/) Front end for you games and your ROMs
+- [Magical Life](https://github.com/TBye101/MagicalLife) ![FOSS](oss.svg) Open source clone Rimworld
+- [Uebergame](https://github.com/Duion/Uebergame)![FOSS](oss.svg)  Another open source clone of Rimworld
+- [Athenaeum](https://gitlab.com/librebob/athenaeum) ![FOSS](oss.svg) Open source games store like steam
+- [Pegasus Frontend](https://pegasus-frontend.org/) ![FOSS](oss.svg) Front end for you games and your ROMs
 - [Epic Games Free Games](https://www.epicgames.com/store/en-US/download) :star2: Gives away free games every week (sometimes AAA too)
-- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) :star2: A better custom build of proton
+- [GE Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1) :star2: ![FOSS](oss.svg) A better custom build of proton
 
 ### Repacks
 - [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
@@ -1008,9 +1007,9 @@ premium services
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
-## Emulators
+## Emulators ![FOSS](oss.svg) 
 
-### Atari
+### Atari ![FOSS](oss.svg) 
 
 - [Stella - Atari 2600](https://github.com/stella-emu/stella) - A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
 - [Atari800 - Atari 800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
@@ -1020,17 +1019,17 @@ premium services
 - [Handy - Atari Lynx](https://sourceforge.net/projects/handy/files/) - "Handy" is an Atari Lynx Emulator
 - [Virtual Jaguar - Atari Jaguar](http://icculus.org/virtualjaguar/) - Virtual Jaguar is an open-source Atari Jaguar emulator.
 
-### Mattel
+### Mattel ![FOSS](oss.svg) 
 
 - [jzIntv - Intellivision](http://spatula-city.org/~im14u2c/intv/) - Mattel Intellivision emulator and development environment.
 
-### Microsoft
+### Microsoft ![FOSS](oss.svg) 
 
 - [XQemu - Xbox](https://github.com/xqemu/xqemu) - Open-source emulator to play original Xbox games on Windows, macOS, and Linux.
 - [CXBX-Reloaded - Xbox](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded) - An emulator for running Microsoft Xbox (and eventually, Chihiro) games on Microsoft Windows.
 - [Xenia - Xbox 360](https://github.com/xenia-project) - An open source research project for emulating Xbox 360 games on modern PCs.
 
-### Multisystem
+### Multisystem ![FOSS](oss.svg) 
 
 - [FinalBurn Neo - Multisystem](https://github.com/finalburnneo/FBNeo) - An emulator for arcade games & select consoles.
 - [Higan - Multisystem](https://gitlab.com/higan/higan) - Emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
@@ -1039,7 +1038,7 @@ premium services
 - [Genesis-Plus-GX - Multisystem](https://github.com/ekeeke/Genesis-Plus-GX) - An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator. Emulates the all SEGA 8-bit and 16-bit consoles.
 - [Xe - Multisystem](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe) - A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
 
-### Nintendo
+### Nintendo ![FOSS](oss.svg) 
 
 - [Gambatte - Gameboy / Gameboy Color](https://github.com/sinamas/gambatte) - Is a work-in-progress and portable Game Boy Color emulator.
 - [GearBoy - Gameboy / Gameboy Color](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
@@ -1074,7 +1073,7 @@ premium services
 - [Yuzu - Switch](https://github.com/yuzu-emu/yuzu) - :star2: Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
 - [Decaf - Wii U](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 
-### SEGA
+### SEGA ![FOSS](oss.svg) 
 
 - [flycast - Dreamcast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator
 - [lxdream - Dreamcast](https://github.com/lxdream/lxdream) - An emulator for the Sega Dreamcast system, running on Linux and macOS.
@@ -1088,7 +1087,7 @@ premium services
 - [Yabause - Saturn](https://yabause.org/download) - Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
 - [Yaba Sanshiro - Saturn](https://github.com/devmiyax/yabause) - Fork of the original Yabause Sega Saturn emulator.
 
-### Sony
+### Sony ![FOSS](oss.svg) 
 
 - [Avocado - PSX](https://github.com/JaCzekanski/Avocado) - A Modern Playstation 1 emulator.
 - [hpsx64 - PSX](https://sourceforge.net/projects/hpsx64/files) - Highly-Experimental Playstation Simulator x64.
@@ -1147,11 +1146,11 @@ premium services
 - [MOOVAL](https://www.mooval.de/) Easily move your playlists, tracks, and likes from one streaming service to another.
 - [Madsonic](https://www.madsonic.org/) Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
-- [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
-- [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [airsonic](https://airsonic.github.io/) ![FOSS](oss.svg) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+- [Beets](http://beets.io/) ![FOSS](oss.svg) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
-- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
-- [Nuclear Music Player](https://nuclear.js.org/) Music client that streams froms multiple sources
+- [LibreSonic](https://github.com/Libresonic/libresonic) ![FOSS](oss.svg) Media streaming software
+- [Nuclear Music Player](https://nuclear.js.org/) ![FOSS](oss.svg) Music client that streams froms multiple sources
 
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
@@ -1188,7 +1187,7 @@ premium services
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
-- [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+- [Downtify](https://github.com/eviabs/downtify-premium) ![FOSS](oss.svg) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
 
 ### iTunes
 - [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
@@ -1210,23 +1209,23 @@ premium services
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
 - [Photokaaran](http://photokaaran.com/) Indian site with direct download links of cracked productivity tools.
-- [Legendary(CLI)](https://github.com/derrod/legendary) Native epic games laucher for linux
-- [Heroic Games Launcher(GUI)](https://github.com/flavioislima/HeroicGamesLauncher) :star2: Gui for legendary(cli) with added features
-- [Lutris](https://lutris.net/downloads) :star2: Community installers for wine games and emulators for linux
-- [Playnite](https://playnite.link/download.html) Video game library manager for windows
-- [Element(Matrix)](https://element.io/) Popular matrix client
+- [Legendary(CLI)](https://github.com/derrod/legendary) ![FOSS](oss.svg) Native epic games laucher for linux
+- [Heroic Games Launcher(GUI)](https://github.com/flavioislima/HeroicGamesLauncher) :star2: ![FOSS](oss.svg) Gui for legendary(cli) with added features
+- [Lutris](https://lutris.net/downloads) :star2: ![FOSS](oss.svg) Community installers for wine games and emulators for linux
+- [Playnite](https://playnite.link/download.html) ![FOSS](oss.svg) Video game library manager for windows
+- [Element(Matrix)](https://element.io/) ![FOSS](oss.svg) Popular matrix client
 - [Discord](discord.com/download) Popular chatting service
 - [Steam](https://steamcommunity.com/) :star2: Popular online game service
 - [Gog Galaxy](https://www.gog.com/galaxy) :star2: GOG GALAXY 2.0 - all your games and friends in one place
-- [Mini Galaxy](https://sharkwouter.github.io/minigalaxy/) Native gog client for linux
-- [VS Codium](https://vscodium.com/) Fork of VSCode without the telemetry
-- [Libre Wolf](https://librewolf-community.gitlab.io/) A fork of Firefox without the bad management
-- [Virtual Richard Stalman](https://github.com/orospakr/vrms-arch) Richard Stalman tells you if you are downloading a non open source package
-- [Libre Sprite](https://github.com/LibreSprite/LibreSprite) Open source aseprite
-- [Edex-ui](https://github.com/GitSquared/edex-ui) Tony Stark Interface for linux
-- [Linux Dash](https://github.com/afaqurk/linux-dash) Linux dashboard online
+- [Mini Galaxy](https://sharkwouter.github.io/minigalaxy/) ![FOSS](oss.svg) Native gog client for linux
+- [VS Codium](https://vscodium.com/) ![FOSS](oss.svg) Fork of VSCode without the telemetry
+- [Libre Wolf](https://librewolf-community.gitlab.io/) ![FOSS](oss.svg) A fork of Firefox without the bad management
+- [Virtual Richard Stalman](https://github.com/orospakr/vrms-arch) ![FOSS](oss.svg) Richard Stalman tells you if you are downloading a non open source package
+- [Libre Sprite](https://github.com/LibreSprite/LibreSprite) ![FOSS](oss.svg) Open source aseprite
+- [Edex-ui](https://github.com/GitSquared/edex-ui) ![FOSS](oss.svg) Tony Stark Interface for linux
+- [Linux Dash](https://github.com/afaqurk/linux-dash) ![FOSS](oss.svg) Linux dashboard online
 - [Patch My PC](https://patchmypc.com/home-updater-download) :star2: Keep everything on your pc up to date at once
-- [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) Spotlight for Windows - Better/Faster Search
+- [Wox](https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129) ![FOSS](oss.svg) Spotlight for Windows - Better/Faster Search
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
 
@@ -1276,7 +1275,7 @@ premium services
 
 ## Textbooks
 - [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
-- [it-ebooks](http://it-ebooks.info) Large selection of free and open-source IT ebooks
+- [it-ebooks](http://it-ebooks.info) ![FOSS](oss.svg) Large selection of free and open-source IT ebooks
 - [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
 - [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!"
 - [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) Extensive tutorial by /u/Amosqu
@@ -1347,28 +1346,28 @@ premium services
 
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
-- [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
-- [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
-- [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [Pulsarr](https://github.com/roboticsound/Pulsarr) ![FOSS](oss.svg) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [Bonarr](https://github.com/klassicstudios/Bonarr) ![FOSS](oss.svg) A fork of Radarr to work with porn.
+- [traktarr](https://github.com/l3uddz/traktarr) ![FOSS](oss.svg) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Mylar](https://github.com/evilhero/mylar) ![FOSS](oss.svg) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
+- [LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) ![FOSS](oss.svg) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
 - [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
-- [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
+- [Nefarious](https://lardbit.github.io/nefarious/) ![FOSS](oss.svg) Nefarious is a web application that helps you download movies and TV shows.
 
 ### TV Automation
-- [Sonarr](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
+- [Sonarr](https://github.com/Sonarr/Sonarr) :star2: ![FOSS](oss.svg) Smart PVR for newsgroup and BitTorrent users.
 - [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
 - [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
 - [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-- [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
+- [Medusa](https://pymedusa.com/) ![FOSS](oss.svg) Automatic Video Library Manager for TV Shows.
 
 ### Movie Automation
-- [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
-- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
-- [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [Radarr](https://radarr.video/) :star2: ![FOSS](oss.svg) A fork of Sonarr to work with movies à la Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) ![FOSS](oss.svg) Syncs two Radarr servers through web API.
+- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) ![FOSS](oss.svg) Automatic Movie Downloading via NZBs & Torrents
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) ![FOSS](oss.svg) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Music Automation
 - [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
@@ -1376,11 +1375,11 @@ premium services
 - [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
 
 ### Subtitles Automation
-- [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-- [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
-- [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
+- [Bazarr](https://github.com/morpheus65535/bazarr) ![FOSS](oss.svg) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [autosub](https://github.com/agermanidis/autosub) ![FOSS](oss.svg) Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) ![FOSS](oss.svg) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+- [subsync](https://github.com/smacke/subsync) ![FOSS](oss.svg) Automagically synchronize subtitles with the video.
+- [vlsub](https://github.com/exebetche/vlsub) ![FOSS](oss.svg)  VLC extension to download subtitles from opensubtitles.org
 
 ## P2P Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file-sharing network
@@ -1392,9 +1391,9 @@ premium services
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
 
 ## Ripping, Transcoding, Converting, Encoding
-- [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [Handbrake](https://handbrake.fr/) :star2: ![FOSS](oss.svg) HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere.
-- [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
+- [ffmpeg](https://ffmpeg.org/) ![FOSS](oss.svg) A complete, cross-platform solution to record, convert and stream audio and video.
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
@@ -1403,8 +1402,8 @@ premium services
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
-- [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
-- [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
+- [rclone](https://rclone.org/) :star2: ![FOSS](oss.svg) "rsync for cloud storage"
+- [plexdrive](https://github.com/dweidenfeld/plexdrive) ![FOSS](oss.svg) mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
 - [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
 - [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
@@ -1420,7 +1419,7 @@ premium services
 - [MediaMonkey](https://www.mediamonkey.com/) Manage a movie/music library from 100 to 100,000+ audio/video files and playlists
 - [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
-- [Beets](https://github.com/beetbox/beets) beets is a music library manager
+- [Beets](https://github.com/beetbox/beets)![FOSS](oss.svg)  beets is a music library manager
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
@@ -1428,8 +1427,8 @@ premium services
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
 
 ## Mobile Apps
-- [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
-- [NewPipe](https://newpipe.schabi.org/) :star2: The original YouTube experience without annoying ads and questionable permissions
+- [AdAway](https://adaway.org/) ![FOSS](oss.svg) An open-source ad blocker for Android using the hosts file. It needs ROOT access
+- [NewPipe](https://newpipe.schabi.org/) :star2: ![FOSS](oss.svg) The original YouTube experience without annoying ads and questionable permissions
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
@@ -1438,7 +1437,7 @@ premium services
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
 - [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) ![FOSS](oss.svg) Tachiyomi is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
@@ -1446,9 +1445,9 @@ premium services
 - [nzbUnity](https://nzbunity.dozenzb.com/) iOS app for managing your favourite NZB applications
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
 - [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
-- [YouTube Vanced](https://vanced.app/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
-- [Lemudroid](https://github.com/Swordfish90/Lemuroid) An open source multi-system emulator for the phone
-- [Vigilante](https://github.com/FunkyMuse/Vigilante) Tells you when your camera or microphone is being used by an app
+- [YouTube Vanced](https://vanced.app/) ![FOSS](oss.svg) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [Lemudroid](https://github.com/Swordfish90/Lemuroid) ![FOSS](oss.svg) An open source multi-system emulator for the phone
+- [Vigilante](https://github.com/FunkyMuse/Vigilante) ![FOSS](oss.svg)  Tells you when your camera or microphone is being used by an app
 
 ### Streaming Apps
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
@@ -1474,15 +1473,15 @@ premium services
 ### Torrent Apps
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
-- [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open-source torrent client for Android phone, tablet, Chromebook, & Android TV
-- [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
+- [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) ![FOSS](oss.svg) Free, open-source torrent client for Android phone, tablet, Chromebook, & Android TV
+- [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) ![FOSS](oss.svg) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
 - [Trireme](https://www.f-droid.org/en/packages/org.deluge.trireme/) Use this app to connect and manage your Deluge Daemon.
 
 ### APKs
 - [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
-- [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+- [F-Droid](https://f-droid.org/fr/) ![FOSS](oss.svg) An installable catalogue of FOSS (Free and Open Source Software) Android applications
 - [Yalp Store](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
 - [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
 - [On HAX](https://onhax.me/) APK mirrors
@@ -1495,7 +1494,7 @@ premium services
 - [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on Reddit."
 - [/r/moddedandroidapps](https://www.reddit.com/r/moddedandroidapps) Modded Android app releases subreddit.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
-- [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
+- [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) ![FOSS](oss.svg) An open-source alternative for the Google Play Store.
 - [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
 
 ## Discord Servers
@@ -1518,7 +1517,7 @@ premium services
 - [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers
 - [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
 - [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
-- [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
+- [MythTV](https://www.mythtv.org/) ![FOSS](oss.svg) Free Open Source software digital video recorder
 - [allsprk.tv](https://stream.allsprk.tv) A channel-hoppable live streaming site with a chat room
 - [UlstreaMix](https://ssl.ustreamix.com/) Live TV streaming site, predominantly sports
 - [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allows you to create, edit and sort m3u playlists online.
@@ -1636,8 +1635,8 @@ premium services
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ## DNS Tools
-- [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
-- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+- [netflix-proxy](https://github.com/ab77/netflix-proxy/) ![FOSS](oss.svg) Smart DNS proxy to watch Netflix out-of-region
+- [Pi-hole](https://pi-hole.net/) :star2: ![FOSS](oss.svg) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
@@ -1711,15 +1710,15 @@ premium services
 
 
 ## Game Engines
-- [Godot](https://godotengine.org/) :star2: An open source game engine that is very flexible
+- [Godot](https://godotengine.org/) :star2: ![FOSS](oss.svg) An open source game engine that is very flexible
 - [CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
 - [Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
 - [Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
 - [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) :star2:  A popular game engine used to make many AAA games all for free
-- [Armory (Blender)](https://armory3d.org/download.html) An open source game engine made by the blender team
+- [Armory (Blender)](https://armory3d.org/download.html) ![FOSS](oss.svg) An open source game engine made by the blender team
 - [Defold](https://defold.com/download/) The game engine used to make the games made by king
-- [GDevelop](https://gdevelop-app.com/) Create your own games with an open source game creator with no programming needed
-- [Stride](https://stride3d.net/) Stride is an open-source MIT C# game engine designed for the future of gaming.
+- [GDevelop](https://gdevelop-app.com/) ![FOSS](oss.svg) Create your own games with an open source game creator with no programming needed
+- [Stride](https://stride3d.net/) ![FOSS](oss.svg) Stride is an open-source MIT C# game engine designed for the future of gaming.
 
 ## Guides
 
