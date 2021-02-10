@@ -1742,6 +1742,7 @@ premium services
     > Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
     
 ### Ultimate Guide to Nintendo Piracy (NES->Wii U)
+- [Click Here](https://github.com/FreddyMaster/Debug-Duckers-Megathread/blob/main/The%20Ultimate%20Guide%20to%20Nintendo%20Piracy%20(NES%20-%20Wii%20U)%20FreeMelee%20Piracy.md)
 
 ### External Guides
 
