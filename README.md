@@ -193,11 +193,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
 - [Pale Moon](https://www.palemoon.org/) ![FOSS](oss.svg) An older fork of firefox to be independant of Mozilla
 - [Libre Wolf](https://librewolf-community.gitlab.io/) ![FOSS](oss.svg) A fork of firefox where they take out all the telemetry and add adblockers with privacy in mind
-- [Qutebrowser](https://www.qutebrowser.org/) ![FOSS](oss.svg) A lightweight,vim-based browser with a keyboard based interface
+- [Qutebrowser](https://www.qutebrowser.org/) ![FOSS](oss.svg) A lightweight, vim-based browser with a keyboard based interface
 - [Chromium](https://www.chromium.org/getting-involved/download-chromium) ![FOSS](oss.svg) A very popular framework for modern browsers made by google
 - [Degoogled Chromium](https://github.com/Eloston/ungoogled-chromium) :star2: ![FOSS](oss.svg) A lightweight approach to removing Google web service dependency from Chromium
 - [Brave](https://brave.com/) :star2: ![FOSS](oss.svg) Polished free and open source browser that blocks ads, trackers and generates cryptcurrency as you browse to give back to your favorite creators
-- [Dissenter](https://dissenter.com/) ![FOSS](oss.svg) Fork of the Brave browser made more lightweight a free 
+- [Dissenter](https://dissenter.com/) ![FOSS](oss.svg) Fork of the Brave browser made more lightweight and free speach centric
 - [Vivaldi](https://vivaldi.com/) A proprietary web browser made my the original creators of the opera browser
 
 
