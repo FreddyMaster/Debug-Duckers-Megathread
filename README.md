@@ -198,15 +198,15 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
-- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: Universal Bypass automatically skips annoying link shorteners.
+- [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: ![FOSS](oss.svg) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) ![FOSS](oss.svg) An open-source userscript manager.
-- [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
-- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+- [Anti-Paywall](https://github.com/nextgens/anti-paywall) ![FOSS](oss.svg) A browser extension that maximizes the chances of bypassing paywalls
+- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) ![FOSS](oss.svg) Uncensor google search results.
 - [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
 - [Media Reaper](https://sasrip.cf/) :star2: Download videos from any website 
-- [crx4](https://www.crx4chrome.com/) Alternative to chrome web store
-- [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) Stops website from preventing copy and paste
-- [Night Tab](https://github.com/zombieFox/nightTab) Customizable new tab page
+- [crx4](https://www.crx4chrome.com/) ![FOSS](oss.svg) Alternative to chrome web store
+- [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) ![FOSS](oss.svg) Stops website from preventing copy and paste
+- [Night Tab](https://github.com/zombieFox/nightTab) ![FOSS](oss.svg) Customizable new tab page
 - [Clickbait Remover](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/) Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
 - [Happidia](https://github.com/Ademking/happydia) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
 - [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) Bypass hCaptcha
@@ -272,13 +272,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 ## Email
-- [ProtonMail](https://protonmail.com/) :star2: Secure Email Based in Switzerland
+- [ProtonMail](https://protonmail.com/) :star2: ![FOSS](oss.svg) Secure Email Based in Switzerland
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) ![FOSS](oss.svg) Secure, open source email service
 
-## Decentralised Networks
-- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
+## Decentralised Networks ![FOSS](oss.svg) 
+- [Tor](https://www.torproject.org/) :star2:Tor is free software and an open network that helps you defend against traffic analysis.
 - [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
 - [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
@@ -345,7 +345,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Gooey](https://github.com/chriskiehl/Gooey) Convert almost any python cli to a gui
 - [castnow](https://github.com/xat/castnow)  Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
-### Youtube Tools
+### Youtube Tools ![FOSS](oss.svg) 
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 
@@ -380,12 +380,12 @@ for any IP address.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
 - [xbit](https://xbit.pw) Magnet link repository
-- [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
+- [torrents.csv](https://gitlab.com/dessalines/torrents.csv) ![FOSS](oss.svg) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
 - [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
-- [mktorrent](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
+- [mktorrent](https://github.com/Rudde/mktorrent) ![FOSS](oss.svg) mktorrent is a simple command line utility to create BitTorrent metainfo files.
 - [Torrent Paradise](https://torrent-paradise.ml/) IPFS-based decentralised torrent search engine.
 - [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
-- [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
+- [magnetico](https://github.com/boramalper/magnetico) ![FOSS](oss.svg) Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
@@ -409,7 +409,7 @@ for any IP address.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
 - [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
-- [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+- [trackerslist](https://github.com/ngosang/trackerslist) ![FOSS](oss.svg) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
@@ -434,11 +434,11 @@ for any IP address.
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
-- [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
+- [rats-search](https://github.com/DEgITx/rats-search) ![FOSS](oss.svg) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
 - [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
 
-### Tracker Proxies
+### Tracker Proxies ![FOSS](oss.svg) 
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
@@ -455,15 +455,15 @@ for any IP address.
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) ![FOSS](oss.svg) Default torrent client in many distros.
-- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
-- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
+- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) ![FOSS](oss.svg) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+- [Butter Project](http://butterproject.org/) ![FOSS](oss.svg) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) ![FOSS](oss.svg) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
-- [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
-- [RapidBay](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
-- [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
+- [peerflix](https://github.com/mafintosh/peerflix) ![FOSS](oss.svg) Streaming torrent client for node.js
+- [RapidBay](https://github.com/hauxir/rapidbay) ![FOSS](oss.svg) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
+- [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) ![FOSS](oss.svg) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
 
 #### Deluge ![FOSS](oss.svg) 
 - [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
@@ -492,13 +492,13 @@ for any IP address.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
 - [Dplayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
-### autodl-irssi
+### autodl-irssi ![FOSS](oss.svg) 
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
 - [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
 
-### Tracker Frameworks
+### Tracker Frameworks ![FOSS](oss.svg) 
 - [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 - [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
@@ -578,10 +578,10 @@ for any IP address.
 - [netclix](https://github.com/ston3o/netclix) ![FOSS](oss.svg) A simple CLI tool to get movie streaming premium links from VodLocker's API
 - [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
-- [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
-- [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
-- [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
-- [axel](https://github.com/axel-download-accelerator/axel) light command line download accelerator
+- [annie](https://github.com/iawia002/annie) ![FOSS](oss.svg) Fast, simple and clean video downloader
+- [aria2](https://aria2.github.io/) ![FOSS](oss.svg) a lightweight multi-protocol & multi-source command-line download utility.
+- [Persepolis](https://persepolisdm.github.io/) ![FOSS](oss.svg) Front-end for aria2.
+- [axel](https://github.com/axel-download-accelerator/axel) ![FOSS](oss.svg) light command line download accelerator
 - [uGet](https://ugetdm.com/) ![FOSS](oss.svg) Open Source Download Manager
 - [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
 - [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
@@ -592,7 +592,7 @@ for any IP address.
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 - [curl](https://en.wikipedia.org/wiki/CURL) ![FOSS](oss.svg) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
-- [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
+- [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) ![FOSS](oss.svg) Unlimited downloading from Mega.nz with IDM.
 
 ### Custom Google Search Engines
 - These all do the same thing:
@@ -1398,14 +1398,14 @@ premium services
 - [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
 
 ## Cloud Storage
-- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
+- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) ![FOSS](oss.svg) FUSE filesystem over Google Drive
 - [rclone](https://rclone.org/) :star2: ![FOSS](oss.svg) "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) ![FOSS](oss.svg) mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
 - [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
 - [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
 - [RcloneBrowser](https://martins.ninja/RcloneBrowser/) Simple cross-platform GUI for rclone
-- [UDS](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
+- [UDS](https://github.com/stewartmcgown/uds) ![FOSS](oss.svg) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) Regularly updated table of information about top cloud storage providers.
 
@@ -1627,13 +1627,13 @@ premium services
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
-## Proxy Sites
+## Proxy Sites ![FOSS](oss.svg) 
 - [Unblocked](https://unblocked-pw.github.io/) :star2: a Proxy site for accessing your favorite blocked sites
 - [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
-## DNS Tools
-- [netflix-proxy](https://github.com/ab77/netflix-proxy/) ![FOSS](oss.svg) Smart DNS proxy to watch Netflix out-of-region
-- [Pi-hole](https://pi-hole.net/) :star2: ![FOSS](oss.svg) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+## DNS Tools ![FOSS](oss.svg) 
+- [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
+- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
@@ -1710,7 +1710,7 @@ premium services
 - [Godot](https://godotengine.org/) :star2: ![FOSS](oss.svg) An open source game engine that is very flexible
 - [CryEngine 3](https://www.cryengine.com/) A popular game engine used to make games such as crysis
 - [Unity](https://store.unity.com/#plans-individual) A very popular game engine used to make many indie games
-- [Luberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
+- [Lumberyard](https://aws.amazon.com/lumberyard/downloads/) A newer game engine made by Amazon
 - [Unreal Engine 4](https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true) :star2:  A popular game engine used to make many AAA games all for free
 - [Armory (Blender)](https://armory3d.org/download.html) ![FOSS](oss.svg) An open source game engine made by the blender team
 - [Defold](https://defold.com/download/) The game engine used to make the games made by king
