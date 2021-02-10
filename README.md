@@ -166,17 +166,17 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-- [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
-- [ProtonVPN](https://protonvpn.com/) :star2: High-speed Swiss VPN that safeguards your privacy.
+- [Private Internet Access](https://www.privateinternetaccess.com/) ![FOSS](oss.svg) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [Mullvad](https://mullvad.net/en/) :star2: ![FOSS](oss.svg) A Bitcoin-friendly, privacy-first VPN.
+- [ProtonVPN](https://protonvpn.com/) ![FOSS](oss.svg) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) :star2: VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
-### Self-hosted VPNs
+### Self-hosted VPNs ![FOSS](oss.svg) 
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: ![FOSS](oss.svg) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
 - [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
 - [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
@@ -189,29 +189,29 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browser Extensions
-- [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
-- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
+- [Decentraleyes](https://decentraleyes.org/) ![FOSS](oss.svg) Protects against tracking with a local CDN (Content Delivery Network) emulation.
+- [Privacy Badger](https://www.eff.org/privacybadger) ![FOSS](oss.svg) Privacy Badger blocks spying ads and invisible trackers.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) ![FOSS](oss.svg) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: ![FOSS](oss.svg) An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
-- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
-- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) ![FOSS](oss.svg) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) ![FOSS](oss.svg) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
+- [NoScript](https://noscript.net/getit) ![FOSS](oss.svg) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 - [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: ![FOSS](oss.svg) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) ![FOSS](oss.svg) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) ![FOSS](oss.svg) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) ![FOSS](oss.svg) Uncensor google search results.
-- [AdNauseam](https://adnauseam.io/) Ad blocker that cant be detected by anti adblock
-- [Media Reaper](https://sasrip.cf/) :star2: Download videos from any website 
+- [AdNauseam](https://adnauseam.io/) ![FOSS](oss.svg) Ad blocker that cant be detected by anti adblock
+- [Media Reaper](https://sasrip.cf/) :star2: ![FOSS](oss.svg) Download videos from any website 
 - [crx4](https://www.crx4chrome.com/) ![FOSS](oss.svg) Alternative to chrome web store
 - [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) ![FOSS](oss.svg) Stops website from preventing copy and paste
 - [Night Tab](https://github.com/zombieFox/nightTab) ![FOSS](oss.svg) Customizable new tab page
-- [Clickbait Remover](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/) Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
-- [Happidia](https://github.com/Ademking/happydia) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
-- [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) Bypass hCaptcha
+- [Clickbait Remover](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/) ![FOSS](oss.svg) Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
+- [Happidia](https://github.com/Ademking/happydia) ![FOSS](oss.svg) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
+- [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) ![FOSS](oss.svg) Bypass hCaptcha
 
-## Userscripts
+## Userscripts ![FOSS](oss.svg) 
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
@@ -240,7 +240,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
   - Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
   - Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
   - Web App: [KeeWeb](https://keeweb.info/)
-- [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Pass](https://www.passwordstore.org/) ![FOSS](oss.svg) Simple GPG/Git password manager. Follows the Unix philosophy.
 - [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
 - [Passbolt](https://www.passbolt.com/) ![FOSS](oss.svg) Free, open source, self-hosted, extensible, OpenPGP based.
 - [LessPass](https://lesspass.com/) ![FOSS](oss.svg) Stateless open source password manager
@@ -256,9 +256,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Privacy
 - [Prism Break](https://prism-break.org/en/) :star2: Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
-- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) ![FOSS](oss.svg) A privacy-focused keyboard
 - [Privacy Suggestions](https://www.privacytools.io/) Best place to find privacy-focused products
-- [Check For Data Breaches](https://haveibeenpwned.com/) Searches a database of security breaches to see if you were attacked
+- [Check For Data Breaches](https://haveibeenpwned.com/) ![FOSS](oss.svg) Searches a database of security breaches to see if you were attacked
 - [De-google](https://www.reddit.com/r/privacy/wiki/de-google) De-google your life
 
 ### Windows 10 Privacy
@@ -459,7 +459,7 @@ for any IP address.
 - [Butter Project](http://butterproject.org/) ![FOSS](oss.svg) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
 - [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
-- [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
+- [PicoTorrent](https://picotorrent.org/) ![FOSS](oss.svg) A lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) ![FOSS](oss.svg) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 - [peerflix](https://github.com/mafintosh/peerflix) ![FOSS](oss.svg) Streaming torrent client for node.js
 - [RapidBay](https://github.com/hauxir/rapidbay) ![FOSS](oss.svg) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
