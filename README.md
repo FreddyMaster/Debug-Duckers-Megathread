@@ -174,20 +174,20 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
-### Self-hosted VPNs ![FOSS](oss.svg) 
-- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
-- [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
-- [Nebula](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
-- [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
-- [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
-- [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
-- [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
-- [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
-- [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
-- [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
-- [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+### Self-hosted VPNs 
+- [n2n](https://github.com/ntop/n2n) ![FOSS](oss.svg) Peer-to-peer VPN
+- [PeerVPN](https://peervpn.net/) ![FOSS](oss.svg) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
+- [OpenVPN](https://openvpn.net/) :star2: ![FOSS](oss.svg) OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [Nebula](https://github.com/slackhq/nebula) ![FOSS](oss.svg) A scalable overlay networking tool with a focus on performance, simplicity and security
+- [Pritunl](https://pritunl.com/) ![FOSS](oss.svg) Enterprise Distributed OpenVPN and IPsec Server
+- [WireGuard VPN](https://www.wireguard.com/) ![FOSS](oss.svg) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [sshuttle](https://github.com/sshuttle/sshuttle) ![FOSS](oss.svg) Transparent proxy server that works as a poor man's VPN.
+- [ZeroTier](https://www.zerotier.com) ![FOSS](oss.svg) Peer-to-peer multi-platform VPN
+- [Outline by Alphabet](https://www.getoutline.org/) ![FOSS](oss.svg) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
+- [Mysterium Network](https://mysterium.network/) ![FOSS](oss.svg) Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
+- [tinc](https://tinc-vpn.org/) ![FOSS](oss.svg) Peer-to-peer VPN software with mesh routing.
+- [OpenConnect](https://www.infradead.org/openconnect/) ![FOSS](oss.svg) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
+- [Shadowsocks](https://shadowsocks.org/) ![FOSS](oss.svg) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
@@ -224,24 +224,24 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Happidia](https://github.com/Ademking/happydia) ![FOSS](oss.svg) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
 - [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) ![FOSS](oss.svg) Bypass hCaptcha
 
-## Userscripts ![FOSS](oss.svg) 
-- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
-- [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
-- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
-- [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypasses it.
-- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
-- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
-- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
-- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
-- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
-- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
-- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
-- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
-- [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
-- [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
+## Userscripts
+- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) ![FOSS](oss.svg) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
+- [AdsBypasser](https://adsbypasser.github.io/) ![FOSS](oss.svg) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
+- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) ![FOSS](oss.svg) Remove forced download accelerators, managers, and adware on supported websites
+- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) ![FOSS](oss.svg) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
+- [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) ![FOSS](oss.svg) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
+- [openload](https://greasyfork.org/en/scripts/17665-openload) ![FOSS](oss.svg) Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) ![FOSS](oss.svg) some websites prevent you from copying text. this script bypasses it.
+- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) ![FOSS](oss.svg) Add magnet link to torrentz2
+- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) ![FOSS](oss.svg) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
+- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) ![FOSS](oss.svg) Direct link functionality for Google Drive
+- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) ![FOSS](oss.svg) Redirect Google reCAPTCHA to a new search window.
+- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) ![FOSS](oss.svg) Add "View Image" button.
+- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) ![FOSS](oss.svg) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
+- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) ![FOSS](oss.svg) Integrates MyAnimeList into various sites, with auto episode tracking.
+- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) ![FOSS](oss.svg) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
+- [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) ![FOSS](oss.svg) For use with CreamAPI and similar tools.
+- [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) ![FOSS](oss.svg) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
 
 ## Password Vaults
 - [BitWarden](https://bitwarden.com/) :star2: ![FOSS](oss.svg) Open source password management solution, can be self-hosted
@@ -290,77 +290,77 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) ![FOSS](oss.svg) Secure, open source email service
 
-## Decentralised Networks ![FOSS](oss.svg) 
-- [Tor](https://www.torproject.org/) :star2:Tor is free software and an open network that helps you defend against traffic analysis.
-- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
-- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
-- [Loki](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-- [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
-- [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
+## Decentralised Networks
+- [Tor](https://www.torproject.org/) :star2: ![FOSS](oss.svg) Tor is free software and an open network that helps you defend against traffic analysis.
+- [I2P](https://geti2p.net/en/) ![FOSS](oss.svg) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+- [Freenet](https://freenetproject.org) ![FOSS](oss.svg) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+- [Zeronet](https://zeronet.io/) ![FOSS](oss.svg) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+- [Loki](https://github.com/loki-project/loki-network) ![FOSS](oss.svg) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+- [IPFS](https://ipfs.io/) ![FOSS](oss.svg) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [Yggdrasil](https://yggdrasil-network.github.io/about.html) ![FOSS](oss.svg) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
 
-## Operating Systems ![FOSS](oss.svg) 
-- [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
-- [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
-- [Arch Linux](archlinux.org/download) :star2: Popular opensource, rolling release OS
-- [Archfi](https://github.com/MatMoul/archfi) fully customizable arch linux installler
-- [Anarchy Linux](https://anarchyinstaller.org/) Another instllaer for arch linux
-- [Arch Craft](https://archcraft-os.github.io/) Craft your own arch linux installation
-- [Zen Instller](https://sourceforge.net/projects/revenge-installer/) Another installer for arch linux
-- [Manjaro](https://manjaro.org/download/) A distro based on arch linux making it easy to get people into linux
+## Operating Systems
+- [Qubes OS](https://www.qubes-os.org/) ![FOSS](oss.svg) Qubes OS is a security-oriented operating system
+- [Tails](https://tails.boum.org/) ![FOSS](oss.svg) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+- [Arch Linux](archlinux.org/download) :star2: ![FOSS](oss.svg) Popular opensource, rolling release OS
+- [Archfi](https://github.com/MatMoul/archfi) ![FOSS](oss.svg) fully customizable arch linux installler
+- [Anarchy Linux](https://anarchyinstaller.org/) ![FOSS](oss.svg) Another instllaer for arch linux
+- [Arch Craft](https://archcraft-os.github.io/) ![FOSS](oss.svg) Craft your own arch linux installation
+- [Zen Instller](https://sourceforge.net/projects/revenge-installer/) ![FOSS](oss.svg) Another installer for arch linux
+- [Manjaro](https://manjaro.org/download/) ![FOSS](oss.svg) A distro based on arch linux making it easy to get people into linux
 
 ## CLI Tools
 
-### Shells ![FOSS](oss.svg) 
-- [Bash](https://www.gnu.org/software/bash/) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
-- [Zsh](https://www.zsh.org/) :star2:  A shell designed for interactive use, although it is also a powerful scripting language
-- [tclsh](https://tcl-lang.org/) is a very powerful cross-platform shell, suitable for a huge range of uses
-- [Fish](https://fishshell.com/) Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
-- [Ksh(Kornshell)](http://www.kornshell.com/) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
+### Shells
+- [Bash](https://www.gnu.org/software/bash/) ![FOSS](oss.svg) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
+- [Zsh](https://www.zsh.org/) :star2: ![FOSS](oss.svg) A shell designed for interactive use, although it is also a powerful scripting language
+- [tclsh](https://tcl-lang.org/) ![FOSS](oss.svg) Is a very powerful cross-platform shell, suitable for a huge range of uses
+- [Fish](https://fishshell.com/) ![FOSS](oss.svg) Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
+- [Ksh(Kornshell)](http://www.kornshell.com/) ![FOSS](oss.svg) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
 
-### Shell Addons ![FOSS](oss.svg) 
-- [Oh My ZSH!](https://ohmyz.sh/) :star2: The best framework for managing your Zsh configuration
-- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) Same as above but, for the Fishshell framework
-- [Starship](https://github.com/starship/starship) The cross-shell prompt written in Rust
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) :star2: A fast reimplementation of Powerlevel9k ZSH theme.
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) :star2: Fish-like autosuggestions for Zsh.
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) :star2: Fish shell like syntax highlighting for Zsh.
+### Shell Addons
+- [Oh My ZSH!](https://ohmyz.sh/) :star2: ![FOSS](oss.svg) The best framework for managing your Zsh configuration
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) ![FOSS](oss.svg) Same as above but, for the Fishshell framework
+- [Starship](https://github.com/starship/starship) ![FOSS](oss.svg) The cross-shell prompt written in Rust
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) :star2: ![FOSS](oss.svg) A fast reimplementation of Powerlevel9k ZSH theme.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) :star2: ![FOSS](oss.svg) Fish-like autosuggestions for Zsh.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) :star2: ![FOSS](oss.svg) Fish shell like syntax highlighting for Zsh.
 
-### File Managers ![FOSS](oss.svg) 
-- [Ranger](https://github.com/ranger/ranger) :star2:  A VIM-inspired filemanager for the console
-- [Midnight Commander](https://midnight-commander.org/)  A visual file manager, licensed under GNU General Public License
-- [nnn](https://github.com/jarun/nnn) A tiny, lightning fast, feature-packed file manager
+### File Managers
+- [Ranger](https://github.com/ranger/ranger) :star2: ![FOSS](oss.svg) A VIM-inspired filemanager for the console
+- [Midnight Commander](https://midnight-commander.org/) ![FOSS](oss.svg) A visual file manager, licensed under GNU General Public License
+- [nnn](https://github.com/jarun/nnn) ![FOSS](oss.svg) A tiny, lightning fast, feature-packed file manager
 
-### Text Editors ![FOSS](oss.svg) 
-- [Vi](http://ex-vi.sourceforge.net/) One of the most common text editors on Unix
-- [Vim](https://www.vim.org/)  A highly configurable text editor
-- [Emacs](https://www.gnu.org/software/emacs/)  An extensible, customizable, free/libre text editor, and more
-- [Neovim](https://neovim.io/)  A free open source, powerful, extensible and usable code editor
-- [Spacemacs](https://www.spacemacs.org/)  A community-driven Emacs distribution
-- [Spacevim](https://spacevim.org/)  A community-driven vim distribution
+### Text Editors
+- [Vi](http://ex-vi.sourceforge.net/) ![FOSS](oss.svg) One of the most common text editors on Unix
+- [Vim](https://www.vim.org/) ![FOSS](oss.svg) A highly configurable text editor
+- [Emacs](https://www.gnu.org/software/emacs/) ![FOSS](oss.svg) An extensible, customizable, free/libre text editor, and more
+- [Neovim](https://neovim.io/) ![FOSS](oss.svg) A free open source, powerful, extensible and usable code editor
+- [Spacemacs](https://www.spacemacs.org/) ![FOSS](oss.svg) A community-driven Emacs distribution
+- [Spacevim](https://spacevim.org/) ![FOSS](oss.svg) A community-driven vim distribution
 
-### Terminal Emulators ![FOSS](oss.svg) 
-- [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: A GPU based terminal emulator that supports smooth scrolling and images
-- [st](https://st.suckless.org/) st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
-- [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html)  A customizable terminal emulator forked from rxvt
-- [Alacritty](https://github.com/alacritty/alacritty) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
-- [Termite](https://github.com/thestinger/termite) Termite is a minimal VTE-based terminal emulator
-- [Terminator](https://gnome-terminator.org/) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
+### Terminal Emulators
+- [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: ![FOSS](oss.svg) A GPU based terminal emulator that supports smooth scrolling and images
+- [st](https://st.suckless.org/) ![FOSS](oss.svg) st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
+- [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html) ![FOSS](oss.svg) A customizable terminal emulator forked from rxvt
+- [Alacritty](https://github.com/alacritty/alacritty) ![FOSS](oss.svg) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
+- [Termite](https://github.com/thestinger/termite) ![FOSS](oss.svg) Termite is a minimal VTE-based terminal emulator
+- [Terminator](https://gnome-terminator.org/) ![FOSS](oss.svg) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
-### Terminal Tools![FOSS](oss.svg) 
-- [Auto Jump](https://github.com/wting/autojump) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
-- [Neofetch](https://github.com/dylanaraps/neofetch) A command-line system information tool written in bash 3.2+
-- [Archey](https://github.com/HorlogeSkynet/archey4) Archey is a simple system information tool written in Python
-- [Pfetch](https://github.com/dylanaraps/pfetch) A pretty system information tool written in POSIX sh
-- [Nfetch](https://github.com/ya-sach1/nfetch) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
-- [Exa](https://github.com/ogham/exa) Exa is a modern replacement for ls.
-- [Terminalizer](https://github.com/faressoft/terminalizer) Record your terminal and generate animated gif images or share a web player
-- [Gooey](https://github.com/chriskiehl/Gooey) Convert almost any python cli to a gui
-- [castnow](https://github.com/xat/castnow)  Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+### Terminal Tools
+- [Auto Jump](https://github.com/wting/autojump) ![FOSS](oss.svg) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [Neofetch](https://github.com/dylanaraps/neofetch) ![FOSS](oss.svg) A command-line system information tool written in bash 3.2+
+- [Archey](https://github.com/HorlogeSkynet/archey4) ![FOSS](oss.svg) Archey is a simple system information tool written in Python
+- [Pfetch](https://github.com/dylanaraps/pfetch) ![FOSS](oss.svg) A pretty system information tool written in POSIX sh
+- [Nfetch](https://github.com/ya-sach1/nfetch) ![FOSS](oss.svg) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
+- [Exa](https://github.com/ogham/exa) ![FOSS](oss.svg) Exa is a modern replacement for ls.
+- [Terminalizer](https://github.com/faressoft/terminalizer) ![FOSS](oss.svg) Record your terminal and generate animated gif images or share a web player
+- [Gooey](https://github.com/chriskiehl/Gooey) ![FOSS](oss.svg) Convert almost any python cli to a gui
+- [castnow](https://github.com/xat/castnow) ![FOSS](oss.svg) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
-### Youtube Tools ![FOSS](oss.svg) 
-- [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) Unblock youtube videos in your country
-- [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
+### Youtube Tools
+- [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
+- [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) ![FOSS](oss.svg) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 
 ### Compression Tools
 - [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
@@ -451,10 +451,10 @@ for any IP address.
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
 - [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
 
-### Tracker Proxies ![FOSS](oss.svg) 
-- [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
-- [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
-- [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
+### Tracker Proxies
+- [Jackett](https://github.com/Jackett/Jackett) ![FOSS](oss.svg) API Support for your favorite torrent trackers.
+- [Cardigann](https://github.com/cardigann/cardigann) ![FOSS](oss.svg) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
+- [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: ![FOSS](oss.svg) Primarily a Usenet metasearch engine but also supports Torznab
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
@@ -478,46 +478,46 @@ for any IP address.
 - [RapidBay](https://github.com/hauxir/rapidbay) ![FOSS](oss.svg) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
 - [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) ![FOSS](oss.svg) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
 
-#### Deluge ![FOSS](oss.svg) 
-- [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-- [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
-- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
-- [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
+#### Deluge
+- [Deluge](https://www.deluge-torrent.org/) :star2: ![FOSS](oss.svg) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [AutoRemovePlus](https://github.com/omaralvarez/deluge-autoremoveplus) ![FOSS](oss.svg) Auto removing of deluge torrents
+- [ltConfig](https://github.com/ratanakvlun/deluge-ltconfig/releases) ![FOSS](oss.svg) ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
+- [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) ![FOSS](oss.svg) List of official and third-party plugins for Deluge
 
-#### rTorrent ![FOSS](oss.svg) 
-- [rTorrent](https://rakshasa.github.io/rtorrent/) rTorrent is a text-based ncurses BitTorrent client written in C++
-- [ruTorrent](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
-- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) gitHub wiki for rTorrent
-- [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
-- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
-- [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
-- [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
-- [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
-- [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
-- [pyrocore](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
-- [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
-- [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
+#### rTorrent
+- [rTorrent](https://rakshasa.github.io/rtorrent/) ![FOSS](oss.svg) rTorrent is a text-based ncurses BitTorrent client written in C++
+- [ruTorrent](https://github.com/Novik/ruTorrent) ![FOSS](oss.svg) Yet another web front-end for rTorrent
+- [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) ![FOSS](oss.svg) gitHub wiki for rTorrent
+- [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) ![FOSS](oss.svg) Comprehensive manual and user guide for the rTorrent bittorrent client
+- [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) ![FOSS](oss.svg) A collection of default and new, original themes for ruTorrent.
+- [flood](https://github.com/jfurrow/flood) ![FOSS](oss.svg) A web UI for rTorrent with a Node.js backend and React frontend.
+- [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) ![FOSS](oss.svg) Detailed article to answer most common questions about rTorrent
+- [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) ![FOSS](oss.svg) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+- [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) ![FOSS](oss.svg) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
+- [pyrocore](https://github.com/pyroscope/pyrocore) ![FOSS](oss.svg) A collection of tools for the BitTorrent protocol and especially the rTorrent client
+- [rTorrent research](https://calomel.org/rtorrent_mods.html) ![FOSS](oss.svg) security modifications and other hacks for usability
+- [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) ![FOSS](oss.svg) This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
 
-#### WebTorrent Clients ![FOSS](oss.svg) 
-- [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
-- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
-- [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
-- [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
+#### WebTorrent Clients
+- [magnetoo](https://www.magnetoo.io/) ![FOSS](oss.svg) Fancy new in-browser WebTorrent streaming service
+- [βTorrent](https://btorrent.xyz/) ![FOSS](oss.svg) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
+- [WebTorrent Desktop](https://webtorrent.io/desktop/) ![FOSS](oss.svg) WebTorrent Desktop is for streaming torrents.
+- [Instant.io](https://instant.io/) ![FOSS](oss.svg) Streaming file transfer over WebTorrent (torrents on the web)
 - [Dplayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
-### autodl-irssi ![FOSS](oss.svg) 
-- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-- [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
-- [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
-- [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
+### autodl-irssi
+- [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) ![FOSS](oss.svg) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
+- [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) ![FOSS](oss.svg) Script to use as upload-command for autodl-irssi to post to Sonarr
+- [mreg](https://github.com/Igglybuff/mreg) ![FOSS](oss.svg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
+- [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) ![FOSS](oss.svg) Guide by yours truly on enabling Slack notifications for autodl-irssi
 
-### Tracker Frameworks ![FOSS](oss.svg) 
-- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
-- [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
-- [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
-- [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
-- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
-- [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
+### Tracker Frameworks
+- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) ![FOSS](oss.svg) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+- [UNIT3D](https://github.com/HDInnovations/UNIT3D) ![FOSS](oss.svg) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+- [meanTorrent](https://github.com/taobataoma/meanTorrent) ![FOSS](oss.svg) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
+- [NexusPHP](https://github.com/ZJUT/NexusPHP) ![FOSS](oss.svg) BitTorrent private tracker scripts written in PHP.
+- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: ![FOSS](oss.svg) web framework geared towards private torrent trackers with a focus on music
+- [opentracker](https://erdgeist.org/arts/software/opentracker/) ![FOSS](oss.svg) wOpentracker is an open and free BitTorrent tracker project.
 
 ## Usenet
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
@@ -860,19 +860,19 @@ premium services
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) ![FOSS](oss.svg) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
 - [jellyfin](https://github.com/jellyfin/jellyfin) :star2: ![FOSS](oss.svg) An open-source fork of Emby
 
-## Video Clients ![FOSS](oss.svg) 
-- [MPV](https://mpv.io/) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
-- [VLC](https://www.videolan.org/vlc/) A poplular open source media player that supports a wide verriety of media file formats
-- [DPlayer](https://github.com/DIYgod/DPlayer) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+## Video Clients
+- [MPV](https://mpv.io/) ![FOSS](oss.svg) mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
+- [VLC](https://www.videolan.org/vlc/) ![FOSS](oss.svg) A poplular open source media player that supports a wide verriety of media file formats
+- [DPlayer](https://github.com/DIYgod/DPlayer) ![FOSS](oss.svg) DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
 
-## Stremio ![FOSS](oss.svg) 
-- [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
-- [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
-- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
-- [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
-- [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
-- [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
-- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
+## Stremio
+- [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) ![FOSS](oss.svg) Discussion and links pertaining to unofficial add-ons for Stremio
+- [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/) ![FOSS](oss.svg) 
+- [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) ![FOSS](oss.svg) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
+- [Stremio Downloader](https://github.com/BurningSands70/stremio-downloader) ![FOSS](oss.svg) An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
+- [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) ![FOSS](oss.svg) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
+- [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) ![FOSS](oss.svg) A guide explaining how to control Stremio with your phone
+- [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) ![FOSS](oss.svg) A website that allows users to customize catalogs in Stremio
 
 ## Plex
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
@@ -959,26 +959,26 @@ premium services
 - [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
 - [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
-## Kodi ![FOSS](oss.svg) 
-- [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
-- [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) :star2: Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
-- [Recommended Addons - November 2019](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/) Latest working Kodi addons compiled into one place
-- [Placenta](http://www.wirelesshack.org/how-to-install-placenta-Kodi-addon.html) a Fork of Exodus / Covenant with more options and links from Mr. Blamo and Muad'Dib
-- [Gaia](https://gaiakodi.com/) Grants the ability to instantly watch high-quality files via cached torrents from Real-Debrid or Premiumize.
-- [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
-- [Elementum](https://elementum.surge.sh/) Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
-- [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
-- [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
-- [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
-- [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
-- [kodi-headless](https://hub.docker.com/r/linuxserver/kodi-headless/) A headless install of Kodi in a docker container, most useful for a MySQL setup of Kodi to allow library updates to be sent without the need for a player system to be permanently on.
-- [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
-- [Sparkle](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
-- [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
-- [Pneumatic](https://forum.kodi.tv/showthread.php?tid=97657) Pneumatic is an NZB engine add-on for XBMC. It requires SABnzbd as a backbone.
-- [Python-GoogleDrive-VideoStream](https://github.com/ddurdle/Python-GoogleDrive-VideoStream) The purpose of this plugin is to serve content delivered in Google Drive plugin for KODI through any HTML5 client.
-- [Quasar](http://quasar.surge.sh) The purpose of this plugin is to search and stream torrents in Kodi.
-- [Burst](http://burst.surge.sh) A torrent content provider to the Quasar plugin.
+## Kodi
+- [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) ![FOSS](oss.svg) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
+- [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) :star2: ![FOSS](oss.svg) Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
+- [Recommended Addons - November 2019](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/) ![FOSS](oss.svg) Latest working Kodi addons compiled into one place
+- [Placenta](http://www.wirelesshack.org/how-to-install-placenta-Kodi-addon.html) ![FOSS](oss.svg) a Fork of Exodus / Covenant with more options and links from Mr. Blamo and Muad'Dib
+- [Gaia](https://gaiakodi.com/) ![FOSS](oss.svg) Grants the ability to instantly watch high-quality files via cached torrents from Real-Debrid or Premiumize.
+- [Yoda](http://supremacy.org.uk/zip/repo/) ![FOSS](oss.svg) Another solid Exodus/Covenant fork, and this time it's from S-media.
+- [Elementum](https://elementum.surge.sh/) ![FOSS](oss.svg) Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
+- [Tooonmania2](https://github.com/doko-desuka/doko.repository/releases) ![FOSS](oss.svg) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
+- [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) ![FOSS](oss.svg) Plex integration in Kodi done right
+- [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) ![FOSS](oss.svg) Official Plex addon for Kodi
+- [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ![FOSS](oss.svg) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
+- [kodi-headless](https://hub.docker.com/r/linuxserver/kodi-headless/) ![FOSS](oss.svg) A headless install of Kodi in a docker container, most useful for a MySQL setup of Kodi to allow library updates to be sent without the need for a player system to be permanently on.
+- [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) ![FOSS](oss.svg) The newest Exodus fork around, paired with LambdaScrapers.
+- [Sparkle](https://github.com/iwannabelikemike/plugin.video.sparkle) ![FOSS](oss.svg) Kodi addon for finding acestream links
+- [Plexus](http://fusion.tvaddons.co/) ![FOSS](oss.svg) Plexus is used in conjunction with Sparkle to play Ace Stream links.
+- [Pneumatic](https://forum.kodi.tv/showthread.php?tid=97657) ![FOSS](oss.svg) Pneumatic is an NZB engine add-on for XBMC. It requires SABnzbd as a backbone.
+- [Python-GoogleDrive-VideoStream](https://github.com/ddurdle/Python-GoogleDrive-VideoStream) ![FOSS](oss.svg) The purpose of this plugin is to serve content delivered in Google Drive plugin for KODI through any HTML5 client.
+- [Quasar](http://quasar.surge.sh) ![FOSS](oss.svg) The purpose of this plugin is to search and stream torrents in Kodi.
+- [Burst](http://burst.surge.sh) ![FOSS](oss.svg) A torrent content provider to the Quasar plugin.
 
 ## Gaming
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
@@ -1017,104 +1017,104 @@ premium services
 - [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 
-## Emulators ![FOSS](oss.svg) 
+## Emulators
 
-### Atari ![FOSS](oss.svg) 
+### Atari
 
-- [Stella - Atari 2600](https://github.com/stella-emu/stella) - A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
-- [Atari800 - Atari 800](https://github.com/atari800/atari800) - Atari 8-bit computer and 5200 console emulator.
-- [Altirra - Atari 800](http://virtualdub.org/altirra.html) - Very accurate Atari 8-bit computer (All models) and 5200 console emulator.
-- [Kat5200 - Atari 5200](https://kat5200.jillybunch.com/downloads.html) - An emulator for the Atari 5200 and 8-bit computers
-- [ProSystem - Atari 7800](https://github.com/gstanton/ProSystem1_3) - ProSystem Emulator Version 1.3 by Greg Stanton
-- [Handy - Atari Lynx](https://sourceforge.net/projects/handy/files/) - "Handy" is an Atari Lynx Emulator
-- [Virtual Jaguar - Atari Jaguar](http://icculus.org/virtualjaguar/) - Virtual Jaguar is an open-source Atari Jaguar emulator.
+- [Stella - Atari 2600](https://github.com/stella-emu/stella) - ![FOSS](oss.svg) A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+- [Atari800 - Atari 800](https://github.com/atari800/atari800) - ![FOSS](oss.svg) Atari 8-bit computer and 5200 console emulator.
+- [Altirra - Atari 800](http://virtualdub.org/altirra.html) - ![FOSS](oss.svg) Very accurate Atari 8-bit computer (All models) and 5200 console emulator.
+- [Kat5200 - Atari 5200](https://kat5200.jillybunch.com/downloads.html) - ![FOSS](oss.svg) An emulator for the Atari 5200 and 8-bit computers
+- [ProSystem - Atari 7800](https://github.com/gstanton/ProSystem1_3) - ![FOSS](oss.svg) ProSystem Emulator Version 1.3 by Greg Stanton
+- [Handy - Atari Lynx](https://sourceforge.net/projects/handy/files/) - ![FOSS](oss.svg) "Handy" is an Atari Lynx Emulator
+- [Virtual Jaguar - Atari Jaguar](http://icculus.org/virtualjaguar/) - ![FOSS](oss.svg) Virtual Jaguar is an open-source Atari Jaguar emulator.
 
-### Mattel ![FOSS](oss.svg) 
+### Mattel 
 
-- [jzIntv - Intellivision](http://spatula-city.org/~im14u2c/intv/) - Mattel Intellivision emulator and development environment.
+- [jzIntv - Intellivision](http://spatula-city.org/~im14u2c/intv/) - ![FOSS](oss.svg) Mattel Intellivision emulator and development environment.
 
-### Microsoft ![FOSS](oss.svg) 
+### Microsoft
 
-- [XQemu - Xbox](https://github.com/xqemu/xqemu) - Open-source emulator to play original Xbox games on Windows, macOS, and Linux.
-- [CXBX-Reloaded - Xbox](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded) - An emulator for running Microsoft Xbox (and eventually, Chihiro) games on Microsoft Windows.
-- [Xenia - Xbox 360](https://github.com/xenia-project) - An open source research project for emulating Xbox 360 games on modern PCs.
+- [XQemu - Xbox](https://github.com/xqemu/xqemu) - ![FOSS](oss.svg) Open-source emulator to play original Xbox games on Windows, macOS, and Linux.
+- [CXBX-Reloaded - Xbox](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded) - ![FOSS](oss.svg) An emulator for running Microsoft Xbox (and eventually, Chihiro) games on Microsoft Windows.
+- [Xenia - Xbox 360](https://github.com/xenia-project) - ![FOSS](oss.svg) An open source research project for emulating Xbox 360 games on modern PCs.
 
-### Multisystem ![FOSS](oss.svg) 
+### Multisystem
 
-- [FinalBurn Neo - Multisystem](https://github.com/finalburnneo/FBNeo) - An emulator for arcade games & select consoles.
-- [Higan - Multisystem](https://gitlab.com/higan/higan) - Emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
-- [MAME - Multisystem](https://github.com/mamedev/mame) - A multi-purpose emulation framework.
-- [Mednafen - Multisystem](https://mednafen.github.io) - portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
-- [Genesis-Plus-GX - Multisystem](https://github.com/ekeeke/Genesis-Plus-GX) - An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator. Emulates the all SEGA 8-bit and 16-bit consoles.
-- [Xe - Multisystem](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe) - A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
+- [FinalBurn Neo - Multisystem](https://github.com/finalburnneo/FBNeo) - ![FOSS](oss.svg) An emulator for arcade games & select consoles.
+- [Higan - Multisystem](https://gitlab.com/higan/higan) - ![FOSS](oss.svg) Emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
+- [MAME - Multisystem](https://github.com/mamedev/mame) - ![FOSS](oss.svg) A multi-purpose emulation framework.
+- [Mednafen - Multisystem](https://mednafen.github.io) - ![FOSS](oss.svg) portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
+- [Genesis-Plus-GX - Multisystem](https://github.com/ekeeke/Genesis-Plus-GX) - ![FOSS](oss.svg) An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator. Emulates the all SEGA 8-bit and 16-bit consoles.
+- [Xe - Multisystem](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe) - ![FOSS](oss.svg) A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
 
-### Nintendo ![FOSS](oss.svg) 
+### Nintendo
 
-- [Gambatte - Gameboy / Gameboy Color](https://github.com/sinamas/gambatte) - Is a work-in-progress and portable Game Boy Color emulator.
-- [GearBoy - Gameboy / Gameboy Color](https://github.com/drhelius/Gearboy) - Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
-- [SameBoy - Gameboy / Gameboy Color](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
-- [TGBDual - Gameboy / Gameboy Color](http://shinh.skr.jp/tgbdualsdl/) - A Japanese Game Boy/Game Boy Color emulator. It was the first to support link cable emulation (through TCP/IP), later followed by VBA Link and then modern emulators.
-- [TGBDual-L - Gameboy / Gameboy Color](https://github.com/libertyernie/tgbdual_L) - A rebase of changes in libertyernie/tgbdual on top of tgbdual_kai
-- [mGBA - Gameboy Advance](https://github.com/mgba-emu/mgba/) - :star2: Aims to be faster and more accurate than many existing Game Boy Advance emulators.
-- [Dolphin - GameCube / Wii](https://github.com/dolphin-emu/dolphin) - :star2: A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [1964js - Nintendo 64](https://github.com/schibo/1964js) - Nintendo64 emulator in JavaScript.
-- [Daedalus - Nintendo 64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
-- [Mupen64plus - Nintendo 64](https://github.com/mupen64plus) - A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
-- [Project64 - Nintendo 64](https://github.com/project64/project64) - :star2: Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
-- [Ryu64 - Nintendo 64](https://github.com/Ryu64Emulator/Ryu64) - This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
-- [DeSmuME - Nintendo DS](https://github.com/TASVideos/desmume) - :star2: It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
-- [Dualis - Nintendo DS](http://dualis.1emu.net/files/index.html) - A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
-- [MelonDS - Nintendo DS](https://github.com/Arisotura/melonDS) - Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
-- [3dmoom - Nintendo 3DS](https://github.com/plutooo/3dmoo/) - 3DS Emulator Prototype.
-- [Citra - Nintendo 3DS](https://github.com/citra-emu/citra) - :star2: An experimental open-source Nintendo 3DS emulator/debugger written in C++.
-- [Corgi3DS - Nintendo 3DS](https://github.com/PSI-Rockin/Corgi3DS/) - Corgi3DS is a dog-themed LLE 3DS emulator.
-- [FakeNES - NES](https://sourceforge.net/projects/fakenes/files/) - A highly portable NES and Famicom emulator.
-- [FCEUX - NES](http://sourceforge.net/p/fceultra/code/) - A Nintendo Entertainment System (NES), Famicom, Famicom Disk System (FDS), and Dendy emulator.
-- [Nestopia - NES](https://sourceforge.net/projects/nestopia/files/Nestopia/) -:star2: An emulator designed to emulate the NES hardware as accurately as possible.
-- [Nintaco - NES](https://nintaco.com/source.html) - A cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
-- [Nitendulator - NES](https://github.com/quietust/nintendulator) - A Win32 NES emulator written in C++.
-- [Mesen - NES](https://github.com/SourMesen/Mesen) - A cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#.
-- [puNES - NES](https://github.com/punesemu/puNES/) - Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Linux, OpenBSD and Windows).
-- [Bsnes - SNES](https://gitlab.com/higan/higan) - A subset project of [higan](https://byuu.org/emulation/higan/), and focuses on performance, features, and ease of use.
-- [Mesen-S - SNES](https://github.com/SourMesen/Mesen-S) - A cross-platform (Windows & Linux) SNES emulator built in C++ and C#.
-- [Snes9x - SNES](https://github.com/snes9xgit/snes9x) - A portable Super Nintendo Entertainment System emulator.
-- [ZSNES - SNES](https://sourceforge.net/projects/zsnes/files/zsnes/) - A free software Super Nintendo Entertainment System emulator written mostly in x86 assembly. Most ROM Hacks require this emulator due to its poor inaccuracies.
-- [Ryujinx - Switch](https://github.com/Ryujinx/Ryujinx) - Experimental Switch emulator written in C#.
-- [Yuzu - Switch](https://github.com/yuzu-emu/yuzu) - :star2: Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
-- [Decaf - Wii U](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
+- [Gambatte - Gameboy / Gameboy Color](https://github.com/sinamas/gambatte) - ![FOSS](oss.svg) Is a work-in-progress and portable Game Boy Color emulator.
+- [GearBoy - Gameboy / Gameboy Color](https://github.com/drhelius/Gearboy) - ![FOSS](oss.svg) Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
+- [SameBoy - Gameboy / Gameboy Color](https://github.com/LIJI32/SameBoy) - ![FOSS](oss.svg) Game Boy and Game Boy Color emulator written in C.
+- [TGBDual - Gameboy / Gameboy Color](http://shinh.skr.jp/tgbdualsdl/) - ![FOSS](oss.svg) A Japanese Game Boy/Game Boy Color emulator. It was the first to support link cable emulation (through TCP/IP), later followed by VBA Link and then modern emulators.
+- [TGBDual-L - Gameboy / Gameboy Color](https://github.com/libertyernie/tgbdual_L) - ![FOSS](oss.svg) A rebase of changes in libertyernie/tgbdual on top of tgbdual_kai
+- [mGBA - Gameboy Advance](https://github.com/mgba-emu/mgba/) - :star2: ![FOSS](oss.svg) Aims to be faster and more accurate than many existing Game Boy Advance emulators.
+- [Dolphin - GameCube / Wii](https://github.com/dolphin-emu/dolphin) - :star2: ![FOSS](oss.svg) A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [1964js - Nintendo 64](https://github.com/schibo/1964js) - ![FOSS](oss.svg) Nintendo64 emulator in JavaScript.
+- [Daedalus - Nintendo 64](https://github.com/DaedalusX64/daedalus) - ![FOSS](oss.svg) Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
+- [Mupen64plus - Nintendo 64](https://github.com/mupen64plus) - ![FOSS](oss.svg) A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
+- [Project64 - Nintendo 64](https://github.com/project64/project64) - :star2: ![FOSS](oss.svg) Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+- [Ryu64 - Nintendo 64](https://github.com/Ryu64Emulator/Ryu64) - ![FOSS](oss.svg) This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
+- [DeSmuME - Nintendo DS](https://github.com/TASVideos/desmume) - :star2: ![FOSS](oss.svg) It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
+- [Dualis - Nintendo DS](http://dualis.1emu.net/files/index.html) - ![FOSS](oss.svg) A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++. 
+- [MelonDS - Nintendo DS](https://github.com/Arisotura/melonDS) - ![FOSS](oss.svg) Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
+- [3dmoom - Nintendo 3DS](https://github.com/plutooo/3dmoo/) - ![FOSS](oss.svg) 3DS Emulator Prototype.
+- [Citra - Nintendo 3DS](https://github.com/citra-emu/citra) - :star2: ![FOSS](oss.svg) An experimental open-source Nintendo 3DS emulator/debugger written in C++.
+- [Corgi3DS - Nintendo 3DS](https://github.com/PSI-Rockin/Corgi3DS/) - ![FOSS](oss.svg) Corgi3DS is a dog-themed LLE 3DS emulator.
+- [FakeNES - NES](https://sourceforge.net/projects/fakenes/files/) - ![FOSS](oss.svg) A highly portable NES and Famicom emulator.
+- [FCEUX - NES](http://sourceforge.net/p/fceultra/code/) - ![FOSS](oss.svg) A Nintendo Entertainment System (NES), Famicom, Famicom Disk System (FDS), and Dendy emulator.
+- [Nestopia - NES](https://sourceforge.net/projects/nestopia/files/Nestopia/) -:star2: ![FOSS](oss.svg) An emulator designed to emulate the NES hardware as accurately as possible.
+- [Nintaco - NES](https://nintaco.com/source.html) - ![FOSS](oss.svg) A cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
+- [Nitendulator - NES](https://github.com/quietust/nintendulator) - ![FOSS](oss.svg) A Win32 NES emulator written in C++.
+- [Mesen - NES](https://github.com/SourMesen/Mesen) - ![FOSS](oss.svg) A cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#.
+- [puNES - NES](https://github.com/punesemu/puNES/) - ![FOSS](oss.svg) Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Linux, OpenBSD and Windows).
+- [Bsnes - SNES](https://gitlab.com/higan/higan) - ![FOSS](oss.svg) A subset project of [higan](https://byuu.org/emulation/higan/), and focuses on performance, features, and ease of use.
+- [Mesen-S - SNES](https://github.com/SourMesen/Mesen-S) - ![FOSS](oss.svg) A cross-platform (Windows & Linux) SNES emulator built in C++ and C#.
+- [Snes9x - SNES](https://github.com/snes9xgit/snes9x) - ![FOSS](oss.svg) A portable Super Nintendo Entertainment System emulator.
+- [ZSNES - SNES](https://sourceforge.net/projects/zsnes/files/zsnes/) - ![FOSS](oss.svg) A free software Super Nintendo Entertainment System emulator written mostly in x86 assembly. Most ROM Hacks require this emulator due to its poor inaccuracies.
+- [Ryujinx - Switch](https://github.com/Ryujinx/Ryujinx) - ![FOSS](oss.svg) Experimental Switch emulator written in C#.
+- [Yuzu - Switch](https://github.com/yuzu-emu/yuzu) - :star2: ![FOSS](oss.svg) Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+- [Decaf - Wii U](https://github.com/decaf-emu/decaf-emu) - ![FOSS](oss.svg) Researching Wii U emulation.
 
-### SEGA ![FOSS](oss.svg) 
+### SEGA
 
-- [flycast - Dreamcast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator
-- [lxdream - Dreamcast](https://github.com/lxdream/lxdream) - An emulator for the Sega Dreamcast system, running on Linux and macOS.
-- [nullDC - Dreamcast](https://github.com/skmp/nulldc) - nullDC is an open source Dreamcast emulator
-- [reicast - Dreamcast](https://github.com/reicast/reicast-emulator) - A multi-platform Sega Dreamcast emulator.
-- [blastem - Genesis / Megadrive](https://www.retrodev.com/repos/blastem) - Higly accurate emulator for the Genesis/Megadrive that runs on modest hardware.
-- [DGen - Genesis / Megadrive](https://sourceforge.net/p/dgen/dgen/ci/master/tree/) -  Portable Sega Genesis/Mega Drive emulator.
-- [Gearsystem - MasterSystem / GameGear](https://github.com/drhelius/Gearsystem) - Sega Master System / Game Gear emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
-- [Supermodel - Model3](https://www.supermodel3.com/Download.html) - Aim of the Supermodel project is to develop an emulator that is both accurate and playable.
-- [Kronos - Saturn](https://github.com/FCare/Kronos) - Supercharged fork of Yabause that supports upscaling and tons more
-- [Yabause - Saturn](https://yabause.org/download) - Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
-- [Yaba Sanshiro - Saturn](https://github.com/devmiyax/yabause) - Fork of the original Yabause Sega Saturn emulator.
+- [flycast - Dreamcast](https://github.com/flyinghead/flycast) - ![FOSS](oss.svg) Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator
+- [lxdream - Dreamcast](https://github.com/lxdream/lxdream) - ![FOSS](oss.svg) An emulator for the Sega Dreamcast system, running on Linux and macOS.
+- [nullDC - Dreamcast](https://github.com/skmp/nulldc) - ![FOSS](oss.svg) nullDC is an open source Dreamcast emulator
+- [reicast - Dreamcast](https://github.com/reicast/reicast-emulator) - ![FOSS](oss.svg) A multi-platform Sega Dreamcast emulator.
+- [blastem - Genesis / Megadrive](https://www.retrodev.com/repos/blastem) - ![FOSS](oss.svg) Higly accurate emulator for the Genesis/Megadrive that runs on modest hardware.
+- [DGen - Genesis / Megadrive](https://sourceforge.net/p/dgen/dgen/ci/master/tree/) - ![FOSS](oss.svg) Portable Sega Genesis/Mega Drive emulator.
+- [Gearsystem - MasterSystem / GameGear](https://github.com/drhelius/Gearsystem) - ![FOSS](oss.svg) Sega Master System / Game Gear emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
+- [Supermodel - Model3](https://www.supermodel3.com/Download.html) - ![FOSS](oss.svg) Aim of the Supermodel project is to develop an emulator that is both accurate and playable.
+- [Kronos - Saturn](https://github.com/FCare/Kronos) - ![FOSS](oss.svg) Supercharged fork of Yabause that supports upscaling and tons more
+- [Yabause - Saturn](https://yabause.org/download) - ![FOSS](oss.svg) Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
+- [Yaba Sanshiro - Saturn](https://github.com/devmiyax/yabause) - ![FOSS](oss.svg) Fork of the original Yabause Sega Saturn emulator.
 
-### Sony ![FOSS](oss.svg) 
+### Sony 
 
-- [Avocado - PSX](https://github.com/JaCzekanski/Avocado) - A Modern Playstation 1 emulator.
-- [hpsx64 - PSX](https://sourceforge.net/projects/hpsx64/files) - Highly-Experimental Playstation Simulator x64.
-- [pcsxr - PSX](https://github.com/iCatButler/pcsxr) - A forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
-- [pcsx-redux - PSX](https://github.com/grumpycoders/pcsx-redux) - :star2: Yet another fork of the Playstation Emulator, PCSX.
-- [ProjectPSX - PSX](https://github.com/BluestormDNA/ProjectPSX) - Experimental C# Playstation Emulator.
-- [Rustation-ng - PSX](https://gitlab.com/flio/rustation-ng/) - PlayStation emulator in the Rust programing language.
-- [DobieStation - PS2](https://github.com/PSI-Rockin/DobieStation/) - A young PS2 emulator with plans for an optimized Android port, as well as a fast, accurate, and easy-to-use PC port.
-- [pcsx2 - PS2](https://github.com/PCSX2/pcsx2) - Emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
-- [Play! - PS2](https://github.com/jpd002/Play-) - :star2: An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
-- [RPCS3 - PS3](https://github.com/RPCS3/rpcs3) - :star2: The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
-- [orbital - PS4](https://github.com/AlexAltea/orbital) - :star2: Virtualization-based PlayStation 4 emulator.
-- [ps4delta - PS4](https://github.com/Force67/ps4delta) - PS4Delta is a very early high level PlayStation 4 emulator, written in c++.
-- [GPCS4 - PS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator which was just started.
-- [ppsspp - PSP](https://github.com/hrydgard/ppsspp) - A fast and portable PSP emulator.
-- [Vita3K - PSVita](https://github.com/Vita3K/Vita3K) - An experimental PlayStation Vita emulator for Windows, Linux and macOS.
-- [ZX-Poly - ZX Spectrum](https://github.com/raydac/zxpoly) - Free cross-platfom ZX-Spectrum 128 emulator for Windows, Linux and macOS written in Java. ZX-Poly, ZX-Spectrum 128 and Spec256 configurations have been supported.
+- [Avocado - PSX](https://github.com/JaCzekanski/Avocado) - ![FOSS](oss.svg) A Modern Playstation 1 emulator.
+- [hpsx64 - PSX](https://sourceforge.net/projects/hpsx64/files) - ![FOSS](oss.svg) Highly-Experimental Playstation Simulator x64.
+- [pcsxr - PSX](https://github.com/iCatButler/pcsxr) - ![FOSS](oss.svg) A forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
+- [pcsx-redux - PSX](https://github.com/grumpycoders/pcsx-redux) - :star2: ![FOSS](oss.svg) Yet another fork of the Playstation Emulator, PCSX.
+- [ProjectPSX - PSX](https://github.com/BluestormDNA/ProjectPSX) - ![FOSS](oss.svg) Experimental C# Playstation Emulator.
+- [Rustation-ng - PSX](https://gitlab.com/flio/rustation-ng/) - ![FOSS](oss.svg) PlayStation emulator in the Rust programing language.
+- [DobieStation - PS2](https://github.com/PSI-Rockin/DobieStation/) - ![FOSS](oss.svg) A young PS2 emulator with plans for an optimized Android port, as well as a fast, accurate, and easy-to-use PC port.
+- [pcsx2 - PS2](https://github.com/PCSX2/pcsx2) - ![FOSS](oss.svg) Emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
+- [Play! - PS2](https://github.com/jpd002/Play-) - :star2: ![FOSS](oss.svg) An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
+- [RPCS3 - PS3](https://github.com/RPCS3/rpcs3) - :star2: ![FOSS](oss.svg) The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
+- [orbital - PS4](https://github.com/AlexAltea/orbital) - :star2: ![FOSS](oss.svg) Virtualization-based PlayStation 4 emulator.
+- [ps4delta - PS4](https://github.com/Force67/ps4delta) - ![FOSS](oss.svg) PS4Delta is a very early high level PlayStation 4 emulator, written in c++.
+- [GPCS4 - PS4](https://github.com/Inori/GPCS4) - ![FOSS](oss.svg) A Playstation 4 emulator which was just started.
+- [ppsspp - PSP](https://github.com/hrydgard/ppsspp) - ![FOSS](oss.svg) A fast and portable PSP emulator.
+- [Vita3K - PSVita](https://github.com/Vita3K/Vita3K) - ![FOSS](oss.svg) An experimental PlayStation Vita emulator for Windows, Linux and macOS.
+- [ZX-Poly - ZX Spectrum](https://github.com/raydac/zxpoly) - ![FOSS](oss.svg) Free cross-platfom ZX-Spectrum 128 emulator for Windows, Linux and macOS written in Java. ZX-Poly, ZX-Spectrum 128 and Spec256 configurations have been supported.
 
 
 ### ROMs
@@ -1373,23 +1373,23 @@ premium services
 - [SickGear](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [Medusa](https://pymedusa.com/) ![FOSS](oss.svg) Automatic Video Library Manager for TV Shows.
 
-### Movie Automation ![FOSS](oss.svg) 
-- [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
-- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
-- [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+### Movie Automation
+- [Radarr](https://radarr.video/) :star2: ![FOSS](oss.svg) A fork of Sonarr to work with movies à la Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) ![FOSS](oss.svg) Syncs two Radarr servers through web API.
+- [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) ![FOSS](oss.svg) Automatic Movie Downloading via NZBs & Torrents
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) ![FOSS](oss.svg) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
-### Music Automation ![FOSS](oss.svg) 
-- [betanin](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
-- [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
-- [Headphones](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
+### Music Automation
+- [betanin](https://github.com/sentriz/betanin) ![FOSS](oss.svg) beets.io based man-in-the-middle of your torrent client and music player.
+- [Lidarr](https://github.com/lidarr/Lidarr) ![FOSS](oss.svg) Looks and smells like Sonarr but made for music.
+- [Headphones](https://github.com/rembo10/headphones) ![FOSS](oss.svg) Automatic music downloader for SABnzbd
 
-### Subtitles Automation ![FOSS](oss.svg) 
-- [Bazarr](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-- [autosub](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
-- [vlsub](https://github.com/exebetche/vlsub) VLC extension to download subtitles from opensubtitles.org
+### Subtitles Automation
+- [Bazarr](https://github.com/morpheus65535/bazarr) ![FOSS](oss.svg) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [autosub](https://github.com/agermanidis/autosub) ![FOSS](oss.svg) Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) ![FOSS](oss.svg) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+- [subsync](https://github.com/smacke/subsync) ![FOSS](oss.svg) Automagically synchronize subtitles with the video.
+- [vlsub](https://github.com/exebetche/vlsub) ![FOSS](oss.svg) VLC extension to download subtitles from opensubtitles.org
 
 ## P2P Networks
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file-sharing network
@@ -1640,13 +1640,13 @@ premium services
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
-## Proxy Sites ![FOSS](oss.svg) 
-- [Unblocked](https://unblocked-pw.github.io/) :star2: a Proxy site for accessing your favorite blocked sites
-- [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
+## Proxy Sites
+- [Unblocked](https://unblocked-pw.github.io/) :star2: ![FOSS](oss.svg) a Proxy site for accessing your favorite blocked sites
+- [ByPassed](https://bypassed.wtf/) ![FOSS](oss.svg) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
-## DNS Tools ![FOSS](oss.svg) 
-- [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
-- [Pi-hole](https://pi-hole.net/) :star2: Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+## DNS Tools
+- [netflix-proxy](https://github.com/ab77/netflix-proxy/) ![FOSS](oss.svg) Smart DNS proxy to watch Netflix out-of-region
+- [Pi-hole](https://pi-hole.net/) :star2: ![FOSS](oss.svg) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
@@ -1696,12 +1696,13 @@ premium services
 - [Streamable](https://streamable.com/) Share videos on dicord more than 8 MB
 - [Media Bias Fact Check](https://mediabiasfactcheck.com/) :star2: Check media bias on any website
 - [Just Delete Me](https://justdeleteme.xyz/) :star2: Directly go to the delete account page
-- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
-- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
-- [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
+- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links
+- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details
+- [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites
 - [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
-- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
+- [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices
+- [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch"
+- [Dev Docs](https://devdocs.io) Documentation for all your programming and open source needs
 
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
