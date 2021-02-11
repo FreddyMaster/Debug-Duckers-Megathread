@@ -223,6 +223,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Clickbait Remover](https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/) ![FOSS](oss.svg) Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
 - [Happidia](https://github.com/Ademking/happydia) ![FOSS](oss.svg) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
 - [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) ![FOSS](oss.svg) Bypass hCaptcha
+- [Tabliss](https://tabliss.io/) ![FOSS](oss.svg) A beautiful, customisable New Tab page for Firefox and Chrome.
 
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) ![FOSS](oss.svg) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
