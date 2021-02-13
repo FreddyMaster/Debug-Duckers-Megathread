@@ -283,13 +283,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) :star2: O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: ![FOSS](oss.svg) an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
 - [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
-- [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [Tallow](https://github.com/basil00/TorWall) ![FOSS](oss.svg) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 ## Email
 - [ProtonMail](https://protonmail.com/) :star2: ![FOSS](oss.svg) Secure Email Based in Switzerland
@@ -532,10 +532,10 @@ for any IP address.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use Usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
 - [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
-- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+- [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) ![FOSS](oss.svg)Table of applications for uploading content to Usenet
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 - [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper-tool
-- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
+- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) ![FOSS](oss.svg)Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 
 ### Usenet Providers
 - [Usenet Providers and Backbones](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
@@ -568,7 +568,7 @@ for any IP address.
 - [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
 - [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
 - [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
-- [spotweb](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
+- [spotweb](https://github.com/spotweb/spotweb) ![FOSS](oss.svg)Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 - [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
 - [NZBVortex 3](https://www.nzbvortex.com/landing/) Simply the best Usenet client for Mac
 - [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
@@ -686,7 +686,7 @@ premium services
 - [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
 
 ### Premium Link Hosts
-- [File sharing table](https://nafanz.github.io/) Regularly updated table of information about file hosts.
+- [File sharing table](https://nafanz.github.io/) ![FOSS](oss.svg)Regularly updated table of information about file hosts.
 - [Mega](https://mega.nz/) :star2:
 - [OpenLoad](https://openload.co/)
 - [RapidGator](https://rapidgator.net/)
@@ -699,17 +699,17 @@ premium services
 - [PutLocker](https://www5.putlockertv.to/)
 
 ### Open Directories
-- [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
+- [httpdirfs](https://github.com/fangfufu/httpdirfs) ![FOSS](oss.svg)A filesystem which allows you to mount HTTP directory listings
 - ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
 - [The Eye](https://the-eye.eu/public/) :star2: The Eye is a non-profit website dedicated to content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow_hunter104
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
-- [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
+- [FileMasta](https://github.com/HerbL27/FileMasta) ![FOSS](oss.svg)Search servers for video, music, books, software, games, subtitles and much more
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software, and otherwise interesting files.
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
-- [andesite](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
-- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
+- [andesite](https://github.com/nektro/andesite) ![FOSS](oss.svg)Easily manage access to your open directory through OAuth2
+- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) ![FOSS](oss.svg)Indexes open directories
 
 ### Streaming Sites
 
@@ -882,68 +882,68 @@ premium services
 - [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) ![FOSS](oss.svg) A website that allows users to customize catalogs in Stremio
 
 ## Plex
-- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) official Plex docker image
-- [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) ![FOSS](oss.svg) LinuxServer.io Plex Media Server docker image
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) ![FOSS](oss.svg) official Plex docker image
+- [timhaak/plex](https://github.com/timhaak/docker-plex) ![FOSS](oss.svg) alternative Plex docker image
 - [PGBlitz.com](https://pgblitz.com/) :star2: Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
 - [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 - [PlexPi](http://plexpi.com/) Plex Media Server for Raspberry Pi 3
 
 ### Plex Plugins
-- [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
-- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
-- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
-- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
-- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
-- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
-- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
-- [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
-- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
-- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
+- [Official Plex Plugins](https://github.com/plexinc-plugins) ![FOSS](oss.svg) Repos for every official Plex Inc. plugin
+- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) ![FOSS](oss.svg) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) ![FOSS](oss.svg) Plex metadata scraper for Audiobooks
+- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) :star2: ![FOSS](oss.svg) Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
+- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) ![FOSS](oss.svg) A Tvheadend Channel Plugin for PLEX Media Server
+- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) ![FOSS](oss.svg) plays live streams (like IPTV) from an M3U playlist
+- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) ![FOSS](oss.svg) interfaces with HDHomeRun tuners and DVRs
+- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) ![FOSS](oss.svg) HDHomeRun + Plex
+- [SS Plex](https://mikew.github.io/ss-plex.bundle/) ![FOSS](oss.svg) Imagine if all the media scattered around the internet could be found in one collection.
+- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) ![FOSS](oss.svg) Export Plex Library to a csv, xlsx or m3u8 file
+- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) ![FOSS](oss.svg) Add what you are watching on Plex to trakt.tv
 - [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
-- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
-- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
-- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
-- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
-- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
-- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
+- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) ![FOSS](oss.svg) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) ![FOSS](oss.svg) A Plex Channel to create requests
+- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) ![FOSS](oss.svg) Plex Agent that'll convert sidecar subtitle files into UTF-8
+- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) ![FOSS](oss.svg) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
+- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) ![FOSS](oss.svg) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+- [SuperPLEX](https://normantheidiot.neocities.org/superplex/) ![FOSS](oss.svg) A website dedicated to Plex Plugins.
 
 ### Plex Requests
 - [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - [Plex Requests](http://plexrequests.8bits.ca/) Simple automated way for users to request new content for Plex
-- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
-- [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
-- [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) ![FOSS](oss.svg) Meteor version of the original Plex Requests
+- [Mellow](https://github.com/v0idp/Mellow/) ![FOSS](oss.svg) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+- [MediaButler](https://github.com/physk/MediaButler) ![FOSS](oss.svg) Discord bot for use with PleX and several other apps that work with it.
 
 ### Plex Scripts and Tools
-- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
-- [JBOPS](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
-- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
-- [plexupdate](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
-- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
-- [plexReport](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
-- [plex-sync](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
-- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
-- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
-- [PlexEmail](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
-- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
-- [PlexAuth](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
-- [Phlex](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
-- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
+- [plex_top_playlists](https://github.com/pbrink231/plex_top_playlists) ![FOSS](oss.svg) A python script to get top weekly or top popular lists and put them in plex as playlists.
+- [JBOPS](https://github.com/blacktwin/JBOPS) ![FOSS](oss.svg) Just a Bunch Of Plex Scripts
+- [plex-subtitles-normalizer](https://github.com/caridy/plex-subtitles-normalizer) ![FOSS](oss.svg) CLI tool to fix subtitles needed by Plex Media Center
+- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) ![FOSS](oss.svg) Script to assist sonarr/radarr with plex imports.
+- [plexupdate](https://github.com/mrworf/plexupdate) ![FOSS](oss.svg) script to simplify the life of Linux Plex Media Server users.
+- [plex2netflix](https://github.com/SpaceK33z/plex2netflix) ![FOSS](oss.svg) See how much of your media from Plex is available on Netflix.
+- [plexReport](https://github.com/bstascavage/plexReport) ![FOSS](oss.svg) Scripts to generate a weekly email of new additions to Plex
+- [plex-sync](https://github.com/jacobwgillespie/plex-sync) ![FOSS](oss.svg) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
+- [PlexIPTV](https://github.com/xiaodoudou/PlexIPTV) ![FOSS](oss.svg) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
+- [Plex Media Tagger](https://github.com/ccjensen/PlexMediaTagger) ![FOSS](oss.svg) Uses the metadata held in the PlexMediaServer to tag media files
+- [PlexEmail](https://github.com/jakewaldron/PlexEmail) ![FOSS](oss.svg) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+- [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) ![FOSS](oss.svg) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+- [PlexAuth](https://github.com/hjone72/PlexAuth) ![FOSS](oss.svg) Plex based authentication using PHP
+- [Phlex](https://github.com/d8ahazard/Phlex) ![FOSS](oss.svg) A super-sexy voice interface for the Plex HTPC
+- [Plex Redirect](https://github.com/ITRav4/PlexRedirect) ![FOSS](oss.svg) a Plex landing page that redirects you to various sites.
 - [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
-- [goplaxt](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
+- [goplaxt](https://github.com/XanderStrike/goplaxt/) ![FOSS](oss.svg) Full rewrite of the above, written in Go and deployable with Docker
 - [plxdwnld](https://piplong.run/plxdwnld/) Bookmarklet for downloading original files from the Plex web interface
-- [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
-- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
-- [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+- [Kitana](https://github.com/pannal/Kitana) ![FOSS](oss.svg) Kitana exposes your Plex plugin interfaces "to the outside world".
+- [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) ![FOSS](oss.svg) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+- [NowShowing](https://github.com/ninthwalker/NowShowing) ![FOSS](oss.svg) Generates an email and web page of Plex recently added content
 - ["My (scripted) solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) Post by /u/spazatk
-- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
-- [Gaps](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
-- [PlexRecs](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
+- [PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) ![FOSS](oss.svg) Scan Plex library for missing episodes using TheTVDB#
+- [Gaps](https://github.com/JasonHHouse/Gaps) ![FOSS](oss.svg) Find the missing movies in your Plex Server
+- [PlexRecs](https://github.com/nwithan8/PlexRecs) ![FOSS](oss.svg) A Discord bot that provides movie and TV show recommendations from your Plex library
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
-- [Varken](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+- [Varken](https://github.com/Boerderij/Varken) ![FOSS](oss.svg) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
@@ -951,20 +951,20 @@ premium services
 - [Elysium](https://elysium.to/) Plex media streaming service
 
 ### Plex Transcoding
-- [kube-plex](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
-- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
-- [nvidia-patch](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
+- [kube-plex](https://github.com/munnerz/kube-plex) ![FOSS](oss.svg) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+- [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) ![FOSS](oss.svg) a remote transcoder for Plex Media Server
+- [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) ![FOSS](oss.svg) A distributed transcoding backend for Plex
+- [nvidia-patch](https://github.com/keylase/nvidia-patch) ![FOSS](oss.svg) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
 
 ### Plex Logging and Metrics
 - [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
-- [plexWatch](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
-- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
+- [plexWatch](https://github.com/ljunkie/plexWatch) ![FOSS](oss.svg) Notify and Log watched content on a Plex Media Server
+- [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) ![FOSS](oss.svg) Collects data about your Plex server and sends it to InfluxDB
 
 ### Plex Clients
-- [RasPlex](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
-- [PlexConnect](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
-- [go-plex-client](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
+- [RasPlex](https://github.com/RasPlex/RasPlex) ![FOSS](oss.svg) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+- [PlexConnect](https://github.com/iBaa/PlexConnect) ![FOSS](oss.svg) Unofficial Plex app for Apple TV devices
+- [go-plex-client](https://github.com/jrudio/go-plex-client) ![FOSS](oss.svg) A Plex.tv and Plex Media Server Go client
 
 ## Kodi
 - [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) ![FOSS](oss.svg) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
@@ -999,8 +999,8 @@ premium services
 - [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) ![FOSS](oss.svg) Steam emulator
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) ![FOSS](oss.svg) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) :star2: "A Legit DLC Unlocker" for Steam
-- [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) :star2: ![FOSS](oss.svg) "A Legit DLC Unlocker" for Steam
+- [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) ![FOSS](oss.svg) A python script to automatically install Cream API for Steam games
 - [CDRomance](https://cdromance.com/) :star2: PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) ![FOSS](oss.svg) Steamless is a DRM remover of the SteamStub variants.
@@ -1193,16 +1193,16 @@ premium services
 - [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
 - [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 - [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
+- [VGMLoader](https://github.com/TheLastZombie/VGMLoader) ![FOSS](oss.svg) Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
 - [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
 
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
-- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
-- [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
+- [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) :star2: ![FOSS](oss.svg) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) ![FOSS](oss.svg) Video, audio & banner AdBlock/skip for Spotify
+- [Spytify](https://jwallet.github.io/spy-spotify/)  ![FOSS](oss.svg) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) Modded APK with no ads.
 - [Downtify](https://github.com/eviabs/downtify-premium) ![FOSS](oss.svg) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
 
