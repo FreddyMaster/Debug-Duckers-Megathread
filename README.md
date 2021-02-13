@@ -200,6 +200,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Brave](https://brave.com/) :star2: ![FOSS](oss.svg) Polished free and open source browser that blocks ads, trackers and generates cryptcurrency as you browse to give back to your favorite creators
 - [Dissenter](https://dissenter.com/) ![FOSS](oss.svg) Fork of the Brave browser made more lightweight and free speach centric
 - [Vivaldi](https://vivaldi.com/) A proprietary web browser made my the original creators of the opera browser
+- [Blisk](https://blisk.io/) Blisk is the first developer-oriented browser
+- [Google Chrome](https://www.google.com/chrome/) A fast webrowser built by google
+- [Pennywise](https://github.com/kamranahmedse/pennywise) ![FOSS](oss.svg) Pennywise opens any website or media in a small floating window that remains on top of all other applications
+- [Vimb](https://github.com/fanglingsu/vimb) ![FOSS](oss.svg) A vim-like lightweight web browser
+- [Wexond](https://github.com/wexond/desktop) ![FOSS](oss.svg) Wexond is an extensible and privacy-focused web browser, built on top of Electron and React, that can also be used as a framework to create a custom web browser.
 
 
 ## Browser Extensions
