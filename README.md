@@ -17,7 +17,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
-- [Browser Resources](#browser-resource)    
+- [Browser Resources](#browser-resources)    
     - [Web Browsers](#web-browsers)
     - [Browser Extensions](#browser-extensions)
     - [Search Engines](#search-engines)
