@@ -17,7 +17,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
-- [Browsers](#browsers)
+- [Browsers](#browsers)    
+    - [Web Browsers](#web-browsers)
     - [Browser Extensions](#browser-extensions)
     - [Search Engines](#search-engines)
     - [Userscripts](#userscripts)
@@ -192,6 +193,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Shadowsocks](https://shadowsocks.org/) ![FOSS](oss.svg) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
 ## Browsers
+
+### Web Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
 - [Pale Moon](https://www.palemoon.org/) ![FOSS](oss.svg) An older fork of firefox to be independant of Mozilla
 - [Libre Wolf](https://librewolf-community.gitlab.io/) ![FOSS](oss.svg) A fork of firefox where they take out all the telemetry and add adblockers with privacy in mind
