@@ -18,8 +18,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [VPN Subscription Services](#vpn-subscription-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
 - [Browsers](#browsers)
-- [Browser Extensions](#browser-extensions)
-- [Userscripts](#userscripts)
+    - [Browser Extensions](#browser-extensions)
+    - [Search Engines](#search-engines)
+    - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
 - [Antivirus](#antivirus)
 - [Privacy](#privacy)
@@ -207,7 +208,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Wexond](https://github.com/wexond/desktop) ![FOSS](oss.svg) Wexond is an extensible and privacy-focused web browser, built on top of Electron and React, that can also be used as a framework to create a custom web browser.
 
 
-## Browser Extensions
+### Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) ![FOSS](oss.svg) Protects against tracking with a local CDN (Content Delivery Network) emulation.
 - [Privacy Badger](https://www.eff.org/privacybadger) ![FOSS](oss.svg) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) ![FOSS](oss.svg) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
@@ -231,7 +232,15 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) ![FOSS](oss.svg) Bypass hCaptcha
 - [Tabliss](https://tabliss.io/) ![FOSS](oss.svg) A beautiful, customisable New Tab page for Firefox and Chrome.
 
-## Userscripts
+### Search Engines
+- [Duck Duck Go](https://duckduckgo.com/) A popular privacy respecting search engine based in the United States
+- [Quant](https://www.qwant.com/) A privacy respecting search engine based in France
+- [Yandex](https://yandex.com/) A Russian search engine offering other servies to replace google
+- [Bing](https://www.bing.com/) A popular search engine made by microsoft
+- [Google](https://www.google.com/) The worlds most popular search engine
+- [Searx](https://searx.github.io/searx/) :star2: ![FOSS](oss.svg) A privacy respecting self-hosted search engine that can query many sources
+
+### Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) ![FOSS](oss.svg) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [AdsBypasser](https://adsbypasser.github.io/) ![FOSS](oss.svg) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) ![FOSS](oss.svg) Remove forced download accelerators, managers, and adware on supported websites
