@@ -17,7 +17,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
-- [Browsers](#browsers)    
+- [Browser Resources](#browser-resource)    
     - [Web Browsers](#web-browsers)
     - [Browser Extensions](#browser-extensions)
     - [Search Engines](#search-engines)
@@ -192,7 +192,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [OpenConnect](https://www.infradead.org/openconnect/) ![FOSS](oss.svg) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) ![FOSS](oss.svg) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
-## Browsers
+## Browser Resources
 
 ### Web Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
