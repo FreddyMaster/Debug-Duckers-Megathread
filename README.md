@@ -220,7 +220,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) ![FOSS](oss.svg) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) ![FOSS](oss.svg) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) ![FOSS](oss.svg) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
+- [Burlesco](https://burles.co/en/) ![FOSS](oss.svg) Read the news without subscribing, bypass the paywall
 - [Universal Bypass](https://github.com/Sainan/Universal-Bypass) :star2: ![FOSS](oss.svg) Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) ![FOSS](oss.svg) An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) ![FOSS](oss.svg) A browser extension that maximizes the chances of bypassing paywalls
