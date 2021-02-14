@@ -34,7 +34,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
             - [Floating Window Managers](#floating-window-managers)
             - [Tiling Window Managers](#tiling-window-managers)
             - [Dynamic Window Managers](#dynamic-window-managers)
-- [Commandline Tools](#commandline-tools)
+- [Command Line Tools](#command-line-tools)
     - [Shells](#Shells)
         - [Shell Addons](#shell-addons)
     - [File Managers](#file-managers)
@@ -377,7 +377,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Qtile](https://github.com/qtile/qtile) :star2: ![FOSS](oss.svg) Full-featured, hackable tiling window manager written in Python. Qtile is simple, small, and extensible
 - [Xmonad](http://xmonad.org/) :star2: ![FOSS](oss.svg) Dynamically tiling X11 window manager that is written and configured in Haskell
 
-## Commandline Tools
+## Command Line Tools
 
 ### Shells
 - [Bash](https://www.gnu.org/software/bash/) ![FOSS](oss.svg) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
