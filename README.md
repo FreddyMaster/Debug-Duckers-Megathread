@@ -729,17 +729,17 @@ premium services
 - [PutLocker](https://www5.putlockertv.to/)
 
 ### Open Directories
-- [httpdirfs](https://github.com/fangfufu/httpdirfs) ![FOSS](oss.svg)A filesystem which allows you to mount HTTP directory listings
+- [httpdirfs](https://github.com/fangfufu/httpdirfs) ![FOSS](oss.svg) A filesystem which allows you to mount HTTP directory listings
 - ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
 - [The Eye](https://the-eye.eu/public/) :star2: The Eye is a non-profit website dedicated to content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow_hunter104
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
-- [FileMasta](https://github.com/HerbL27/FileMasta) ![FOSS](oss.svg)Search servers for video, music, books, software, games, subtitles and much more
+- [FileMasta](https://github.com/HerbL27/FileMasta) ![FOSS](oss.svg) Search servers for video, music, books, software, games, subtitles and much more
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software, and otherwise interesting files.
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
-- [andesite](https://github.com/nektro/andesite) ![FOSS](oss.svg)Easily manage access to your open directory through OAuth2
-- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) ![FOSS](oss.svg)Indexes open directories
+- [andesite](https://github.com/nektro/andesite) ![FOSS](oss.svg) Easily manage access to your open directory through OAuth2
+- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) ![FOSS](oss.svg) Indexes open directories
 
 ### Streaming Sites
 
