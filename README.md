@@ -28,13 +28,15 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Windows 10 Privacy](#windows-10-privacy)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
-- [CLI Tools](#cli-tools)
+- [CLI](#cli)
     - [Shells](#Shells)
-    - [Shell Addons](#shell-addons)
+        - [Shell Addons](#shell-addons)
     - [File Managers](#file-managers)
     - [Text Editors](#text-editors)
     - [Terminal Emulators](#terminal-emulators)
-    - [Terminal Tools](#terminal-tools)
+    - [Directory Navigation](#directory-navigation)
+    - [System Information](#system-information)
+    - [Terminal Utilities](#terminal-utilities)
 - [Youtube Tools](#youtube-tools)
 - [Compression Tools](#compression-tools)
 - [Subreddits](#subreddits)
@@ -328,7 +330,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Zen Instller](https://sourceforge.net/projects/revenge-installer/) ![FOSS](oss.svg) Another installer for arch linux
 - [Manjaro](https://manjaro.org/download/) ![FOSS](oss.svg) A distro based on arch linux making it easy to get people into linux
 
-## CLI Tools
+## CLI
 
 ### Shells
 - [Bash](https://www.gnu.org/software/bash/) ![FOSS](oss.svg) A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
