@@ -370,8 +370,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Termite](https://github.com/thestinger/termite) ![FOSS](oss.svg) Termite is a minimal VTE-based terminal emulator
 - [Terminator](https://gnome-terminator.org/) ![FOSS](oss.svg) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
-## Terminal
-
 ### Directory Navigation
 - [Auto Jump](https://github.com/wting/autojump) ![FOSS](oss.svg) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
 - [Goto](https://github.com/iridakos/goto) ![FOSS](oss.svg) Directory aliases for the shell with autocomplete
@@ -384,7 +382,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Pfetch](https://github.com/dylanaraps/pfetch) ![FOSS](oss.svg) A pretty system information tool written in POSIX sh
 - [Nfetch](https://github.com/ya-sach1/nfetch) ![FOSS](oss.svg) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
 
-## Terminal Utilities
+### Terminal Utilities
 - [Brightness CLI](https://github.com/kevva/brightness-cli) ![FOSS](oss.svg) Change the screen brightness
 - [Has](https://github.com/kdabir/has) Checks for the presence of various commands and their versions on the path
 - [Exa](https://github.com/ogham/exa) ![FOSS](oss.svg) Exa is a modern replacement for ls
