@@ -394,18 +394,18 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Gooey](https://github.com/chriskiehl/Gooey) ![FOSS](oss.svg) Convert almost any python cli to a gui
 - [castnow](https://github.com/xat/castnow) ![FOSS](oss.svg) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
-### Youtube Tools
+## Youtube Tools
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) ![FOSS](oss.svg) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 - [Mps Youtube](https://github.com/mps-youtube/mps-youtube) ![FOSS](oss.svg) CLI Youtube player
 
-### Compression Tools
+## Compression Tools
 - [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
 - [Winrar](https://www.rarlab.com/) Alternative to 7-zip
 - [Peazip](https://peazip.github.io/) ![FOSS](oss.svg) Free and open source utility written in Lazarus / FreePascal
 - [Ark](https://github.com/KDE/ark) ![FOSS](oss.svg) Ark is a graphical file compression/decompression utility with support for multiple formats
 
-### Subreddits
+## Subreddits
 - [/r/Piracy](https://www.reddit.com/r/Piracy) Get guides, help, and resources for safe piracy
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
