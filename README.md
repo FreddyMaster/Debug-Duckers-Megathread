@@ -349,6 +349,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Ranger](https://github.com/ranger/ranger) :star2: ![FOSS](oss.svg) A VIM-inspired filemanager for the console
 - [Midnight Commander](https://midnight-commander.org/) ![FOSS](oss.svg) A visual file manager, licensed under GNU General Public License
 - [nnn](https://github.com/jarun/nnn) ![FOSS](oss.svg) A tiny, lightning fast, feature-packed file manager
+- [Vifm](https://vifm.info/) ![FOSS](oss.svg) Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt
+- [If](https://github.com/gokcehan/lf) ![FOSS](oss.svg) Fast, extensively customizable file manager
+- [fff](https://github.com/dylanaraps/fff) ![FOSS](oss.svg) Fast, simple file manager
 
 ### Text Editors
 - [Vi](http://ex-vi.sourceforge.net/) ![FOSS](oss.svg) One of the most common text editors on Unix
@@ -357,6 +360,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Neovim](https://neovim.io/) ![FOSS](oss.svg) A free open source, powerful, extensible and usable code editor
 - [Spacemacs](https://www.spacemacs.org/) ![FOSS](oss.svg) A community-driven Emacs distribution
 - [Spacevim](https://spacevim.org/) ![FOSS](oss.svg) A community-driven vim distribution
+- [Micro](https://github.com/zyedidia/micro) ![FOSS](oss.svg) A simple and intuitive editor
 
 ### Terminal Emulators
 - [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: ![FOSS](oss.svg) A GPU based terminal emulator that supports smooth scrolling and images
@@ -366,13 +370,26 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Termite](https://github.com/thestinger/termite) ![FOSS](oss.svg) Termite is a minimal VTE-based terminal emulator
 - [Terminator](https://gnome-terminator.org/) ![FOSS](oss.svg) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
-### Terminal Tools
+## Terminal
+
+### Directory Navigation
 - [Auto Jump](https://github.com/wting/autojump) ![FOSS](oss.svg) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [Goto](https://github.com/iridakos/goto) ![FOSS](oss.svg) Directory aliases for the shell with autocomplete
+- [Fastd](https://github.com/clvv/fasd) ![FOSS](oss.svg) Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v
+- [Z](https://github.com/rupa/z) ![FOSS](oss.svg) An easy directory navigator
+
+### System Information
 - [Neofetch](https://github.com/dylanaraps/neofetch) ![FOSS](oss.svg) A command-line system information tool written in bash 3.2+
 - [Archey](https://github.com/HorlogeSkynet/archey4) ![FOSS](oss.svg) Archey is a simple system information tool written in Python
 - [Pfetch](https://github.com/dylanaraps/pfetch) ![FOSS](oss.svg) A pretty system information tool written in POSIX sh
 - [Nfetch](https://github.com/ya-sach1/nfetch) ![FOSS](oss.svg) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
-- [Exa](https://github.com/ogham/exa) ![FOSS](oss.svg) Exa is a modern replacement for ls.
+
+## Terminal Utilities
+- [Brightness CLI](https://github.com/kevva/brightness-cli) ![FOSS](oss.svg) Change the screen brightness
+- [Has](https://github.com/kdabir/has) Checks for the presence of various commands and their versions on the path
+- [Exa](https://github.com/ogham/exa) ![FOSS](oss.svg) Exa is a modern replacement for ls
+- [Undollar](https://github.com/ImFeelingDucky/undollar) ![FOSS](oss.svg) Strip the '$' preceding copy-pasted terminal commands
+- [Yank](https://github.com/mptre/yank) ![FOSS](oss.svg) yank terminal output to clipboard
 - [Terminalizer](https://github.com/faressoft/terminalizer) ![FOSS](oss.svg) Record your terminal and generate animated gif images or share a web player
 - [Gooey](https://github.com/chriskiehl/Gooey) ![FOSS](oss.svg) Convert almost any python cli to a gui
 - [castnow](https://github.com/xat/castnow) ![FOSS](oss.svg) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
@@ -380,6 +397,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ### Youtube Tools
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) ![FOSS](oss.svg) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
+- [Mps Youtube](https://github.com/mps-youtube/mps-youtube) ![FOSS](oss.svg) CLI Youtube player
 
 ### Compression Tools
 - [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
