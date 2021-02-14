@@ -1,5 +1,7 @@
 # Debug Duckers Megathread [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+# Happy Valentines Day Everyone! Spread The Love!
+
 ### *Feel free to add to this list if you feel there is a website or program that you think should gain recognition.  I will make a contributors page for anyone that adds something.*
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
