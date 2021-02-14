@@ -34,7 +34,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
             - [Floating Window Managers](#floating-window-managers)
             - [Tiling Window Managers](#tiling-window-managers)
             - [Dynamic Window Managers](#dynamic-window-managers)
-    
 - [CLI](#cli)
     - [Shells](#Shells)
         - [Shell Addons](#shell-addons)
