@@ -320,7 +320,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [IPFS](https://ipfs.io/) ![FOSS](oss.svg) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 - [Yggdrasil](https://yggdrasil-network.github.io/about.html) ![FOSS](oss.svg) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
 
-## Operating Systems
+## Linux
+
+### Operating Systems
 - [Qubes OS](https://www.qubes-os.org/) ![FOSS](oss.svg) Qubes OS is a security-oriented operating system
 - [Tails](https://tails.boum.org/) ![FOSS](oss.svg) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 - [Arch Linux](archlinux.org/download) :star2: ![FOSS](oss.svg) Popular opensource, rolling release OS
@@ -329,6 +331,45 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Arch Craft](https://archcraft-os.github.io/) ![FOSS](oss.svg) Craft your own arch linux installation
 - [Zen Instller](https://sourceforge.net/projects/revenge-installer/) ![FOSS](oss.svg) Another installer for arch linux
 - [Manjaro](https://manjaro.org/download/) ![FOSS](oss.svg) A distro based on arch linux making it easy to get people into linux
+- [Debian](https://www.debian.org/) ![FOSS](oss.svg) Debian is a stable and secure Linux based operating system.
+- [Ubuntu](https://ubuntu.com/download) ![FOSS](oss.svg) A very popular Linux distro based on Debian (make sure to turn off telemetry)
+- [MX Linux](https://mxlinux.org/) ![FOSS](oss.svg) MX Linux is a cooperative venture between the antiX and MX Linux communities
+- [Open Suse](https://www.opensuse.org/) ![FOSS](oss.svg) A popular distro of Linux with the choice of rolling release or stable releases
+- [Fedora](https://getfedora.org/) ![FOSS](oss.svg) A community version of Red hat linux but its used as individual rather than enterprise
+
+### Desktop Environments
+- [Budgie](https://github.com/solus-project/budgie-desktop) ![FOSS](oss.svg) Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance
+- [Cinnamon](https://github.com/linuxmint/Cinnamon) ![FOSS](oss.svg) Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3
+- [Deepin](https://www.deepin.org/en/) ![FOSS](oss.svg) Deepin desktop interface and apps feature an intuitive and elegant design. Moving around, sharing and searching etc. has become simply a joyful experience
+- [Enlightenment](https://www.enlightenment.org/) ![FOSS](oss.svg) Enlightenment resembles a traditional UNIX/X1 style desktop by design but has a range of add-ons, as well as a different core design philosophy
+- [Gnome](https://www.gnome.org/gnome-3/) ![FOSS](oss.svg) The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session
+- [KDE Plasma](https://kde.org/plasma-desktop/) :star2: ![FOSS](oss.svg) The KDE Plasma desktop environment is a familiar working environment. Plasma offers all the tools required for a modern desktop computing experience so you can be productive right from the start
+- [LXDE](https://www.lxde.org/) ![FOSS](oss.svg) The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment
+- [LXQt](https://lxqt-project.org/) ![FOSS](oss.svg) LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment
+- [Mate](https://mate-desktop.org/) ![FOSS](oss.svg) Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE started as a fork of GNOME 2, but now uses GTK 3
+- [Sugar](https://sugarlabs.org/) ![FOSS](oss.svg) The Sugar Learning Platform is a computer environment composed of Activities designed to help children from 5 to 12 years of age learn together through rich-media expression
+- [UKUI](https://www.ukui.org/) ![FOSS](oss.svg) UKUI is a lightweight Linux desktop environment, developed based on GTK and Qt
+- [Xfce](https://xfce.org/) ![FOSS](oss.svg) Xfce embodies the traditional UNIX philosophy of modularity and re-usability
+- [Pantheon](https://elementary.io/) :star2: ![FOSS](oss.svg) Pantheon has some similarities with GNOME Shell and macOS
+
+## Window Managers
+
+### Floating Window Managers
+- [Blackbox](https://github.com/bbidulock/blackboxwm) ![FOSS](oss.svg) An old school floating widnow manager
+- [FLuxbox](https://github.com/fluxbox/fluxbox) ![FOSS](oss.svg) Fluxbox is a windowmanager for X that was based on the Blackbox 0.61.1 code
+- [Openbox](https://github.com/danakj/openbox) :star2: ![FOSS](oss.svg) Highly configurable, next generation window manager with extensive standards support
+- [Ice WM](https://ice-wm.org/) ![FOSS](oss.svg) Window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user's way
+
+### Tiling Window Managers
+- [Bspwm](https://github.com/baskerville/bspwm) :star2: ![FOSS](oss.svg) bspwm is a tiling window manager that represents windows as the leaves of a full binary tree
+- [i3](https://i3wm.org/) ![FOSS](oss.svg) A tiling window manager, completely written from scratch
+- [Ratpoison](http://www.nongnu.org/ratpoison/) ![FOSS](oss.svg) A Simple Window Manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence
+
+### Dynamic Window Managers
+- [Awesome WM](https://awesomewm.org/) :star2: ![FOSS](oss.svg) Highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license
+- [DWM](http://dwm.suckless.org/) :star2: ![FOSS](oss.svg) Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts
+- [Qtile](https://github.com/qtile/qtile) :star2: ![FOSS](oss.svg) Full-featured, hackable tiling window manager written in Python. Qtile is simple, small, and extensible
+- [Xmonad](http://xmonad.org/) :star2: ![FOSS](oss.svg) Dynamically tiling X11 window manager that is written and configured in Haskell
 
 ## CLI
 
@@ -337,7 +378,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Zsh](https://www.zsh.org/) :star2: ![FOSS](oss.svg) A shell designed for interactive use, although it is also a powerful scripting language
 - [tclsh](https://tcl-lang.org/) ![FOSS](oss.svg) Is a very powerful cross-platform shell, suitable for a huge range of uses
 - [Fish](https://fishshell.com/) ![FOSS](oss.svg) Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
-- [Ksh(Kornshell)](http://www.kornshell.com/) ![FOSS](oss.svg) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
+- [Ksh](http://www.kornshell.com/) ![FOSS](oss.svg) KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
 
 ### Shell Addons
 - [Oh My ZSH!](https://ohmyz.sh/) :star2: ![FOSS](oss.svg) The best framework for managing your Zsh configuration
@@ -357,9 +398,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ### Text Editors
 - [Vi](http://ex-vi.sourceforge.net/) ![FOSS](oss.svg) One of the most common text editors on Unix
-- [Vim](https://www.vim.org/) ![FOSS](oss.svg) A highly configurable text editor
+- [Vim](https://www.vim.org/) :star2: ![FOSS](oss.svg) A highly configurable text editor
 - [Emacs](https://www.gnu.org/software/emacs/) ![FOSS](oss.svg) An extensible, customizable, free/libre text editor, and more
-- [Neovim](https://neovim.io/) ![FOSS](oss.svg) A free open source, powerful, extensible and usable code editor
+- [Neovim](https://neovim.io/) :star2: ![FOSS](oss.svg) A free open source, powerful, extensible and usable code editor
 - [Spacemacs](https://www.spacemacs.org/) ![FOSS](oss.svg) A community-driven Emacs distribution
 - [Spacevim](https://spacevim.org/) ![FOSS](oss.svg) A community-driven vim distribution
 - [Micro](https://github.com/zyedidia/micro) ![FOSS](oss.svg) A simple and intuitive editor
@@ -373,22 +414,22 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Terminator](https://gnome-terminator.org/) ![FOSS](oss.svg) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
 ### Directory Navigation
-- [Auto Jump](https://github.com/wting/autojump) ![FOSS](oss.svg) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [Auto Jump](https://github.com/wting/autojump) :star2: ![FOSS](oss.svg) Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
 - [Goto](https://github.com/iridakos/goto) ![FOSS](oss.svg) Directory aliases for the shell with autocomplete
 - [Fastd](https://github.com/clvv/fasd) ![FOSS](oss.svg) Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v
 - [Z](https://github.com/rupa/z) ![FOSS](oss.svg) An easy directory navigator
 
 ### System Information
-- [Neofetch](https://github.com/dylanaraps/neofetch) ![FOSS](oss.svg) A command-line system information tool written in bash 3.2+
+- [Neofetch](https://github.com/dylanaraps/neofetch) :star2: ![FOSS](oss.svg) A command-line system information tool written in bash 3.2+
 - [Archey](https://github.com/HorlogeSkynet/archey4) ![FOSS](oss.svg) Archey is a simple system information tool written in Python
 - [Pfetch](https://github.com/dylanaraps/pfetch) ![FOSS](oss.svg) A pretty system information tool written in POSIX sh
 - [Nfetch](https://github.com/ya-sach1/nfetch) ![FOSS](oss.svg) nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
 
 ### Terminal Utilities
 - [Brightness CLI](https://github.com/kevva/brightness-cli) ![FOSS](oss.svg) Change the screen brightness
-- [Has](https://github.com/kdabir/has) Checks for the presence of various commands and their versions on the path
+- [Has](https://github.com/kdabir/has) ![FOSS](oss.svg) Checks for the presence of various commands and their versions on the path
 - [Exa](https://github.com/ogham/exa) ![FOSS](oss.svg) Exa is a modern replacement for ls
-- [Undollar](https://github.com/ImFeelingDucky/undollar) ![FOSS](oss.svg) Strip the '$' preceding copy-pasted terminal commands
+- [Undollar](https://github.com/ImFeelingDucky/undollar) :star2: ![FOSS](oss.svg) Strip the '$' preceding copy-pasted terminal commands
 - [Yank](https://github.com/mptre/yank) ![FOSS](oss.svg) yank terminal output to clipboard
 - [Terminalizer](https://github.com/faressoft/terminalizer) ![FOSS](oss.svg) Record your terminal and generate animated gif images or share a web player
 - [Gooey](https://github.com/chriskiehl/Gooey) ![FOSS](oss.svg) Convert almost any python cli to a gui
