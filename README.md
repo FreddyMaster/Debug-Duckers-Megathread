@@ -1,7 +1,5 @@
 # Debug Duckers Megathread [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Happy Valentines Day Everyone! Spread The Love And Stay Safe! :heart:
-
 ### *Feel free to add to this list if you feel there is a website or program that you think should gain recognition.  I will make a contributors page for anyone that adds something.*
 Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
 
@@ -456,6 +454,19 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ## Subreddits
 - [/r/Piracy](https://www.reddit.com/r/Piracy) Get guides, help, and resources for safe piracy
+- [/r/PiratedGames](https://www.reddit.com/r/piratedgames) Talk about pirated games and new cracks!
+- [/r/CrackWatch](https://www.reddit.com/r/crackwatch) Get the crack status of new games
+- [/r/Torrents](https://www.reddit.com/r/torrents) Talk about torrents with other people
+- [/r/OpenDirectories](https://www.reddit.com/r/opendirectories) Get information on open directories
+- [/r/Trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers
+- [/r/Scholar](https://www.reddit.com/r/Scholar/) Scholarly articles and books
+- [/r/SwitchNSPs](https://www.reddit.com/r/SwitchNSPs/) Nintendo Switch NSPs
+- [/r/3dspiracy](https://www.reddit.com/r/3dspiracy) Nintendo 3DS piracy
+- [/r/CemuPiracy](https://www.reddit.com/r/cemupiracy) Cemu piracy
+- [/r/APKMODGAMES](https://www.reddit.com/r/APKMODGAMES) Android games
+- [/r/TorrentRequests](https://www.reddit.com/r/torrentrequests) Request for access to private trackers
+- [/r/OpenSignups](https://www.reddit.com/r/OpenSignups) Get signups to private trackers
+- [/r/invites](https://www.reddit.com/r/invites) Ask for invites to your favorite private BitTorrent tracker
 - [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
 - [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen
