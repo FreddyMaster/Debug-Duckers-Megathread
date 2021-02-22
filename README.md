@@ -163,7 +163,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Miscellaneous](#miscellaneous)
 - [Game Engines](#game-engines)
 - [Guides](#guides)
-- [XXX](#xxx)
 
 ## VPNs
 
@@ -1857,23 +1856,6 @@ premium services
 - [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
-
-
-## XXX
-
-| Website               | Downloadable?         | Ads?             |
-| --------------------- | --------------------- | ---------------- |
-| https://sxyprn.com    | Yes                   | Normal           |
-| https://hqporner.com  | Yes                   | Normal           |
-| https://xxxfree.watch | Yes                   | Normal           |
-| https://goodporn.to   | Yes                   | Normal           |
-| https://porntrex.com  | Required registration | Normal           |
-| https://daftsex.com   | Yes                   | Cancerous popups |
-| https://pornxp.com    | Yes                   | Normal           |
-| https://spankbang.com | Required registration | A few – Normal   |
-| https://eporner.com   | Yes                   | Normal           |
-| https://porngo.com    | Yes                   | Normal           |
-| https://hqporner.com  | Yes                   | Normal           |
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
