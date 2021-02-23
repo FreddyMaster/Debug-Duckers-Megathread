@@ -241,6 +241,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Happidia](https://github.com/Ademking/happydia) ![FOSS](oss.svg) A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
 - [Bypass hCaptcha](https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha) ![FOSS](oss.svg) Bypass hCaptcha
 - [Tabliss](https://tabliss.io/) ![FOSS](oss.svg) A beautiful, customisable New Tab page for Firefox and Chrome.
+- [Buster](https://github.com/dessant/buster) ![FOSS](oss.svg) Captcha Solver for Humans
+- [Ad Detector](https://github.com/typpo/ad-detector) ![FOSS](oss.svg) AdDetector is a Chrome and Firefox addon that flags articles with corporate sponsors by putting a banner above articles which may mislead the reader
+- [Search By Image](https://github.com/dessant/search-by-image) ![FOSS](oss.svg) Search by Image is a browser extension which enables you to initiate a reverse image search from the right-click context menu or the browser toolbar
 
 ### Search Engines
 - [Duck Duck Go](https://duckduckgo.com/) A popular privacy respecting search engine based in the United States
