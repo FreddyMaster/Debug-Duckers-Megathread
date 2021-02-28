@@ -202,7 +202,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Browser Resources
 
 ### Web Browsers
-    Creator Note: You should not be using a proprietary browser.  If you are, I would strongly suggest switching to a Free and Open Source Browser for better privacy and security.
+Creator Note: You should not be using a proprietary browser.  If you are, I would strongly suggest switching to a Free and Open Source Browser for better privacy and security.
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
 - [Waterfox](https://www.waterfox.net/) ![FOSS](oss.svg) A popular fork of firefox that is updated alongside firefox
