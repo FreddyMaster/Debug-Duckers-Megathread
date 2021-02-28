@@ -202,7 +202,10 @@ You will notice some items on this list have a :star2: next to them. Items with 
 ## Browser Resources
 
 ### Web Browsers
+    Creator Note: You should not be using a proprietary browser.  If you are, I would strongly suggest switching to a Free and Open Source Browser for better privacy and security.
+
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :star2: ![FOSS](oss.svg) A very popular free and open source browser made by mozilla
+- [Waterfox](https://www.waterfox.net/) ![FOSS](oss.svg) A popular fork of firefox that is updated alongside firefox
 - [Pale Moon](https://www.palemoon.org/) ![FOSS](oss.svg) An older fork of firefox to be independant of Mozilla
 - [Libre Wolf](https://librewolf-community.gitlab.io/) ![FOSS](oss.svg) A fork of firefox where they take out all the telemetry and add adblockers with privacy in mind
 - [Qutebrowser](https://www.qutebrowser.org/) ![FOSS](oss.svg) A lightweight, vim-based browser with a keyboard based interface
@@ -215,7 +218,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Google Chrome](https://www.google.com/chrome/) A fast webrowser built by google
 - [Pennywise](https://github.com/kamranahmedse/pennywise) ![FOSS](oss.svg) Pennywise opens any website or media in a small floating window that remains on top of all other applications
 - [Vimb](https://github.com/fanglingsu/vimb) ![FOSS](oss.svg) A vim-like lightweight web browser
-- [Wexond](https://github.com/wexond/desktop) ![FOSS](oss.svg) Wexond is an extensible and privacy-focused web browser, built on top of Electron and React, that can also be used as a framework to create a custom web browser.
+- [Wexond](https://github.com/wexond/desktop) ![FOSS](oss.svg) Wexond is an extensible and privacy-focused web browser, built on top of Electron and React, that can also be used as a framework to create a custom web browser
+- [Opera](https://opera.com/) Proprietary browser developed by Opera Software
+- [Yandex Browser](https://browser.yandex.com/) Proprietary browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier
 
 
 ### Browser Extensions
@@ -442,6 +447,20 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Terminalizer](https://github.com/faressoft/terminalizer) ![FOSS](oss.svg) Record your terminal and generate animated gif images or share a web player
 - [Gooey](https://github.com/chriskiehl/Gooey) ![FOSS](oss.svg) Convert almost any python cli to a gui
 - [castnow](https://github.com/xat/castnow) ![FOSS](oss.svg) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+
+### Panels
+- [Polybar](https://github.com/polybar/polybar) ![FOSS](oss.svg) Polybar aims to help users build beautiful and highly customizable status bars without the need of having a black belt in shell scripting
+- [Tint2](https://gitlab.com/o9000/tint2) ![Foss](oss.svg) A lightweight panel/taskbar for Linux and BSD with extensible customization
+- [i3 Status](https://i3wm.org/i3status/manpage.html) ![Foss](oss.svg) Generates a status line for i3bar, dzen2, xmobar or lemonbar
+- [Lemonbar](https://github.com/LemonBoy/bar) ![Foss](oss.svg) Lemonbar (formerly known as bar) is a lightweight statusbar based on XCB
+- [Taffybar](https://github.com/taffybar/taffybar) ![Foss](oss.svg) Taffybar is a gtk+3 (through gi-gtk) based desktop information bar, intended primarily for use with XMonad
+- [dzen2](https://github.com/minos-org/dzen2) ![Foss](oss.svg) dzen2 is a general purpose messaging, notification and menuing program for X11
+- [Xmobar](https://github.com/jaor/xmobar) ![Foss](oss.svg) Xmobar is a lightweight bar primarily for xmonad but will work with other window managers
+
+### Programs/Services
+- [Spotify Adblock Linux](https://github.com/abba23/spotify-adblock-linux) ![FOSS](oss.svg) An adblock version of the linux spotify program
+- [Spotify Adkiller](https://github.com/SecUpwN/Spotify-AdKiller) ![FOSS](oss.svg) A systemd service that blocks ads for spotify
+- [Spotblock](https://github.com/mahkoh/spotblock) ![FOSS](oss.svg) Another systemd service that blocks spotify ads systemwide
 
 ## Youtube Tools
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
