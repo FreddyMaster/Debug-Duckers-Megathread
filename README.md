@@ -461,6 +461,7 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Spotify Adblock Linux](https://github.com/abba23/spotify-adblock-linux) ![FOSS](oss.svg) An adblock version of the linux spotify program
 - [Spotify Adkiller](https://github.com/SecUpwN/Spotify-AdKiller) ![FOSS](oss.svg) A systemd service that blocks ads for spotify
 - [Spotblock](https://github.com/mahkoh/spotblock) ![FOSS](oss.svg) Another systemd service that blocks spotify ads systemwide
+- [Pacui](https://github.com/excalibur1234/pacui#installation) ![FOSS}(oss.svg) A bash script providing useful pacman matainance scripts
 
 ## Youtube Tools
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
