@@ -467,6 +467,9 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) ![FOSS](oss.svg) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 - [Mps Youtube](https://github.com/mps-youtube/mps-youtube) ![FOSS](oss.svg) CLI Youtube player
+- [Youtube-dl](https://github.com/ytdl-org/youtube-dl) ![FOSS](oss.svg) CLI Youtube Downloader
+- [Youtube-dlc](https://github.com/blackjack4494/youtube-dlc) ![FOSS](oss.svg) A fork of youtube-dl with more community contributions
+- [Yt-dlp](https://github.com/yt-dlp/yt-dlp) ![FOSS](oss.svg) A youtube-dl fork with additional features and fixes
 
 ## Compression Tools
 - [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
