@@ -177,12 +177,10 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
-- [Private Internet Access](https://www.privateinternetaccess.com/) ![FOSS](oss.svg) Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
 - [Mullvad](https://mullvad.net/en/) :star2: ![FOSS](oss.svg) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) ![FOSS](oss.svg) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
 - [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 ### Self-hosted VPNs 
 - [n2n](https://github.com/ntop/n2n) ![FOSS](oss.svg) Peer-to-peer VPN
@@ -470,6 +468,9 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl) ![FOSS](oss.svg) CLI Youtube Downloader
 - [Youtube-dlc](https://github.com/blackjack4494/youtube-dlc) ![FOSS](oss.svg) A fork of youtube-dl with more community contributions
 - [Yt-dlp](https://github.com/yt-dlp/yt-dlp) ![FOSS](oss.svg) A youtube-dl fork with additional features and fixes
+- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) ![FOSS](oss.svg) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
+- [youtube-dl-helper](https://youtube-dl-helper.github.io/) ![FOSS](oss.svg) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
+- [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
 
 ## Compression Tools
 - [7-zip](https://www.7-zip.org/) :star2: ![FOSS](oss.svg) Open source zip software
@@ -535,7 +536,6 @@ for any IP address.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
-- [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
 - [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
@@ -592,7 +592,6 @@ for any IP address.
 - [Transmission](https://transmissionbt.com/) ![FOSS](oss.svg) Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) ![FOSS](oss.svg) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Butter Project](http://butterproject.org/) ![FOSS](oss.svg) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
-- [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) ![FOSS](oss.svg) A lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) ![FOSS](oss.svg) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
@@ -701,10 +700,6 @@ for any IP address.
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
 
 ### DDL Tools
-- [youtube-dl](https://youtube-dl.org/) :star2: ![FOSS](oss.svg) youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
-- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) ![FOSS](oss.svg) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
-- [youtube-dl-helper](https://youtube-dl-helper.github.io/) ![FOSS](oss.svg) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
-- [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
 - [Leonflix](https://leonflix.net/) :star2: ![FOSS](oss.svg) A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) ![FOSS](oss.svg) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) ![FOSS](oss.svg) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
