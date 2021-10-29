@@ -1808,7 +1808,7 @@ premium services
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Archives
-- [The Trove](https://thetrove.net/) :star2: The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
+- [The Trove](https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw) :star2: The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs. (Updated To the torrent link)
 - [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) An archive of all gilded /r/Piracy comments and threads.
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
 
