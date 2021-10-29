@@ -23,6 +23,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Search Engines](#search-engines)
     - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
+- [Alternatives](#alternatives)
 - [Antivirus](#antivirus)
 - [Privacy](#privacy)
     - [Windows 10 Privacy](#windows-10-privacy)
@@ -292,6 +293,12 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Psono](https://psono.com/) ![FOSS](oss.svg) Open source and self-hosted password manager for teams
 - [Buttercup](https://buttercup.pw/) ![FOSS](oss.svg) Another open source password manager with desktop, mobile, and browser clients.
 
+## Alternatives
+- [Alternativeto](https://alternativeto.net/) :star2: Find alternatives to popular applications
+- [Product Hunt](https://www.producthunt.com/) a website that lets users share and discover new products
+- [Slant](https://www.slant.co/) a product recommendation community that helps connect people with the best products for them
+- [Adboe Sucks Scrotum](https://ass.esoda.ga/#an) Better, free, alternatives to adobe software
+ 
 ## Antivirus
 - [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
 - [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
@@ -1418,6 +1425,7 @@ premium services
 - [tpget](https://github.com/0x6a73/tpget) ![FOSS](oss.svg) Tutorialspoint downloader
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) :star2: ![FOSS](oss.svg) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [Course Piracy](https://github.com/ItIsMeCall911/Course-Piracy-Index) Course Piracy Index 
 
 ## Audiobooks
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
