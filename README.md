@@ -404,7 +404,7 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Midnight Commander](https://midnight-commander.org/) ![FOSS](oss.svg) A visual file manager, licensed under GNU General Public License
 - [nnn](https://github.com/jarun/nnn) ![FOSS](oss.svg) A tiny, lightning fast, feature-packed file manager
 - [Vifm](https://vifm.info/) ![FOSS](oss.svg) Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt
-- [If](https://github.com/gokcehan/lf) ![FOSS](oss.svg) Fast, extensively customizable file manager
+- [lf](https://github.com/gokcehan/lf) ![FOSS](oss.svg) Fast, extensively customizable file manager
 - [fff](https://github.com/dylanaraps/fff) ![FOSS](oss.svg) Fast, simple file manager
 
 ### Text Editors
@@ -417,10 +417,10 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Micro](https://github.com/zyedidia/micro) ![FOSS](oss.svg) A simple and intuitive editor
 
 ### Terminal Emulators
-- [Kitty](https://sw.kovidgoyal.net/kitty/) :star2: ![FOSS](oss.svg) A GPU based terminal emulator that supports smooth scrolling and images
+- [Kitty](https://sw.kovidgoyal.net/kitty/) ![FOSS](oss.svg) A GPU based terminal emulator that supports smooth scrolling and images
 - [st](https://st.suckless.org/) ![FOSS](oss.svg) st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
 - [urxvt](https://software.schmorp.de/pkg/rxvt-unicode.html) ![FOSS](oss.svg) A customizable terminal emulator forked from rxvt
-- [Alacritty](https://github.com/alacritty/alacritty) ![FOSS](oss.svg) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
+- [Alacritty](https://github.com/alacritty/alacritty) :star2: ![FOSS](oss.svg) Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
 - [Termite](https://github.com/thestinger/termite) ![FOSS](oss.svg) Termite is a minimal VTE-based terminal emulator
 - [Terminator](https://gnome-terminator.org/) ![FOSS](oss.svg) Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
 
@@ -465,9 +465,9 @@ Creator Note: You should not be using a proprietary browser.  If you are, I woul
 - [Fuck Youtube](https://github.com/AlessandroFC15/Fuck-Youtube) ![FOSS](oss.svg) Unblock youtube videos in your country
 - [NSFW Youtube](https://github.com/hqappz/nsfwyoutube) ![FOSS](oss.svg) NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
 - [Mps Youtube](https://github.com/mps-youtube/mps-youtube) ![FOSS](oss.svg) CLI Youtube player
-- [Youtube-dl](https://github.com/ytdl-org/youtube-dl) ![FOSS](oss.svg) CLI Youtube Downloader
-- [Youtube-dlc](https://github.com/blackjack4494/youtube-dlc) ![FOSS](oss.svg) A fork of youtube-dl with more community contributions
-- [Yt-dlp](https://github.com/yt-dlp/yt-dlp) ![FOSS](oss.svg) A youtube-dl fork with additional features and fixes
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) ![FOSS](oss.svg) CLI Youtube Downloader
+- [youtube-dlc](https://github.com/blackjack4494/youtube-dlc) ![FOSS](oss.svg) A fork of youtube-dl with more community contributions
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![FOSS](oss.svg) A youtube-dl fork with additional features and fixes
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) ![FOSS](oss.svg) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) ![FOSS](oss.svg) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 - [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
