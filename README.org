@@ -1,0 +1,2524 @@
+* Debug Duckers Megathread
+  :PROPERTIES:
+  :CUSTOM_ID: debug-duckers-megathread-awesome
+  :END:
+
+*** Please ensure you use an adblocker like [[https://github.com/gorhill/uBlock][uBlock Origin]] to access any of the websites listed here, otherwise, you will have a bad time.
+
+** How to use this list
+   :PROPERTIES:
+   :CUSTOM_ID: how-to-use-this-list
+   :END:
+
+Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use =Ctrl + F= (or =Cmd + F= on macOS).
+
+** Emoji
+   :PROPERTIES:
+   :CUSTOM_ID: emoji
+   :END:
+
+You will notice some items on this list have a 🌟 next to them. Items with a 🌟 represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible. The [[file:oss.svg]] means the product is Free and Open Source which should be used whenever possible.
+
+** Background Information
+   :PROPERTIES:
+   :CUSTOM_ID: background-information
+   :END:
+
+- [[https://en.wikipedia.org/wiki/Category:File_sharing][Wikipedia "File sharing" category]] Wikipedia's full list of file-sharing related
+  articles.
+
+** Contents
+   :PROPERTIES:
+   :CUSTOM_ID: contents
+   :END:
+
+- [[#vpns][VPNs]]
+  - [[#vpn-guides-and-tutorials][VPN Guides and Tutorials]]
+  - [[#vpn-subscription-services][VPN Subscription Services]]
+  - [[#self-hosted-vpns][Self-hosted VPNs]]
+- [[#browser-resources][Browser Resources]]
+  - [[#web-browsers][Web Browsers]]
+  - [[#browser-extensions][Browser Extensions]]
+  - [[#search-engines][Search Engines]]
+  - [[#userscripts][Userscripts]]
+  - [[#password-vaults][Password Managers]]
+- [[#alternatives][Alternatives]]
+- [[#antivirus][Antivirus]]
+- [[#privacy][Privacy]]
+  - [[#windows-10-privacy][Windows 10 Privacy]]
+- [[#email][Email]]
+  - [[#email-clients][Email Clients]]
+- [[#Linux][Linux]]
+  - [[#operating-systems][Operating Systems]]
+    - [[#desktop-environments][Desktop Environments]]
+    - [[#window-managers][Window Managers]]
+      - [[#floating-window-managers][Floating Window Managers]]
+      - [[#tiling-window-managers][Tiling Window Managers]]
+      - [[#dynamic-window-managers][Dynamic Window Managers]]
+  - [[#command-line-tools][Command Line Tools]]
+    - [[#Shells][Shells]]
+      - [[#shell-addons][Shell Addons]]
+    - [[#file-managers][File Managers]]
+    - [[#text-editors][Text Editors]]
+    - [[#terminal-emulators][Terminal Emulators]]
+    - [[#directory-navigation][Directory Navigation]]
+    - [[#system-information][System Information]]
+    - [[#terminal-utilities][Terminal Utilities]]
+  - [[#linux-piracy][Linux Piracy]]
+    - [[#linux-piracy-sites][Linux Piracy Sites]]
+      - [[#linux-piracy-torrents][Linux Piracy Torrents]]
+      - [[#linux-piracy-ddl][Linux Piracy DDL]]
+    - [[#linux-piracy-programs][Linux Piracy Programs]]
+  - [[#linux-gaming][Linux Gaming]]
+- [[#youtube-tools][Youtube Tools]]
+- [[#compression-tools][Compression Tools]]
+- [[#subreddits][Subreddits]]
+- [[#decentralised-networks][Decentralised Networks]]
+- [[#domain-names][Domain Names]]
+- [[#torrenting][Torrenting]]
+  - [[#trackers][Trackers]]
+    - [[#public-trackers][Public Trackers]]
+  - [[#tracker-aggregators][Tracker Aggregators]]
+  - [[#tracker-proxies][Tracker Proxies]]
+  - [[#tracker-invites][Tracker Invites]]
+  - [[#torrent-clients][Torrent Clients]]
+    - [[#deluge][Deluge]]
+    - [[#rtorrent][rTorrent]]
+    - [[#webtorrent-clients][WebTorrent Clients]]
+- [[#usenet][Usenet]]
+  - [[#usenet-providers][Usenet Providers]]
+  - [[#usenet-indexers][Usenet Indexers]]
+    - [[#usenet-indexing-software][Usenet Indexing Software]]
+    - [[#free-indexers][Free Indexers]]
+  - [[#usenet-clients][Usenet Clients]]
+- [[#direct-downloads][Direct Downloads]]
+  - [[#download-managers][Download Managers]]
+  - [[#ddl-tools][DDL Tools]]
+  - [[#custom-google-search-engines][Custom Google Search Engines]]
+  - [[#ftp-indexers][FTP Indexers]]
+  - [[#ddl-search-engines-and-crawlers][DDL Search Engines and Crawlers]]
+  - [[#ddl-link-sites][DDL Link Sites]]
+  - [[#premium-link-generators][Premium Link Generators]]
+  - [[#premium-link-hosts][Premium Link Hosts]]
+  - [[#open-directories][Open Directories]]
+  - [[#streaming-sites][Streaming Sites]]
+    - [[#hd-streaming][HD Streaming]]
+    - [[#big-media-libraries][Big Media Libraries]]
+    - [[#tv][TV]]
+    - [[#anime][Anime]]
+    - [[#cartoons][Cartoons]]
+    - [[#sports-streaming][Sports Streaming]]
+    - [[#specialty-sites][Specialty Sites]]
+    - [[#third-party-hosts][Openload Hosts]]
+- [[#media-centre-applications][Media Centre Applications]]
+- [[#video-clients][Video Clients]]
+- [[#stremio][Stremio]]
+- [[#plex][Plex]]
+  - [[#plex-plugins][Plex Plugins]]
+  - [[#plex-requests][Plex Requests]]
+  - [[#plex-scripts-and-tools][Plex Scripts and Tools]]
+  - [[#plex-shares][Plex Shares]]
+  - [[#plex-transcoding][Plex Transcoding]]
+  - [[#plex-logging-and-metrics][Plex Logging and Metrics]]
+  - [[#plex-clients][Plex Clients]]
+- [[#kodi][Kodi]]
+- [[#gaming][Gaming]]
+  - [[#repacks][Repacks]]
+  - [[#roms][ROMs]]
+  - [[#emulators][Emulators]]
+    - [[#atari][Atari]]
+    - [[#mattel][Mattel]]
+    - [[#microsoft][Microsoft]]
+    - [[#multiemulators][Multiemulators]]
+    - [[#nintendo][Nintendo]]
+    - [[#sega][SEGA]]
+    - [[#sony][Sony]]
+  - [[#console-games][Console Games]]
+  - [[#homebrew-and-custom-firmware][Homebrew and Custom Firmware]]
+- [[#music][Music]]
+  - [[#music-streaming][Music Streaming]]
+  - [[#music-downloading][Music Downloading]]
+  - [[#spotify][Spotify]]
+  - [[#itunes][iTunes]]
+- [[#software][Software]]
+- [[#ebooks][Ebooks]]
+- [[#magazines][Magazines]]
+- [[#academic-papers-and-material][Academic Papers and Material]]
+- [[#textbooks][Textbooks]]
+- [[#courses-and-tutorials][Courses and Tutorials]]
+- [[#audiobooks][Audiobooks]]
+- [[#comicbooks][Comicbooks]]
+- [[#manga][Manga]]
+- [[#documentaries][Documentaries]]
+- [[#fonts-icons-and-graphics][Fonts, Icons and Graphics]]
+- [[#automation][Automation]]
+  - [[#tv-automation][TV Automation]]
+  - [[#movie-automation][Movie Automation]]
+  - [[#music-automation][Music Automation]]
+  - [[#subtitles-automation][Subtitles Automation]]
+- [[#p2p-networks][P2P Networks]]
+- [[#ripping-transcoding-converting-encoding][Ripping, Transcoding, Converting, Encoding]]
+- [[#cloud-storage][Cloud Storage]]
+- [[#file-renaming-and-tagging][File Renaming and Tagging]]
+- [[#mobile-apps][Mobile Apps]]
+  - [[#streaming-apps][Streaming Apps]]
+  - [[#torrent-apps][Torrent Apps]]
+  - [[#apks][APKs]]
+- [[#discord-servers][Discord Servers]]
+- [[#iptv-and-dvr][IPTV and DVR]]
+  - [[#acestreams][Acestreams]]
+- [[#irc][IRC]]
+  - [[#irc-clients][IRC Clients]]
+  - [[#irc-networks][IRC Networks]]
+  - [[#irc-search-engines][IRC Search Engines]]
+- [[#dc][DC++]]
+- [[#full-movies-on][Full Movies On]]
+- [[#piracy-blogs-and-news][Piracy Blogs and News]]
+- [[#content-discovery][Content Discovery]]
+  - [[#predb-sites][PreDB Sites]]
+- [[#dashboards-and-homepages][Dashboards and Homepages]]
+- [[#proxy-sites][Proxy Sites]]
+- [[#dns-tools][DNS Tools]]
+- [[#file-sharing-tools][File Sharing Tools]]
+- [[#stream-synchronisation][Stream Synchronisation]]
+- [[#telegram-piracy][Telegram Piracy]]
+- [[#archives][Archives]]
+- [[#serial-keys][Serial Keys]]
+- [[#useful-websites][Useful Websites]]
+- [[#miscellaneous][Miscellaneous]]
+- [[#game-engines][Game Engines]]
+- [[#guides][Guides]]
+
+** VPNs
+   :PROPERTIES:
+   :CUSTOM_ID: vpns
+   :END:
+*** VPN Guides and Tutorials
+    :PROPERTIES:
+    :CUSTOM_ID: vpn-guides-and-tutorials
+    :END:
+
+- [[https://thatoneprivacysite.net/vpn-section/][That One Privacy Site]] VPN section of That One Privacy Site with VPN comparisons
+- [[https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2][Choosing the best VPN (for you)]] That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
+- [[https://www.reddit.com/r/VPN/wiki/index][/r/VPN wiki]] Helpful FAQ-type resource composed by the folks at /r/VPN
+- [[https://ssd.eff.org/en/module/choosing-vpn-thats-right-you][Choosing the VPN that's right for you]] Helpful guide from the EFF
+- [[https://torrentfreak.com/vpn-services-keep-anonymous-2018/][Which VPN services keep you anonymous in 2018?]] TorrentFreak Article byErnesto
+- [[https://www.privacytools.io/][privacytools.io]] 🌟 "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
+- [[https://wiki.archlinux.org/index.php/VPN_over_SSH][VPN over SSH]] ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
+- [[https://www.reddit.com/r/VPNTorrents][/r/VPNTorrents]] This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+
+*** VPN Subscription Services
+    :PROPERTIES:
+    :CUSTOM_ID: vpn-subscription-services
+    :END:
+
+- [[https://mullvad.net/en/][Mullvad]] 🌟 [[file:oss.svg]] A Bitcoin-friendly, privacy-first VPN.
+- [[https://protonvpn.com/][ProtonVPN]] [[file:oss.svg]] High-speed Swiss VPN that safeguards your privacy.
+- [[https://nordvpn.com/][NordVPN]] With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
+- [[https://windscribe.com/][Windscribe]] Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
+
+*** Self-hosted VPNs
+    :PROPERTIES:
+    :CUSTOM_ID: self-hosted-vpns
+    :END:
+
+- [[https://github.com/ntop/n2n][n2n]] [[file:oss.svg]] Peer-to-peer VPN
+- [[https://peervpn.net/][PeerVPN]] [[file:oss.svg]] PeerVPN is a software that builds virtual ethernet networks between multiple computers.
+- [[https://openvpn.net/][OpenVPN]] 🌟 [[file:oss.svg]] OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [[https://github.com/slackhq/nebula][Nebula]] [[file:oss.svg]] A scalable overlay networking tool with a focus on performance, simplicity and security
+- [[https://pritunl.com/][Pritunl]] [[file:oss.svg]] Enterprise Distributed OpenVPN and IPsec Server
+- [[https://www.wireguard.com/][WireGuard VPN]] [[file:oss.svg]] WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [[https://github.com/sshuttle/sshuttle][sshuttle]] [[file:oss.svg]]Transparent proxy server that works as a poor man's VPN.
+- [[https://www.zerotier.com][ZeroTier]] [[file:oss.svg]] Peer-to-peer multi-platform VPN
+- [[https://www.getoutline.org/][Outline by Alphabet]] [[file:oss.svg]] Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
+- [[https://mysterium.network/][Mysterium Network]] [[file:oss.svg]] Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
+- [[https://tinc-vpn.org/][tinc]] [[file:oss.svg]] Peer-to-peer VPN software with mesh routing.
+- [[https://www.infradead.org/openconnect/][OpenConnect]] [[file:oss.svg]] Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
+- [[https://shadowsocks.org/][Shadowsocks]] [[file:oss.svg]] Secure SOCKS proxy used in China for bypassing the Great Firewall.
+
+** Browser Resources
+   :PROPERTIES:
+   :CUSTOM_ID: browser-resources
+   :END:
+*** Web Browsers
+    :PROPERTIES:
+    :CUSTOM_ID: web-browsers
+    :END:
+Creator Note: You should not be using a proprietary browser. If you are, I would strongly suggest switching to a Free and Open Source Browser for better privacy and security.
+
+- [[https://www.mozilla.org/en-US/firefox/new/][Firefox]] 🌟 [[file:oss.svg]] A very popular free and open source browser made by mozilla
+  - [[https://www.waterfox.net/][Waterfox]] [[file:oss.svg]] A popular fork of firefox that is updated alongside firefox
+  - [[https://www.palemoon.org/][Pale Moon]] [[file:oss.svg]] An older fork of firefox to be independant of Mozilla
+  - [[https://librewolf-community.gitlab.io/][Libre Wolf]] [[file:oss.svg]] A fork of firefox where they take out all the telemetry and add adblockers with privacy in mind
+- [[https://www.qutebrowser.org/][Qutebrowser]] [[file:oss.svg]] A lightweight, vim-based browser with a keyboard based interface
+- [[https://www.chromium.org/getting-involved/download-chromium][Chromium]] [[file:oss.svg]] A very popular framework for modern browsers made by google
+- [[https://github.com/Eloston/ungoogled-chromium][Degoogled Chromium]] 🌟 [[file:oss.svg]] A lightweight approach to removing Google web service dependency from Chromium
+- [[https://brave.com/][Brave]] 🌟 [[file:oss.svg]] Polished free and open source browser that blocks ads, trackers and generates cryptcurrency as you browse to give back to your favorite creators
+- [[https://dissenter.com/][Dissenter]] [[file:oss.svg]] Fork of the Brave browser made more lightweight and free speach centric
+- [[https://vivaldi.com/][Vivaldi]] A proprietary web browser made my the original creators of the opera browser
+- [[https://blisk.io/][Blisk]] Blisk is the first developer-oriented browser
+- [[https://github.com/kamranahmedse/pennywise][Pennywise]] [[file:oss.svg]] Pennywise opens any website or media in a small floating window that remains on top of all other applications
+- [[https://github.com/fanglingsu/vimb][Vimb]] [[file:oss.svg]] A vim-like lightweight web browser
+- [[https://github.com/wexond/desktop][Wexond]] [[file:oss.svg]] Wexond is an extensible and privacy-focused web browser, built on top of Electron and React, that can also be used as a framework to create a custom web browser
+
+*** Browser Extensions
+    :PROPERTIES:
+    :CUSTOM_ID: browser-extensions
+    :END:
+
+- [[https://decentraleyes.org/][Decentraleyes]] [[file:oss.svg]] Protects against tracking with a local CDN (Content Delivery Network) emulation.
+- [[https://www.eff.org/privacybadger][Privacy Badger]] [[file:oss.svg]] Privacy Badger blocks spying ads and invisible trackers.
+- [[https://www.eff.org/https-everywhere][HTTPS Everywhere]] [[file:oss.svg]] HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
+- [[https://github.com/gorhill/uBlock][uBlock Origin]] 🌟 [[file:oss.svg]] An efficient blocker for Chromium and Firefox. Fast and lean.
+- [[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en][TamperMonkey]] The world's most popular userscript manager
+- [[https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en][WebRTC Network Limiter]] [[file:oss.svg]] Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
+- [[https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en][ScriptSafe]] [[file:oss.svg]] A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
+- [[https://noscript.net/getit][NoScript]] [[file:oss.svg]] Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+- [[https://burles.co/en/][Burlesco]] [[file:oss.svg]] Read the news without subscribing, bypass the paywall
+- [[https://github.com/Sainan/Universal-Bypass][Universal Bypass]] 🌟 [[file:oss.svg]] Universal Bypass automatically skips annoying link shorteners.
+- [[https://violentmonkey.github.io/][Violentmonkey]] [[file:oss.svg]] An open-source userscript manager.
+- [[https://github.com/nextgens/anti-paywall][Anti-Paywall]] [[file:oss.svg]] A browser extension that maximizes the chances of bypassing paywalls
+- [[https://github.com/Ibit-to/google-unlocked][Google Unlocked]] [[file:oss.svg]] Uncensor google search results.
+- [[https://adnauseam.io/][AdNauseam]] [[file:oss.svg]] Ad blocker that cant be detected by anti adblock
+- [[https://sasrip.cf/][Media Reaper]] 🌟 [[file:oss.svg]] Download videos from any website
+- [[https://www.crx4chrome.com/][crx4]] [[file:oss.svg]] Alternative to chrome web store
+- [[https://github.com/jswanner/DontFuckWithPaste][DontFuckWithPaste]] [[file:oss.svg]] Stops website from preventing copy and paste
+- [[https://github.com/zombieFox/nightTab][Night Tab]] [[file:oss.svg]]  Customizable new tab page
+- [[https://addons.mozilla.org/en-US/firefox/addon/clickbait-remover-for-youtube/][Clickbait Remover]] [[file:oss.svg]] Replaces thumbnails and modifies titles of videos on youtube.com and m.youtube.com
+- [[https://github.com/Ademking/happydia][Happidia]] [[file:oss.svg]] A browser extension that helps you out by cleaning up sad, triggering, and sometimes just plain annoying news from your social media feed
+- [[https://hackgence.com/d/55-how-to-bypass-hcaptcha-autosolve-captcha][Bypass hCaptcha]] [[file:oss.svg]] Bypass hCaptcha
+- [[https://tabliss.io/][Tabliss]] [[file:oss.svg]] A beautiful, customisable New Tab page for Firefox and Chrome.
+- [[https://github.com/dessant/buster][Buster]] [[file:oss.svg]] Captcha Solver for Humans
+- [[https://github.com/typpo/ad-detector][Ad Detector]] [[file:oss.svg]] AdDetector is a Chrome and Firefox addon that flags articles with corporate sponsors by putting a banner above articles which may mislead the reader
+- [[https://github.com/dessant/search-by-image][Search By Image]] [[file:oss.svg]] Search by Image is a browser extension which enables you to initiate a reverse image search from the right-click context menu or the browser toolbar
+
+*** Search Engines
+    :PROPERTIES:
+    :CUSTOM_ID: search-engines
+    :END:
+
+- [[https://duckduckgo.com/][Duck Duck Go]] A popular privacy respecting search engine based in the United States
+- [[https://www.qwant.com/][Quant]] A privacy respecting search engine based in France
+- [[https://yandex.com/][Yandex]] A Russian search engine offering other servies to replace google
+- [[https://www.bing.com/][Bing]] A popular search engine made by microsoft
+- [[https://www.google.com/][Google]] The worlds most popular search engine
+- [[https://searx.github.io/searx/][Searx]] 🌟 [[file:oss.svg]] A privacy respecting self-hosted search engine that can query many sources
+
+*** Userscripts
+    :PROPERTIES:
+    :CUSTOM_ID: userscripts
+    :END:
+
+- [[https://greasyfork.org/en/scripts/3967-imdb-scout][IMDb Scout]] [[file:oss.svg]] Add links from IMDb pages to torrent sites -- easy downloading from IMDb
+- [[https://greasyfork.org/en/scripts/407284-imdb-scout-mod][IMDb Scout Mod]] file:oss.svg  Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
+- [[https://adsbypasser.github.io/][AdsBypasser]] [[file:oss.svg]] This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
+- [[https://greasyfork.org/en/scripts/4294-antiadware][AntiAdware]] [[file:oss.svg]] Remove forced download accelerators, managers, and adware on supported websites
+- [[https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/][Direct download from Google Play]] [[file:oss.svg]] Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
+- [[https://github.com/AdguardTeam/PopupBlocker][AdGuard Popup Blocker]] [[file:oss.svg]] Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
+- [[https://greasyfork.org/en/scripts/21547-torrentz2-magnet][Torrentz2 Magnet]] [[file:oss.svg]] Add magnet link to torrentz2
+- [[https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents][Bypass paywalls for scientific documents]] [[file:oss.svg]] This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
+- [[https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha][Bypass Google Sorry (reCAPTCHA)]] [[file:oss.svg]] Redirect Google reCAPTCHA to a new search window.
+- [[https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix][Google Image "View Image" button]] [[file:oss.svg]] Add "View Image" button.
+- [[https://greasyfork.org/en/scripts/31088-morecaptcha][MoreCAPTCHA]] [[file:oss.svg]] Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
+- [[https://greasyfork.org/en/scripts/372847-mal-sync][MAL-Sync]] [[file:oss.svg]] Integrates MyAnimeList into various sites, with auto episode tracking.
+- [[https://www.removeddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/][Remove fake TPB torrents]] [[file:oss.svg]] Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
+- [[https://cs.rin.ru/forum/viewtopic.php?t=71837][Get DLC Info from SteamDB]] [[file:oss.svg]] For use with CreamAPI and similar tools.
+- [[https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner][The Pirate Bay Cleaner]] [[file:oss.svg]] Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
+
+*** Password Managers
+   :PROPERTIES:
+   :CUSTOM_ID: password-vaults
+   :END:
+
+- [[https://bitwarden.com/][BitWarden]] 🌟 [[file:oss.svg]] Open source password management solution, can be self-hosted.
+- [[https://1password.com/][1Password]] Popular cloud-hosted password manager.
+- [[https://keepass.info/][KeePass]] 🌟 [[file:oss.svg]] Free, open source, light-weight, and easy-to-use password manager.
+  - [[https://keepass.info/plugins.html][Plugins]] : A list of third-party plugins for KeePassAndroid: [[https://github.com/PhilippC/keepass2android][Keepass2Android]]
+    - iPhone: [[https://keepassium.com/][KeePassium]]
+    - Chrome: [[https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm][Tusk]]
+    - Firefox: [[https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk][Tusk]]
+    - Web App: [[https://keeweb.info/][KeeWeb]]
+- [[https://www.passwordstore.org/][Pass]] [[file:oss.svg]] Simple GPG/Git password manager. Follows the Unix philosophy.
+- [[https://www.passbolt.com/][Passbolt]] [[file:oss.svg]] Free, open source, self-hosted, extensible, OpenPGP based.
+- [[https://lesspass.com/][LessPass]] [[file:oss.svg]] Stateless open source password manager.
+- [[https://psono.com/][Psono]] [[file:oss.svg]] Open source and self-hosted password manager for teams.
+- [[https://buttercup.pw/][Buttercup]] [[file:oss.svg]] Another open source password manager with desktop, mobile, and browser clients.
+
+** Alternatives
+   :PROPERTIES:
+   :CUSTOM_ID: alternatives
+   :END:
+
+- [[https://alternativeto.net/][Alternativeto]] 🌟 Find alternatives to popular applications.
+- [[https://www.producthunt.com/][Product Hunt]] a website that lets users share and discover new products.
+- [[https://www.slant.co/][Slant]] a product recommendation community that helps connect people with the best products for them.
+- [[https://ass.esoda.ga/#an][Adobe Sucks Scrotum]] Better, free, alternatives to adobe software.
+
+** Antivirus
+   :PROPERTIES:
+   :CUSTOM_ID: antivirus
+   :END:
+
+- [[https://www.malwarebytes.com/][MalwareBytes]] 🌟 "crushes malware so you are protected and your machine keeps running smoothly."
+- [[https://www.virustotal.com/][VirusTotal]] Web service for scanning files and URLs for viruses.
+- [[https://www.clamav.net][Clam AV]] [[file:oss.svg]] n open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+- [[https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/][How to remove viruses and malware on your Windows PC]] Helpful HowToGeek article on cleaning out the pipes.
+
+** Privacy
+   :PROPERTIES:
+   :CUSTOM_ID: privacy
+   :END:
+
+- [[https://prism-break.org/en/][Prism Break]] 🌟 Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+- [[https://www.reddit.com/r/privacy/][/r/privacy]] The intersection of technology, privacy, and freedom in a digital world.
+- [[https://github.com/AnySoftKeyboard/AnySoftKeyboard][Any Soft Keyboard]] [[file:oss.svg]] A privacy-focused keyboard.
+- [[https://www.privacytools.io/][Privacy Suggestions]] Best place to find privacy-focused products.
+- [[https://haveibeenpwned.com/][Check For Data Breaches]] [[file:oss.svg]] Searches a database of security breaches to see if you were attacked.
+- [[https://www.reddit.com/r/privacy/wiki/de-google][De-google]] De-google your life.
+
+*** Windows 10 Privacy
+    :PROPERTIES:
+    :CUSTOM_ID: windows-10-privacy
+    :END:
+
+- [[https://www.oo-software.com/en/shutup10][O&O ShutUp10]] 🌟 O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [[https://github.com/adolfintel/Windows10-Privacy][Windows 10 Privacy Guide]] 🌟 [[file:oss.svg]] an In-depth guide on purging Windows 10 of Microsoft's attempts to track you.
+- [[https://www.phrozen.io/freeware/windows-privacy-tweaker/][Windows Privacy Tweaker]] Freeware app from phrozen.io.
+- [[https://winaero.com/blog/about-us/][Winaero]] Free, small and useful software for Windows.
+- [[https://wpd.app/][WPD]] The real privacy dashboard for Windows.
+- [[http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html][Destroy-Windows-10-Spying]] Destroy Windows Spying tool.
+- [[https://www.reddit.com/r/TronScript][Tron]] Tron, an automated PC cleanup script.
+- [[https://github.com/basil00/TorWall][Tallow]] [[file:oss.svg]] Tallow is a transparent Tor firewall and proxying solution for Windows.
+
+** Email
+   :PROPERTIES:
+   :CUSTOM_ID: email
+   :END:
+
+- [[https://protonmail.com/][ProtonMail]] 🌟 [[file:oss.svg]] Secure Email Based in Switzerland.
+- [[https://10minutemail.net/][10 Minute Mail]] Disposable, private mailboxes.
+- [[https://cock.li/][Cock.li]] Yeah it's mail with cocks.
+- [[https://tutanota.com/][Tutanota]] [[file:oss.svg]] Secure, open source email service.
+
+*** Email Clients
+:PROPERTIES:
+   :CUSTOM_ID: email-clients
+   :END:
+
+- [[https://www.thunderbird.net/en-US/][Thunderbird]] [[file:oss.svg]] a free email application that’s easy to set up and customize.
+- [[https://getmailspring.com/][Mailspring]] 🌟 [[file:oss.svg]] Boost your productivity and send better email with Mailspring, the best mail client for Mac, Linux, and Windows.
+- [[https://www.betterbird.eu/][Betterbird]] [[file:oss.svg]] Betterbird. Simply better. A soft fork of Mozilla Thunderbird
+
+** Decentralised Networks
+   :PROPERTIES:
+   :CUSTOM_ID: decentralised-networks
+   :END:
+
+- [[https://www.torproject.org/][Tor]] 🌟 [[file:oss.svg]] Tor is free software and an open network that helps you defend against traffic analysis.
+- [[https://geti2p.net/en/][I2P]] [[file:oss.svg]] I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+- [[https://freenetproject.org][Freenet]] [[file:oss.svg]] Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+- [[https://zeronet.io/][Zeronet]] [[file:oss.svg]] Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+- [[https://github.com/loki-project/loki-network][Loki]] [[file:oss.svg]] Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+- [[https://ipfs.io/][IPFS]] [[file:oss.svg]] A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+- [[https://yggdrasil-network.github.io/about.html][Yggdrasil]] [[file:oss.svg]] Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
+
+** Linux
+   :PROPERTIES:
+   :CUSTOM_ID: linux
+   :END:
+*** Operating Systems
+    :PROPERTIES:
+    :CUSTOM_ID: operating-systems
+    :END:
+
+- [[https://www.qubes-os.org/][Qubes OS]] [[file:oss.svg]] Qubes OS is a security-oriented operating system
+- [[https://tails.boum.org/][Tails]] [[file:oss.svg]] Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+- [[archlinux.org][Arch Linux]] 🌟 [[file:oss.svg]] Popular opensource, rolling release OS
+  - [[https://github.com/MatMoul/archfi][Archfi]] [[file:oss.svg]] fully customizable arch linux installler
+  - [[https://anarchyinstaller.org/][Anarchy Linux]] [[file:oss.svg]] Another installer for arch linux
+  - [[https://archcraft-os.github.io/][Arch Craft]] [[file:oss.svg]] Craft your own arch linux installation
+  - [[https://sourceforge.net/projects/revenge-installer/][Zen Instller]]  [[file:oss.svg]] Another installer for arch linux
+- [[https://manjaro.org/download/][Manjaro]] [[file:oss.svg]] A distro  based on arch linux making it easy to get people into linux
+- [[https://www.debian.org/][Debian]] [[file:oss.svg]] Debian is a stable and secure Linux based operating system.
+- [[https://ubuntu.com/download][Ubuntu]] [[file:oss.svg]] A very popular Linux distro based on Debian (make sure to turn off telemetry)
+- [[https://mxlinux.org/][MX Linux]] [[file:oss.svg]] MX Linux is a cooperative venture between the antiX and MX Linux communities
+- [[https://www.opensuse.org/][Open Suse]] [[file:oss.svg]] A popular distro of Linux with the choice of rolling release or stable releases
+- [[https://getfedora.org/][Fedora]] [[file:oss.svg]] A community version of Red hat linux but its used as individual rather than enterprise
+
+*** Desktop Environments
+    :PROPERTIES:
+    :CUSTOM_ID: desktop-environments
+    :END:
+
+- [[https://github.com/solus-project/budgie-desktop][Budgie]] [[file:oss.svg]] Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance
+- [[https://github.com/linuxmint/Cinnamon][Cinnamon]] [[file:oss.svg]] Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3
+- [[https://www.deepin.org/en/][Deepin]] [[file:oss.svg]] Deepin desktop interface and apps feature an intuitive and elegant design. Moving around, sharing and searching etc. has become simply a joyful experience
+- [[https://www.enlightenment.org/][Enlightenment]] [[file:oss.svg]] Enlightenment resembles a traditional UNIX/X1 style desktop by design but has a range of add-ons, as well as a different core design philosophy
+- [[https://www.gnome.org/gnome-3/][Gnome]] [[file:oss.svg]] The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session
+- [[https://kde.org/plasma-desktop/][KDE Plasma]] 🌟 [[file:oss.svg]] The KDE Plasma desktop environment is a familiar working environment. Plasma offers all the tools required for a modern desktop computing experience so you can be productive right from the start
+- [[https://www.lxde.org/][LXDE]] [[file:oss.svg]] The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment
+- [[https://lxqt-project.org/][LXQt]] [[file:oss.svg]] LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment
+- [[https://mate-desktop.org/][Mate]] [[file:oss.svg]] Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE started as a fork of GNOME 2, but now uses GTK 3
+- [[https://sugarlabs.org/][Sugar]] [[file:oss.svg]] The Sugar Learning Platform is a computer environment composed of Activities designed to help children from 5 to 12 years of age learn together through rich-media expression
+- [[https://www.ukui.org/][UKUI]] [[file:oss.svg]] UKUI is a lightweight Linux desktop environment, developed based on GTK and Qt
+- [[https://xfce.org/][Xfce]] [[file:oss.svg]] Xfce embodies the traditional UNIX philosophy of modularity and re-usability
+- [[https://elementary.io/][Pantheon]] 🌟 [[file:oss.svg]] Pantheon has some similarities with GNOME Shell and macOS
+
+*** Window Managers
+   :PROPERTIES:
+   :CUSTOM_ID: window-managers
+   :END:
+**** Floating Window Managers
+    :PROPERTIES:
+    :CUSTOM_ID: floating-window-managers
+    :END:
+
+- [[https://github.com/bbidulock/blackboxwm][Blackbox]] [[file:oss.svg]] An old school floating widnow manager
+- [[https://github.com/fluxbox/fluxbox][FLuxbox]] [[file:oss.svg]] Fluxbox is a windowmanager for X that was based on the Blackbox 0.61.1 code
+- [[https://github.com/danakj/openbox][Openbox]] 🌟 [[file:oss.svg]] Highly configurable, next generation window manager with extensive standards support
+- [[https://ice-wm.org/][Ice WM]] [[file:oss.svg]] Window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user's way
+
+**** Tiling Window Managers
+    :PROPERTIES:
+    :CUSTOM_ID: tiling-window-managers
+    :END:
+
+- [[https://github.com/baskerville/bspwm][Bspwm]] 🌟 [[file:oss.svg]] bspwm is a tiling window manager that represents windows as the leaves of a full binary tree
+- [[https://i3wm.org/][i3]] [[file:oss.svg]] A tiling window manager, completely written from scratch
+- [[http://www.nongnu.org/ratpoison/][Ratpoison]] [[file:oss.svg]] A Simple Window Manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence
+- [[https://leftwm.org/][Left WM]] [[file:oss.svg]] a tiling window manager written in rust for stability and performance
+
+**** Dynamic Window Managers
+    :PROPERTIES:
+    :CUSTOM_ID: dynamic-window-managers
+    :END:
+
+- [[https://awesomewm.org/][Awesome WM]] 🌟 [[file:oss.svg]] Highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license
+- [[http://dwm.suckless.org/][DWM]] 🌟 [[file:oss.svg]] Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts
+- [[https://github.com/qtile/qtile][Qtile]] 🌟 [[file:oss.svg]] Full-featured, hackable tiling window manager written in Python. Qtile is simple, small, and extensible
+- [[http://xmonad.org/][Xmonad]] 🌟 [[file:oss.svg]] Dynamically tiling X11 window manager that is written and configured in Haskell
+
+*** Command Line Tools
+   :PROPERTIES:
+   :CUSTOM_ID: command-line-tools
+   :END:
+**** Shells
+    :PROPERTIES:
+    :CUSTOM_ID: shells
+    :END:
+
+- [[https://www.gnu.org/software/bash/][Bash]] [[file:oss.svg]] A Sh-compatible shell that incorporates useful features from the Korn shell and C shell
+- [[https://www.zsh.org/][Zsh]] 🌟 [[file:oss.svg]] A shell designed for interactive use, although it is also a powerful scripting language
+- [[https://tcl-lang.org/][tclsh]] [[file:oss.svg]] Is a very powerful cross-platform shell, suitable for a huge range of uses
+- [[https://fishshell.com/][Fish]] [[file:oss.svg]] Fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
+- [[http://www.kornshell.com/][Ksh]] [[file:oss.svg]] KornShell (ksh) is a Unix shell. KornShell is backward-compatible with the Bourne shell and includes many features of the C shell, inspired by the requests of Bell Labs users
+
+**** Shell Addons
+    :PROPERTIES:
+    :CUSTOM_ID: shell-addons
+    :END:
+
+- [[https://ohmyz.sh/][Oh My ZSH!]] 🌟 [[file:oss.svg]] The best framework for managing your Zsh configuration
+- [[https://github.com/oh-my-fish/oh-my-fish][Oh My Fish!]] [[file:oss.svg]] Same as above but, for the Fishshell framework
+- [[https://github.com/starship/starship][Starship]] [[file:oss.svg]] The cross-shell prompt written in Rust
+- [[https://github.com/romkatv/powerlevel10k][powerlevel10k]] 🌟 [[file:oss.svg]] A fast reimplementation of Powerlevel9k ZSH theme.
+- [[https://github.com/zsh-users/zsh-autosuggestions][zsh-autosuggestions]] 🌟 [[file:oss.svg]] Fish-like autosuggestions for Zsh.
+- [[https://github.com/zsh-users/zsh-syntax-highlighting][zsh-syntax-highlighting]] 🌟 [[file:oss.svg]] Fish shell like syntax highlighting for Zsh.
+
+**** File Managers
+    :PROPERTIES:
+    :CUSTOM_ID: file-managers
+    :END:
+
+- [[https://github.com/ranger/ranger][Ranger]] 🌟 [[file:oss.svg]] A VIM-inspired filemanager for the console
+- [[https://midnight-commander.org/][Midnight Commander]] [[file:oss.svg]] A visual file manager, licensed under GNU General Public License
+- [[https://github.com/jarun/nnn][nnn]] [[file:oss.svg]] A tiny, lightning fast, feature-packed file manager
+- [[https://vifm.info/][Vifm]] [[file:oss.svg]] Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt
+- [[https://github.com/gokcehan/lf][lf]] [[file:oss.svg]] Fast, extensively customizable file manager
+- [[https://github.com/dylanaraps/fff][fff]] [[file:oss.svg]] Fast, simple file manager
+
+**** Text Editors
+    :PROPERTIES:
+    :CUSTOM_ID: text-editors
+    :END:
+
+- [[http://ex-vi.sourceforge.net/][Vi]] [[file:oss.svg]] One of the most common text editors on Unix
+- [[https://www.vim.org/][Vim]] [[file:oss.svg]] A highly configurable text editor
+- [[https://www.gnu.org/software/emacs/][Emacs]] [[file:oss.svg]] An extensible, customizable, free/libre text editor, and more
+  - [[https://www.spacemacs.org/][Spacemacs]] [[file:oss.svg]] A community-driven Emacs distribution
+  - [[https://github.com/hlissner/doom-emacs][Doom-emacs]] 🌟 file:oss.svg An Emacs framework for the stubborn martian hacker
+- [[https://www.vim.org/][Vim]] [[file:oss.svg]] A highly configurable text editor
+    - [[https://neovim.io][Neovim]]  [[file:oss.svg]] A free open source, powerful, extensible and usable code editor
+    - [[https://spacevim.org/][Spacevim]] [[file:oss.svg]] A community-driven vim distribution
+- [[https://github.com/zyedidia/micro][Micro]] [[file:oss.svg]] A simple and intuitive editor
+
+**** Terminal Emulators
+    :PROPERTIES:
+    :CUSTOM_ID: terminal-emulators
+    :END:
+
+- [[https://sw.kovidgoyal.net/kitty/][Kitty]] [[file:oss.svg]] A GPU based terminal emulator that supports smooth scrolling and images
+- [[https://st.suckless.org/][st]] [[file:oss.svg]] st is a simple terminal implementation for Xorg by suckless. It is intended to serve as a lightweight replacement for xterm or urxvt
+- [[https://software.schmorp.de/pkg/rxvt-unicode.html][urxvt]] [[file:oss.svg]] A customizable terminal emulator forked from rxvt
+- [[https://github.com/alacritty/alacritty][Alacritty]] 🌟 [[file:oss.svg]] Alacritty is a simple, GPU-accelerated terminal emulator written in Rust. It supports scrollback, truecolor, copy/paste, clicking on URLS, and custom key bindings
+- [[https://gnome-terminator.org/][Terminator]] [[file:oss.svg]] Terminator is a terminal emulator which supports tabs and multiple resizable terminal panels in one window
+
+**** Directory Navigation
+    :PROPERTIES:
+    :CUSTOM_ID: directory-navigation
+    :END:
+
+- [[https://github.com/wting/autojump][Auto Jump]] 🌟 [[file:oss.svg]] Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line
+- [[https://github.com/iridakos/goto][Goto]] [[file:oss.svg]] Directory aliases for the shell with autocomplete
+- [[https://github.com/clvv/fasd][Fastd]] [[file:oss.svg]] Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v
+- [[https://github.com/rupa/z][Z]] [[file:oss.svg]] An easy directory navigator
+
+**** System Information
+    :PROPERTIES:
+    :CUSTOM_ID: system-information
+    :END:
+
+- [[https://github.com/dylanaraps/neofetch][Neofetch]] 🌟 [[file:oss.svg]] A command-line system information tool written in bash 3.2+
+- [[https://github.com/HorlogeSkynet/archey4][Archey]] [[file:oss.svg]] Archey is a simple system information tool written in Python
+- [[https://github.com/dylanaraps/pfetch][Pfetch]] [[file:oss.svg]] A pretty system information tool written in POSIX sh
+- [[https://github.com/ya-sach1/nfetch][Nfetch]] [[file:oss.svg]] nfetch is a very simple system info tool written in node.js, it has zero dependencies and is very lightweight
+
+**** Terminal Utilities
+    :PROPERTIES:
+    :CUSTOM_ID: terminal-utilities
+    :END:
+
+- [[https://github.com/kevva/brightness-cli][Brightness CLI]] [[file:oss.svg]] Change the screen brightness
+- [[https://github.com/kdabir/has][Has]] [[file:oss.svg]] Checks for the presence of various commands and their versions on the path
+- [[https://github.com/ogham/exa][Exa]] [[file:oss.svg]] Exa is a modern replacement for ls
+- [[https://github.com/ImFeelingDucky/undollar][Undollar]] 🌟 [[file:oss.svg]] Strip the '$' preceding copy-pasted terminal commands
+- [[https://github.com/mptre/yank][Yank]] [[file:oss.svg]] yank terminal output to clipboard
+- [[https://github.com/faressoft/terminalizer][Terminalizer]] [[file:oss.svg]] Record your terminal and generate animated gif images or share a web player
+- [[https://github.com/chriskiehl/Gooey][Gooey]] [[file:oss.svg]] Convert almost any python cli to a gui
+- [[https://github.com/xat/castnow][castnow]] [[file:oss.svg]] Castnowis a command-line utility that can be used to play back media files on your Chromecast device.
+
+**** Panels
+    :PROPERTIES:
+    :CUSTOM_ID: panels
+    :END:
+
+- [[https://github.com/polybar/polybar][Polybar]] [[file:oss.svg]] Polybar aims to help users build beautiful and highly customizable status bars without the need of having a black belt in shell scripting
+- [[https://gitlab.com/o9000/tint2][Tint2]] [[file:oss.svg]] A lightweight panel/taskbar for Linux and BSD with extensible customization
+- [[https://i3wm.org/i3status/manpage.html][i3 Status]] [[file:oss.svg]] Generates a status line for i3bar, dzen2, xmobar or lemonbar
+- [[https://github.com/LemonBoy/bar][Lemonbar]] [[file:oss.svg]] Lemonbar (formerly known as bar) is a lightweight statusbar based on XCB
+- [[https://github.com/taffybar/taffybar][Taffybar]] [[file:oss.svg]] Taffybar is a gtk+3 (through gi-gtk) based desktop information bar, intended primarily for use with XMonad
+- [[https://github.com/minos-org/dzen2][dzen2]] [[file:oss.svg]] dzen2 is a general purpose messaging, notification and menuing program for X11
+- [[https://github.com/jaor/xmobar][Xmobar]] [[file:oss.svg]] Xmobar is a lightweight bar primarily for xmonad but will work with other window managers
+
+**** Scripts/Services
+    :PROPERTIES:
+    :CUSTOM_ID: programsservices
+    :END:
+
+- [[https://github.com/abba23/spotify-adblock-linux][Spotify Adblock Linux]] [[file:oss.svg]] An adblock version of the linux spotify program
+- [[https://github.com/SecUpwN/Spotify-AdKiller][Spotify Adkiller]] [[file:oss.svg]] A systemd service that blocks ads for spotify
+- [[https://github.com/mahkoh/spotblock][Spotblock]] [[file:oss.svg]]  Another systemd service that blocks spotify ads systemwide
+- [[https://github.com/excalibur1234/pacui#installation][Pacui]] [[file:oss.svg]] A bash script providing useful pacman matainance scripts
+
+*** Linux Piracy
+   :PROPERTIES:
+   :CUSTOM_ID: linux-piracy
+   :END:
+**** Sites
+:PROPERTIES:
+   :CUSTOM_ID: linux-piracy-sites
+   :END:
+
+***** Torrents
+:PROPERTIES:
+   :CUSTOM_ID: linux-piracy-torrents
+   :END:
+
+- [[https://1337x.to/user/johncena141/][Johncena141]] Native GNU/Linux and wine game repacks
+- [[https://freegogpcgames.com/][Freegogpcgames]] Torrents of uploaded games from GOG.com
+- [[https://rutracker.org/forum/index.php][Rutracker]] Sign up for RuTracker and Torrent Linux games from here
+
+***** DDL
+:PROPERTIES:
+   :CUSTOM_ID: linux-piracy-ddl
+   :END:
+
+- [[https://forum.torrminatorr.com/viewforum.php?f=26&sid=f2c3e3fcd95004aa3e5e8facbb4de132][Torminatorr]] A forum of native GNU/Linux downloads
+- [[https://gog-games.com/][Gog-games]] DDl of uploaded games from GOG.com
+- [[https://cs.rin.ru/][cs.rin.ru]] Can be unpacked and run on Proton or Wine
+- [[https://scnlog.me/games/linux/][SCNLOG]] Has a wide Linux Scene release section
+- [[https://steamunlocked.pro/][Steam Unlocked]] Preinstalled games that can be run through wine
+
+**** Programs
+:PROPERTIES:
+   :CUSTOM_ID: linux-piracy-programs
+   :END:
+
+- [[https://notabug.org/johncena141/rum][Rum]] Launch and manage your johncena141 repacks
+- [[https://github.com/dscharrer/InnoExtract][Innoextract]] Extract exe games from gog
+- [[https://github.com/frostworx/steamtinkerlaunch][Steam Tinker Launcher]] Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+
+*** Linux Gaming
+:PROPERTIES:
+   :CUSTOM_ID: linux-gaming
+   :END:
+
+- [[https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/5.21-GE-1][Proton-GE]] 🌟 [[file:oss.svg]] A better custom build of proton
+- [[https://github.com/flightlessmango/MangoHud][Mango HUD]] 🌟 [[file:oss.svg]] Open source fraps
+- [[https://www.winehq.org/][WINE]] [[file:oss.svg]] Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on linux
+- [[https://github.com/derrod/legendary][Legendary(CLI)]] [[file:oss.svg]] Native epic games laucher for linux
+- [[https://github.com/flavioislima/HeroicGamesLauncher][Heroic Games Launcher(GUI)]] 🌟 [[file:oss.svg]] Gui for legendary(cli) with added features
+- [[https://lutris.net/downloads][Lutris]] 🌟 [[file:oss.svg]] Community installers for wine games and emulators for linux
+- [[https://sharkwouter.github.io/minigalaxy/][Mini Galaxy]] [[file:oss.svg]] Native gog client for linux
+
+** Youtube Tools
+   :PROPERTIES:
+   :CUSTOM_ID: youtube-tools
+   :END:
+
+- [[https://github.com/AlessandroFC15/Fuck-Youtube][Fuck Youtube]] [[file:oss.svg]] Unblock youtube videos in your country
+- [[https://github.com/hqappz/nsfwyoutube][NSFW Youtube]] [[file:oss.svg]] NSFW YouTube is an addon that can unlock age-restricted content on YouTube without creating a YouTube account
+- [[https://github.com/mps-youtube/mps-youtube][Mps Youtube]] [[file:oss.svg]] CLI Youtube player
+- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]] [[file:oss.svg]] CLI Youtube Downloader(Not Regularly maintained)
+  - [[https://github.com/blackjack4494/youtube-dlc][youtube-dlc]] [[file:oss.svg]] A fork of youtube-dl with more community contributions
+  - [[https://github.com/yt-dlp/yt-dlp][yt-dlp]] 🌟 [[file:oss.svg]] A youtube-dl fork with additional features and fixes
+  - [[https://mrs0m30n3.github.io/youtube-dl-gui/][youtube-dl-gui]] [[file:oss.svg]] A cross-platform front-end GUI of the popular youtube-dl written in wxPython
+  - [[https://youtube-dl-helper.github.io/][youtube-dl-helper]] [[file:oss.svg]] Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
+- [[https://ytmp3.cc/en9/][YouTube MP3 Rip]] Download YouTube music videos as MP3 files without registration
+
+** Compression Tools
+   :PROPERTIES:
+   :CUSTOM_ID: compression-tools
+   :END:
+
+- [[https://www.7-zip.org/][7-zip]] 🌟 [[file:oss.svg]] Open source  zip software
+- [[https://www.rarlab.com/][Winrar]] Alternative to 7-zip
+- [[https://peazip.github.io/][Peazip]] [[file:oss.svg]] Free and open source utility written in Lazarus / FreePascal
+
+** Subreddits
+   :PROPERTIES:
+   :CUSTOM_ID: subreddits
+   :END:
+
+- [[https://www.reddit.com/r/Piracy][/r/Piracy]] Get guides, help, and resources for safe piracy
+- [[https://www.reddit.com/r/piratedgames][/r/PiratedGames]] Talk about pirated games and new cracks!
+- [[https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/][r/FREEMEDIAHECKYEAH]] Resources for free media and piracy
+- [[https://www.reddit.com/r/crackwatch][/r/CrackWatch]] Get the crack status of new games
+- [[https://www.reddit.com/r/torrents][/r/Torrents]] Talk about torrents with other people
+- [[https://www.reddit.com/r/opendirectories][/r/OpenDirectories]] Get information on open directories
+- [[https://www.reddit.com/r/trackers][/r/Trackers]] A subreddit for discussing public & private trackers
+- [[https://www.reddit.com/r/Scholar/][/r/Scholar]] Scholarly articles and books
+- [[https://www.reddit.com/r/3dspiracy][/r/3dspiracy]] Nintendo 3DS piracy
+- [[https://www.reddit.com/r/cemupiracy][/r/CemuPiracy]] Cemu piracy
+- [[https://www.reddit.com/r/APKMODGAMES][/r/APKMODGAMES]] Android games
+- [[https://www.reddit.com/r/torrentrequests][/r/TorrentRequests]] Request for access to private trackers
+- [[https://www.reddit.com/r/OpenSignups][/r/OpenSignups]] Get signups to private trackers
+- [[https://www.reddit.com/r/invites][/r/invites]] Ask for invites to your favorite private BitTorrent tracker
+- [[https://www.reddit.com/r/EmbyShares][/r/EmbyShares]] This subreddit is dedicated to the sharing of Emby servers
+- [[https://www.reddit.com/r/freefolk][/r/freefolk]] Streams for new episodes of Game of Thrones
+- [[https://www.reddit.com/r/ProShotMusicals][/r/ProshotMusicals]] Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen
+- [[https://raddle.me/f/Piracy][/f/Piracy]] Raddle forum for Piracy
+- [[https://saidit.net/s/piracy][/s/piracy]] Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators
+- [[https://voat.co/v/piracy][/v/piracy]] Voat forum for Piracy - another potential fallback option for /r/Piracy
+
+** Domain Names
+   :PROPERTIES:
+   :CUSTOM_ID: domain-names
+   :END:
+
+- [[https://njal.la/][Njalla]] a privacy-aware domain registration service
+- [[http://xip.io/][xip.io]] magic domain name that provides wildcard DNS for any IP address.
+- [[https://domainr.com/][Domainr]] Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
+
+** Torrenting
+   :PROPERTIES:
+   :CUSTOM_ID: torrenting
+   :END:
+
+- [[https://www.reddit.com/r/torrents][/r/torrents]] Questions and discussion about all things torrent-related
+- [[https://en.wikipedia.org/wiki/BitTorrent][BitTorrent]] Wikipedia's  article on the BitTorrent file sharing protocol
+- [[https://trace.corrupt-net.org/live.php][Live Tracer]] Pre-time tracer for scene releases
+- [[http://magnet2torrent.me/][magent2torrent.me]] Converts magnet links to torrent files
+- [[http://mgnet.me/][mgnet.me]] Magnet URI shortener
+- [[https://torrage.info/][Torrage]] Torrage is a free service for caching torrent files online.
+- [[https://www.google.com/search?q=peerflix+site%3Aherokuapp.com][peerflix Google Search]] Searches Heroku-deployed instances of Peerflix for streaming torrents
+- [[https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/][Torznab]] Newznab-like API offering a standardized recent/search API for both TV and movies
+- [[https://xbit.pw][xbit]] Magnet link repository
+- [[https://gitlab.com/dessalines/torrents.csv][torrents.csv]] [[file:oss.svg]] Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
+- [[https://torrents-csv.ml][torrents-csv.ml]] The above torrents.csv hosted.
+- [[https://github.com/Rudde/mktorrent][mktorrent]] [[file:oss.svg]] mktorrent is a simple command line utility to create BitTorrent metainfo files.
+- [[https://torrent-paradise.ml/][Torrent Paradise]] IPFS-based decentralised torrent search engine.
+- [[https://torrent.nz/][torrent.nz]] Torrent.nz is a magnet torrent search engine.
+- [[https://github.com/boramalper/magnetico][magnetico]] [[file:oss.svg]] Autonomous (self-hosted) BitTorrent DHT search engine suite
+
+*** Trackers
+    :PROPERTIES:
+    :CUSTOM_ID: trackers
+    :END:
+
+- [[https://www.reddit.com/r/trackers][/r/trackers]] 🌟 A subreddit for discussing public & private trackers.
+- [[https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/][A Simple Guide To A Better Ratio]] A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
+- [[https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html][Tracker Twitters]] List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
+- [[http://www.bvlist.com/][Bravo List]] Tracker directory
+
+**** Public Trackers
+     :PROPERTIES:
+     :CUSTOM_ID: public-trackers
+     :END:
+
+- [[https://1337x.to/][1337x]] 🌟 1337x is a torrent site that offers verified torrent downloads.
+- [[https://www.ettv.tv/][ETTV]] ETTV is a torrent site specific for movie torrents.
+- [[https://eztv.ag/][EZTV]] EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
+- [[https://rarbg.to/][RARBG]] 🌟 Public tracker with its own release group
+- [[https://idope.se/][Idope (Clone)]] iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [[https://torrentz2.is/][Torrentz2]] A good replacement of the defunct Torrentz.eu
+     [[https://torrentsmirror.com/][other]]
+     [[https://torrentz.pl/][mirrors]]
+- [[https://zooqle.com/][Zooqle]] Zooqle is a relatively new torrent index providing a huge database of verified torrents.
+- [[http://rutor.info/][rutor]] Russian tracker
+- [[https://glodls.to/][GloTorrents]] Download Movies, TV, Games and Other Torrents Free
+- [[https://btdb.eu][BTDB]] Large BitTorrent DHT search engine
+- [[https://btdig.com][BTDigg]] BTDigg is a popular BitTorrent DHT search engine
+- [[https://github.com/ngosang/trackerslist][trackerslist]] [[file:oss.svg]] An updated list of public BitTorrent trackers
+- [[http://www.magnetdl.com/][MagnetDL]] Magnet link only search engine
+- [[https://torrentgalaxy.org/][TorrentGalaxy]] Public tracker with a clean UI which now supports embedded streaming for internal uploads
+- [[https://games4theworld.org][Games4theworld]] Torrents and magnet links for games
+- [[http://en.metal-tracker.com/][metal-tracker.com]] Heavy metal music tracker
+- [[https://www.skytorrents.lol/][SkyTorrents]] Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
+- [[http://pirateiro.com/][Pirateiro]] Pirateiro is a torrent index for Brazilian and Portuguese torrents.
+- [[https://torrentking.io/][TorrentKing]] Torrentking is a popular movie torrent site.
+- [[http://moviemagnet.co/][moviemagnet]] Verified torrents for movies.
+- [[https://zonatorrent.tv/][Zonatorrent]] Spanish tracker
+- [[https://www.torrentfunk.com/][TorrentFunk]] TorrentFunk is a torrent site providing verified torrents for all kinds of content.
+- [[http://udush.com/][HDSector]] Bollywood / Hindi / Hollywood HD Movies
+- [[https://otorrents.com/][OTorrents]] Yet another public torrent tracker
+- [[https://www.torlock.com/][Torlock]] Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
+- [[https://www.digbt.org/][DIGBT]] DIGBT is a DHT torrent search engine.
+- [[https://worldwidetorrents.me/][WorldWide Torrents]] Another public tracker with a reasonably nice UI
+- [[https://rawkbawx.rocks/][Rock Box]] Metal music tracker
+- [[http://music-torrent.net][Music Torrent]] General music tracker
+- [[https://www.7torrents.cc/][7torrents]] Fast, clean, ad-free, privacy-focused DHT search engine
+
+*** Tracker Aggregators
+    :PROPERTIES:
+    :CUSTOM_ID: tracker-aggregators
+    :END:
+
+- [[https://snowfl.com/][snowfl]] snowfl is a torrent aggregator which searches various public torrent indexes in real-time
+- [[https://torrents.me/][Torrents.me]] Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
+- [[https://github.com/DEgITx/rats-search][rats-search]] [[file:oss.svg]] P2P Bittorrent search engine
+- [[http://www.aiosearch.com/][AIO Search]] Torrent search engine
+- [[https://solidtorrents.net][SolidTorrents]] 🌟 A clean, privacy focused torrent search engine.
+
+*** Tracker Proxies
+    :PROPERTIES:
+    :CUSTOM_ID: tracker-proxies
+    :END:
+
+- [[https://github.com/Jackett/Jackett][Jackett]] [[file:oss.svg]] API Support for your favorite torrent trackers.
+- [[https://github.com/cardigann/cardigann][Cardigann]] [[file:oss.svg]] A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
+- [[https://github.com/theotherp/nzbhydra2/][nzbhydra2]] 🌟 [[file:oss.svg]] Primarily a Usenet metasearch engine but also supports Torznab
+
+*** Tracker Invites
+    :PROPERTIES:
+    :CUSTOM_ID: tracker-invites
+    :END:
+
+- [[https://www.reddit.com/r/opensignups][/r/OpenSignups]] Open Signups - When Private Trackers Open Their Doors To The Public
+- [[https://www.reddit.com/r/invites][/r/Invites]] Post wanted ads for private tracker invites here
+- [[https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/][Open sign-ups thread]] /r/trackers thread for posting trackers that are currently open for registration.
+- [[https://opentrackers.org/][Opentrackers.org]] Private Torrent Trackers & File Sharing
+- [[https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers][getting_into_private_trackers]] 🌟 Helpful resource from the /r/trackers wiki
+
+*** Torrent Clients
+    :PROPERTIES:
+    :CUSTOM_ID: torrent-clients
+    :END:
+
+- [[https://www.qbittorrent.org/][qBitTorrent]] 🌟 [[file:oss.svg]] Popular, lightweight, multi-platform torrent client
+  - [[https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine][qBitTorrent search function]] Allows you to search popular trackers directly from  qBittorrent
+  - [[https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites][qBitTorrent plugins for public sites]] List of qBitTorrent plugins for searching public torrent sites.
+- [[https://transmissionbt.com/][Transmission]] [[file:oss.svg]] Default torrent client in many distros.
+- [[https://github.com/popcorn-official/popcorn-desktop][Popcorn Time]] [[file:oss.svg]] Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+- [[http://butterproject.org/][Butter Project]] [[file:oss.svg]] A legal fork of Popcorn Time which is configurable to allow for custom sources of video
+- [[https://tixati.com/][Tixati]] Lightweight torrent client for Windows and Linux
+- [[https://picotorrent.org/][PicoTorrent]] [[file:oss.svg]] A lightweight and minimalistic torrent client for Windows
+- [[https://www.frostwire.com/][FrostWire]] [[file:oss.svg]] FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
+- [[https://github.com/mafintosh/peerflix][peerflix]] [[file:oss.svg]] Streaming torrent client for node.js
+- [[https://github.com/hauxir/rapidbay][RapidBay]] [[file:oss.svg]] Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
+- [[https://tornado-torrent.gitlab.io/posts/first-beta/][Tornado]] [[file:oss.svg]] Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
+
+**** Deluge
+     :PROPERTIES:
+     :CUSTOM_ID: deluge
+     :END:
+
+- [[https://www.deluge-torrent.org/][Deluge]] 🌟 [[file:oss.svg]] Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [[https://github.com/omaralvarez/deluge-autoremoveplus][AutoRemovePlus]] [[file:oss.svg]] Auto removing of deluge torrents
+- [[https://github.com/ratanakvlun/deluge-ltconfig/releases][ltConfig]] [[file:oss.svg]] ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
+- [[https://dev.deluge-torrent.org/wiki/Plugins][Deluge Plugins]] [[file:oss.svg]] List of official and third-party plugins for Deluge
+
+**** rTorrent
+     :PROPERTIES:
+     :CUSTOM_ID: rtorrent
+     :END:
+
+- [[https://rakshasa.github.io/rtorrent/][rTorrent]] [[file:oss.svg]] rTorrent is a text-based ncurses BitTorrent client written in C++
+- [[https://github.com/Novik/ruTorrent][ruTorrent]] [[file:oss.svg]] Yet another web front-end for rTorrent
+- [[https://github.com/rtorrent-community/rtorrent-community.github.io/wiki][rTorrent Community wiki]] [[file:oss.svg]] gitHub wiki for rTorrent
+- [[https://rtorrent-docs.readthedocs.io/en/latest/][rTorrent Docs]] [[file:oss.svg]] Comprehensive manual and user guide for the rTorrent bittorrent client
+- [[https://github.com/InAnimaTe/rutorrent-themes][rutorrent-themes]] [[file:oss.svg]] A collection of default and new, original themes for ruTorrent.
+- [[https://github.com/jfurrow/flood][flood]] [[file:oss.svg]] A web UI for rTorrent with a Node.js backend and React frontend.
+- [[https://wiki.archlinux.org/index.php/RTorrent][rTorrent ArchWiki Page]] [[file:oss.svg]] Detailed article to answer most common questions about rTorrent
+- [[https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php][rTorrent Seedbox Guide]] [[file:oss.svg]] This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
+- [[https://github.com/pyroscope/rtorrent-ps][rtorrent-ps]] [[file:oss.svg]] Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
+- [[https://github.com/pyroscope/pyrocore][pyrocore]] [[file:oss.svg]] A collection of tools for the BitTorrent protocol and especially the rTorrent client
+- [[https://calomel.org/rtorrent_mods.html][rTorrent research]] [[file:oss.svg]] security modifications and other hacks for usability
+- [[https://github.com/AkdM/rutorrent-all-seeders][rutorrent-all-seeders]] [[file:oss.svg]] This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
+
+**** WebTorrent Clients
+     :PROPERTIES:
+     :CUSTOM_ID: webtorrent-clients
+     :END:
+
+- [[https://www.magnetoo.io/][magnetoo]] [[file:oss.svg]] Fancy new in-browser WebTorrent streaming service
+- [[https://btorrent.xyz/][βTorrent]] [[file:oss.svg]] fully-featured
+- [[https://webtorrent.io/][WebTorrent]] browser client written in HTML, JS and CSS
+- [[https://webtorrent.io/desktop/][WebTorrent Desktop]] [[file:oss.svg]] WebTorrent Desktop is for streaming torrents.
+- [[https://instant.io/][Instant.io]] [[file:oss.svg]] Streaming file transfer over WebTorrent (torrents on the web)
+- [[https://github.com/DIYgod/DPlayer][Dplayer]] [[file:oss.svg]] DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+
+** Usenet
+   :PROPERTIES:
+   :CUSTOM_ID: usenet
+   :END:
+
+- [[https://en.wikipedia.org/wiki/Usenet][Usenet]] Usenet is a worldwide distributed discussion system available on computers.
+- [[https://en.wikipedia.org/wiki/Usenet_newsgroup][Usenet newsgroup]] A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
+- [[https://www.reddit.com/r/Usenet][/r/Usenet]] 🌟 a thriving community dedicated to helping users old and new understand and use Usenet.
+- [[https://www.reddit.com/r/UsenetInvites][/r/UsenetInvites]] Requests and offers for Usenet indexers
+- [[https://nzblnk.info/][NZBLINK]] The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
+- [[https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders][Usenet-Uploaders]] [[file:oss.svg]]Table of applications for uploading content to Usenet
+- [[http://www.quickpar.org.uk/index.htm][QuickPar]] Tool for reconstructing damaged/missing/corrupt Usenet binaries
+- [[https://nzblnk.info/nzb-monkey/][NZB Monkey]] NZB download helper-tool
+- [[https://github.com/gboudreau/sabconnectplusplus][SABconnect++]] [[file:oss.svg]]Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
+
+*** Usenet Providers
+    :PROPERTIES:
+    :CUSTOM_ID: usenet-providers
+    :END:
+
+- [[https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg][Usenet  Providers and Backbones]] This is a simple overview of the current  companies, backbones, providers and resellers in the Usenet landscape.
+- [[https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/][A Quick Guide to Choosing a Usenet Provider]] Reddit post by /u/FlickFreak
+- [[https://www.eweka.nl/][Eweka]] Netherlands-based Usenet provider
+- [[https://www.newsdemon.com/][Newsdemon]] Cheap and cheerful Usenet provider with frequent discounts
+- [[https://www.newsgroup.ninja/en][Newsgroup Ninja]] Popular Usenet provider with a competitive subscription fee
+- [[http://usenetexpress.com/][Usenet Express]] UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
+- [[https://usenet.farm/][Usenet.Farm]] Usenet reseller with 1000+ day retention.
+
+*** Usenet Indexers
+    :PROPERTIES:
+    :CUSTOM_ID: usenet-indexers
+    :END:
+
+- [[https://www.reddit.com/r/Usenet/wiki/indexers][/r/Usenet wiki: indexers]] Information about /r/Usenet's favourite indexing services
+
+**** Usenet Indexing Software
+     :PROPERTIES:
+     :CUSTOM_ID: usenet-indexing-software
+     :END:
+
+- [[https://github.com/nZEDb/nZEDb][nZEDb]] a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
+- [[https://github.com/NNTmux/newznab-tmux][newznab-tmux]] Laravel based usenet indexer
+- [[http://www.newznab.com/][newznab]] newznab is a usenet indexing application, that makes building a usenet community easy.
+- [[https://github.com/PREngineer/nZEDb-deploy][nZEDb-deploy]] A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
+
+**** Free Indexers
+     :PROPERTIES:
+     :CUSTOM_ID: free-indexers
+     :END:
+
+- [[https://6box.me/][6box]] 🌟 A recently revived free Usenet indexing service with a generous API
+- [[https://usenet-crawler.com/][Usenet Crawler]] Usenet indexer with API access for registered users
+- [[https://www.nzbindex.com][NZBIndex]] The first free Usenet indexer you find in your Google search results
+- [[https://www.binsearch.info/][Binsearch]] With this site you can search and browse binary Usenet newsgroups.
+- [[http://nzbking.com/][NZBKing]] This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
+- [[https://www.gingadaddy.com/][GingaDADDY]] Another popular free NZB indexer, requires sign-up
+
+*** Usenet Clients
+    :PROPERTIES:
+    :CUSTOM_ID: usenet-clients
+    :END:
+
+- [[https://sabnzbd.org/][SABnzbd]] 🌟 [[file:oss.svg]] SABnzbd is an Open Source Binary Newsreader written in Python.
+- [[https://nzbget.net/][NZBget]] Efficient Usenet downloader written in C++
+- [[https://www.usenetic.com/][Usenetic]] The full-featured Usenet client for Mac OSX
+- [[https://panic.com/blog/the-future-of-unison/][Unison]] OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
+- [[https://github.com/spotweb/spotweb][spotweb]] [[file:oss.svg]]Spotweb is a decentralized Usenet community based on the Spotnet protocol.
+- [[http://newsbin.com/about.php][Newsbin]] Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
+- [[https://www.nzbvortex.com/landing/][NZBVortex 3]] Simply the best Usenet client for Mac
+- [[https://www.altbinz.net/][alt.binz]] alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
+
+** Direct Downloads
+   :PROPERTIES:
+   :CUSTOM_ID: direct-downloads
+   :END:
+*** Download Managers
+    :PROPERTIES:
+    :CUSTOM_ID: download-managers
+    :END:
+
+- [[https://jdownloader.org/jdownloader2][JDownloader2]] 🌟 [[file:oss.svg]] JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [[https://www.internetdownloadmanager.com/][Internet Download Manager]] shareware download manager for Windows
+- [[https://github.com/J2TeaM/idm-trial-reset][idm-trial-reset]] Use IDM forever without cracking.
+- [[https://github.com/persepolisdm/persepolis][Persepolis]] [[file:oss.svg]] An open source download manager and GUI for Arias written in Python with IDM like browser integration. Cross platfrom.
+- [[https://pyload.net/][pyLoad]] [[file:oss.svg]] Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+- [[https://subhra74.github.io/xdm/#][Xtreme Download Manager]] Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
+- [[https://github.com/mcrapet/plowshare][Plowshare]] [[file:oss.svg]] Command-line tool and engine for managing sharing websites
+- [[https://www.freedownloadmanager.org/][FreeDownloadManager]] FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
+
+*** DDL Tools
+    :PROPERTIES:
+    :CUSTOM_ID: ddl-tools
+    :END:
+
+- [[https://maulvi.github.io/][maulvi.github.io]] [[file:oss.svg]] Google Drive direct download link generator
+- [[https://github.com/Th3-822/rapidleech][RapidLeech]] [[file:oss.svg]] a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
+- [[https://github.com/megous/megatools][megatools]] [[file:oss.svg]] Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+- [[https://github.com/JohnDeved/megacrypt.js][MegaCrypt.js]] MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
+- [[https://github.com/ston3o/netclix][netclix]] [[file:oss.svg]] A simple CLI tool to get movie streaming premium links from VodLocker's API
+- [[https://filepursuit.com][FilePursuit]] 🌟 FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [[https://buckets.grayhatwarfare.com/][grayhatwarfare S3 bucket search]] Not likely to find much with this one but interesting nonetheless
+- [[https://github.com/iawia002/annie][annie]] [[file:oss.svg]] Fast, simple and clean video downloader
+- [[https://aria2.github.io/][aria2]] [[file:oss.svg]] a lightweight multi-protocol & multi-source command-line download utility.
+- [[https://persepolisdm.github.io/][Persepolis]] [[file:oss.svg]]  Front-end for aria2.
+- [[https://github.com/axel-download-accelerator/axel][axel]] [[file:oss.svg]] light command line download accelerator
+- [[https://ugetdm.com/][uGet]] [[file:oss.svg]] Open Source Download Manager
+- [[https://github.com/RipMeApp/ripme][ripme]] A album/video downloader with support for over 80 sites
+- [[https://github.com/ston3o/rdcli][rdcli]] The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+- [[https://github.com/get-iplayer/get_iplayer][get_iplayer]] A utility for downloading TV and radio programmes from BBC iPlayer
+- [[https://mega.nz/sync][MEGAsync]] Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
+- [[https://www.gnu.org/software/wget/][wget]] [[file:oss.svg]] file:oss.svg =wget= is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+- [[https://the-eye.eu/public/Wget_Linux_Guide.pdf][wget - a noob's guide]] Beginner guide on how to use =wget=.
+- [[https://eternallybored.org/misc/wget/][wget for Windows]] file:oss.svg A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
+- [[https://en.wikipedia.org/wiki/CURL][curl]] [[file:oss.svg]] =curl= is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
+- [[https://www.flixgrab.com/][FlixGrab]] FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
+- [[https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader][Mega.nz IDM Downloader]] [[file:oss.svg]] Unlimited downloading from Mega.nz with IDM.
+
+*** Custom Google Search Engines
+    :PROPERTIES:
+    :CUSTOM_ID: custom-google-search-engines
+    :END:
+
+- These all do the same thing:
+
+  - [[http://filechef.com/][FileChef]]
+  - [[https://cgs.the-eye.eu/][The Eye CGS Engine]]
+  - [[https://ewasion.github.io/opendirectory-finder/][opendirectory-finder]]
+  - [[https://lumpysoft.com/][lumpySoft.com]]
+
+- [[http://www.musgle.com/][Musgle]] Searches specifically for music
+- [[http://www.jimmyr.com/mp3_search.php][Jimmyr]] Also searches for music
+
+*** FTP Indexers
+    :PROPERTIES:
+    :CUSTOM_ID: ftp-indexers
+    :END:
+
+- [[https://github.com/linuxserver/davos][Davos]] Web-based FTP automation for Linux servers.
+- [[https://www.searchftps.net/][Napalm FTP Indexer]] NAPALM FTP Indexer lets you search and download files located on public FTP servers.
+- [[http://www.mmnt.net/][Mamont's open FTP Index]] Browsable directory listing of publicly available FTP-sites
+
+*** DDL Search Engines and Crawlers
+    :PROPERTIES:
+    :CUSTOM_ID: ddl-search-engines-and-crawlers
+    :END:
+
+- [[https://ololo.to/][ololo]] ololo is a video streaming link search engine.
+- [[http://megasearch.co][MegaSearch]] Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
+- [[https://videospider.in/][VideoSpider]] VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
+- [[https://orionoid.com/][Orion]] 🌟 Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
+- [[https://w1.alluc.uno/][Alluc]] Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters
+- [[https://od-db.the-eye.eu/][OD-Database]] Database of searchable open directories curated by The-Eye.eu
+- [[https://iplive.club/][IPLIVE]] DDL search engine
+- [[https://sanet.st/full/][SoftArchive]] SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
+
+*** DDL Link Sites
+    :PROPERTIES:
+    :CUSTOM_ID: ddl-link-sites
+    :END:
+
+- [[https://www.reddit.com/r/ZippyShare][/r/ZippyShare]] DDL links hosted on ZippyShare
+- [[https://forum.dirtywarez.com/][DirtyWarez Forum]] Popular warez forum with films, TV shows, ebooks, anime, games, and more
+- [[https://snahp.it/][snahp.it]] 🌟 replaced /r/megalinks
+- [[https://blackpearl.biz/][BlackPearl.biz]] Drop-in replacement for snahp.it while their registrations remain closed
+- [[https://hdencode.com/][hdencode]]
+- [[https://warezforums.com/][WarezForums]] Warez forum with films, TV shows, ebooks, anime, games, and more.
+- [[https://moviesrus.tk][Movies "R" Us]] The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+- [[https://www.movieglide.com/][Movie Glide]]
+- [[http://rlsbb.ru][Release BB]]
+- [[https://www.ddlvalley.me/][DDLValley]] DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
+- [[http://adit-hd.com/][AdiT-HD]] direct download site
+- [[http://2ddl.ws][TwoDDL]] Direct download links
+- [[http://rmz.cr/][RapidMoviez]]
+- [[https://scnsrc.me/][SceneSource]] WordPress powered website dedicated to bringing you the latest info on new scene releases
+- [[https://www.mkvcage.ws/][MkvCage]]
+- [[https://moviefiles.org/][MovieFiles]] Direct download search engine which generates Google Drive links
+- [[https://www.icefilms.info/][IceFilms.info]] Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
+- [[http://downarchive.org/][DownArchive]] DDL blog with premium links on a number of hosts. Lots of software
+- [[https://psarips.com/][PSARips]] Popular site for movies and TV shows, includes torrent files
+- [[https://pastebin.com/u/DeeJayPirate][DeeJayPirate's Pastebin]] Pastebin user who uploads premium links for TV shows
+- [[https://avxhm.se][AvaxHome]] Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
+- [[https://moviesleak.net/][Moviesleak]]
+- [[https://www.dospelis.net][Dospelis]] Spanish DDL indexer
+- [[https://movidy.co][movidy]] Links for movies and shows in Spanish
+- [[https://www.vidics.to/][Vidics]]
+- [[https://watchepisodeseries.bypassed.wtf/][watchepisodeseries]]
+- [[http://watchtvseries.unblckd.club/][watchtvseries]]
+- [[https://www.downturk.net/][DownTurk]]
+- [[https://scnlog.me/][ScnLog]]
+- [[https://filewarez.tv/][filewarez.tv]] Invite-only, hosts both Mega and Google Drive links for TV shows
+- [[http://movie-blog.sx/][Movie-blog.org]] German site for movies
+- [[http://movieworld.to/][Movieworld.to]] Another German site for movies
+- [[https://ddl-warez.to/][DDL-Warez]] German site for movies, shows, books and games
+- [[https://ddl-music.to/][DDL-Music]] German site for music
+- [[https://appnee.com/][AppNee Freeware Group]] Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
+- [[http://480mkv.com/][480mkv]] 480p DDL for TV Shows
+- [[https://filmrls.com/][FilmRls]] DDL site that generally features quality previews of video content
+
+*** Premium Link Generators
+    :PROPERTIES:
+    :CUSTOM_ID: premium-link-generators
+    :END:
+
+- [[https://filehostlist.miraheze.org/wiki/Main_Page][File Hosting Wiki]] This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
+- [[https://www.premiumize.me/][Premiumize]] Combine direct and secure access to premium services
+- [[https://github.com/piejanssens/premiumizer][Premiumizer]] Premiumizer is a download management tool for premiumize.me cloud downloads.
+- [[https://offcloud.com/?=85a8b709][OffCloud]] A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
+- [[https://reevown.com/][Reevown]] A free download service with which you can perform premium downloads.
+
+*** Premium Link Hosts
+    :PROPERTIES:
+    :CUSTOM_ID: premium-link-hosts
+    :END:
+
+- [[https://nafanz.github.io/][File sharing table]] [[file:oss.svg]]Regularly updated table of information about file hosts.
+  - [[https://mega.nz/][Mega]] 🌟
+  - [[https://openload.co/][OpenLoad]]
+  - [[https://rapidgator.net/][RapidGator]]
+  - [[https://www.4shared.com/][4shared]]
+  - [[https://www.mediafire.com/][Mediafire]]
+  - [[https://www.sendspace.com/][Sendspace]]
+  - [[https://uploaded.net/][Uploaded]]
+  - [[https://www.zippyshare.com/][Zippyshare]]
+  - [[http://nitroflare.net/][NitroFlare]]
+  - [[https://www5.putlockertv.to/][PutLocker]]
+
+*** Open Directories
+    :PROPERTIES:
+    :CUSTOM_ID: open-directories
+    :END:
+
+- [[https://github.com/fangfufu/httpdirfs][httpdirfs]] [[file:oss.svg]] A filesystem which allows you to mount HTTP directory listings
+- [[https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/]["All resources I know related to Open Directories"]] Thorough post from /u/ElectroXexual
+- [[https://the-eye.eu/public/][The Eye]] 🌟 The Eye is a non-profit website dedicated to content archival and long-term preservation.
+- [[https://theswissbay.ch/][The Swiss Bay]] A more organized the eye
+- [[https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/][The Holy Grail of Indexes]] Posted by /u/shadow_hunter104
+- [[https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/][36 GB of Flash Games]] Posted by /u/blue_star_
+- [[https://github.com/HerbL27/FileMasta][FileMasta]] [[file:oss.svg]] Search servers for video, music, books, software, games, subtitles and much more
+- [[https://www.reddit.com/r/opendirectories][/r/opendirectories]] Unprotected directories of pics, vids, music, software, and otherwise interesting files.
+- [[https://github.com/simon987/opendirectories-bot][opendirectories-bot]] Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
+- [[http://panelshow.club/][Panelshow.club]] Directory of panel show TV episodes from [[https://www.reddit.com/r/panelshow][/r/panelshow]]
+- [[https://github.com/nektro/andesite][andesite]] [[file:oss.svg]] Easily manage access to your open directory through OAuth2
+- [[https://github.com/KoalaBear84/OpenDirectoryDownloader][OpenDirectoryDownloader]] [[file:oss.svg]] Indexes open directories
+
+*** Streaming Sites
+    :PROPERTIES:
+    :CUSTOM_ID: streaming-sites
+    :END:
+**** HD Streaming
+     :PROPERTIES:
+     :CUSTOM_ID: hd-streaming
+     :END:
+
+- [[https://www.reddit.com/r/MovieStreamingSites/][/r/MovieStreamingSites]] Reddit, random streaming sites
+- [[https://www.reddit.com/user/nbatman/m/streaming2/][HD MultiredditHD]] Alternate subreddit curated by /u/nbatman
+- [[https://www.bestfreestreaming.com/][Best Free Streaming]] Site that rates streaming services
+- [[https://ymovies.tv/][YMovies]] Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
+- [[https://hdo.to/][HDO]] Unique design, HD server with additional hosts, also country-specific films/series
+- [[http://m4ufree.tv/][M4UFree.TV]] Unique design, HD server with backup and additional hosts
+- [[http://movie123.club/][Movie123]] Unique design, HD server with Backup and additional hosts
+- [[https://lookmovie.ag/][LookMovie]] Unique design, HD server, very nice speeds (offers auto quality)
+- [[https://azmovies.xyz/][AZMovies]] Unique design, HD server with additional hosts, also on Reddit
+- [[http://www.streamlord.com/][Streamlord]] Unique design, HD server (subtitles)
+- [[https://flixgo.net/][FlixGo]] Unique design, HD server, very nice speeds
+- [[https://www1.solarmovies.movie/][Solarmovie]] Basic streaming site layout, HD server with additional hosts, Popular Site
+- [[https://123movies.website/][123Movies]] 🌟 Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
+- [[https://yesmovies.to][Yes! Movies]] Basic streaming site layout, HD server with additional hosts
+- [[http://spacemov.io/][Spacemov]] Basic streaming site layout, HD server, only certain films have additional hosts
+- [[https://www1.hdonline.eu][HDOnline]] Basic streaming site layout, HD server with additional hosts
+- [[https://www1.1movies.is][#1 Movies Website]] Basic streaming site layout, HD server with additional hosts
+- [[https://www2.cmovieshd.bz][CMoviesHD]] Basic streaming site layout, HD server with additional hosts
+- [[https://vidcloud.icu/][Vidcloud]] Basic streaming site layout, HD server with additional hosts
+- [[https://www2.series9.io/][Series9]] Unique design, HD server with additional hosts
+- [[https://www.soap2day.com/][Soap2day]] Unique design, very nice speeds, HD server with subtitles.
+- [[https://best-movies.watch/][Best-movies.watch]] Unique design, more than 19000 available
+
+**** Big Media Libraries
+     :PROPERTIES:
+     :CUSTOM_ID: big-media-libraries
+     :END:
+
+- [[https://www.reddit.com/user/nbatman/m/streaming/][Streaming Multireddit]] Reddit with all types of Streaming Links
+- [[http://5movies.to/][5Movies]] Large collection dating as far back as 1990
+- [[https://two-movies.net/][2TwoMovies]] Large collection dating as far back as 1895
+- [[http://cafehulu.com/][CafeHulu]] Collection of movies/TV shows + many foreign films
+- [[http://afdah.to/][Afdah]] Large collection dating as far back as 1920
+- [[http://YouTube.com/][YouTube]] Contains very old films/vlogs/tutorials
+- [[https://worldsrc.org][WorldSrc]] Movies, software, apps, games, music, and images available for fast direct download + torrents.
+
+**** TV
+     :PROPERTIES:
+     :CUSTOM_ID: tv
+     :END:
+
+- [[https://www.onetvraven.pro/][TVRaven]] Large TV collection, friendly UI
+- [[http://dwatchseries.to/][WatchSeries]] TV series, multiple links/backups to different streaming hosts
+- [[https://tvbox.ag/][TVBox]] TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+
+**** Anime
+     :PROPERTIES:
+     :CUSTOM_ID: anime
+     :END:
+
+- [[https://nyaa.si/][Nyaa]] BitTorrent software for cats  [[https://github.com/nyaadevs/nyaa][(Repo)]]
+- [[https://hi10anime.com/][Hi10 Anime]] High-Quality 10-bit Anime Encodes
+- [[https://animekaizoku.com/][Anime Kaizoku]] Up to 1080p DDL links, mostly Google Drive
+- [[https://animekayo.com/][Anime Kayo]] Up to 1080p DDL links, mostly Google Drive (no longer updated)
+- [[https://www.reddit.com/r/animepiracy][/r/animepiracy]] This sub is about streaming and torrent websites for anime.
+- [[https://www.reddit.com/r/animepiracy/wiki/index][/r/animepiracy wiki]] Lists for sourcing Anime streaming sites, manga sites, and more
+- [[https://9anime.to][9Anime]] Watch anime online. English anime, dubbed, subbed.
+- [[https://all-animes.com][All-animes]] Watch Online Anime In HD English Subbed, Dubbed.
+- [[https://www3.gogoanime.in/][GoGo Anime]] Popular website for watching anime
+- [[https://anilinkz.to/][AniLinkz]] Large database of streaming anime episodes.
+- [[https://nyaa.pantsu.cat/][NyaaPantsu]] Primarily Anime torrents but includes an open directory of DDL links too.
+- [[https://www.reddit.com/r/KissCartoon/wiki/alternatives][Alternatives to Kiss websites]] /r/KissCartoon wiki page with lots of anime sites
+- [[http://www.anime-sharing.com/forum/][anime-sharing]] Forum for sharing anime
+- [[https://anidex.info][AniDex]] Torrent tracker and indexer, primarily for English fansub groups of anime
+- [[https://www.animencodes.com/][animeEncodes]]
+- [[https://twist.moe/][Anime Twist]] An anime direct streaming site with a decent UI and video player
+- [[https://www.animeout.xyz/][AnimeOut]] Over 1000's of Encoded Anime with DDL links.
+- [[https://kissanime.ac/][Kissanime.ac]] Large cartoon collection, uses RapidVideo/Openload
+- [[https://anime8.me/][Anime8]] Basic streaming site layout, large collection of anime shows
+- [[https://4anime.to/][4anime]] A relatively new site the might become the new Masterani.me. Clean interface.
+- [[https://ww2.animeram.cc/][AnimeRam]] A streaming website for dubbed/subbed anime.
+- [[https://animepahe.com/][animepahe]] A minimilistic anime streaming/download website, subs only.
+
+**** Cartoons
+     :PROPERTIES:
+     :CUSTOM_ID: cartoons
+     :END:
+
+- [[https://kisscartoon.ac/][KissCartoon]] 🌟 Popular cartoon streaming site
+- [[https://www.watchcartoononline.com/][watchcartoononline.com]] 🌟 Cartoons, dubbed/subbed anime streaming site
+- [[https://www.watchcartoononline.io/][watchcartoononline.io]] Large DDL site for cartoons as well as anime and movies
+- [[http://www.animetoon.org/][animetoon]] Lots of streaming via premium hosts for cartoons
+- [[http://www.toonova.net/][Toonova]] Another site for streaming cartoons
+- [[https://kimcartoon.to/][KimCartoon]] 🌟 Large cartoon collection, primarily Openload
+- [[https://www.watchcartoononline.io/][WatchCartoon]] Outdated site layout, still active, uses Openload
+
+**** Sports Streaming
+     :PROPERTIES:
+     :CUSTOM_ID: sports-streaming
+     :END:
+
+- [[https://www.reddit.com/r/MLBstreams/][/r/MLBstreams]] Reddit - MLB streams
+- [[https://www.reddit.com/r/NHLstreams/][/r/NHLstreams]] Reddit - NHL streams
+- [[https://www.reddit.com/r/ncaaBBallstreams/][/r/ncaaBBallstreams]] Reddit - NCAABBall streams
+- [[https://www.reddit.com/r/CFBstreams/][/r/CFBstreams]] Reddit - CFB streams
+- [[https://www.reddit.com/r/WWEstreams/][/r/WWEstreams]] Reddit - WWE streams
+- [[https://www.reddit.com/r/rugbystreams/][/r/rugbystreams]] Reddit - rugby streams
+- [[https://www.reddit.com/r/mmafights/][/r/mmafights]] Reddit - MMA streams
+- [[https://www.reddit.com/r/motorsportsstreams][/r/motorsportsstreams]] Reddit - motorsports streams
+- [[https://www.bestsportstreaming.com/][Best Sport Streaming]] Site that rates sport streaming services
+- [[https://livesx.eu/][LiveTV]] Wide variety of sports, results/live scores, video archive and betting
+- [[https://crickfree.org/][Cricfree]] Offers popular sports streams
+- [[https://www.vipbox.live/][VIPBox]] Many sport streams, TV, friendly UI
+- [[https://www.mamahd.org/][MamaHD]] 24/7 feeds, sports streams, clean UI
+- [[https://sendit.gg/][Send It]] Live stream listings for sports, news, gaming, and more.
+- [[http://www.speedsports.me][SportsHD]] Variety of sports including college sports, clean design
+- [[http://www.720pstream.me/][720pStream]] Popular sports only, simple design
+- [[https://www.footybite.com/][footybite]] Soccer streaming site.
+
+**** Specialty Sites
+     :PROPERTIES:
+     :CUSTOM_ID: specialty-sites
+     :END:
+
+- [[https://einthusan.tv/intro/][Einthusan]] Foreign
+- [[http://www.dramago.com/][Dramago]] Drama movies/series
+- [[https://www2.watchasian.co/][WatchAsian]] Foreign
+- [[http://layarkaca21.ru/][Layarkaca]] Foreign
+- [[http://www1.dramacoolfirst.com/][DramaCool]] Foreign
+- [[https://daxiv.com/][Daxiv Video]] Primarily Chinese content
+- [[https://www.YouTube.com/user/TheKingsofHorror/][KingsofHorror]] YouTube Horror
+- [[https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg][MutantSorority]] YouTube horror
+- [[https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw][TromaMovies]] YouTube horror
+- [[http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html][Film1k]] Movies with nudity
+- [[https://www.rulu.co/][Rulu]] YouTube Red series
+- [[http://www.club-mst3k.com/][Club MST3k]] Every episode of MST3K
+- [[https://archive.org/][Archive.org]] Old movies
+- [[http://www.miomio.tv/][MioMio]] Asian TV shows/anime
+
+**** Third Party Hosts
+     :PROPERTIES:
+     :CUSTOM_ID: third-party-hosts
+     :END:
+
+- [[https://vmovee.me/][Vmovee]] Openload (Many outdated/removed links, not updated)
+- [[https://www.iwannawatch.is/][IWannaWatch]] Openload, Streamango
+- [[https://www.uwatchfree.tv/][UWatchFree]] VidPlayer, ViDeoZa
+- [[https://hdm.to/][HD MOVIES]] OpenLoad, Streamango, Streamcherry
+- [[https://www.filmxy.nl/][FilmXY]] RapidVideo, Vidoza, Uptostream (offers download links)
+- [[https://www3.fmovies.to/][FMOVIES]] 🌟 Openload, MyCloud, RapidVideo, Streamango
+- [[https://pahe.in/][pahe.in]] Uptostream, Google Drive, Openload, Mega
+- [[https://megaddl.co/][megaDDL]] Mega, Go4up, 1Fichier, NitroFlare, Openload
+
+** Media Centre Applications
+   :PROPERTIES:
+   :CUSTOM_ID: media-centre-applications
+   :END:
+
+- [[https://www.plex.tv/][Plex]] Your content---from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts---beautifully organized and ready to stream everywhere.
+- [[https://emby.media/][Emby]] a personal media server with apps on just about every device.
+- [[https://kodi.tv/][Kodi]] [[file:oss.svg]] an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
+- [[https://github.com/RasPlex/OpenPHT][OpenPHT]] [[file:oss.svg]] a community-driven fork of Plex Home Theater
+- [[https://github.com/viewscreen/viewscreen][Viewscreen]] [[file:oss.svg]] a personal video streaming server
+- [[https://github.com/streamaserver/streama][Streama]] [[file:oss.svg]] Self-hosted streaming media server.
+- [[https://www.stremio.com/][Stremio]] 🌟 [[file:oss.svg]] Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
+- [[https://github.com/gerbera/gerbera][Gerbera]] [[file:oss.svg]] UPnP Media Server for 2018 (Based on MediaTomb)
+- [[http://serviio.org/][Serviio]] Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
+- [[https://osmc.tv/][OSMC]] [[file:oss.svg]] OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+- [[http://www.subsonic.org/pages/index.jsp][Subsonic]] Music and movie streaming server with a client app and web frontend
+- [[https://wiki.gnome.org/Projects/Rygel][Rygel]] [[file:oss.svg]] Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
+- [[https://github.com/jellyfin/jellyfin][Jellyfin]] 🌟 [[file:oss.svg]] An open-source fork of Emby
+
+** Video Clients
+   :PROPERTIES:
+   :CUSTOM_ID: video-clients
+   :END:
+
+- [[https://mpv.io/][MPV]] [[file:oss.svg]] mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types
+- [[https://www.videolan.org/vlc/][VLC]] [[file:oss.svg]] A poplular open source media player that supports a wide verriety of media file formats
+- [[https://github.com/DIYgod/DPlayer][DPlayer]] [[file:oss.svg]] DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily
+
+** Stremio
+   :PROPERTIES:
+   :CUSTOM_ID: stremio
+   :END:
+
+- [[https://www.reddit.com/r/StremioAddons/][r/StremioAddons]] [[file:oss.svg]] Discussion and links pertaining to unofficial add-ons for Stremio
+- [[https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/][A complete curated list of all working Stremio Add-ons]] [[file:oss.svg]]
+- [[https://github.com/sungshon/PimpMyStremio][PimpMyStremio]] [[file:oss.svg]] Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
+- [[https://github.com/BurningSands70/stremio-downloader][Stremio Downloader]] [[file:oss.svg]] An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
+- [[https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/][Stremio - Watch together with friends]] [[file:oss.svg]] A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
+- [[https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/][Stremio - Phone Remote]] [[file:oss.svg]] A guide explaining how to control Stremio with your phone
+- [[https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/][Stremio Catalog Builder]] [[file:oss.svg]] A website that allows users to customize catalogs in Stremio
+
+** Plex
+   :PROPERTIES:
+   :CUSTOM_ID: plex
+   :END:
+
+- [[https://github.com/linuxserver/docker-plex][linuxserver/docker-plex]] [[file:oss.svg]] LinuxServer.io Plex Media Server docker image
+- [[https://github.com/plexinc/pms-docker][plexinc/pms-docker]] [[file:oss.svg]] official Plex docker image
+- [[https://github.com/timhaak/docker-plex][timhaak/plex]] [[file:oss.svg]] alternative Plex docker image
+- [[https://pgblitz.com/][PGBlitz.com]] 🌟 Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD Space (Former Name: PlexGuide)
+- [[https://hoarding.me/][hoarding.me]] Unlimited and Automated. How to setup your own dream Plex server.
+- [[http://plexpi.com/][PlexPi]] Plex Media Server for Raspberry Pi 3
+
+*** Plex Plugins
+    :PROPERTIES:
+    :CUSTOM_ID: plex-plugins
+    :END:
+
+- [[https://github.com/plexinc-plugins][Official Plex Plugins]] [[file:oss.svg]] Repos for every official Plex Inc. plugin
+- [[https://github.com/ukdtom/WebTools.bundle][WebTools.bundle]] [[file:oss.svg]] a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+- [[https://github.com/macr0dev/Audiobooks.bundle][Audiobooks.bundle]] [[file:oss.svg]] Plex metadata scraper for Audiobooks
+- [[https://github.com/pannal/Sub-Zero.bundle][Sub-Zero.bundle]] 🌟 [[file:oss.svg]] Subtitles for Plex, as good you would expect them to be. (/read/:
+   [[https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/][plans for a world without Plex plugins]])
+- [[https://github.com/pgaubatz/TvplexendChannel.bundle][TvplexendChannel.bundle]] [[file:oss.svg]] A Tvheadend Channel Plugin for PLEX Media Server
+- [[https://github.com/Cigaras/IPTV.bundle][IPTV.bundle]] [[file:oss.svg]] plays live streams (like IPTV) from an M3U playlist
+- [[https://github.com/jumpmanjay/HDGrandSlam.bundle][HDGrandSlam.bundle]] [[file:oss.svg]] interfaces with HDHomeRun tuners and DVRs
+- [[https://github.com/zynine-/HDHRViewerV2.bundle][HDHRViewerV2.bundle]] [[file:oss.svg]] HDHomeRun + Plex
+- [[https://mikew.github.io/ss-plex.bundle/][SS Plex]] [[file:oss.svg]] Imagine if all the media scattered around the internet could be found in one collection.
+- [[https://github.com/ukdtom/ExportTools.bundle][ExportTools.bundle]] [[file:oss.svg]] Export Plex Library to a csv, xlsx or m3u8 file
+- [[https://github.com/trakt/Plex-Trakt-Scrobbler][Plex-Trakt-Scrobbler]] [[file:oss.svg]] Add what you are watching on Plex to trakt.tv
+- [[https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/][Moviemania.bundle]] Textless movie posters from Moviemania.io
+- [[https://github.com/Twoure/lmwt-kiss.bundle][lmwt-kiss.bundle]] [[file:oss.svg]] creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+- [[https://github.com/ngovil21/RequestChannel.bundle][RequestChannel.bundle]] [[file:oss.svg]] A Plex Channel to create requests
+- [[https://github.com/ukdtom/SRT2UTF-8.bundle][SRT2UTF-8.bundle]] [[file:oss.svg]] Plex Agent that'll convert sidecar subtitle files into UTF-8
+- [[https://github.com/jwdempsey/PlexTools.bundle][PlexTools.bundle]] [[file:oss.svg]] Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
+- [[https://github.com/coder-alpha/FMoviesPlus.bundle][FMoviesPlus.bundle]] [[file:oss.svg]] Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+- [[https://normantheidiot.neocities.org/superplex/][SuperPLEX]] [[file:oss.svg]] A website dedicated to Plex Plugins.
+
+*** Plex Requests
+    :PROPERTIES:
+    :CUSTOM_ID: plex-requests
+    :END:
+
+- [[http://ombi.io/][Ombi]] 🌟 Want a Movie or TV Show on Plex or Emby? Use Ombi!
+- [[http://plexrequests.8bits.ca/][Plex Requests]] Simple automated way for users to request new content for Plex
+- [[https://github.com/lokenx/plexrequests-meteor][plexrequests-meteor]] [[file:oss.svg]] Meteor version of the original Plex Requests
+- [[https://github.com/v0idp/Mellow/][Mellow]] [[file:oss.svg]] Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+- [[https://github.com/physk/MediaButler][MediaButler]] [[file:oss.svg]] Discord bot for use with PleX and several other apps that work with it.
+
+*** Plex Scripts and Tools
+    :PROPERTIES:
+    :CUSTOM_ID: plex-scripts-and-tools
+    :END:
+
+- [[https://github.com/pbrink231/plex_top_playlists][plex_top_playlists]] [[file:oss.svg]] A python script to get top weekly or top popular lists and put them in plex as playlists.
+- [[https://github.com/blacktwin/JBOPS][JBOPS]] [[file:oss.svg]] Just a Bunch Of Plex Scripts
+- [[https://github.com/caridy/plex-subtitles-normalizer][plex-subtitles-normalizer]] [[file:oss.svg]] CLI tool to fix subtitles needed by Plex Media Center
+- [[https://github.com/l3uddz/plex_autoscan][plex_autoscan]] [[file:oss.svg]] Script to assist sonarr/radarr with plex imports.
+- [[https://github.com/mrworf/plexupdate][plexupdate]] [[file:oss.svg]] script to simplify the life of Linux Plex Media Server users.
+- [[https://github.com/SpaceK33z/plex2netflix][plex2netflix]] [[file:oss.svg]] See how much of your media from Plex is available on Netflix.
+- [[https://github.com/bstascavage/plexReport][plexReport]] [[file:oss.svg]] Scripts to generate a weekly email of new additions to Plex
+- [[https://github.com/jacobwgillespie/plex-sync][plex-sync]] [[file:oss.svg]] A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
+- [[https://github.com/xiaodoudou/PlexIPTV][PlexIPTV]] [[file:oss.svg]] This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
+- [[https://github.com/ccjensen/PlexMediaTagger][Plex Media Tagger]] [[file:oss.svg]] Uses the metadata held in the PlexMediaServer to tag media files
+- [[https://github.com/jakewaldron/PlexEmail][PlexEmail]] [[file:oss.svg]] This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+- [[https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome][Transmogrify]] [[file:oss.svg]] A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+- [[https://github.com/hjone72/PlexAuth][PlexAuth]] [[file:oss.svg]] Plex based authentication using PHP
+- [[https://github.com/d8ahazard/Phlex][Phlex]] [[file:oss.svg]] A super-sexy voice interface for the Plex HTPC
+- [[https://github.com/ITRav4/PlexRedirect][Plex Redirect]] [[file:oss.svg]] a Plex landing page that redirects you to various sites.
+- [[https://plaxt.herokuapp.com/][Plaxt]] Webhook-based Trakt.tv scrobbling for Plex
+- [[https://github.com/XanderStrike/goplaxt/][goplaxt]] [[file:oss.svg]] Full rewrite of the above, written in Go and deployable with Docker
+- [[https://piplong.run/plxdwnld/][plxdwnld]] Bookmarklet for downloading original files from the Plex web interface
+- [[https://github.com/pannal/Kitana][Kitana]] [[file:oss.svg]] Kitana exposes your Plex plugin interfaces "to the outside world".
+- [[https://github.com/adamgot/python-plexlibrary][Python-PlexLibrary]] [[file:oss.svg]] Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+- [[https://github.com/ninthwalker/NowShowing][NowShowing]] [[file:oss.svg]] Generates an email and web page of Plex recently added content
+- [[https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/]["My (scripted) solution to having a single Movies library for 4k and non-4k."]] Post by /u/spazatk
+- [[https://github.com/MysticRyuujin/PlexMissingEpisodes][PlexMissingEpisodes]] [[file:oss.svg]] Scan Plex library for missing episodes using TheTVDB#
+- [[https://github.com/JasonHHouse/Gaps][Gaps]] [[file:oss.svg]] Find the missing movies in your Plex Server
+- [[https://github.com/nwithan8/PlexRecs][PlexRecs]] [[file:oss.svg]] A Discord bot that provides movie and TV show recommendations from your Plex library
+- [[https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/]["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"]] Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
+- [[https://github.com/Boerderij/Varken][Varken]] [[file:oss.svg]] Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+
+*** Plex Shares
+    :PROPERTIES:
+    :CUSTOM_ID: plex-shares
+    :END:
+
+- [[https://www.reddit.com/r/plexshares/][/r/plexshares]] A nice place to find Plex Media Server shares.
+- [[https://elysium.to/][Elysium]] Plex media streaming service
+
+*** Plex Transcoding
+    :PROPERTIES:
+    :CUSTOM_ID: plex-transcoding
+    :END:
+
+- [[https://github.com/munnerz/kube-plex][kube-plex]] [[file:oss.svg]] Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+- [[https://github.com/UnicornTranscoder/UnicornTranscoder][UnicornTranscoder]] [[file:oss.svg]] a remote transcoder for Plex Media Server
+- [[https://github.com/wnielson/Plex-Remote-Transcoder][Plex-Remote-Transcoder]] [[file:oss.svg]] A distributed transcoding backend for Plex
+- [[https://github.com/keylase/nvidia-patch][nvidia-patch]] [[file:oss.svg]] Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
+
+*** Plex Logging and Metrics
+    :PROPERTIES:
+    :CUSTOM_ID: plex-logging-and-metrics
+    :END:
+
+- [[https://tautulli.com/][Tautulli]] 🌟 Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
+- [[https://github.com/ljunkie/plexWatch][plexWatch]] [[file:oss.svg]] Notify and Log watched content on a Plex Media Server
+- [[https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB][Plex-Data-Collector-For-InfluxDB]] [[file:oss.svg]] Collects data about your Plex server and sends it to InfluxDB
+
+*** Plex Clients
+    :PROPERTIES:
+    :CUSTOM_ID: plex-clients
+    :END:
+
+- [[https://github.com/RasPlex/RasPlex][RasPlex]] [[file:oss.svg]] Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+- [[https://github.com/iBaa/PlexConnect][PlexConnect]] [[file:oss.svg]] Unofficial Plex app for Apple TV devices
+- [[https://github.com/jrudio/go-plex-client][go-plex-client]] [[file:oss.svg]] A Plex.tv and Plex Media Server Go client
+
+** Kodi
+   :PROPERTIES:
+   :CUSTOM_ID: kodi
+   :END:
+
+- [[https://www.reddit.com/r/addons4kodi][/r/Addons4Kodi]] [[file:oss.svg]] Discussion and links pertaining to unofficial add-ons for Kodi Media Center
+- [[https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x][Seren]] 🌟 [[file:oss.svg]] Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
+- [[https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/][Recommended Addons - November 2019]] [[file:oss.svg]] Latest working Kodi addons compiled into one place
+- [[http://www.wirelesshack.org/how-to-install-placenta-Kodi-addon.html][Placenta]] [[file:oss.svg]] a Fork of Exodus / Covenant with more options and links from Mr. Blamo and Muad'Dib
+- [[https://gaiakodi.com/][Gaia]] [[file:oss.svg]] Grants the ability to instantly watch high-quality files via cached torrents from Real-Debrid or Premiumize.
+- [[http://supremacy.org.uk/zip/repo/][Yoda]] [[file:oss.svg]] Another solid Exodus/Covenant fork, and this time it's from S-media.
+- [[https://elementum.surge.sh/][Elementum]] [[file:oss.svg]] Elementum addon is an addon for Kodi, that manages your virtual library, syncs with your Trakt account.
+- [[https://github.com/doko-desuka/doko.repository/releases][Tooonmania2]] [[file:oss.svg]] lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
+- [[https://github.com/croneter/PlexKodiConnect][PlexKodiConnect]] [[file:oss.svg]] Plex integration in Kodi done right
+- [[https://forums.plex.tv/t/installation-instructions/168854][Official Plex Addon]] [[file:oss.svg]] Official Plex addon for Kodi
+- [[https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/][Ultimate Kodi Guide]] [[file:oss.svg]] ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
+- [[https://hub.docker.com/r/linuxserver/kodi-headless/][kodi-headless]] [[file:oss.svg]] A headless install of Kodi in a docker container, most useful for a MySQL setup of Kodi to allow library updates to be sent without the need for a player system to be permanently on.
+- [[https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w][Exodus Redux]] [[file:oss.svg]] The newest Exodus fork around, paired with LambdaScrapers.
+- [[https://github.com/iwannabelikemike/plugin.video.sparkle][Sparkle]] [[file:oss.svg]] Kodi addon for finding acestream links
+- [[http://fusion.tvaddons.co/][Plexus]] [[file:oss.svg]] Plexus is used in conjunction with Sparkle to play Ace Stream links.
+- [[https://forum.kodi.tv/showthread.php?tid=97657][Pneumatic]] [[file:oss.svg]] Pneumatic is an NZB engine add-on for XBMC. It requires SABnzbd as a backbone.
+- [[https://github.com/ddurdle/Python-GoogleDrive-VideoStream][Python-GoogleDrive-VideoStream]] [[file:oss.svg]] The purpose of this plugin is to serve content delivered in Google Drive plugin for KODI through any HTML5 client.
+- [[http://quasar.surge.sh][Quasar]] [[file:oss.svg]] The purpose of this plugin is to search and stream torrents in Kodi.
+- [[http://burst.surge.sh][Burst]] [[file:oss.svg]] A torrent content provider to the Quasar plugin.
+
+** Gaming
+   :PROPERTIES:
+   :CUSTOM_ID: gaming
+   :END:
+
+- [[https://reddit.com/r/CrackWatch/][/r/CrackWatch]] 🌟 New video game crack releases are posted here
+- [[https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/][Beginners Guide to Crack Watch]] Reddit post by /u/EssenseOfMagic
+- [[https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view][GOD scraped URLs]] All DDL links for games listed on the now-dead GoodOldDownloads site.
+- [[https://steamunlocked.net][Steam unlocked]] 🌟 Download DRM free steam games
+- [[https://gog-games.com/][GOG Games]] 🌟 DDL DRM free gog games
+- [[https://www.myabandonware.com/][My Abandonware]] Download abandonware for free
+- [[https://gload.cc/pc][GLoad]] Download PC games for free
+- [[http://freegogpcgames.com/][Free GOG PC Games]] 🌟 Magnet links site to download games from GOG.
+- [[https://cs.rin.ru/][cs.rin.ru]] Popular gaming piracy forum
+- [[https://github.com/MAXBURAOT/SmartSteamEmu][SmartSteamEmu]] [[file:oss.svg]] Steam emulator
+- [[https://gitlab.com/Mr_Goldberg/goldberg_emulator][goldberg_emulator]] [[file:oss.svg]] Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
+- [[https://cs.rin.ru/forum/viewtopic.php?t=70576][CreamAPI]] 🌟 [[file:oss.svg]] "A Legit DLC Unlocker" for Steam
+  - [[https://github.com/Douile/cream-api-autoinstaller][cream-api-autoinstaller]] [[file:oss.svg]] A python script to automatically install Cream API for Steam games
+- [[https://cdromance.com/][CDRomance]] 🌟 PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
+- [[http://redump.org/][redump.org]] Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
+- [[https://github.com/atom0s/Steamless][Steamless]] [[file:oss.svg]] Steamless is a DRM remover of the SteamStub variants.
+- [[https://github.com/MachineGunnur/GOG-Games][MachineGunnur/GOG-Games]] [[file:oss.svg]] A fork of Good Old Downloads' "GOG Games" hosted on Tor
+- [[http://steamadvisor.com/][Steam Advisor]] Tells you the best games in your library to play
+- [[https://www.freetogame.com/][Free to Game]] Find the best free games
+- [[https://gitlab.com/librebob/athenaeum][Athenaeum]] [[file:oss.svg]] Open source games store like steam
+- [[https://pegasus-frontend.org/][Pegasus Frontend]] [[file:oss.svg]] Front end for you games and your ROMs
+- [[https://www.epicgames.com/store/en-US/download][Epic Games Free Games]] 🌟 Gives away free games every week (sometimes AAA too)
+
+*** Repacks
+    :PROPERTIES:
+    :CUSTOM_ID: repacks
+    :END:
+
+- [[http://fitgirl-repacks.site/][FitGirl Repacks]] 🌟 Popular DDL and torrent site for game repacks
+- [[https://xatab-repack.net][Xatab Repacks]] Russian game repacker, primarily torrents
+- [[https://www.elamigos-games.com/][ElAmigos Games]] Premium links to cracked games
+- [[http://qoob.name/][qoob.name]] Repacker site
+- [[https://nicoblog.org/][Nicoblog]] Plenty of ISOs, ROMs, and repacks
+- [[https://darkumbra.net/][Dark Umbra]] Forum for sourcing games
+- [[https://skidrowrepacks.com/][Skidrow Repacks]] Repacks from popular repacker SKIDROW. Lots of anime stuff too
+
+** Emulators
+   :PROPERTIES:
+   :CUSTOM_ID: emulators
+   :END:
+*** Atari
+    :PROPERTIES:
+    :CUSTOM_ID: atari
+    :END:
+
+- [[https://github.com/stella-emu/stella][Stella - Atari 2600]] - [[file:oss.svg]] A multi-platform Atari 2600 VCS emulator which allows you to play all of your favourite Atari 2600 games on your PC.
+- [[https://github.com/atari800/atari800][Atari800 - Atari 800]] - [[file:oss.svg]] Atari 8-bit computer and 5200 console emulator.
+- [[http://virtualdub.org/altirra.html][Altirra - Atari 800]] - [[file:oss.svg]] Very accurate Atari 8-bit computer (All models) and  5200 console emulator.
+- [[https://kat5200.jillybunch.com/downloads.html][Kat5200 - Atari 5200]] - [[file:oss.svg]] An emulator for the Atari 5200 and 8-bit computers
+- [[https://github.com/gstanton/ProSystem1_3][ProSystem - Atari 7800]] - [[file:oss.svg]] ProSystem Emulator Version 1.3 by Greg Stanton
+- [[https://sourceforge.net/projects/handy/files/][Handy - Atari Lynx]] - [[file:oss.svg]] "Handy" is an Atari Lynx Emulator
+- [[http://icculus.org/virtualjaguar/][Virtual Jaguar - Atari Jaguar]] - [[file:oss.svg]] Virtual Jaguar is an open-source Atari Jaguar emulator.
+
+*** Mattel
+    :PROPERTIES:
+    :CUSTOM_ID: mattel
+    :END:
+
+- [[http://spatula-city.org/~im14u2c/intv/][jzIntv - Intellivision]] - [[file:oss.svg]] Mattel Intellivision emulator and development environment.
+
+*** Microsoft
+    :PROPERTIES:
+    :CUSTOM_ID: microsoft
+    :END:
+
+- [[https://github.com/xqemu/xqemu][XQemu - Xbox]] - [[file:oss.svg]] Open-source emulator to play original Xbox games on Windows, macOS, and Linux.
+- [[https://github.com/Cxbx-Reloaded/Cxbx-Reloaded][CXBX-Reloaded - Xbox]] - [[file:oss.svg]] An emulator for running Microsoft Xbox (and eventually, Chihiro) games on Microsoft Windows.
+- [[https://github.com/xenia-project][Xenia - Xbox 360]] - [[file:oss.svg]] An open source research project for emulating Xbox 360 games on modern PCs.
+
+*** Multisystem
+    :PROPERTIES:
+    :CUSTOM_ID: multisystem
+    :END:
+
+- [[https://github.com/finalburnneo/FBNeo][FinalBurn Neo - Multisystem]] - [[file:oss.svg]] An emulator for arcade games & select consoles.
+- [[https://gitlab.com/higan/higan][Higan - Multisystem]] - [[file:oss.svg]] Emulates a number of classic video-game consoles of the 1980s and 1990s, allowing you to play classic games on a modern general-purpose computer.
+- [[https://github.com/mamedev/mame][MAME - Multisystem]] - [[file:oss.svg]] A multi-purpose emulation framework.
+- [[https://mednafen.github.io][Mednafen - Multisystem]] - [[file:oss.svg]] portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.
+- [[https://github.com/ekeeke/Genesis-Plus-GX][Genesis-Plus-GX - Multisystem]] - [[file:oss.svg]] An enhanced port of Genesis Plus accurate & portable Sega 8/16 bit emulator. Emulates the all SEGA 8-bit and 16-bit consoles.
+- [[https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe][Xe - Multisystem]] - [[file:oss.svg]] A emulator for many system such as Nintendo, SEGA, SNK, NEC, etc.
+
+*** Nintendo
+    :PROPERTIES:
+    :CUSTOM_ID: nintendo
+    :END:
+
+- [[https://github.com/drhelius/Gearboy][GearBoy - Gameboy / Gameboy Color]] - [[file:oss.svg]] Game Boy / Gameboy Color emulator for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
+- [[https://github.com/LIJI32/SameBoy][SameBoy - Gameboy / Gameboy Color]] - [[file:oss.svg]] Game Boy and Game Boy Color emulator written in C.
+- [[http://shinh.skr.jp/tgbdualsdl/][TGBDual - Gameboy / Gameboy Color]] - [[file:oss.svg]] A Japanese Game Boy/Game Boy Color emulator. It was the first to support link cable emulation (through TCP/IP), later followed by VBA Link and then modern emulators.
+- [[https://github.com/libertyernie/tgbdual_L][TGBDual-L - Gameboy / Gameboy Color]] - [[file:oss.svg]] A rebase of changes in libertyernie/tgbdual on top of tgbdual_kai
+- [[https://github.com/mgba-emu/mgba/][mGBA - Gameboy Advance]] - 🌟 [[file:oss.svg]] Aims to be faster and more accurate than many existing Game Boy Advance emulators.
+- [[https://github.com/dolphin-emu/dolphin][Dolphin - GameCube / Wii]] - 🌟 [[file:oss.svg]] A GameCube and Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+- [[https://github.com/schibo/1964js][1964js - Nintendo 64]] - [[file:oss.svg]] Nintendo64 emulator in JavaScript.
+- [[https://github.com/DaedalusX64/daedalus][Daedalus - Nintendo 64]] - [[file:oss.svg]] Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms.
+- [[https://github.com/mupen64plus][Mupen64plus - Nintendo 64]] - [[file:oss.svg]] A cross-platform plugin-based N64 emulator which is capable of accurately playing many games.
+- [[https://github.com/project64/project64][Project64 - Nintendo 64]] - 🌟 [[file:oss.svg]] Can play games reading ROM images, either dumped from the read-only memory of a N64 ROM cartridge or created directly on the computer as homebrew.
+- [[https://github.com/Ryu64Emulator/Ryu64][Ryu64 - Nintendo 64]] - [[file:oss.svg]] This emulator aims to emulate the Nintendo 64, don't expect much right now, no commercial games work.
+- [[https://github.com/TASVideos/desmume][DeSmuME - Nintendo DS]] - 🌟 [[file:oss.svg]] It sports tools designed for hackers, speedrunners, youtubers, and casual gamers.
+- [[http://dualis.1emu.net/files/index.html][Dualis - Nintendo DS]] - [[file:oss.svg]] A plugin-based DS emulator for x86/Win32 computers. It is written in x86 assembly and C++.
+- [[https://github.com/Arisotura/melonDS][MelonDS - Nintendo DS]] - [[file:oss.svg]] Aims at providing fast and accurate Nintendo DS emulation (still work in progress).
+- [[https://github.com/plutooo/3dmoo/][3dmoom - Nintendo 3DS]] - [[file:oss.svg]] 3DS Emulator Prototype.
+- [[https://github.com/citra-emu/citra][Citra - Nintendo 3DS]] - 🌟 [[file:oss.svg]] An experimental open-source Nintendo 3DS emulator/debugger written in C++.
+- [[https://github.com/PSI-Rockin/Corgi3DS/][Corgi3DS - Nintendo 3DS]] - [[file:oss.svg]] Corgi3DS is a dog-themed LLE 3DS emulator.
+- [[https://sourceforge.net/projects/fakenes/files/][FakeNES - NES]] - [[file:oss.svg]] A highly portable NES and Famicom emulator.
+- [[http://sourceforge.net/p/fceultra/code/][FCEUX - NES]] - [[file:oss.svg]] A Nintendo Entertainment System (NES), Famicom, Famicom Disk System (FDS), and Dendy emulator.
+- [[https://sourceforge.net/projects/nestopia/files/Nestopia/][Nestopia - NES]] -🌟 [[file:oss.svg]] An emulator designed to emulate the NES hardware as accurately as possible.
+- [[https://nintaco.com/source.html][Nintaco - NES]] - [[file:oss.svg]] A cycle-accurate NES/Famicom emulator and NES Sound Format (NSF) player written in Java, ostensibly making it cross-platform.
+- [[https://github.com/quietust/nintendulator][Nitendulator - NES]] - [[file:oss.svg]] A Win32 NES emulator written in C++.
+- [[https://github.com/SourMesen/Mesen][Mesen - NES]] - [[file:oss.svg]] A cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#.
+- [[https://github.com/punesemu/puNES/][puNES - NES]] - [[file:oss.svg]] Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Linux, OpenBSD and Windows).
+- [[https://gitlab.com/higan/higan][Bsnes - SNES]] - [[file:oss.svg]] A subset project of [[https://byuu.org/emulation/higan/][higan]], and focuses on performance, features, and ease of use.
+- [[https://github.com/SourMesen/Mesen-S][Mesen-S - SNES]] - [[file:oss.svg]] A cross-platform (Windows & Linux) SNES emulator built in C++ and C#.
+- [[https://github.com/snes9xgit/snes9x][Snes9x - SNES]] - [[file:oss.svg]] A portable Super Nintendo Entertainment System emulator.
+- [[https://sourceforge.net/projects/zsnes/files/zsnes/][ZSNES - SNES]] - [[file:oss.svg]] A free software Super Nintendo Entertainment System emulator written mostly in x86 assembly. Most ROM Hacks require this emulator due to its poor inaccuracies.
+- [[https://github.com/Ryujinx/Ryujinx][Ryujinx - Switch]] - [[file:oss.svg]] Experimental Switch emulator written in C#.
+- [[https://github.com/yuzu-emu/yuzu][Yuzu - Switch]] - 🌟 [[file:oss.svg]] Experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+- [[https://github.com/decaf-emu/decaf-emu][Decaf - Wii U]] - [[file:oss.svg]] Researching Wii U emulation.
+
+*** SEGA
+    :PROPERTIES:
+    :CUSTOM_ID: sega
+    :END:
+
+- [[https://github.com/flyinghead/flycast][flycast - Dreamcast]] - [[file:oss.svg]] Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator
+- [[https://github.com/lxdream/lxdream][lxdream - Dreamcast]] - [[file:oss.svg]] An emulator for the Sega Dreamcast system, running on Linux and macOS.
+- [[https://github.com/skmp/nulldc][nullDC - Dreamcast]] - [[file:oss.svg]] nullDC is an open source Dreamcast emulator
+- [[https://github.com/reicast/reicast-emulator][reicast - Dreamcast]] - [[file:oss.svg]] A multi-platform Sega Dreamcast emulator.
+- [[https://www.retrodev.com/repos/blastem][blastem - Genesis / Megadrive]] - [[file:oss.svg]] Higly accurate emulator for the Genesis/Megadrive that runs on modest hardware.
+- [[https://sourceforge.net/p/dgen/dgen/ci/master/tree/][DGen - Genesis / Megadrive]] - [[file:oss.svg]] Portable Sega Genesis/Mega Drive emulator.
+- [[https://github.com/drhelius/Gearsystem][Gearsystem - MasterSystem]]  for iOS, Mac, Raspberry Pi, Windows, Linux and RetroArch.
+- [[https://www.supermodel3.com/Download.html][Supermodel - Model3]] -  [[file:oss.svg]] Aim of the Supermodel project is to develop an emulator that is both accurate and playable.
+- [[https://github.com/FCare/Kronos][Kronos - Saturn]] - [[file:oss.svg]] Supercharged fork of Yabause that supports upscaling and tons more
+- [[https://yabause.org/download][Yabause - Saturn]] - [[file:oss.svg]] Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
+- [[https://github.com/devmiyax/yabause][Yaba Sanshiro - Saturn]] - [[file:oss.svg]] Fork of the original Yabause Sega Saturn emulator.
+
+*** Sony
+    :PROPERTIES:
+    :CUSTOM_ID: sony
+    :END:
+
+- [[https://github.com/JaCzekanski/Avocado][Avocado - PSX]] - [[file:oss.svg]] A Modern Playstation 1 emulator.
+- [[https://sourceforge.net/projects/hpsx64/files][hpsx64 - PSX]] - [[file:oss.svg]] Highly-Experimental Playstation Simulator x64.
+- [[https://github.com/iCatButler/pcsxr][pcsxr - PSX]] - [[file:oss.svg]] A forked version of the dead PCSX emulator, with a nicer interface and several improvements to stability and functionality.
+- [[https://github.com/grumpycoders/pcsx-redux][pcsx-redux - PSX]] - 🌟 [[file:oss.svg]] Yet another fork of the Playstation Emulator, PCSX.
+- [[https://github.com/BluestormDNA/ProjectPSX][ProjectPSX - PSX]] - [[file:oss.svg]] Experimental C# Playstation Emulator.
+- [[https://gitlab.com/flio/rustation-ng/][Rustation-ng - PSX]] - [[file:oss.svg]] PlayStation emulator in the Rust programing language.
+- [[https://github.com/PSI-Rockin/DobieStation/][DobieStation - PS2]] - [[file:oss.svg]] A young PS2 emulator with plans for an optimized Android port, as well as a fast, accurate, and easy-to-use PC port.
+- [[https://github.com/PCSX2/pcsx2][pcsx2 - PS2]] - [[file:oss.svg]] Emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
+- [[https://github.com/jpd002/Play-][Play! - PS2]] - 🌟 [[file:oss.svg]] An attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
+- [[https://github.com/RPCS3/rpcs3][RPCS3 - PS3]] - 🌟 [[file:oss.svg]] The world's first free and open-source PlayStation 3 emulator/debugger, written in C++ for Windows and Linux.
+- [[https://github.com/AlexAltea/orbital][orbital - PS4]] - 🌟 [[file:oss.svg]] Virtualization-based PlayStation 4 emulator.
+- [[https://github.com/Force67/ps4delta][ps4delta - PS4]] - [[file:oss.svg]] PS4Delta is a very early high level PlayStation 4 emulator, written in c++.
+- [[https://github.com/Inori/GPCS4][GPCS4 - PS4]] - [[file:oss.svg]] A Playstation 4 emulator which was just started.
+- [[https://github.com/hrydgard/ppsspp][ppsspp - PSP]] - [[file:oss.svg]] A fast and portable PSP emulator.
+- [[https://github.com/Vita3K/Vita3K][Vita3K - PSVita]] - [[file:oss.svg]] An experimental PlayStation Vita emulator for Windows, Linux and macOS.
+- [[https://github.com/raydac/zxpoly][ZX-Poly - ZX Spectrum]] - [[file:oss.svg]] Free cross-platfom ZX-Spectrum 128 emulator for Windows, Linux and macOS written in Java. ZX-Poly, ZX-Spectrum 128 and Spec256 configurations have been supported.
+
+*** ROMs
+    :PROPERTIES:
+    :CUSTOM_ID: roms
+    :END:
+
+- [[https://romsmania.cc/][Romsmania]] Good ROMs collection with a decent UI.
+- [[https://www.doperoms.com/][Doperoms]] Huge collection with over 170,000 ROM files. PS3 included.
+- [[https://vimm.net/?p=vault][Vimm's Lair]] 🌟 Large collection of ROMs
+- [[http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites][ROM/ISO sites]] Wiki page from gametechwiki.com with more links
+- [[https://www.romulation.net/][Romulation.net]] Collection of ~28,000 console game ROMs
+- [[http://the-eye.eu/public/rom/][The Eye ROMs]] 🌟 Open directory of ROMs from The Eye
+- [[https://www.myabandonware.com/][myabandonware]] More than 14000 old  games to download for free!
+- [[http://www.oldgamesfinder.com/][Old Games Finder]] Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
+- [[https://theromdepot.com/roms/][The ROM Depot]] About 3TB of ROMs. You may need a VPN.
+- [[https://emulator.games/][Emulator.Games]] Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
+- [[https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/]["A simple script for easily downloading emulator.games roms"]] Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
+- [[http://www.3dsiso.com/][3DSISO]] Nintendo 3DS ROMs downloads forum.
+- [[https://www.3dscia.com/][3DSCIA.com]] DDL links for 3DS CIA files.
+- [[https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/][Ziperto]] DDL link site primarily for Nintendo games.
+
+*** Console Games
+    :PROPERTIES:
+    :CUSTOM_ID: console-games
+    :END:
+
+- [[https://www.reddit.com/r/PkgLinks/][/r/PkgLinks]] A place to share working Playstation 4 PKGs
+- [[https://nopaystation.com][NoPayStation]] 🌟 A Database for PSN content including Vita, PS3, PSX, and PSP
+- See [[#discord-servers][Discord Servers]] for more Switch games
+
+*** Homebrew and Custom Firmware
+    :PROPERTIES:
+    :CUSTOM_ID: homebrew-and-custom-firmware
+    :END:
+
+- [[https://3ds.hacks.guide/][3DS Hacks Guide]] A complete guide to 3DS custom firmware, from stock to boot9strap.
+- [[https://www.reddit.com/r/3dshacks][/r/3dshacks]] Nintendo 3DS hacking and homebrew.
+- [[https://www.reddit.com/r/WiiHacks/][/r/WiiHacks]] This Subreddit is for people interested in modifying their Wii.
+- [[https://www.reddit.com/r/WiiUHacks][/r/WiiUHacks]] A subreddit dedicated to Wii U hacking and homebrew!
+- [[https://www.reddit.com/r/vitahacks/][/r/vitahacks]] A place to discuss Vita hacking and homebrew.
+- [[https://www.reddit.com/r/ps4homebrew][/r/ps4homebrew]] News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
+- [[https://www.reddit.com/r/SwitchHaxing][/r/SwitchHaxing]] Nintendo Switch hacking & homebrew subreddit
+- [[https://www.reddit.com/r/SwitchHacks][/r/SwitchHacks]] Another Nintendo Switch hacking subreddit
+- [[https://www.reddit.com/r/ps3homebrew/][/r/ps3homebrew]] News, updates, apps, and answers regarding PS3 homebrew!
+- [[https://www.reddit.com/r/VitaPiracy/][/r/VitaPiracy]] Fairly active community of PS Vita pirates with guides and releases
+
+** Music
+   :PROPERTIES:
+   :CUSTOM_ID: music
+   :END:
+
+- [[https://www.mooval.de/][MOOVAL]] Easily move your playlists, tracks, and likes from one streaming service to another.
+- [[https://www.madsonic.org/][Madsonic]] Madsonic is a web-based media library and media streamer with jukebox functionality.
+- [[https://musicbrainz.org/][MusicBrainz]] MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+- [[https://airsonic.github.io/][airsonic]] [[file:oss.svg]] Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+- [[http://beets.io/][Beets]] [[file:oss.svg]] The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [[https://github.com/sentriz/gonic][gonic]] Music streaming server / subsonic server API implementation.
+- [[https://github.com/Libresonic/libresonic][LibreSonic]] [[file:oss.svg]] Media streaming software
+- [[https://nuclear.js.org/][Nuclear Music Player]] [[file:oss.svg]] Music client that streams froms multiple sources
+
+*** Music Streaming
+    :PROPERTIES:
+    :CUSTOM_ID: music-streaming
+    :END:
+
+- [[https://muxiv.com/][Muxiv Music]] Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
+- [[https://hikarinoakariost.info/][Hikarinoakariost]] Site with Japanese music
+- [[http://mp3guild.com/][mp3Clan]] Free music streaming
+- [[https://gosong.unblocked.gdn/][GoSong]] Streamable MP3s
+- [[https://mp3juices.unblocked.gdn/][MP3Juices]] MP3 search engine tool which uses YouTube
+- [[http://mp3li.unblckd.club][mp3.li]] Another MP3 streaming site
+- [[https://songs-pk.in/][SongsPK]] Mainly for downloading Bollywood songs. Domain changes frequently.
+- [[https://datmusic.xyz/][datmusic]] Search engine with a clean UI for streaming music in your browser
+- [[https://musicpleer.la/][MusicPleer]] Another music streaming site with a decent search engine
+- [[http://slider.kz/][slider.kz]] Quirky and fast music streaming site
+
+*** Music Downloading
+    :PROPERTIES:
+    :CUSTOM_ID: music-downloading
+    :END:
+
+- [[http://www.soulseekqt.net/news/][Soulseek]] Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
+- [[https://github.com/kepoorhampond/irs][irs]] A music downloader that understands your metadata needs.
+- [[https://git.fuwafuwa.moe/SMLoadrDevs/SMLoadr][SMLoadr]] A streaming music downloader.
+- [[https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/][Deezloader Remaster]] Tool for downloading music from Deezer
+- [[https://notabug.org/RemixDevs/DeezloaderRemix][Deezloader Remix]] Another program with the same purpose, both based on the original, now defunct Deezloader.
+- [[https://www.reddit.com/r/DeezloadersIsBack][/r/DeezloaderIsBack]] Community supporting Deezloader
+- [[https://codeberg.org/RemixDev/deemix][Deemix]] Another program with the same purpose. "Deemix is a python library that lets you download millions of songs [from Deezer]". "Deemix is meant to replace Deezloader Remix".
+- [[https://www.reddit.com/r/deemix][/r/deemix]] Community supporting Deemix
+- [[http://newalbumreleases.net/][New Album Releases]] Premium DDL links for full albums
+- [[https://kingdom-leaks.com/][Kingdom Leaks]] DDL links for album leaks
+- [[https://downloads.khinsider.com/][KHInsider]] Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
+- [[https://github.com/TheLastZombie/VGMLoader][VGMLoader]] [[file:oss.svg]] Tool for bulk downloading from KHInsider.
+- [[https://free-mp3-download.net/][Free MPS Download.net]] Search engine with streamable samples and download links
+- [[https://notabug.org/Aesir/chimera][chimera]] Multiple source terminal-based music downloader with audio search engine
+
+*** Spotify
+    :PROPERTIES:
+    :CUSTOM_ID: spotify
+    :END:
+
+- [[https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/][Get rid of Spotify ads]] Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+- [[https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/][Spotify AdBlock Host file]] 🌟 This is the most up-to-date list and will block all annoying Spotify ads & analytics.
+- [[https://github.com/Xeroday/Spotify-Ad-Blocker/][EZBlocker]] 🌟 [[file:oss.svg]] a Spotify Ad Blocker written in C# for Windows 7/8/10.
+- [[https://github.com/mrpond/BlockTheSpot][BlockTheSpot]] [[file:oss.svg]] Video, audio & banner AdBlock/skip for Spotify
+- [[https://jwallet.github.io/spy-spotify/][Spytify]] [[file:oss.svg]] Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
+- [[https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704][Spotify modded APK]] Modded APK with no ads.
+- [[https://github.com/eviabs/downtify-premium][Downtify]] [[file:oss.svg]] Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+
+*** iTunes
+    :PROPERTIES:
+    :CUSTOM_ID: itunes
+    :END:
+
+- [[https://www.tuneskit.com/][TunesKit]] iTunes DRM removal tool
+- [[https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/][Requiem]] Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
+- [[https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/][How to Remove DRM From iTunes Movies and TV Shows]] HowToGeek article on how to use TunesKit and Requiem
+- [[https://www.pluspremieres.eu/][Plus Premieres]] Download newest iTunes music in M4A format
+- [[https://ejurgensen.github.io/forked-daapd/][forked-daapd]] Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+
+** Software
+   :PROPERTIES:
+   :CUSTOM_ID: software
+   :END:
+
+- [[https://www.reddit.com/r/piracy/wiki/tools][/r/piracy/wiki/tools]] Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
+- [[https://www.nsanedown.com/][nsane.down]] A popular file-sharing forum focused on software
+- [[https://crackingpatching.com/][CrackingPatching.com]] Cracked software
+- [[https://www.macbed.com/][Appked]] Mac application sharing site
+- [[https://www.teamos-hkrg.com/index.php][Team-OS HKRG]] Windows software and various activation tools.
+- [[https://cracksnow.com/][CracksNow]] Cracks for Android, Windows, and macOS applications.
+- [[https://www.nulled.to/][Nulled]] Nulled is a cracking community where you can find links to cracked software
+- [[https://saidit.net/s/sjain_guides][/s/sjain_guides]] Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+- [[https://forums.mydigitallife.net/][My Digital Life Forums]] Popular forum for modded/cracked software and apps
+- [[https://prodesigntools.com][Pro Design Tools]] Site focused on Adobe Development including cracked software and ebooks.
+- [[https://shareappscrack.com/][ShareAppsCrack]] Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
+- [[http://photokaaran.com/][Photokaaran]] Indian site with direct download links of cracked productivity tools.
+- [[https://playnite.link/download.html][Playnite]] [[file:oss.svg]] Video game library manager for windows
+- [[https://element.io/][Element(Matrix)]] [[file:oss.svg]] Popular matrix client
+- [[discord.com][Discord]] Popular chatting service
+- [[https://steamcommunity.com/][Steam]] 🌟 Popular online game service
+- [[https://www.gog.com/galaxy][Gog Galaxy]] 🌟 GOG GALAXY 2.0 - all your games and friends in one place
+- [[https://vscodium.com/][VS Codium]] [[file:oss.svg]] Fork of VSCode without the telemetry
+- [[https://github.com/orospakr/vrms-arch][Virtual Richard Stalman]] [[file:oss.svg]] Richard Stalman tells you if you are downloading a non open source package
+- [[https://github.com/LibreSprite/LibreSprite][Libre Sprite]] [[file:oss.svg]] Open source aseprite
+- [[https://patchmypc.com/home-updater-download][Patch My PC]] 🌟 Keep everything on your pc up to date at once
+- [[https://github.com/Wox-launcher/Wox/releases/tag/v1.4.1129][Wox]] [[file:oss.svg]] Spotlight for Windows - Better/Faster Search
+- [[https://infekt.ws/][iNFekt]] A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+- [[http://nfforce.temari.fr/][NFForce]] Another NFO viewer.
+
+*** Adobe CC
+    :PROPERTIES:
+    :CUSTOM_ID: adobe-cc
+    :END:
+
+- [[https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2][Adobe CC 2019/2020 AIO Patcher]] Latest Working All-In-One Patcher for all
+  Adobe Creative Cloud 2019/2020 Applications (Windows)
+- [[https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A][Adobe Master Collector]] This tool downloads pre-activated Adobe
+  applications released by m0nkrus, ranging from CS6 to CC 2020.
+- [[https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/][Adobe CC 2018]] Full in-depth guide to installing and cracking any
+  application (Windows)
+- [[https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/][Adobe Zii 4.0.3]] Tool for patching and cracking Adobe CC applications.
+- [[https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/][Adobe Acrobat Pro DC]] Full in-depth guide to downloading, installing,
+  activating and optimising.
+
+*** Windows
+    :PROPERTIES:
+    :CUSTOM_ID: windows
+    :END:
+
+- [[https://raddle.me/f/MSToolkit][/f/MSToolkit]] Tools for activating Windows software, including Windows 10 itself.
+- [[https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/][Windows 10 Digital License]] Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
+- [[https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/][How to download and install Windows 10 LTSB]] Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
+- [[https://tb.rg-adguard.net/public.php][TechBench]] Find official Windows isos for Windows 7/8/10
+- [[https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/][Windows 10 Digital License (HWID) & KMS38 Generation]] 🌟 Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+- [[https://ameliorated.info/index.html][Windows Without Spyware]] Windows 10 without spyware (de-microsofted windows)
+
+** Ebooks
+   :PROPERTIES:
+   :CUSTOM_ID: ebooks
+   :END:
+
+- [[https://www.bookstackapp.com/][BookStack]] BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
+- [[http://vaemendis.net/ubooquity/][Ubooquity]] Ubooquity is a free home server for your comics and ebooks library
+- [[https://github.com/seblucas/cops][COPS]] Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+- [[http://b-ok.xyz/][b-ok]] Free ebook library
+- [[https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/][The idiot-proof guide to downloading ebooks off IRC]] Posted by /u/Servaplur
+- [[https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/][Guide to Copy Kindle Content to PDF using Calibre]]
+- [[https://apprenticealf.wordpress.com/][Apprentice Alf's Blog]] Everything you ever wanted to know about DRM and ebooks but were afraid to ask.
+- [[https://calibre-ebook.com/][Calibre]] 🌟 ebook management tool
+- [[https://github.com/janeczku/calibre-web][Calibre-Web]] Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [[https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco][Custom Search Engine]] A Google custom search engine specifically for ebooks
+- [[https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1][Exploring over 1,800 Calibre ebook servers]] Blog post detailing how to use Shodan to find Calibre ebook servers
+- [[https://github.com/apprenticeharper/DeDRM_tools][DeDRM_tools]] DeDRM tools for ebooks.
+- [[https://readanybook.com/][ReadAnyBook]] Free online reading.
+- [[http://pdfdrive.com][PDFdrive]] PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+- [[http://library.memoryoftheworld.org][Memory of the world]] A new website containing a lot of books.
+- [[https://www.kingauthor.net/][King Author]] Open Directory of over 10,000 books with No account registration, No annoying ads and No page redirections
+
+** Magazines
+   :PROPERTIES:
+   :CUSTOM_ID: magazines
+   :END:
+
+- [[http://pdf-giant.com/][PDF Giant]] Various categories of downloadable PDFs
+- [[https://magazinelib.com/][MagazineLib]] Free PDF and interactive e-magazines
+
+** Academic Papers and Material
+   :PROPERTIES:
+   :CUSTOM_ID: academic-papers-and-material
+   :END:
+
+- [[https://libgen.is/][LibGen]] 🌟 search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+- [[https://b-ok.cc/][B-ok]] 🌟 Mirror of libgen with a more user-friendly interface
+- [[https://sci-hub.se/][Sci-Hub]] the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [[http://booksc.org/][BookSC]] The world's largest scientific articles store. 50,000,000+ articles for free.
+- [[http://academictorrents.com/][Academic Torrents]] A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
+- [[https://github.com/saurabhdaware/text-to-handwriting][Text to Handwriting]] So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting
+
+** Textbooks
+   :PROPERTIES:
+   :CUSTOM_ID: textbooks
+   :END:
+
+- [[http://www.allitebooks.com/][All IT eBooks]] A big database of free, direct links for IT and programming ebooks
+- [[http://it-ebooks.info][it-ebooks]] [[file:oss.svg]] Large selection of free and open-source IT ebooks
+- [[https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/][PDF/Ebook trackers for college textbooks]] Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities
+- [[https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/][How to "rent" your textbooks for free from Amazon]] "Going to college? Living off top ramen for dinner? Let me show you have to"rent” your textbooks for free & for life!”
+- [[https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/][Guide for Finding Textbooks]] Extensive tutorial by /u/Amosqu
+- [[https://forcoder.su/][forcoder]] Ebooks & Elearning For Programming
+
+** Courses and Tutorials
+   :PROPERTIES:
+   :CUSTOM_ID: courses-and-tutorials
+   :END:
+
+- [[https://courseclub.me/][CourseClub]] Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
+- [[https://freecoursesite.com/][FreeCourseSite]] Mostly highest rated udemy courses torrent
+- [[https://www.freetutorials.eu/][FreeTutorials.eu]] Lots of Udemy courses for free; Has Adblock detector
+- [[https://gigacourse.com/][Gigacourse]]
+- [[https://desirecourse.net/][Desire Course]]
+- [[http://forum.gfxdomain.net/forums/others-tutorials.42/][GFXDomain.net Tutorials board]] Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
+- [[https://github.com/0x6a73/tpget][tpget]] [[file:oss.svg]] Tutorialspoint downloader
+- [[https://github.com/FaisalUmair/udemy-downloader-gui][udemy-downloader-gui]] 🌟 [[file:oss.svg]] A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [[https://tut4dl.com/][tut4dl]] Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [[https://github.com/ItIsMeCall911/Course-Piracy-Index][Course Piracy]] Course Piracy Index
+
+** Audiobooks
+   :PROPERTIES:
+   :CUSTOM_ID: audiobooks
+   :END:
+
+- [[http://audiobookbay.nl/][AudioBook Bay]] Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
+- [[https://github.com/KrumpetPirate/AAXtoMP3][AAXtoMP3]] [[file:oss.svg]] Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+- [[http://booksonic.org/][Booksonic]] Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
+- [[http://the-eye.eu/public/AudioBooks/][The Eye /public/AudioBooks]] A few publicly accessible audiobooks hosted by The Eye
+- [[https://audiobooks.cloud/][AudioBooks.Cloud]] DDL links for lots of audiobooks.
+- [[https://tokybook.com/][Tokybook]] Free audiobook streaming site.
+
+** Comicbooks
+   :PROPERTIES:
+   :CUSTOM_ID: comicbooks
+   :END:
+
+- [[https://kcc.iosphe.re/][Kindle Comic Converter]] Comic and manga converter for ebook readers
+- [[https://readcomiconline.to/][readcomiconline.to]] Manga and comics uploaded daily
+- [[https://readcomicbooksonline.org/][Readcomicbooksonline]] Tends to Error 520 occasionally
+- [[https://www.comicextra.com/][Comic Extra]] Daily comic uploads, clean UI
+- [[https://getcomics.info/][GetComics]] GetComics started as an alternative place to get downloaded comic files, particularly US-based comics published by DC and Marvel.
+- [[https://hub.docker.com/r/linuxserver/gazee/][Gazee!]] A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web-connected device with a modern web browser.
+- [[https://comix-load.in/][Comix-Load]] DDL links for comic books and manga in English and German.
+- [[https://github.com/fireshaper/Omnibus][Omnibus]] [[file:oss.svg]] Search for and download comics that are added to GetComics.info easily
+
+** Manga
+   :PROPERTIES:
+   :CUSTOM_ID: manga
+   :END:
+
+- [[https://www.mangadex.org/][MangaDex]] MangaDex is an online manga reader that caters to all languages.
+- [[https://www.reddit.com/r/manga][/r/manga]] Everything and anything manga! (manhwa is okay too!)
+- [[https://manga.madokami.al/][Madokami]] Requires sign-up (currently closed), see mirrors below.
+- [[https://archive.org/download/Madokami.Manga.0-E][Madokami 0-E]] Download manga titles named 0 to E.
+- [[https://archive.org/download/Madokami.Manga.F-K][Madokami F-K]] Download manga titles named F to K.
+- [[https://archive.org/download/Madokami.Manga.L-Q][Madokami L-Q]] Download manga titles named L to Q.
+- [[https://archive.org/download/Madokami.Manga.R-Z][Madokami R-Z]] Download manga titles named R to Z.
+- [[https://archive.org/download/Madokami.NotManga][Madokami novels, raws and artbooks]] Download novels, manga raws and artbooks.
+- [[https://tachiyomi.org/][Tachiyomi]] Free and open source manga reader for Android.
+- [[http://mangazoneapp.com/][MangaZone]] A manga reader app.
+- [[https://www.nineanime.com/][NineAnime]] Updated/Active Manga Site
+- [[https://github.com/fmd-project-team/FMD][Free Manga Downloader (FMD)]] [[file:oss.svg]] A manga download manager and reader that supports downloading from various websites.
+- [[https://github.com/manga-download/hakuneko][HakuNeko]] [[file:oss.svg]] A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+
+** Documentaries
+   :PROPERTIES:
+   :CUSTOM_ID: documentaries
+   :END:
+
+- [[https://www.reddit.com/r/documentaries][/r/Documentaries]] Popular documentaries subreddit
+- [[https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/][My big list of documentary sites (streaming and download)]] An old post by /u/whatwhat888 that may still be useful
+- [[http://docuwiki.net/index.php?title=Main_Page][DocuWiki.net]] DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+- [[http://forums.mvgroup.org/][MVGroup]] Forum for documentary torrent and ED2K downloads. Sign-up required.
+- [[https://documentaryaddict.com/][Documentary Addict]] A website which scrapes Youtube for documentaries
+- [[https://ihavenotv.com/][iHaveNoTv]] Community managed documentary collection
+
+** Fonts, Icons, and Graphics
+   :PROPERTIES:
+   :CUSTOM_ID: fonts-icons-and-graphics
+   :END:
+
+- [[https://getfont.cc/][Get Font]] 🌟 Gets paid fonts for free
+- [[https://www.getthefont.com/][Get the font]] Searches through GitHub for fonts
+- [[https://web4sync.com/][Web4Sync]] Forum with DDL links catering to web development, graphics design, 3D animation, and photography
+- [[http://forum.gfxdomain.net/][GFXDomain]] Forum for graphic design resources and software
+- [[https://www.gfxtra.com/][GFxtra]] DDL links for graphics, icons, 3D models, and more
+- [[https://graphicex.com/][GraphicEx]] Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more
+- [[https://tomato.to/][Tomato.to]] Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
+- [[https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/][How to download paid fonts for free]] Post by /u/Bebhio on how to use clever Google searches to find fonts online
+- [[https://github.com/mikf/gallery-dl][gallery-dl]] [[file:oss.svg]] Command-line program to download image-galleries and -collections from several image hosting sites
+
+** Automation
+   :PROPERTIES:
+   :CUSTOM_ID: automation
+   :END:
+
+- [[https://flexget.com/][FlexGet]] FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
+- [[https://github.com/roboticsound/Pulsarr][Pulsarr]] [[file:oss.svg]] Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [[https://github.com/klassicstudios/Bonarr][Bonarr]] [[file:oss.svg]] A fork of Radarr to work with porn.
+- [[https://github.com/l3uddz/traktarr][traktarr]] [[file:oss.svg]] Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [[https://github.com/evilhero/mylar][Mylar]] [[file:oss.svg]] An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
+- [[https://github.com/DobyTang/LazyLibrarian][LazyLibrarian]] [[file:oss.svg]] LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [[https://cloudbox.works/][CloudBox]] An All-In-One, Cloud-Centric, Media Server Solution
+- [[https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit][Piracy and automation, an overview]] Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
+- [[https://lardbit.github.io/nefarious/][Nefarious]] [[file:oss.svg]] Nefarious is a web application that helps you download movies and TV shows.
+
+*** TV Automation
+    :PROPERTIES:
+    :CUSTOM_ID: tv-automation
+    :END:
+
+- [[https://github.com/Sonarr/Sonarr][Sonarr]] 🌟 [[file:oss.svg]] Smart PVR for newsgroup and BitTorrent users.
+- [[https://github.com/SiCKRAGE/SiCKRAGE][SickRage]] Automatic Video Library Manager for TV Shows.
+- [[https://sickchill.github.io/][SickChill]] an automatic Video Library Manager for TV Shows.
+- [[http://sickbeard.com/][SickBeard]] The ultimate PVR application that searches for and manages your TV shows
+- [[https://github.com/SickGear/SickGear][SickGear]] SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+- [[https://pymedusa.com/][Medusa]] [[file:oss.svg]] Automatic Video Library Manager for TV Shows.
+
+*** Movie Automation
+    :PROPERTIES:
+    :CUSTOM_ID: movie-automation
+    :END:
+
+- [[https://radarr.video/][Radarr]] 🌟 [[file:oss.svg]] A fork of Sonarr to work with movies à la Couchpotato.
+- [[https://github.com/Sperryfreak01/RadarrSync][RadarrSync]] [[file:oss.svg]] Syncs two Radarr servers through web API.
+- [[https://github.com/CouchPotato/CouchPotatoServer][CouchPotato]] [[file:oss.svg]] Automatic Movie Downloading via NZBs & Torrents
+- [[https://github.com/nosmokingbandit/Watcher3][Watcher]] [[file:oss.svg]] Watcher is an automated movie NZB & Torrent searcher and snatcher.
+
+*** Music Automation
+    :PROPERTIES:
+    :CUSTOM_ID: music-automation
+    :END:
+
+- [[https://github.com/sentriz/betanin][betanin]] [[file:oss.svg]] beets.io based man-in-the-middle of your torrent client and music player.
+- [[https://github.com/lidarr/Lidarr][Lidarr]] [[file:oss.svg]] Looks and smells like Sonarr but made for music.
+- [[https://github.com/rembo10/headphones][Headphones]] [[file:oss.svg]] Automatic music downloader for SABnzbd
+
+*** Subtitles Automation
+    :PROPERTIES:
+    :CUSTOM_ID: subtitles-automation
+    :END:
+
+- [[https://github.com/morpheus65535/bazarr][Bazarr]] [[file:oss.svg]] Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [[https://github.com/agermanidis/autosub][autosub]] [[file:oss.svg]] Command-line utility for auto-generating subtitles for any video file using speech recognition
+- [[https://github.com/caronc/nzb-subliminal][nzb-subliminal]] [[file:oss.svg]] Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+- [[https://github.com/smacke/subsync][subsync]] [[file:oss.svg]] Automagically synchronize subtitles with the video.
+- [[https://github.com/exebetche/vlsub][vlsub]] [[file:oss.svg]] VLC extension to download subtitles from opensubtitles.org
+
+** P2P Networks
+   :PROPERTIES:
+   :CUSTOM_ID: p2p-networks
+   :END:
+
+- [[https://en.wikipedia.org/wiki/EDonkey_network][eDonkey network]] a decentralized, mostly server-based, peer-to-peer file-sharing network
+- [[https://en.wikipedia.org/wiki/Gnutella][Gnutella]] P2P network behind the popular LimeWire file sharing app
+- [[https://en.wikipedia.org/wiki/FastTrack][FastTrack]] Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file-sharing programs
+- [[https://en.wikipedia.org/wiki/Napster][Napster]] Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
+- [[https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing][Peer-to-peer file sharing]] Detailed Wikipedia page about file sharing
+- [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][IPFS - Distributed Web]] Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
+- [[https://en.wikipedia.org/wiki/Kad_network][Kad]] The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
+
+** Ripping, Transcoding, Converting, Encoding
+   :PROPERTIES:
+   :CUSTOM_ID: ripping-transcoding-converting-encoding
+   :END:
+
+- [[https://handbrake.fr/][Handbrake]] 🌟 [[file:oss.svg]] HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [[http://www.makemkv.com/][MakeMKV]] MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere.
+- [[https://ffmpeg.org/][ffmpeg]] [[file:oss.svg]] A complete, cross-platform solution to record, convert and stream audio and video.
+- [[https://github.com/mdhiggins/sickbeard_mp4_automator][sickbeard_mp4_automator]] Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
+- [[https://b3n.org/automatic-ripping-machine/][Automatic Ripping Machine]] The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
+- [[http://dvddecrypter.org.uk/][DVD Decrypter]] The original unofficial DVD Decrypter mirror since June 7th, 2005.
+- [[https://www.dvdfab.cn/][DVDFab]] DVD ripping tool
+- [[https://encoding-guide.neocities.org/][The Encoding Guide]] 🌟 In-depth guide on encoding video
+
+** Cloud Storage
+   :PROPERTIES:
+   :CUSTOM_ID: cloud-storage
+   :END:
+
+- [[https://github.com/astrada/google-drive-ocamlfuse][google-drive-ocamlfuse]] [[file:oss.svg]] FUSE filesystem over Google Drive
+- [[https://rclone.org/][rclone]] 🌟 [[file:oss.svg]] "rsync for cloud storage"
+- [[https://github.com/dweidenfeld/plexdrive][plexdrive]] [[file:oss.svg]] mounts your Google Drive FUSE filesystem (optimized for media playback)
+- [[https://www.reddit.com/r/PlexACD/][/r/PlexACD]] Discussion about unlimited cloud storage for Plex libraries
+- [[https://bytesized-hosting.com/pages/rclone-gdrive][rclone-gdrive]] Wiki page on setting up Google Drive with rclone cache and crypt
+- [[https://bytesized-hosting.com/pages/plexdrive][Connect Your Plex Server To Your Google Drive]] This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
+- [[https://martins.ninja/RcloneBrowser/][RcloneBrowser]] Simple cross-platform GUI for rclone
+- [[https://github.com/stewartmcgown/uds][UDS]] [[file:oss.svg]] Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
+- [[https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services][Comparison of file hosting services]] This is a comparison of file hosting services that are currently active.
+- [[https://nafanz.github.io/cloudstorage.html][Cloud storage table]] Regularly updated table of information about top cloud storage  providers.
+
+** File Renaming and Tagging
+   :PROPERTIES:
+   :CUSTOM_ID: file-renaming-and-tagging
+   :END:
+
+- [[https://www.filebot.net/][FileBot]] 🌟 the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+- [[https://github.com/filebot/filebot-node][filebot-node]] a client-server application that'll allow you to run filebot commands
+- [[https://github.com/coppit/docker-filebot][docker-filebot]] A Docker container for FileBot
+- [[https://www.mediamonkey.com/][MediaMonkey]] Manage a movie/music library from 100 to 100,000+ audio/video files and playlists
+- [[https://www.mp3tag.de/en/][MP3TAG]] Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
+- [[https://picard.musicbrainz.org/][Picard]] Picard is a cross-platform music tagger written in Python.
+- [[https://github.com/beetbox/beets][Beets]][[file:oss.svg]] beets is a music library manager
+- [[https://www.luminescence-software.org/en/metatogger.html][Metatogger]] Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
+- [[https://mediaarea.net/en/MediaInfo][MediaInfo]] MediaInfo is aconvenient unified display of the most relevant technical and tag data for video and audio files.
+- [[https://iflicksapp.com/][iFlicks2]] Useful for adding metadata to movies and TV shows
+- [[https://www.kvibes.de/mediaelch/][MediaElch]] Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
+- [[https://www.reddit.com/r/datacurator/][/r/datacurator]] Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
+
+** Mobile Apps
+   :PROPERTIES:
+   :CUSTOM_ID: mobile-apps
+   :END:
+
+- [[https://adaway.org/][AdAway]] [[file:oss.svg]] An open-source ad blocker for Android using the hosts file. It needs ROOT access
+- [[https://newpipe.schabi.org/][NewPipe]] 🌟 [[file:oss.svg]] The original YouTube experience without annoying ads and questionable permissions
+- [[http://nzb360.com/][nzb360]] 🌟 nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
+- [[https://play.google.com/store/apps/details?id=com.tidusjar.Ombi][Ombi]] Companion app for Ombi to request Plex content
+- [[https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote][Tautulli Remote]] Mobile version of Tautilli for monitoring Plex on the go
+- [[https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US][MyJDownloader]] enables you to remote control your desktop JDownloader from your pocket while you're on the go.
+- [[https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro][FilePursuit Pro]] FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [[https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722][YMusic]] YouTube Music Player & Downloader
+- [[https://labs.xda-developers.com/store/app/com.cygery.adskip.xda][Cygery AdSkip for YouTube]] Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
+- [[https://blokada.org][Blokada]] Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
+- [[https://github.com/inorichi/tachiyomi][Tachiyomi]] [[file:oss.svg]] Tachiyomi is a free and open-source manga reader for Android.
+- [[http://4pda.ru/forum/index.php?act=idx][4PDA.ru]] 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
+- [[https://github.com/zunjae/anYme][AnYme]] Unofficial Anime App for MyAnimeList
+- [[https://play.google.com/store/apps/details?id=com.niklabs.pp][Perfect Player]] Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+- [[https://www.reddit.com/r/Piracy/comments/ajkeq2/my_little_guide_for_piracy_on_iphone/]["My little guide for piracy on iPhone"]] Post by /u/Impulse_13
+- [[https://nzbunity.dozenzb.com/][nzbUnity]] iOS app for managing your favourite NZB applications
+- [[https://play.google.com/store/apps/details?id=ar.tvplayer.tv][TiviMate IPTV player]] A popular Android app for watching IPTV on Android set-top boxes.
+- [[https://fildo.net/android/en/#][Fildo]] Android music streaming app which fetches files from third party MP3 search engines.
+- [[https://vanced.app/][YouTube Vanced]] [[file:oss.svg]] Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [[https://github.com/Swordfish90/Lemuroid][Lemudroid]] [[file:oss.svg]] An open source multi-system emulator for the phone
+- [[https://github.com/FunkyMuse/Vigilante][Vigilante]] [[file:oss.svg]] Tells you when your camera or microphone is being used by an app
+
+*** Streaming Apps
+    :PROPERTIES:
+    :CUSTOM_ID: streaming-apps
+    :END:
+
+- [[https://mediaboxhd.net][MediaBox HD]] MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
+- [[https://www.kokotime.tv/][Kokotime]] Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user-friendly design
+- [[https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro][Mobdro]] Mobdro constantly searches the web for the best free video streams and brings them to your device.
+- [[https://forum.mobilism.org/viewtopic.php?t=2786441][Cinema]] a lot of Movies & TV/Shows to watch and download.
+- [[https://fildo.net/android/en/][Fildo]] Music streaming app
+- [[https://teatv.net/][TeaTV]] App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
+- [[https://animeglare.xyz/][AniméGlare]]
+- [[http://animevibe.tv/][AniméVibe]]
+- [[https://apollotv.xyz/][ApolloTV]]
+- [[http://beetvapk.me/][BeeTV]]
+- [[https://cinemaapk.com/][Cinema]]
+- [[http://ckaytv.com/][CKayTV]]
+- [[https://cybercloud.media/][Cyberflix]] Terrarium clone
+- [[http://dream-tv.xyz/][DreamTV]] Terrarium clone
+- [[http://titaniumtv.xyz/Morph2.apk][Morph TV]] Morpheus fork
+- [[https://tinyurl.com/y7z5zct8][PhoenixTV]] Morpheus fork
+- [[http://titaniumtv.xyz/][TitaniumTV]] Terrarium clone
+- [[https://tvzionapp.live/][TVZion]]
+- [[https://unlockmytv.com/][UnlockMyTV]] Cinema clone ad-free
+
+*** Torrent Apps
+    :PROPERTIES:
+    :CUSTOM_ID: torrent-apps
+    :END:
+
+- [[https://play.google.com/store/apps/details?id=org.transdroid.lite][Transdrone]] Transdrone allows you to manage the torrents you run on your home server or seedbox.
+- [[https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en][Flud]] Flud is a simple and beautiful BitTorrent client for Android.
+- [[https://f-droid.org/packages/com.biglybt.android.client/][BiglyBT]] [[file:oss.svg]] Free, open-source torrent client for Android phone, tablet, Chromebook, & Android TV
+- [[https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/][LibreTorrent]] [[file:oss.svg]] LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
+- [[https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader][Vuze]] Lightweight & powerful BitTorrent app.
+- [[https://play.google.com/store/apps/details?id=com.mobilityflow.torrent][aTorrent]] Another popular torrent client for Android.
+- [[https://www.f-droid.org/en/packages/org.deluge.trireme/][Trireme]] Use this app to connect and manage your Deluge Daemon.
+
+*** APKs
+    :PROPERTIES:
+    :CUSTOM_ID: apks
+    :END:
+
+- [[https://en.aptoide.com/][Aptoide]] An alternative repository-based marketplace for Android applications
+- [[https://f-droid.org/fr/][F-Droid]] [[file:oss.svg]] An installable catalogue of FOSS (Free and Open Source Software) Android applications
+  - [[https://gitlab.com/AuroraOSS/auroradroid][AuroraDroid]] Aurora Droid is an unofficial, FOSS client for F-Droid.
+  - [[https://github.com/kitsunyan/foxy-droid][Foxy-Droid]] Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby.
+- [[https://github.com/yeriomin/YalpStore][Yalp Store]] Download apks from Google Play Store
+- [[https://forum.mobilism.org/index.php][Mobilism Forum]] 🌟 Large forum of mobile apps and books
+- [[https://onhax.me/][On HAX]] APK mirrors
+- [[https://www.apkmirror.com/][APKMirror]] Download free Android APKs
+- [[https://apkpure.com/][ApkPure]] Another free APK mirror site
+- [[https://acmarket.net/][ACMARKET]] download cracked & modified android apps & games free
+- [[https://blackmod.net/][BlackMod]] Lots of cracked Android games
+- [[https://android-zone.ws/][Android Zone]] Another place to find premium links for APKs
+- [[https://www.revdl.com/][RevDl]] Direct download site for Android apps and games.
+- [[https://www.reddit.com/r/apksapps][/r/ApksApps]] "The best Modded apps on Reddit."
+- [[https://www.reddit.com/r/moddedandroidapps][/r/moddedandroidapps]] Modded Android app releases subreddit.
+- [[https://store.ioob.pw/][IndexOutOfBounds Store]] Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
+- [[https://gitlab.com/AuroraOSS/AuroraStore][Aurora OSS]] [[file:oss.svg]] An open-source alternative for the Google Play Store.
+
+** Discord Servers
+   :PROPERTIES:
+   :CUSTOM_ID: discord-servers
+   :END:
+
+- [[https://discordapp.com/invite/wab3Qag][The Ratio]] 🌟 Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
+- [[https://discord.gg/z2QDFdA][DoujinStyle]] Discord server with Doujin related materials. Things such as Japanese doujin music and games
+- [[https://discordapp.com/invite/py3kX3Z][The Eye]] Official Discord server for the-eye.eu
+- [[https://discord.gg/JJnvEN8][PlayStation Homebrew]] 🌟 Home of /r/ps3homebrew and /r/ps4homebrew.
+- [[https://discord.gg/ypyKZCj][Snahp.it]] Official Discord server for snahp.it.
+- [[https://discord.io/homebrew][/hbg/ Homebrew General]] A Discord server that shares Nintendo Switch Games.
+- [[https://discord.gg/geyTtth][/r/soccerstreams]] Official Discord server for the recently-killed /r/soccerstreams subreddit.
+- [[https://discord.gg/2qWqzN8][APK'S 2 Day]] This is a discord server that acts as a hub for numerous streaming apps.
+
+** IPTV and DVR
+   :PROPERTIES:
+   :CUSTOM_ID: iptv-and-dvr
+   :END:
+
+- [[https://www.reddit.com/r/IPTV/comments/ckoneg/start_here_iptv_guide_and_basics/][IPTV Guide and Basics]] Post by /u/Specific_Angle describing in detail how to get started with IPTV
+- [[https://github.com/iptv-org/iptv][iptv-org/iptv]] Collection of 8000+ publicly available IPTV channels from all over the world
+- [[https://github.com/tellytv/telly][telly]] IPTV proxy for Plex Live written in Golang
+- [[https://github.com/tvheadend/tvheadend][tvheadend]] Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
+- [[https://www.reddit.com/r/IPTV][/r/IPTV]] Subreddit some may find helpful for gauging the current state of IPTV providers
+- [[https://www.reddit.com/r/IPTVresellers][/r/iptvresellers]] promotions and advertisements from IPTV providers
+- [[https://www.reddit.com/r/IPTVreviews][/r/IPTVReviews]] Reviews of IPTV service providers
+- [[https://www.mythtv.org/][MythTV]] [[file:oss.svg]] Free Open Source software digital video recorder
+- [[https://stream.allsprk.tv][allsprk.tv]] A channel-hoppable live streaming site with a chat room
+- [[https://ssl.ustreamix.com/][UlstreaMix]] Live TV streaming site, predominantly sports
+- [[http://www.xtream-editor.com/][Xtream Editor]] Xtream Editor allows you to create, edit and sort m3u playlists online.
+- [[https://xteve.de/][xTeVe]] 🌟 M3U Proxy for Plex DVR
+- [[http://rocketstreams.tv/stbemu][STBEmulator]] Popular Android app for using IPTV streams with EPG
+- [[https://iptv.community/][IPTV Community]] Technology and IPTV discussion website, useful for finding an IPTV provider/reseller
+- [[https://github.com/TheJF/antennas][antennas]] HDHomeRun emulator for Plex DVR to connect to Tvheadend.
+- [[https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit][IPTV Providers list]] A recently created list of 40+ IPTV providers with notes
+- [[https://github.com/fastogt/fastocloud][fastocloud]] IPTV/Video cloud admin panel for servers
+
+*** Acestreams
+    :PROPERTIES:
+    :CUSTOM_ID: acestreams
+    :END:
+
+- [[http://acestream.org/][acestream.org]] Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
+- [[https://acestreamsearch.com/en/][AceStreamSearch]] Ace Stream Broadcasts Search
+- [[https://github.com/ValdikSS/aceproxy][aceproxy]] Ace Stream HTTP Proxy. (abandonware)
+- [[https://hub.docker.com/r/ikatson/aceproxy/][iktason/aceproxy]] A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
+
+** IRC
+   :PROPERTIES:
+   :CUSTOM_ID: irc
+   :END:
+
+- [[http://theloadguru.com/xdcc-irc-beginners-guide/][XDCC Tutorial]] XDCC Downloading For Beginners: Do It Like A Pro
+- [[https://en.wikipedia.org/wiki/XDCC][XDCC]] XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a hosting service.
+- [[https://github.com/znc/znc][ZNC]] An advanced IRC bouncer
+
+*** IRC Clients
+    :PROPERTIES:
+    :CUSTOM_ID: irc-clients
+    :END:
+
+- [[https://github.com/weechat/weechat][weechat]] 🌟 The extensible chat client.
+- [[https://irssi.org/][irssi]] Your text mode chatting application since 1999.
+- [[https://hexchat.github.io/][HexChat]] HexChat is an IRC client based on XChat, but unlike XChat it's completely free for both Windows and Unix-like systems.
+- [[https://github.com/kvirc/KVIrc][KVIrc]] Graphical IRC client
+- [[https://www.mirc.com/][mIRC]] IRC client for Windows
+- [[https://github.com/erming/shout][Shout]] The self-hosted web IRC client
+- [[https://kiwiirc.com/][Kiwi IRC]] Popular web-based IRC client
+- [[https://hub.docker.com/r/linuxserver/thelounge/][TheLounge]] TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
+
+*** IRC Networks
+    :PROPERTIES:
+    :CUSTOM_ID: irc-networks
+    :END:
+
+- [[https://p2p-network.net/][irc.p2p-network.net]] P2P file-sharingnetwork
+- [[https://search.mibbit.com/channels/p2p-network][p2p-network.net channel list]] List of all channels on the p2p-network.net IRC network
+- [[https://orpheus.network/][Orpheus]] Formerly known as Apollo
+- /Moviegods/ =irc://irc.abjects.net/MOVIEGODS= 🌟 XDCC file-sharing network, join #mg-chat to continue downloading
+- /The Source/ =irc://irc.scenep2p.net/THE.SOURCE= Another XDCC source
+- /Beast-XDCC/ =irc://irc.abjects.net/BEAST-XDCC= One more XDCC source
+- /irc.undernet.org/bookz/ =irc://irc.undernet.org/bookz= For
+  downloading ebooks (use =@search <book name>= for a list of available
+  ebooks)
+- /irc.irchighway.net/ebooks/ =irc://irc.irchighway.net/ebooks= A nice,
+  friendly IRC channel for trading ebooks
+
+*** IRC Search Engines
+    :PROPERTIES:
+    :CUSTOM_ID: irc-search-engines
+    :END:
+
+- [[http://xweasel.org][xWeasel]] xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
+- [[https://ixirc.com/][ixIRC]] ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user-supplied XDCC packs.
+- [[http://sunxdcc.com/][SunXDCC]] Another XDCC file search engine
+- [[http://www.xdcc.eu/][xdcc.eu]] XDCC search engine indexing packets from a large number of networks
+
+** DC++
+   :PROPERTIES:
+   :CUSTOM_ID: dc
+   :END:
+
+- [[https://en.wikipedia.org/wiki/Direct_Connect_(protocol)][DC++]] Wikipedia page describing DC++
+- [[https://www.airdcpp.net/][AirDC++]] 🌟 Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
+- [[http://www.flylinkdc.com/][FlylinkDC++]] Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
+- [[https://github.com/eiskaltdcpp/eiskaltdcpp][EiskaltDC++]] Windows/Linux/macOS DC++ client, with ADC and DHT support
+- [[https://launchpad.net/linuxdcpp][LinuxDC++]] Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
+- [[http://tankafett.biz/?do=hublist][Tankafett]] List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+- [[https://launchpad.net/linuxdcpp][Linux DC++]] Easy to configure and use DC++ client
+
+** Full Movies On
+   :PROPERTIES:
+   :CUSTOM_ID: full-movies-on
+   :END:
+
+- [[https://www.reddit.com/r/fullmoviesonyoutube/][/r/fullmoviesonyoutube]]
+- [[https://www.reddit.com/r/fullmovierequest/][/r/fullmovierequest]]
+- [[https://www.reddit.com/r/Fullmoviesonvimeo/][/r/Fullmoviesonvimeo]]
+- [[https://www.reddit.com/r/fulltvshowsonyoutube/][/r/fulltvshowsonyoutube]]
+- [[https://www.reddit.com/r/fulltvshowsonvimeo/][/r/fulltvshowsonvimeo]]
+- [[https://www.reddit.com/r/fullcartoonsonyoutube/][/r/fullcartoonsonyoutube]]
+- [[https://www.reddit.com/r/FullLengthFilms/][/r/FullLengthFilms]]
+- [[https://www.reddit.com/r/FullMoviesDailyMotion][/r/FullMoviesDailyMotion]]
+- [[https://www.reddit.com/r/1080pMoviesOnline][/r/1080pMoviesOnline]]
+- [[https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/][fullmoviesandtv multireddit]] All of the above subreddits as a multireddit
+
+** Piracy Blogs and News
+   :PROPERTIES:
+   :CUSTOM_ID: piracy-blogs-and-news
+   :END:
+
+- [[https://torrentfreak.com][TorrentFreak]] 🌟 TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [[https://www.techworm.net][TechWorm]] Techworm is a Tech, Cyber-security news platform.
+
+** Content Discovery
+   :PROPERTIES:
+   :CUSTOM_ID: content-discovery
+   :END:
+
+- [[https://trakt.tv/][Trakt.tv]] 🌟 a platform that does many things, but primarily keeps track of TV shows and movies you watch.
+- [[https://www.imdb.com/][IMDb]] Find movies, TV shows, celebrities, and more
+- [[https://movieo.me/][Movieo]] Discover, organize and track over 250,000 movies.
+- [[https://www.metacritic.com][MetaCritic]] website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
+- [[https://github.com/sjlu/popular-movies][popular-movies]] Tries to create a list of popular movies based on a series of heuristics
+- [[https://letterboxd.com/][Letterboxd]] Your life in film
+- [[https://www.squawkr.io/][Squawkr.io]] sends notifications when movies are available for download.
+- [[https://www.whatismymovie.com/][What is my movie?]] AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres, etc. We find movies for you to watch."
+- [[https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit][2160p BluRay Remux List]] Complete list of all available 2160p remuxes
+- [[https://github.com/devfake/flox][Flox]] Flox is a self-hosted movie, series and anime watch list.
+- [[https://www.tvmaze.com/][TVmaze]] TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
+- [[https://www.justwatch.com/][JustWatch]] On JustWatch you can find out where to watch your favorite movies & TV series
+- [[https://whereyouwatch.com/latest-reports/][WhereYouWatch]] Follow upcoming movies and receive email alerts when they are out online as a download or stream -- pirated or via retail.
+- [[https://flickmetrix.com/][Flickmetrix]] Movie database search engine with disc/Netflix/Prime filtering
+- [[https://www.dvdsreleasedates.com/][dvdsreleasedates.com]] The latest info on new Blu-ray and DVD releases
+- [[https://simkl.com/][Simkl]] Movie and TV show scrobbler similar to Trakt.tv
+
+*** PreDB Sites
+    :PROPERTIES:
+    :CUSTOM_ID: predb-sites
+    :END:
+
+- [[https://www.urbandictionary.com/define.php?term=predb][PreDB]] Urban Dictionary definition
+- [[https://predb.org/][PreDB.org]]
+- [[https://predb.me/][PreDB.me]]
+- [[https://predb.ovh/][PREdb]]
+- [[https://github.com/enzobes/WarezBot][WarezBot]] Discord bot for scene releases.
+- [[http://nswdb.com/][NSW Releases]] Nintendo Switch scene releases.
+- [[http://3dsdb.com/][3DS Releases]] Nintedo 3DS scene releases.
+- [[https://github.com/HunterKing/NSWDBot][NSWDBot]] A discord bot for scraping NSWDB.com for "Scene" releases.
+
+** Dashboards and Homepages
+   :PROPERTIES:
+   :CUSTOM_ID: dashboards-and-homepages
+   :END:
+
+- [[https://github.com/mescon/Muximux][Muximux]] A lightweight way to manage your HTPC
+- [[https://github.com/linuxserver/Heimdall][Heimdall]] An Application dashboard and launcher
+- [[https://github.com/causefx/Organizr][Organizr]] 🌟 HTPC/Homelab Services Organizer - Written in PHP
+- [[http://weboas.is/][weboas.is]] Homepage for pirates
+- [[https://github.com/Anonmasky/anonmasky.github.io][Anonmasky]] Anonmasky is a beautiful start page for geeks out there. Clone of weboas.is.
+- [[https://github.com/causefx/iDashboard-PHP][iDashboard-PHP]] HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
+- [[https://github.com/Hellowlol/HTPC-Manager][HTPC-Manager]] A fully responsive interface to manage all your favorite software on your Htpc.
+- [[https://github.com/Monitorr/Monitorr][Monitorr]] Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
+- [[https://github.com/Monitorr/logarr][Logarr]] "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+
+** Proxy Sites
+   :PROPERTIES:
+   :CUSTOM_ID: proxy-sites
+   :END:
+
+- [[https://unblocked-pw.github.io/][Unblocked]] 🌟 [[file:oss.svg]] a Proxy site for accessing your favorite blocked sites
+- [[https://bypassed.wtf/][ByPassed]] [[file:oss.svg]] ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
+
+** DNS Tools
+   :PROPERTIES:
+   :CUSTOM_ID: dns-tools
+   :END:
+
+- [[https://github.com/ab77/netflix-proxy/][netflix-proxy]] [[file:oss.svg]] Smart DNS proxy to watch Netflix out-of-region
+- [[https://pi-hole.net/][Pi-hole]] 🌟 [[file:oss.svg]] Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+
+** File Sharing Tools
+   :PROPERTIES:
+   :CUSTOM_ID: file-sharing-tools
+   :END:
+
+- [[https://transfer.sh/][transfer.sh]] Easy file sharing from the command line
+- [[https://file.pizza/][FilePizza]] Free peer-to-peer file transfers in your browser.
+- [[https://dbr.ee/][DBREE]] DBREE is a simplistic and easy way to upload and share any type of file.
+- [[https://wetransfer.com/][WeTransfer]] WeTransfer was founded in 2009 as the simplest way to send big files around the world.
+- [[https://dmca.gripe/][dmca.gripe]] A DMCA-resistant, permanent file hosting service.
+- [[https://filebin.net/][FileBin]] Convenient file sharing on the web, without registration.
+
+** Stream Synchronisation
+   :PROPERTIES:
+   :CUSTOM_ID: stream-synchronisation
+   :END:
+
+- [[https://www.reddit.com/r/Movie_Club][/r/Movie_Club]] Where you can get together with strangers and watch a great movie every week!
+- [[https://github.com/calzoneman/sync/][sync]] Node.JS Server and JavaScript/HTML Client for synchronizing online media
+- [[https://www.watch2gether.com/][watch2gether]] Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
+- [[https://synclounge.tv/][SyncLounge]] 🌟 A third-party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
+- [[https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related][Netflix Party]] Netflix Party is a Chrome extension for watching Netflix remotely with other users.
+- [[https://cytu.be/][CyTube]] Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
+- [[https://www.arconaitv.us/][ArconaiTV]] Another stream sharing platform with a nice UI
+- [[https://andchill.tv/][&chill]] Watch videos with people.
+
+** Telegram Piracy
+   :PROPERTIES:
+   :CUSTOM_ID: telegram-piracy
+   :END:
+
+- [[https://t.me/raymondfreesoftware][Raymond's Piracy Group]] A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
+- [[https://t.me/PiracyLinks][Piracy Links Portal]] Official invite links portal for piracy groups & channels.
+- [[https://t.me/piratebazaar][piratebazaar]] Curated list of piracy-related links.
+  - [@itorrentsearchbot](https://t.me/itorrentsearchbot) Search bot for finding torrent and magnet links on 1337x.to by keyword search
+  - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
+  - [@RickyChristanto](https://t.me/RickyChristanto) Channel for movie  releases, usually from YTS in MKV format.
+  - [[https://t.me/iMediaShare][iMediaShare channel]] Movies, TV shows,  apps, and more
+  - [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading movies
+  - [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray  movie releases
+  - [@MusicHuntersBot](https://t.me/MusicHuntersBot) Another music  downloader bot
+  - [@DeezerMusicBot](https://t.me/DeezerMusicBot) Music bot which  downloads tracks from Deezer
+- [[https://t.me/SMLoadrCommunity][SMLoadrCommuntiy]] Telegram community for SMLoadr
+- [[https://github.com/out386/aria-telegram-mirror-bot][aria-telegram-mirror-bot]] A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [[https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/][CrackWatch trackers]] Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+
+** Archives
+   :PROPERTIES:
+   :CUSTOM_ID: archives
+   :END:
+
+- [[https://mega.nz/folder/xfpEjSRI#Xvt1Snz6X23VawtrDkgFqw][The Trove]] 🌟 The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs. (Updated To the torrent link)
+- [[https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645][Archive of r/Piracy subreddit 2019-03-19]] An archive of all gilded /r/Piracy comments and threads.
+- [[https://github.com/nid666/PiracyArchive][PiracyArchive]] A complete  backup of the Reddit /r/Piracy subreddit
+
+** Serial Keys
+   :PROPERTIES:
+   :CUSTOM_ID: serial-keys
+   :END:
+
+- [[http://www.serials.ws/][Serials.ws]] Serial keys for software that may or may not work.
+- [[https://smartserials.com/][Smart Serials]] 🌟 Threat-Free Serial Keys Site
+
+** Useful Websites
+   :PROPERTIES:
+   :CUSTOM_ID: useful-websites
+   :END:
+
+- [[https://outline.com/][Outline]] Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+- [[https://streamable.com/][Streamable]] Share videos on dicord more than 8 MB
+- [[https://mediabiasfactcheck.com/][Media Bias Fact Check]] 🌟 Check media bias on any website
+- [[https://justdeleteme.xyz/][Just Delete Me]] 🌟 Directly go to the delete account page
+- [[https://anon.to/][Anon.to]] URL shortener to de-referer or null-referer your links
+- [[https://privacy.com/][Privacy.com]] Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details
+- [[https://multiup.org/][Multiup]] Website which allows you to upload files to several different file hosting websites
+- [[https://grabber.co.in/][Grabber]] Download stock images from Shutterstock
+- [[https://www.shodan.io/][Shodan]] Shodan is the world's first search engine for Internet-connected devices
+- [[https://mehotkhan.github.io/BandersnatchInteractive/][Bandersnatch Interactive Player]] Online video player for watching the newinteractive episode of Black Mirror, "Bandersnatch"
+- [[https://devdocs.io][Dev Docs]] Documentation for all your programming and open source needs
+
+** Miscellaneous
+   :PROPERTIES:
+   :CUSTOM_ID: miscellaneous
+   :END:
+
+- [[http://www.ukispcourtorders.co.uk/][UK ISP Court Orders]] List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
+- [[https://torrentfreak.com/images/tradoc_157564.pdf][Counterfeit and Piracy Watch List 2018]]
+- [[https://i.imgur.com/kEOrKJT.png][Movie Release Types]] Table of common movie release types, their labels, and descriptions.
+- [[https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/][2019 Oscar DVD Screeners]] List of DVD screeners for 2019's Oscars
+- [[https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/][Academy Awards 2019 Screeners Megathread]] Post by /u/idoideas listing all available DVDSCR releases for 2019
+- [[https://scenerules.org/][scenerules]] NFOs with rules and guidelines for scene releasing standards.
+- [[https://www.scenelinklist.com/][SceneLinkList]] SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+- [[http://thewarezfolder.com/][TheWarezFolder]] Fairly out of date categorised list of warez sites.
+- [[https://thepiratesociety.org/forums/][The Pirate Society]] A mysterious members-only forum for pirates.
+- [[https://dirtywarez.org/][DirtyWarez]] Lists top warez sites with Alexa rankings and other metadata.
+- [[https://github.com/hwkns/macguffin][MacGuffin]] Automated tools for handling Scene and P2P film releases.
+- [[https://en.wikipedia.org/wiki/List_of_warez_groups][List of warez groups]] Wikipedia's list of warez groups and individuals.
+- [[https://github.com/aldoborrero/k8s-usenet][k8s-usenet]] A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
+
+** Game Engines
+   :PROPERTIES:
+   :CUSTOM_ID: game-engines
+   :END:
+
+- [[https://godotengine.org/][Godot]] 🌟 [[file:oss.svg]] An open source game engine that is very flexible
+- [[https://www.cryengine.com/][CryEngine 3]] A popular game engine used to make games such as crysis
+- [[https://store.unity.com/#plans-individual][Unity]] A very popular game engine used to make many indie games
+- [[https://aws.amazon.com/lumberyard/downloads/][Lumberyard]] A newer game engine made by Amazon
+- [[https://www.unrealengine.com/en-US/get-now?sessionInvalidated=true][Unreal Engine 4]] 🌟 A popular game engine used to make many AAA games all for free
+- [[https://armory3d.org/download.html][Armory (Blender)]] [[file:oss.svg]] An open source game engine made by the blender team
+- [[https://defold.com/download/][Defold]] The game engine used to make the games made by king
+- [[https://gdevelop-app.com/][GDevelop]] [[file:oss.svg]] Create your own games with an open source game creator with no programming needed
+- [[https://stride3d.net/][Stride]] [[file:oss.svg]] Stride is an open-source MIT C# game engine designed for the future of gaming.
+
+** Guides
+   :PROPERTIES:
+   :CUSTOM_ID: guides
+   :END:
+*** How to download Skillshare videos without Premium Account:
+    :PROPERTIES:
+    :CUSTOM_ID: how-to-download-skillshare-videos-without-premium-account
+    :END:
+***** Requirements: You need enough storage in your Gdrive to download
+the course and make sure to delete any skillshare related folders to
+avoid errors
+      :PROPERTIES:
+      :CUSTOM_ID: requirements-you-need-enough-storage-in-your-gdrive-to-download-the-course-and-make-sure-to-delete-any-skillshare-related-folders-to-avoid-errors
+      :END:
+#+begin_example
+  > Step 1: Go to https://colab.research.google.com/github/calvinhobbes23/Skillshare-DL/blob/master/Skillshare_DL_[KENWAY].ipynb
+
+  > Step 2: Click on the arrow facing down next to "Connect" and choose "connect to hosted runtime"
+
+  > Step 3: Click on "Runtime" in the top left side of the screen and Change runtime type to "GPU"
+
+  > Step 4: Click the pause icon next to " Run this cell to mount Gdrive" and go to the url to link your google account and copy the code and paste it in the box under the url and click enter
+
+  > Step 5: Run the cell to install skillshare dl and it should show "Succesfully Configured" after it finished installing
+
+  > Step 6: Copy the course link and paste it under the previous section and click on the pause icon
+
+  > Step 7: After all of them are done downloading, click on move downloaded course to Gdrive and it should send the files to your Gdrive. Enjoy your courses!
+#+end_example
+
+*** Ultimate Guide to Nintendo Piracy (NES->Wii U)
+    :PROPERTIES:
+    :CUSTOM_ID: ultimate-guide-to-nintendo-piracy-nes-wii-u
+    :END:
+
+- [[file:NintendoPiracy.org][Click Here]]
+
+*** External Guides
+    :PROPERTIES:
+    :CUSTOM_ID: external-guides
+    :END:
+
+- [[https://archive.is/j1T6o][How to use eMule in 2018]] An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [[https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/][How To Get Everything On Netflix]] Recovered Link to a post by /u/huldre99
+- [[https://weboas.is/media/host.pdf][How To Host "Questionable" Websites v4.0]] PDF from weboas.is. There are also [[https://weboas.is/media/host.png][PNG]], [[https://weboas.is/media/host.psd][PSD]], and [[https://weboas.is/media/host.txt][TXT]] versions
+- [[https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index][How To Stream Movies, TV, Anime & Sports Online]]  Huge list by /u/nbatman
+
+** License
+   :PROPERTIES:
+   :CUSTOM_ID: license
+   :END:
+[[http://creativecommons.org/publicdomain/zero/1.0][http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg]]
+
+To the extent possible under law, FreddyMaster has waived all copyright and related or neighboring rights to this work.
