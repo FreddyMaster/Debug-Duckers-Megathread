@@ -1,0 +1,292 @@
+﻿{:orcpub.dnd.e5/feats
+ {:strixhaven-initiate
+  {:ability-increases #{},
+   :prereqs #{},
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :description
+   "You have studied some magical theory and have learned a few spells associated with Strixhaven University.\nChoose one of Strixhaven's colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. You learn two cantrips and one 1st-level spell based on the college you choose, as specified in the Strixhaven Spells table.\n\nYou can cast the chosen 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.\n\nYour spellcasting ability for this feat's spells is Intelligence, Wisdom, or Charisma (choose when you select this feat).\n\nStrixhaven Spells\nCollege\tCantrips\t1st-Level Spell\nLorehold\tChoose two from light, sacred flame, and thaumaturgy.\tChoose one 1st-level cleric or wizard spell.\nPrismari\tChoose two from fire bolt, prestidigitation, and ray of frost.\tChoose one 1st-level bard or sorcerer spell.\nQuandrix\tChoose two from druidcraft, guidance, and mage hand.\tChoose one 1st-level druid or wizard spell.\nSilverquill\tChoose two from sacred flame, thaumaturgy, and vicious mockery.\tChoose one 1st-level bard or cleric spell.\nWitherbloom\tChoose two from chill touch, druidcraft, and spare the dying.\tChoose one 1st-level druid or wizard spell.",
+   :name "Strixhaven Initiate",
+   :props {:magic-novice true},
+   :key :strixhaven-initiate},
+  :strixhaven-mascot-prerequisites-4th-level-strixhaven-initiate-feat-
+  {:ability-increases #{},
+   :prereqs #{},
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :description
+   "Prerequisites: 4th level, strixhaven initiate feat\nYou have learned how to summon a Strixhaven mascot to assist you, granting you these benefits:\nYou can cast the find familiar spell as a ritual. Your familiar can take the form of the mascot associated with the college you chose for the Strixhaven Initiate feat: a spirit statue mascot (Lorehold), an art elemental mascot (Prismari), a fractal mascot (Quandrix), an inkling mascot (Silverquill), or a pest mascot (Witherbloom).\nWhen you take the Attack action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.\nIf your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again.",
+   :name
+   "Strixhaven Mascot (Prerequisites: 4th level, strixhaven initiate feat)",
+   :key
+   :strixhaven-mascot-prerequisites-4th-level-strixhaven-initiate-feat-}},
+ :orcpub.dnd.e5/backgrounds
+ {:lorehold-student
+  {:traits
+   [{:description
+     "You gain the Strixhaven Initiate feat and must choose Lorehold within it.\n\nIn addition, if you have the Spellcasting or Pact Magic feature, the spells on the Lorehold Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)\n\nLorehold Spells\nSpell Level\tSpells\n1st\tComprehend Languages, Identify\n2nd\tBorrowed Knowledge, Locate Object\n3rd\tSpeak with Dead, Spirit Guardians\n4th\tArcane Eye, Stone Shape\n5th\tFlame Strike, Legend Lore\nConsider customizing how your spells look when you can cast them. Your Lorehold spells might create displays of golden light. You might use a tome or a scroll as a spellcasting focus, and your spell effects might reflect the appearance of the reference books you study.",
+     :name "Lorehold Initiate"}],
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :help
+   "You have spent your youth preparing to be a student of Lorehold College, reading every book on the college's recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.",
+   :name "Lorehold Student",
+   :profs
+   {:skill {:history true, :religion true},
+    :language-options {:choose 2, :options {:any true}}},
+   :equipment
+   {:ink-pen 1,
+    :ink 1,
+    :hammer 1,
+    :lantern-hooded 1,
+    :clothes-fine 1,
+    :book 1,
+    :tinderbox 1},
+   :treasure {:gp 15},
+   :key :lorehold-student},
+  :prismari-student
+  {:key :prismari-student,
+   :name "Prismari Student",
+   :equipment {:clothes-fine 1, :ink 1},
+   :treasure {:gp 10},
+   :equipment-choices
+   ({:name "Musical Instruments",
+     :options
+     {:flute 1,
+      :horn 1,
+      :dulcimer 1,
+      :viol 1,
+      :drum 1,
+      :pan-flute 1,
+      :bagpipes 1,
+      :shawm 1,
+      :lute 1,
+      :lyre 1}}
+    {:name "Artisan's Tools",
+     :options
+     {:cartographers-tools 1,
+      :painters-supplies 1,
+      :glassblowers-tools 1,
+      :masons-tools 1,
+      :jewelers-tools 1,
+      :leatherworkers-tools 1,
+      :smiths-tools 1,
+      :cobblers-tools 1,
+      :potters-tools 1,
+      :brewers-supplies 1,
+      :woodcarvers-tools 1,
+      :carpenters-tools 1,
+      :tinkers-tools 1,
+      :alchemists-supplies 1,
+      :weavers-tools 1,
+      :cooks-utensils 1,
+      :calligraphers-supplies 1}}),
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :help
+   "You are an artist, and you have been preparing to hone your craft according to the traditions of Prismari College. Whatever your medium-sculpture, dance, paint, music, drama, architecture, or any other field-you have grand visions of bringing your art to life in a fusion of magic and creativity.\n",
+   :profs
+   {:skill {:acrobatics true, :performance true},
+    :language-options {:choose 1, :options {:any true}},
+    :tool-options {:musical-instrument 1, :artisans-tool 1}},
+   :traits
+   [{:description
+     "You gain the Strixhaven Initiate feat and must choose Prismari within it.\n\nIn addition, if you have the Spellcasting or Pact Magic feature, the spells on the Prismari Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)\n\nPrismari Spells\nSpell Level\tSpells\n1st\tChromatic Orb, Thunderwave\n2nd\tFlaming Sphere, Kinetic Jaunt\n3rd\tHaste, Water Walk\n4th\tFreedom of Movement, Wall of Fire\n5th\tCone of Cold, Conjure Elemental\nConsider customizing how your spells look when you can cast them. You might wield your Prismari spells with dynamic, gestural movement-as much dance as somatic component. Even a blast of fire in your hands is a sculpted work of art; elemental forces make grand designs as you hurl spells. These forces might linger on your body or in your clothes as decorative elements after your spells are dissipated, as sparks dance in your hair and your touch leaves tracings of frost on whatever you touch.",
+     :name " Prismari Initiate"}]},
+  :quandrix-student
+  {:traits
+   [{:description
+     "You gain the Strixhaven Initiate feat and must choose Quandrix within it.\n\nIn addition, if you have the Spellcasting or Pact Magic feature, the spells on the Quandrix Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)\n\nQuandrix Spells\nSpell Level\tSpells\n1st\tEntangle, Guiding Bolt\n2nd\tEnlarge/Reduce, Vortex Warp\n3rd\tAura of Vitality, Haste\n4th\tControl Water, Freedom of Movement\n5th\tCircle of Power, Passwall\nConsider customizing how your spells look when you can cast them. Your Quandrix spells might manifest amid kaleidoscopic swirls of fractal patterns, amplifying the tiniest movements of your somatic components. When your magic creates or alters creatures, it might briefly surround the targets with shimmering fractal designs or tessellated patterns.",
+     :name "Quandrix Initiate"}],
+   :help
+   "In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.",
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :profs
+   {:skill {:arcana true, :nature true},
+    :tool-options {:artisans-tool 1},
+    :language-options {:choose 1, :options {:any true}}},
+   :equipment
+   {:abacus 1, :ink 1, :ink-pen 1, :clothes-fine 1, :book 1},
+   :treasure {:gp 15},
+   :name "Quandrix Student",
+   :key :quandrix-student},
+  :silverquill-student-
+  {:traits
+   [{:description
+     "You gain the Strixhaven Initiate feat and must choose Silverquill within it.\n\nIn addition, if you have the Spellcasting or Pact Magic feature, the spells on the Silverquill Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)\n\nSilverquill Spells\nSpell Level\tSpells\n1st\tDissonant Whispers, Silvery Barbs\n2nd\tCalm Emotions, Darkness\n3rd\tBeacon of Hope, Daylight\n4th\tCompulsion, Confusion\n5th\tDominate Person, Rary's Telepathic Bond\nConsider customizing how your spells look when you can cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells' verbal components-even amid the crash of lightning or a fiery eruption.",
+     :name "Silverquill Initiate"}],
+   :help
+   "You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.",
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :profs
+   {:skill {:intimidation true, :persuasion true},
+    :language-options {:choose 2, :options {:any true}}},
+   :equipment {:clothes-fine 1, :ink 1, :ink-pen 1, :book 1},
+   :treasure {:gp 15},
+   :name "Silverquill Student ",
+   :key :silverquill-student-},
+  :witherbloom-student-
+  {:traits
+   [{:description
+     "You gain the Strixhaven Initiate feat and must choose Witherbloom within it.\n\nIn addition, if you have the Spellcasting or Pact Magic feature, the spells on the Witherbloom Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)\n\nWitherbloom Spells\nSpell Level\tSpells\n1st\tCure Wounds, Inflict Wounds\n2nd\tLesser Restoration, Wither and Bloom\n3rd\tRevivify, Vampiric Touch\n4th\tBlight, Death Ward\n5th\tAntilife Shell, Greater Restoration\nConsider customizing how your spells look when you can cast them. Your Witherbloom spells might rely on material components or a spellcasting focus drawn from the swamp environment of Witherbloom, and your spells might take on an appearance suggesting those natural elements. Spectral shapes of swamp animals or plants might form amid your spell effects.",
+     :name "Witherbloom Initiate"}],
+   :help
+   "You filled your childhood with rudimentary alchemical experiments, all in the hope of becoming a student of Witherbloom College. The life sciences are the focus of your reading, which include biology and necromancy. Brewing strange concoctions with medicinal properties, exploring the anatomies of monsters, and cataloging swamp flora are the kinds of studies you might pursue at Witherbloom College.",
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :profs
+   {:skill {:survival true, :nature true},
+    :tool {:herbalism-kit true},
+    :language-options {:choose 1, :options {:any true}}},
+   :equipment
+   {:ink 1, :ink-pen 1, :book 1, :clothes-fine 1, :pot-iron 1},
+   :treasure {:gp 15},
+   :name "Witherbloom Student ",
+   :key :witherbloom-student-}},
+ :orcpub.dnd.e5/spells
+ {:wither-and-bloom
+  {:description
+   "You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.\n\nIn addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your spellcasting ability modifier.\n\nAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.",
+   :key :wither-and-bloom,
+   :school "necromancy",
+   :name "Wither and Bloom",
+   :duration "Instantaneous ",
+   :level 2,
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :components
+   {:verbal true,
+    :somatic true,
+    :material true,
+    :material-component "a withered vine twisted into a loop"},
+   :casting-time "Action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid true,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60"},
+  :vortex-warp
+  {:description
+   "You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.\n\nAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 30 feet for each slot level above 2nd.",
+   :key :vortex-warp,
+   :school "conjuration",
+   :name "Vortex Warp",
+   :duration "Instantaneous",
+   :level 2,
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :components {:verbal true, :somatic true},
+   :casting-time "Action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "90"},
+  :silvery-barbs
+  {:description
+   "You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.\n\nYou can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.",
+   :key :silvery-barbs,
+   :school "enchantment",
+   :name "Silvery Barbs",
+   :duration "Instantaneous",
+   :level 1,
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :components {:verbal true},
+   :casting-time
+   "1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw",
+   :spell-lists
+   {:bard true,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60"},
+  :kinetic-jaunt
+  {:description
+   "You magically empower your movement with dance-like steps, giving yourself the following benefits for the duration.\n\nYour walking speed increases by 10 feet.\nYou don't provoke opportunity attacks.\nYou can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.",
+   :key :kinetic-jaunt,
+   :school "transmutation",
+   :name "Kinetic Jaunt",
+   :duration "Concentration, up to 1 minute",
+   :level 2,
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :components {:somatic true},
+   :casting-time "1 bonus action",
+   :spell-lists
+   {:bard true,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "Self"},
+  :borrowed-knowledge
+  {:description
+   "You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.",
+   :key :borrowed-knowledge,
+   :school "divination",
+   :name "Borrowed Knowledge",
+   :duration "1 hour",
+   :level 2,
+   :option-pack "Strixhaven: A Curriculum of Chaos",
+   :components
+   {:material true,
+    :somatic true,
+    :verbal true,
+    :material-component "a book worth at least 25 gp"},
+   :casting-time "1 action",
+   :spell-lists
+   {:bard true,
+    :cleric true,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer false,
+    :warlock true,
+    :wizard true},
+   :range "Self "}},
+ :orcpub.dnd.e5/races
+ {:owlin
+  {:key :owlin,
+   :speed 30,
+   :name "Owlin",
+   :darkvision 120,
+   :abilities {:orcpub.dnd.e5.character/int 0},
+   :size :medium,
+   :option-pack "Strixhaven_A_Curriculum_of_Chaos",
+   :profs
+   {:language-options
+    {:options
+     {:draconic true,
+      :deep-speech true,
+      :orc true,
+      :dwarvish true,
+      :gnomish true,
+      :sylvan true,
+      :elvish true,
+      :abyssal true,
+      :infernal true,
+      :celestial true,
+      :common true,
+      :undercommon true,
+      :primordial true,
+      :giant true,
+      :halfling true,
+      :goblin true}}},
+   :languages #{"Common"},
+   :props {:flying-speed 30, :skill-prof {:stealth true}},
+   :traits
+   [{:description
+     "Thanks to your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.\n",
+     :name "Flight"}
+    {:name "Ability Scores",
+     :description
+     "Choose one of: (a) Choose any +2; choose any other +1 (b) Choose any +1; choose any other +1; choose any other +1"}]}}}

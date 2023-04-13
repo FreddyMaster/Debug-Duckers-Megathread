@@ -1,0 +1,1098 @@
+﻿{:orcpub.dnd.e5/subclasses
+ {:way-of-the-ascendant-dragon
+  {:class :monk,
+   :traits
+   [{:level 3,
+     :description
+     "You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:\n⁌ Draconic Presence: If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap\ninto the mighty presence of dragons. Once this feature turns a failure into a success, you can’t use it again until you finish a long rest.\n⁌ Draconic Strike: When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.\n⁌ Tongue of Dragons: You learn to speak, read, and write Draconic or one other language of your choice.",
+     :name "Draconic Disciple"}
+    {:name "Breath of the Dragon",
+     :level 3,
+     :description
+     "You can channel destructive waves of energy, like those created by the dragons you emulate. When you take the Attack action on your turn, you can\nreplace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Choose a\ndamage type: acid, cold, fire, lightning, or poison. Each creature in that area must make a Dexterity saving throw against your ki save DC, taking\ndamage of the chosen type equal to two rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.\nAt 11th level, the damage of this feature increases to three rolls of your Martial Arts die.\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you\nhave no uses available, you can spend 2 ki points to use this feature again."}
+    {:description
+     "When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist,\nyou have a flying speed equal to your walking speed.\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+     :level 6,
+     :name "Wings Unfurled"}
+    {:level 11,
+     :name "Aspect of the Wyrm",
+     :description
+     "The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies. As a bonus action, you can create an\naura of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:\n⁌ Frightful Presence: When you create this aura, and as a bonus action on subsequent turns, you can choose a creature within the aura. The target\nmust succeed on a Wisdom saving throw against your ki save DC or become frightened of you for 1 minute. The target can repeat the saving throw\nat the end of each of its turns, ending the effect on itself on a successful save.\n⁌ Resistance: Choose a damage type when you activate this aura: acid, cold, fire, lightning, or poison. You and your allies within the aura have\nresistance to that damage.\nOnce you create this aura, you can’t create it again until you finish a long rest, unless you expend 3 ki points to create it again."}
+    {:level 17,
+     :description
+     "Your draconic spirit reaches its peak. You gain the following benefits:\n⁌ Augment Breath: When you use your Breath of the Dragon, you can spend 1 ki point to augment its shape and power. The exhalation of draconic\nenergy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to four\nrolls of your Martial Arts die on a failed save, or half as much damage on a successful one.\n⁌ Blindsight: You gain blindsight out to 10 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or\nin darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.\n⁌ Explosive Fury: When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your\naura. Each of those creatures must succeed on a Dexterity saving throw against your ki save DC or take 3d10 acid, cold, fire, lightning, or poison\ndamage (your choice).",
+     :name "Ascendant Aspect"}],
+   :level-modifiers [],
+   :name "Way of the Ascendant Dragon",
+   :option-pack "Fizban's Treasury of Dragons",
+   :key :way-of-the-ascendant-dragon},
+  :drakewarden
+  {:class :ranger,
+   :traits
+   [{:name "Draconic Gift",
+     :level 3,
+     :description
+     "The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:\nThaumaturgy: You learn the Thaumaturgy cantrip, which is a ranger spell for you.\nTongue of the Dragons: You learn to speak, read, and write Draconic or one other language off your choice."}
+    {:level 3,
+     :name "Drake Companion",
+     :description
+     "As an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.\nThe drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying Drake Companion stat block, which uses you proficiency bonus (PB) several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.\n\nIn combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.\nThe drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or die. Anything the drake was wearing or carrying is left behind then the drake vanishes.\nOnce you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.",
+     :type :action}
+    {:name "Bond of Fang and Scale",
+     :level 7,
+     :description
+     "The bond you share with your drake intensifies, protecting you and stroking the drake's fury. When you summon your drake, it grows wings on its back and gains a flying speed equal to its walking speed.\nIn addition, while your drake is summoned, you and the drake gain the following benefits:\n⁌ Drake Mount: The drake grows to Medium Size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While riding your it can't use the feature.\n⁌ Magic Fang: The drake's Bite attack deals an extra 1d6 damage of the type chosen for the Drake's Draconic Essence.\n⁌ Resistance: You gain resistance to the damage type chosen for the drake's Draconic Essence."}
+    {:name "Drake's Breath",
+     :level 11,
+     :description
+     "As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, fire, cold, lightning, or poison damage (your choice doesn't have to match your drake's Draconic Essence). Each creature in the come must make a Dexterity saving throw against your spell save DC, taking 8d6 damage on a failed save, or half as much on a successful save.\n\nThe damage increases to 10d6 when you reach 15th level in this class.\n\nOnce you use this feature, you can't do so again until you finish a long rest, unless you expend a 3rd level spell slot or higher to use it again.",
+     :type :action}
+    {:name "Perfected Bond",
+     :level 15,
+     :description
+     "Your bond to your drake reaches the pinnacle or its power. While your drake is summoned, you and the drake gain the following benefits:\n⁌ Empowered Bite: The drake's Bite attack deals an d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).\n⁌ Large Drake: The drake grows to Large Size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.\n⁌ Reflexive Resistance: Then either you or the drake take damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended use when you finish a long rest."}],
+   :level-modifiers
+   [{:type :spell,
+     :value {:key :thaumaturgy, :ability :orcpub.dnd.e5.character/wis},
+     :level 3}],
+   :props {:language {:draconic true}},
+   :profs {:language-options {:choose 1, :options {:any true}}},
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Drakewarden",
+   :key :drakewarden}},
+ :orcpub.dnd.e5/subraces
+ {:emerald
+  {:race :dragonborn,
+   :traits
+   [{:type :action,
+     :name "Disorienting Breath",
+     :description
+     "15 feet cone, psychic damage, Dexterity save. On a failure, when the creature makes an attack roll or an ability check, it must roll a d8 and reduce the total by the number rolled."}
+    {:description
+     "You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.",
+     :name "Psionic Mind"}
+    {:description
+     "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration,you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.",
+     :name "Gem Flight",
+     :type :b-action}],
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Emerald",
+   :key :emerald,
+   :props {:damage-resistance {:psychic true}}},
+  :sapphire
+  {:race :dragonborn,
+   :traits
+   [{:name "Debilitating Breath",
+     :type :action,
+     :description "15 feet cone, thunder damage, Dexterity save."}
+    {:description
+     "You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.",
+     :name "Psionic Mind"}
+    {:description
+     "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration,you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.",
+     :name "Gem Flight",
+     :type :b-action}],
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Sapphire",
+   :props {:damage-resistance {:thunder true}},
+   :key :sapphire},
+  :amethyst
+  {:race :dragonborn,
+   :traits
+   [{:description "15 feet cone, force damage, Strength save.",
+     :type :action,
+     :name "Singularity Breath"}
+    {:description
+     "You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.",
+     :name "Psionic Mind"}
+    {:description
+     "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration,you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.",
+     :name "Gem Flight"}],
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Amethyst",
+   :props {:damage-resistance {:force true}},
+   :key :amethyst},
+  :crystal
+  {:race :dragonborn,
+   :traits
+   [{:description "15 feet cone, radiant damage, Constitution save.",
+     :name "Scintillating Breath",
+     :type :action}
+    {:description
+     "You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.",
+     :name "Psionic Mind"}
+    {:description
+     "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration,you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.",
+     :type :b-action,
+     :name "Gem Flight"}],
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Crystal",
+   :key :crystal,
+   :props {:damage-resistance {:radiant true}}},
+  :topaz
+  {:race :dragonborn,
+   :traits
+   [{:description "15 feet cone, necrotic damage, Constitution save.",
+     :name "Desiccating Breath",
+     :type :action}
+    {:description
+     "You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.",
+     :name "Psionic Mind"}
+    {:type :b-action,
+     :description
+     "Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration,you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.",
+     :name "Gem Flight"}],
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Topaz",
+   :props {:damage-resistance {:necrotic true}},
+   :key :topaz}},
+ :orcpub.dnd.e5/feats
+ {:gift-of-the-chromatic-dragon
+  {:ability-increases #{},
+   :prereqs #{},
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Gift of the Chromatic Dragon",
+   :description
+   "You've manifested some of the power, granting you the following benefits:\n⁌ Chromatic Infusion: As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action you can't do so again until you finish a long rest.\n⁌ Reactive Resistance: When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+   :icon "hydra",
+   :key :gift-of-the-chromatic-dragon},
+  :gift-of-the-gem-dragon
+  {:ability-increases
+   #{:orcpub.dnd.e5.character/int :orcpub.dnd.e5.character/wis
+     :orcpub.dnd.e5.character/cha},
+   :prereqs #{},
+   :option-pack "Fizban's Treasury of Dragons",
+   :name "Gift of the Gem Dragon",
+   :description
+   "You've manifested the power of gem dragons, granting you the following benefits:\n⁌ Ability Score Increase: Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n⁌ Telekinetic Reprisal: When you take damage from a creature within 10 feet of you, you can use tour reaction to emanate telekinetic energy. The creature that dealt damage to you must make a Strength saving throw (DC equals 8 + your proficiency bonus + the ability modifier of the score increased by this feat). On a failed save, the creature takes 2d8 force damage and is pushed up to 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+   :key :gift-of-the-gem-dragon},
+  :gift-of-the-metallic-dragon
+  {:ability-increases #{},
+   :prereqs #{},
+   :description
+   "You've manifested the power of metallic dragons, granting you the following benefits:\n⁌ Draconic Healing: You learn the Cure Wounds spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. Yo can also cast this spell using spell slots you have. The spell's spellcasting modifier is Intelligence, Wisdom, or Charisma (choose when you gain the feat).\n⁌ Protective Wings: You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus 's AC equal to your proficiency bonus against the attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+   :name "Gift of the Metallic Dragon",
+   :option-pack "Fizban's Treasury of Dragons",
+   :key :gift-of-the-metallic-dragon}},
+ :orcpub.dnd.e5/spells
+ {:rimes-binding-ice
+  {:description
+   "A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creatures takes half as much damage and isn't hindered by ice.\nAt Higher Levels, when you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.",
+   :key :rimes-binding-ice,
+   :school "evocation",
+   :name "Rime's Binding Ice",
+   :duration "Instantaneous",
+   :level 2,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components
+   {:somatic true,
+    :material true,
+    :material-component "a vial of meltwater"},
+   :casting-time "1 action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "Self (30-foot cone)"},
+  :draconic-transformation
+  {:description
+   "With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:\n⁌ Blindsight: You have sight with a range of 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature, unless the creature successfully hides from you.\n⁌ Breath Weapon: When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking 6d8 force damage on a failed save, or half as much on a successful one.\n⁌ Wings: Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.",
+   :key :draconic-transformation,
+   :school "transmutation",
+   :name "Draconic Transformation",
+   :duration "Conecntration up to 1 minute",
+   :level 7,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components
+   {:material-component
+    "a statuette of a dragon, worth at least 500GP",
+    :verbal true,
+    :somatic true,
+    :material true},
+   :casting-time "1 bonus action",
+   :spell-lists
+   {:bard true,
+    :cleric true,
+    :druid true,
+    :paladin true,
+    :ranger true,
+    :sorcerer true,
+    :warlock true,
+    :wizard true},
+   :range "Self"},
+  :nathairs-mischief
+  {:description
+   "You fill a 20-foot cube you can see within range with fey and draconic magic. Roll on the Mischievous Surge table to determine the magical effect produced, and roll again at the start of each of your turns until the spell ends. You can move the cube up to 10 feet before you roll.\nd4: Effect\n⁌ 1: The smell of apple pp fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become charmed by you until the start of your next turn.\n⁌ 2: Bouquets of flowers appear all around, and each creature in the cube must succeed on a Dexterity saving throw or be blinded until the start of your next turn as the flowers spray water in faces.\n⁌ 3: Each creature in the cube must succeed Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is incapacitated and uses its movement to move in a random direction.\n⁌ 4: Drops of molasses hover in the cube, making it terrain until the start of your next turn.",
+   :key :nathairs-mischief,
+   :school "illusion",
+   :name "Nathair's Mischief",
+   :duration "Concentration up to 1 minute",
+   :level 2,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components
+   {:material-component "a piece of crust from an apple pie",
+    :verbal true,
+    :somatic true,
+    :material true},
+   :casting-time "1 action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60 feet"},
+  :summon-draconic-spirit
+  {:description
+   "You call forth a draconic spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Draconic Spirit stat block. When you cast this spell, choose a family of dragon: chromatic, gem, or metallic. The creature resembles a dragon of the chosen family, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\nAt Higher Levels, when you cast this spell using a spell slot of 6th level or higher, use the higher level whenever the spell's level appears in the stat block.",
+   :key :summon-draconic-spirit,
+   :school "conjuration",
+   :name "Summon Draconic Spirit",
+   :duration "Concentration up to 1 hour",
+   :level 5,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components
+   {:verbal true,
+    :somatic true,
+    :material true,
+    :material-component
+    "an object with the image of a dragon engraved on it, worth at least 500 GP"},
+   :casting-time "1 action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid true,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60 feet"},
+  :fizbans-platinum-shield
+  {:description
+   "You create a field of silvery light that surrounds a creature of your choice within range (you can choose yourself). The field sheds dim light out to 5 feet. While surround by the field, a creature gains the following benefits:\n⁌ Cover: The creature has half cover.\n⁌ Damage Resistance: The creature has resistance to acid, cold, fire, lightning, and poison damage.\n⁌ Evasion: If the creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.\nAs a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.",
+   :key :fizbans-platinum-shield,
+   :school "abjuration",
+   :name "Fizban's Platinum Shield",
+   :duration "Concentration up to 1 minute",
+   :level 6,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components
+   {:material-component
+    "a platinum-plated dragon scale, worth at least 500GP",
+    :verbal true,
+    :somatic true,
+    :material true},
+   :casting-time "1 bonus action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60 feet"},
+  :raul-s-psychic-lance
+  {:description
+   "You unleash a shimmering lance of psychic power from your forehead at a creature that you can see within range. Alternatively, you can utter a creature's name. If the named target is within range, it becomes the spell's target even if you can't see it. If the named target isn't in rage, the lance dissipates without effect.\nThe target must Intelligence saving throw. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn't incapacitated.\nAt Higher Levels, when you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.",
+   :key :raul-s-psychic-lance,
+   :school "enchantment",
+   :name "Raul.'s Psychic Lance",
+   :duration "Instantaneous",
+   :level 4,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components {:verbal true},
+   :casting-time "1 action",
+   :spell-lists
+   {:bard true,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer true,
+    :warlock true,
+    :wizard true},
+   :range "120 feet"},
+  :ashardalons-stride
+  {:description
+   "The billowing flames of a dragon blast from your feet, granting your explosive speed. For the duration, your speed increases by 20 feet and moving doesn't provoke opportunity attacks.\n\nWhen you move within 5 feet of a creature or an object that isn't being worn or carried, it takes 1d6 fire damage from the trail or heat. A creature or object can take this damage only once during a turn.\n\nAt Higher Levels. When you cast this spell using a spell slot of 4th level or higher,  increase your speed by 5 feet for each spell slot level above 3rd. The spell deals and additional 1d6 fire damage for each spell slot level above 3rd.",
+   :key :ashardalons-stride,
+   :school "transmutation",
+   :name "Ashardalon's Stride",
+   :duration "Concentration, up to 1 minute",
+   :level 3,
+   :option-pack "Fizban's Treasury of Dragons",
+   :components {:verbal true, :somatic true},
+   :casting-time "1 bonus action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger true,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "self"}},
+ :orcpub.dnd.e5/monsters
+ {:ancient-dragon-turtle
+  {:senses "truesight 120 ft., passive Perception 21",
+   :description
+   "Lair Actions\nAs they are presented in the Monster Manual, dragon turtles don't have access to lair actions while in their lairs. At your discretion, you can give an adult or ancient dragon turtle access to lair actions, increasing its challenge rating by 1. On initiative count 20 (losing initiative ties), the dragon turtle can take one of the following lair actions; the dragon turtle can't take the same lair action two rounds in a row:\n\nBlasting Current. A strong water current moves through the dragon turtle's lair. Each creature within 30 feet of the dragon turtle must succeed on a DC 15 Strength saving throw or be moved 30 feet in a direction of the dragon turtle's choice. On a success, the creature is moved 10 feet instead.\n\nEntangling Kelp. Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a DC 15 Strength saving throw or be restrained until the end of its next turn.\n\nSteam Eruption. Steam erupts in a 15-foot cone from a point on the ground the dragon turtle can see within 120 feet of it. Each creature in that area must make a DC 15 Constitution saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant creatures resistance to this damage.\n\nRegional Effects\nThe region containing a dragon turtle's lair can be transformed by its presence, creating one or more of the following effects:\n\nDiverting Currents. Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), even if a creature has a swimming speed.\n\nElemental Portals. Crevasses on the ocean floor within 1 mile of the dragon turtle's lair form two-way portals to the Elemental Plane of Water, allowing creatures of elemental water into the world to dwell nearby.\n\nHot Water. Geothermal vents heat the water within 6 miles of the dragon turtle's lair to 100 degrees Fahrenheit.\n\nIf the dragon turtle dies, these effects fade over the course of 1d10 days.",
+   :legendary-actions
+   {:description
+    "The ancient dragon turtle can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ancient dragon turtle regains spent legendary actions at the start of its turn.\n\nMythic Actions\nIf the dragon turtle's Blessing of the Sea trait has activated in the last hour, it can use the options below as legendary actions.\n\nBite.\nArmor of Storms (Costs 2 Actions)."},
+   :armor-notes "natural armor",
+   :key :ancient-dragon-turtle,
+   :int 14,
+   :speed "30 feet, swim 60 feet",
+   :name "Ancient Dragon Turtle",
+   :alignment "neutral",
+   :cha 15,
+   :hit-points {:die-count 21, :die 20, :modifier 180},
+   :type :dragon,
+   :size :gargantuan,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 22,
+   :skills {:perception 11},
+   :str 28,
+   :saving-throws {:dex 8, :con 16, :wis 11},
+   :challenge 24,
+   :con 29,
+   :dex 12,
+   :wis 19,
+   :props
+   {:damage-resistance {:cold false, :fire false},
+    :condition-immunity
+    {:charmed true, :frightened true, :poisoned true},
+    :language {:draconic true, :aquan true},
+    :damage-immunity {:fire true, :cold true}},
+   :traits
+   [{:description "The dragon turtle can breathe air and water",
+     :name "Amphibious"}
+    {:description
+     "If the dragon turtle would be reduced to 0 hit points, its current hit point total instead resets to 350 hit points, and it recharges its Steam Breath. Additionally, the dragon turtle can now use the options in the \"Mythic Actions\" section for 1 hour. Award a party an additional 62,000 XP (124,000 XP total) for defeating the dragon turtle after its Blessing of the Sea activates.",
+     :name
+     "Blessing of the Sea (Recharges after a Short or Long Rest)"}
+    {:description
+     "If the dragon turtle fails a saving throw, it can choose to succeed instead.",
+     :name "Legendary Resistance (3/Day)"}
+    {:name "Unusual Nature",
+     :description "The dragon turtle doesn't require food or drink."}
+    {:type :action,
+     :name "Multiattack",
+     :description
+     "The dragon turtle makes one Bite or Tail attack and two Claw attacks."}
+    {:type :action,
+     :name "Bite",
+     :description
+     "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 15 (1d12 + 9) piercing damage plus 13 (2d12) lightning damage."}
+    {:type :action,
+     :name "Claw",
+     :description
+     "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 18 (2d8 + 9) slashing damage."}
+    {:type :action,
+     :name "Tail",
+     :description
+     "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be knocked prone."}
+    {:type :action,
+     :description
+     "The dragon turtle exhales steam in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.",
+     :name "Steam Breath (Recharge 5–6)"}
+    {:type :legendary-action,
+     :description "The dragon turtle makes one Claw or Tail attack.",
+     :name "Attack"}
+    {:type :legendary-action,
+     :description
+     "The dragon turtle moves up to its speed. If the dragon turtle is swimming, this movement doesn't provoke opportunity attacks.",
+     :name "Move"}
+    {:type :legendary-action,
+     :description
+     "The dragon turtle radiates intense heat. Until the start of the dragon turtle's next turn, whenever a creature starts its turn within 20 feet of the dragon turtle, that creature must succeed on a DC 24 Constitution saving throw or take 40 (9d8) fire damage. Being underwater doesn't grant resistance against this damage.",
+     :name "Boiling Aura (Costs 3 Actions)"}
+    {:name
+     "Bite (Blessing of the Sea Only; Recharges after a Short or Long Rest)",
+     :description "The dragon turtle makes one Bite attack.",
+     :type :legendary-action}
+    {:description
+     "Lightning temporarily surrounds the dragon turtle, and it gains 40 temporary hit points until the start of its next turn. Until all these temporary hit points are gone, any creature that touches the dragon turtle or hits it with a melee attack takes 26 (4d12) lightning damage.",
+     :name
+     "Armor of Storms (Costs 2 Actions; Blessing of the Sea Only; Recharges after a Short or Long Rest)"}]},
+  :swarm-of-hoard-scarabs
+  {:senses
+   "darkvision 60 ft., tremorsense 60 ft., passive Perception 9",
+   :armor-notes "narmor",
+   :key :swarm-of-hoard-scarabs,
+   :int 3,
+   :speed "20 feet, burrow 20 feet, fly 20 feet",
+   :name "Swarm of Hoard Scarabs",
+   :alignment "unaligned",
+   :cha 6,
+   :hit-points {:die-count 7, :die 8},
+   :type :swarm-of-tiny-beasts,
+   :size :medium,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 14,
+   :str 6,
+   :challenge 2,
+   :con 11,
+   :dex 16,
+   :wis 8,
+   :props
+   {:damage-resistance
+    {:bludgeoning true, :piercing true, :slashing true},
+    :condition-immunity
+    {:prone true,
+     :restrained true,
+     :stunned true,
+     :frightened true,
+     :paralyzed true,
+     :charmed true,
+     :poisoned true,
+     :grappled true,
+     :petrified true}},
+   :traits
+   [{:description
+     "If the swarm is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the swarm move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the swarm is animate.",
+     :name "False Appearance"}
+    {:name "Swarm",
+     :description
+     "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny scarab. The swarm can't regain hit points or gain temporary hit points."}
+    {:name "Swarm of Bites",
+     :description
+     "Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 13 (3d6 + 3) piercing damage, or 6 (1d6 + 3) piercing damage if the swarm is at half of its hit points or fewer, and the target has disadvantage on attack rolls until the start of its next turn.",
+     :type :action}
+    {:type :action,
+     :name "Scale Dust (1/Day)",
+     :description
+     "As a bonus action, the swarm releases magical glittering dust from its wings. Each creature within 10 feet of the swarm must succeed on a DC 13 Dexterity saving throw or be outlined in blue light for 10 minutes. While outlined in this way, a creature sheds dim light in a 10-foot radius and can't benefit from being invisible. In addition, every Dragon within 1 mile of the creature becomes aware of it and can unerringly track the creature. Casting dispel magic on the creature ends the effect on it."}]},
+  :hoard-scarab
+  {:senses
+   "darkvision 60 ft., tremorsense 60 ft., passive Perception 9",
+   :armor-notes "natural armor",
+   :key :hoard-scarab,
+   :int 3,
+   :speed "20 feet, burrow 20 feet, fly 20 feet",
+   :name "Hoard Scarab",
+   :alignment "unaligned",
+   :cha 6,
+   :hit-points {:die-count 3, :die 4},
+   :type :monstrosity,
+   :size :tiny,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 14,
+   :str 4,
+   :challenge 0.125,
+   :con 11,
+   :dex 16,
+   :wis 8,
+   :traits
+   [{:name "False Appearance",
+     :type :Other,
+     :description
+     "If the scarab is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the scarab move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the scarab is animate."}
+    {:type :action,
+     :name "Bite",
+     :description
+     "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a creature, it has disadvantage on attack rolls until the start of its next turn."}
+    {:type :action,
+     :description
+     "As a bonus action, the scarab releases magical glittering dust from its wings. Each creature within 5 feet of the scarab must succeed on a DC 13 Dexterity saving throw or be outlined in blue light for 10 minutes. While outlined in this way, a creature sheds dim light in a 10-foot radius and can't benefit from being invisible. In addition, every Dragon within 1 mile of the creature becomes aware of it and can unerringly track the creature. Casting dispel magic on the creature ends the effect on it.",
+     :name "Scale Dust (1/Day)"}]},
+  :eyedrake
+  {:senses "darkvision 120 ft., passive Perception 18",
+   :armor-notes "natural armor",
+   :key :eyedrake,
+   :int 14,
+   :speed "0 feet, fly 30 feet (hover)",
+   :name "Eyedrake",
+   :alignment "lawful evil",
+   :cha 16,
+   :hit-points {:die-count 14, :die 10, :modifier 42},
+   :type :aberration,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 16,
+   :skills {:perception 8, :stealth 6},
+   :str 16,
+   :saving-throws {:con 6, :wis 5},
+   :challenge 8,
+   :con 16,
+   :dex 10,
+   :wis 14,
+   :props
+   {:condition-immunity {:prone true},
+    :language {:draconic true, :deep-speech true}},
+   :traits
+   [{:name "Unusual Nature",
+     :description "The eyedrake doesn't require food or drink."}
+    {:name "Bite",
+     :type :action,
+     :description
+     "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) piercing damage."}
+    {:type :action,
+     :description
+     "The eyedrake emits a magic wave in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 39 (6d12) force damage on a failed save, or half as much damage on a successful one. Every spell of 3rd level or lower ends on creatures and objects of the eyedrake's choice in that area.",
+     :name "Antimagic Breath (Recharge 6)"}
+    {:type :action,
+     :description
+     "The eyedrake shoots three of the following magical eye rays at random (reroll duplicates), each ray targeting one creature it can see within 60 feet of it:\n1: Freezing Ray. The target must make a DC 14 Constitution saving throw. On a failed save, the target takes 17 (5d6) cold damage, and its speed is halved until the end of its next turn. On a successful save, the target takes half as much damage with no additional effects.\n\n2: Debilitating Ray. The target must succeed on a DC 14 Constitution saving throw or take 7 (2d6) thunder damage and become incapacitated until the end of its next turn.\n\n3: Repulsion Ray. The target must succeed on a DC 14 Strength saving throw or take 14 (4d6) force damage and be pushed up to 60 feet away from the eyedrake.\n\n4: Fire Ray. The target must make a DC 14 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.\n\n5: Paralyzing Ray. The target must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n6: Death Ray. The target must make a DC 14 Dexterity saving throw, taking 28 (8d6) necrotic damage on a failed save, or half as much damage on a successful one. The target dies if the ray reduces it to 0 hit points.",
+     :name "Eye Rays"}]},
+  :young-dragon-turtle
+  {:senses "darkvision 120 ft., passive Perception 11",
+   :armor-notes "natural armor",
+   :key :young-dragon-turtle,
+   :int 10,
+   :speed "20 feet, swim 40 feet",
+   :name "Young Dragon Turtle",
+   :alignment "neutral",
+   :cha 12,
+   :hit-points {:die-count 17, :die 12, :modifier 68},
+   :type :dragon,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 19,
+   :str 21,
+   :saving-throws {:dex 4, :con 8, :wis 5},
+   :challenge 10,
+   :con 19,
+   :dex 10,
+   :wis 12,
+   :props
+   {:damage-resistance {:fire true},
+    :language {:aquan true, :draconic true}},
+   :traits
+   [{:name "Amphibious",
+     :description "The dragon turtle can breathe air and water."}
+    {:type :action,
+     :name "Multiattack",
+     :description
+     "The dragon turtle makes one Bite attack and two Claw attacks."}
+    {:type :action,
+     :name "Bite",
+     :description
+     "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 11 (1d12 + 5) piercing damage plus 6 (1d12) lightning damage."}
+    {:type :action,
+     :name "Claw",
+     :description
+     "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage."}
+    {:type :action,
+     :name "Steam Breath (Recharge 5–6)",
+     :description
+     "The dragon turtle exhales steam in a 30-foot cone. Each creature in that area must make a DC 16 Constitution saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage."}]},
+  :drake-companion
+  {:senses "darkvision 60 feet",
+   :description
+   "Hit points equal to 5 + (5*ranger level); hit dice equals number of d10's equal to ranger level\nAdd Proficiency Bonus to Dexterity saving throw, Wisdom saving throws, Armor Class\n\nDraconic Essence: When you summon the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake's damage immunity and the damage of its fused Strikes traits.",
+   :armor-notes "natural armor",
+   :key :drake-companion,
+   :int 8,
+   :speed "40 feet",
+   :name "Drake Companion",
+   :alignment "any alignment",
+   :cha 8,
+   :hit-points {:die-count 3, :die 10, :modifier 5},
+   :type :dragon,
+   :size :small,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class "14+your proficiency bonus",
+   :str 16,
+   :saving-throws {:dex 1, :wis 1},
+   :con 15,
+   :dex 12,
+   :wis 14,
+   :props {:language {:draconic true}},
+   :traits
+   [{:name "Bite",
+     :type :action,
+     :description
+     "Melee Weapon Attack: +3 + your proficiency bonus to hit, reach 5 feet, one target.\nHit: (1d6 + your proficiency bonus) piercing damage."}
+    {:name "Infused Strikes (Reaction)",
+     :description
+     "When another creature within 30 feet of the drake that it can see hits a target with a weapon attack, the drake infuses the strike with its essence, causing the target to take and extra 1d6 damage of the type determined by its Draconic Essence."}]},
+  :animated-breath
+  {:senses "darkvision 60 ft., passive Perception 10",
+   :armor-notes "(natural armor; 17 cold form only)",
+   :key :animated-breath,
+   :int 6,
+   :speed "30 feet, fly 30 feet (hover)",
+   :name "Animated Breath",
+   :alignment "neutral evil",
+   :cha 5,
+   :hit-points {:die-count 10, :die 10, :modifier 40},
+   :type :elemental,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 15,
+   :str 19,
+   :challenge 6,
+   :con 18,
+   :dex 11,
+   :wis 10,
+   :props
+   {:condition-immunity
+    {:exhausted true,
+     :paralyzed true,
+     :petrified true,
+     :poisoned true,
+     :restrained true,
+     :unconscious true},
+    :language {:draconic true}},
+   :traits
+   [{:description
+     "When created, the animated breath takes one of five forms, matching its creator's breath weapon: Acid, Cold, Fire, Lightning, or Poison. This form determines the creature's AC, damage resistance, traits, and attacks.",
+     :name "Chromatic Form"}
+    {:description
+     "The animated breath resists damage of the type matching it's form (acid, cold, fire, lightning, or poison)",
+     :name "Damage Resistance"}
+    {:description
+     "At the start of each of the animated breath's turns, each creature within 5 feet of it takes 3 (1d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the animated breath or hits it with a melee attack takes 3 (1d6) fire damage.",
+     :name "Fire Aura (Fire Form Only)"}
+    {:description
+     "The animated breath understands Draconic but can't speak it.",
+     :name "Languages"}
+    {:name "Putrid Aura (Acid and Poison Forms Only)",
+     :description
+     "A creature that starts its turn within 5 feet of the animated breath must succeed on a DC 15 Constitution saving throw or be poisoned until the start of its next turn. A creature that touches the animated breath or hits it with a melee attack takes 3 (1d6) acid damage."}
+    {:type :action,
+     :name "Multiattack",
+     :description "The animated breath makes two Slam attacks."}
+    {:type :action,
+     :description
+     "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 11 (2d10) damage of a type determined by the animated breath's form: acid, cold, fire, lightning, or poison.",
+     :name "Slam"}
+    {:type :action,
+     :description
+     "As a bonus action, the animated breath magically teleports to an unoccupied space it can see within 30 feet of it. Each creature within 5 feet of the animated breath after it teleports takes 3 (1d6) lightning damage.",
+     :name "Lightning Burst (Lightning Form Only)"}]},
+  :giant-canary
+  {:senses "passive Perception 10",
+   :key :giant-canary,
+   :int 2,
+   :speed "30 feet, fly 60 feet",
+   :name "Giant Canary",
+   :alignment "unaligned",
+   :cha 6,
+   :hit-points {:die-count 4, :die 10, :modifier 4},
+   :type :beast,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 12,
+   :str 10,
+   :challenge 0.5,
+   :con 12,
+   :dex 14,
+   :wis 10,
+   :traits
+   [{:type :action,
+     :name "Peck",
+     :description
+     "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage."}]},
+  :dracohydra
+  {:senses "darkvision 60 ft., passive Perception 19",
+   :armor-notes "natural armor",
+   :key :dracohydra,
+   :int 6,
+   :speed "30 feet, fly 30 feet, swim 30 feet",
+   :name "Dracohydra",
+   :alignment "chaotic evil",
+   :cha 12,
+   :hit-points {:die-count 19, :die 12, :modifier 95},
+   :type :monstrosity,
+   :size :huge,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 17,
+   :skills {:perception 9},
+   :str 20,
+   :challenge 11,
+   :con 20,
+   :dex 12,
+   :wis 12,
+   :props {:language {:draconic true}},
+   :traits
+   [{:description
+     "The dracohydra understands Draconic but can't speak",
+     :name "Languages"}
+    {:description
+     "The dracohydra has five heads. While it has more than one head, the dracohydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\nWhenever the dracohydra takes 30 or more damage in a single turn, one of its heads dies. If all its heads die, the dracohydra dies.\n\nAt the end of its turn, the dracohydra grows two heads for each of its heads that died since its last turn, unless it has taken radiant damage since its last turn. The dracohydra regains 10 hit points for each head regrown this way.",
+     :name "Multiple Heads"}
+    {:name "Reactive Heads",
+     :description
+     "For each head the dracohydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."}
+    {:type :action,
+     :name "Wakeful",
+     :description
+     "While the dracohydra sleeps, at least one of its heads is awake."}
+    {:type :action,
+     :name "Multiattack",
+     :description
+     "The dracohydra makes as many Bite attacks as it has heads."}
+    {:type :action,
+     :description
+     "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) damage of a type chosen by the dracohydra: acid, cold, fire, lightning, or poison.",
+     :name "Bite"}
+    {:description
+     "The dracohydra's heads exhale a single breath of multicolored energy in a 60-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw. On a failed save, the creature takes 33 (6d10) damage of a type chosen by the dracohydra: acid, cold, fire, lightning, or poison. On a successful save, the creature takes half as much damage.",
+     :name "Prismatic Breath (Recharge 4–6)"}]},
+  :draconic-spirit
+  {:senses
+   "blindsight 30 feet, darkvision 60 feet, Passive Perception 12",
+   :description
+   "Hit Points: 50+10 for each level above 5th (the dragon has a number of Hit Dice [d10's] equal to the level of the spell)\nDamage Resistances (Chromatic and Metallic only): acid, cold, fire, lightning, poison\nDamage Resistances (Gem only): force, necrotic, psychic, radiant, thunder\nShared Resistances: When you summon the dragon, choose one of its damage resistances. You have resistance to the chosen damage type until the spell ends.",
+   :armor-notes "natural armor",
+   :key :draconic-spirit,
+   :int 10,
+   :speed "30 feet, fly 60 feet, swim 30 feet",
+   :name "Draconic Spirit",
+   :alignment "neutral",
+   :cha 14,
+   :hit-points
+   {:die-count "Spell level ",
+    :die 10,
+    :modifier "50 + 10 for each level above 5th"},
+   :type :dragon,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 14,
+   :str 19,
+   :con 17,
+   :dex 14,
+   :wis 14,
+   :props
+   {:condition-immunity
+    {:charmed true, :frightened true, :poisoned true},
+    :language {:draconic true}},
+   :traits
+   [{:name "Multiattack",
+     :description
+     "The dragon makes a number of Rend attacks equal to half to half of the spell's level (rounded down), and it uses its Breath Weapon."}
+    {:name "Rend",
+     :type :action,
+     :description
+     "Melee Weapon Attack: + Your spell attack modifier to hit, reach 10 feet, one target.\nHit: (1d6 + 4 + the spell's level) piercing damage."}
+    {:name "Breath Weapon",
+     :type :action,
+     :description
+     "The dragon exhales destructive energy in a 30-foot cone. Each creature in the area must make a Dexterity saving throw against your spell save DC. A creature takes 2d6 damage of a type the dragon has resistance to (your choice) on a failed save, or half as much on a successful one."}]},
+  :hoard-mimic
+  {:senses "darkvision 60 ft., passive Perception 13",
+   :armor-notes "natural armor",
+   :key :hoard-mimic,
+   :int 10,
+   :speed "30 ft.",
+   :name "Hoard Mimic",
+   :alignment "neutral",
+   :cha 10,
+   :hit-points {:die-count 13, :die 12, :modifier 39},
+   :type :monstrosity,
+   :size :huge,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 14,
+   :skills {:persuasion 3, :stealth 6},
+   :str 21,
+   :saving-throws {:con 6, :wis 6},
+   :challenge 8,
+   :con 17,
+   :dex 12,
+   :wis 16,
+   :props
+   {:condition-immunity {:prone true},
+    :language {:common true, :draconic true, :telepathy-120-ft- true}},
+   :traits
+   [{:name "alse Appearance (Hoard Form Only)",
+     :description
+     "If the mimic is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the mimic move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the mimic is animate."}
+    {:name "Multiattack",
+     :type :action,
+     :description
+     "The mimic makes one Bite attack and two Pseudopod attacks."}
+    {:name "Bite",
+     :type :action,
+     :description
+     "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage plus 7 (2d6) acid damage."}
+    {:name "Pseudopod",
+     :type :action,
+     :description
+     "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage, and the mimic adheres to the target. A creature adhered to the mimic is also grappled by it (escape DC 16). Until this grapple ends, the target is restrained. Ability checks made to escape this grapple have disadvantage."}
+    {:type :action,
+     :name "Caustic Mist (Recharge 5–6)",
+     :description
+     "The mimic sprays a fine mist of acid in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 27 (6d8) acid damage and is blinded until the end of its next turn. On a successful save, the creature takes half as much damage and isn't blinded."}
+    {:name "Shapechanger",
+     :type :action,
+     :description
+     "The mimic transforms into a hoard or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."}]},
+  :dragon-turtle-wyrmling
+  {:senses "darkvision 120 ft., passive Perception 10",
+   :armor-notes "natural armor",
+   :key :dragon-turtle-wyrmling,
+   :int 8,
+   :speed "20 feet, swim 30 feet",
+   :name "Dragon Turtle Wyrmling",
+   :alignment "neutral",
+   :cha 10,
+   :hit-points {:die-count 12, :die 20, :modifier 24},
+   :type :dragon,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 18,
+   :str 17,
+   :saving-throws {:dex 2, :con 4, :wis 2},
+   :challenge 4,
+   :con 15,
+   :dex 10,
+   :wis 10,
+   :props
+   {:damage-resistance {:fire true}, :language {:draconic true}},
+   :traits
+   [{:name "Amphibious",
+     :description "The dragon turtle can breathe air and water."}
+    {:description
+     "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 11 (1d12 + 3) piercing damage.",
+     :name "Bite"}
+    {:description
+     "The dragon turtle exhales steam in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 17 (5d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.",
+     :name "Steam Breath (Recharge 5–6)"}]},
+  :ghost-dragon
+  {:senses
+   "blindsight 60 ft., darkvision 120 ft., passive Perception 24",
+   :armor-notes "",
+   :key :ghost-dragon,
+   :int 16,
+   :speed "40 feet, fly 80 feet (hover)",
+   :name "Ghost Dragon",
+   :alignment "any alignment",
+   :cha 19,
+   :hit-points {:die-count 24, :die 12, :modifier 168},
+   :type :undead,
+   :size :huge,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 10,
+   :skills {:perception 14, :stealth 12},
+   :str 20,
+   :saving-throws {:con 13, :wis 8, :cha 10},
+   :challenge 17,
+   :con 25,
+   :dex 10,
+   :wis 15,
+   :props
+   {:damage-resistance
+    {:bludgeoning true, :piercing true, :slashing true},
+    :damage-immunity
+    {:acid true, :cold true, :necrotic true, :poison true},
+    :condition-immunity
+    {:prone true,
+     :restrained true,
+     :exhausted true,
+     :frightened true,
+     :paralyzed true,
+     :charmed true,
+     :poisoned true,
+     :grappled true,
+     :petrified true},
+    :language {:common true, :draconic true, :telepathy-120-ft- true}},
+   :traits
+   [{:name "Incorporeal Movement",
+     :description
+     "The ghost dragon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."}
+    {:name "Legendary Resistance (3/Day)",
+     :description
+     "If the ghost dragon fails a saving throw, it can choose to succeed instead."}
+    {:name "Unusual Nature",
+     :description
+     "The ghost dragon doesn't require air, food, drink, or sleep."}
+    {:name "Multiattack",
+     :description
+     "The ghost dragon makes one Bite attack and two Claw"}
+    {:name "Bite",
+     :description
+     "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 32 (6d8 + 5) cold damage, and the target's speed is halved until the start of the dragon's next turn."}
+    {:name "Claw",
+     :description
+     "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) necrotic damage."}
+    {:name "Terrifying Breath (Recharge 6)",
+     :description
+     "The ghost dragon exhales shadowy mist in a 90-foot cone. Each creature in that area must make a DC 21 Constitution saving throw. On a failed save, the creature takes 40 (9d8) cold damage and is frightened of the ghost dragon for 1 minute. On a successful save, the creature takes half as much damage and isn't frightened.\nWhile frightened of the ghost dragon, a creature is paralyzed. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\nIf a creature's saving throw is successful or the effect ends for it, the creature is immune to this ghost dragon's Terrifying Breath for the next 24 hours."}]},
+  :gem-stalker
+  {:senses "darkvision 120 feet, Passive Perception 13",
+   :armor-notes "natural armor",
+   :key :gem-stalker,
+   :int 15,
+   :speed "40 feet, climb 40 feet",
+   :name "Gem Stalker",
+   :alignment "neutral",
+   :cha 6,
+   :hit-points {:die-count 9, :die 10, :modifier 18},
+   :type :monstrosity,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 17,
+   :skills {:stealth 5, :perception 3},
+   :str 17,
+   :saving-throws {:dex 5, :int 5},
+   :challenge 5,
+   :con 14,
+   :dex 15,
+   :wis 10,
+   :props
+   {:damage-resistance {:psychic true},
+    :language
+    {:telepathy-60-feet true,
+     :understands-draconic-but-cant-speak true}},
+   :traits
+   [{:description
+     "The gem stalker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+     :name "Spider Climb"}
+    {:description "The gem stalker doesn't require food or drink.",
+     :name "Unusual Nature"}
+    {:type :action,
+     :description "The gem stalker makes four Claw attacks.",
+     :name "Multiattack"}
+    {:description
+     "Melee Weapon Attack: +6 to hit, reach 5 feet, one target.\nHit: 10 (2d6 + 3) slashing damage.",
+     :name "Claw",
+     :type :action}
+    {:type :action,
+     :description
+     "Bonus Action\nRanged Spell Attack: +5 to hit, range 30 feet, one target.\nHit: 7 (1d10 + 2) force damage, and one of the following effects occurs, determined by the kind of dragon that created the gem stalker:\n\nAmethyst: The gem stalker can teleport to an unoccupied space it can see within 30 feet of it.\nCrystal: The gem stalker gains a number of temporary hit points equal to the damage dealt.\nEmerald: The target must roll a d4 and subtract the number rolled from the next attack roll it makes before the start of the gem stalker's next turn.\nSapphire: The target must succeed on a DC 13 Strength saving throw or be pushed horizontally up to 10 feet away from the gem stalker and be knocked prone.\nTopaz: The target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the gem stalker's next turn.",
+     :name "Crystal Dart"}
+    {:type :action,
+     :name "Protective Link",
+     :description
+     "As a reaction, when another creature the gem stalker can see within 30 feet of it is about to take damage, the gem stalker reduces that damage by 10 (3d6). The gem stalker then takes damage equal to that amount."}]},
+  :dragonblood-ooze
+  {:senses
+   "blindsight 120 ft. (blind beyond this radius), passive Perception 14",
+   :armor-notes "natural armor",
+   :key :dragonblood-ooze,
+   :int 2,
+   :speed "20 feet, climb 20 feet",
+   :name "Dragonblood Ooze",
+   :alignment "unaligned",
+   :cha 10,
+   :hit-points {:die-count 8, :die 10, :modifier 24},
+   :type :ooze,
+   :size :large,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 14,
+   :skills {:perception 4, :stealth 4},
+   :str 18,
+   :challenge 5,
+   :con 17,
+   :dex 6,
+   :wis 12,
+   :props
+   {:damage-resistance
+    {:acid true,
+     :cold true,
+     :fire true,
+     :lightning true,
+     :poison true},
+    :condition-immunity
+    {:prone true,
+     :invisible false,
+     :restrained true,
+     :exhausted true,
+     :deafened true,
+     :frightened true,
+     :charmed true,
+     :blinded true,
+     :grappled true},
+    :language {:draconic true}},
+   :traits
+   [{:name "Amorphous",
+     :description
+     "The ooze can move through a space as narrow as 1 inch wide without squeezing."}
+    {:name "Languages",
+     :description
+     "The ooze can understand Draconic, and the languages of its creator but can't speak."}
+    {:name "Spider Climb",
+     :description
+     "The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."}
+    {:name "Multiattack",
+     :description
+     "The ooze makes two Pseudopod attacks. The ooze can replace one Pseudopod attack with its Slime Breath, if available."}
+    {:name "Pseudopod",
+     :description
+     "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage plus 14 (4d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target takes 7 (2d6) acid damage at the start of each of its turns."}
+    {:description
+     "The ooze expels a spray of its gelatinous mass in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 22 (4d10) acid damage and is pulled up to 30 feet straight toward the ooze. On a successful save, the creature takes half as much damage and isn't pulled.",
+     :name "Slime Breath (Recharge 6)"}]},
+  :elder-brain-dragon
+  {:senses "blindsight 120 ft., passive Perception 28",
+   :legendary-actions
+   {:description
+    "The elder brain dragon can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The elder brain dragon regains spent legendary actions at the start of its turn."},
+   :armor-notes "natural armor",
+   :key :elder-brain-dragon,
+   :int 21,
+   :speed "40 feet, fly 80 feet (hover)",
+   :name "Elder Brain Dragon",
+   :alignment "lawful evil",
+   :cha 24,
+   :hit-points {:die-count 20, :die 20, :modifier 140},
+   :type :aberration,
+   :size :gargantuan,
+   :option-pack "Fizban's Treasury of Dragons",
+   :armor-class 17,
+   :skills {:arcana 12, :insight 18, :perception 18},
+   :str 27,
+   :saving-throws {:con 14, :int 12, :wis 11, :cha 14},
+   :challenge 22,
+   :con 25,
+   :dex 13,
+   :wis 19,
+   :props
+   {:damage-immunity {:psychic true},
+    :condition-immunity {:charmed true, :frightened true},
+    :language
+    {:common false,
+     :deep-speech true,
+     :draconic true,
+     :telepathy-5-miles true}},
+   :traits
+   [{:name "Legendary Resistance (4/Day)",
+     :description
+     "If the dragon fails a saving throw, it can choose to succeed instead."}
+    {:name "Siege Monster",
+     :description
+     "The dragon deals double damage to objects and structures."}
+    {:name "Unusual Nature",
+     :description "The dragon doesn't require air or sleep."}
+    {:type :action,
+     :name "Multiattack",
+     :description
+     "The dragon makes one Bite attack, two Claw attacks, and one Tentacle attack."}
+    {:type :action,
+     :name "Bite",
+     :description
+     "Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 11 (2d10) psychic damage."}
+    {:type :action,
+     :name "Claw",
+     :description
+     "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 11 (1d6 + 8) slashing damage."}
+    {:type :action,
+     :name "Tentacle",
+     :description
+     "Melee Weapon Attack: +15 to hit, reach 15 ft., one creature. Hit: 12 (1d8 + 8) psychic damage. If the target is Huge or smaller, it is grappled (escape DC 18). The dragon can have up to four targets grappled at a time."}
+    {:type :action,
+     :name "Tadpole Brine Breath (Recharge 5–6)",
+     :description
+     "The dragon exhales brine in a 120-foot line that is 15 feet wide. Each creature in that area must make a DC 22 Constitution saving throw, taking 55 (10d10) psychic damage on a failed save, or half as much damage on a successful one. On a success or failure, if the creature isn't a Construct or an Undead, it becomes infested with illithid tadpoles.\nWhile infested, the creature takes 16 (3d10) psychic damage at the start of each of its turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself after it succeeds on three of these saves. If the creature is targeted by magic that ends a curse or restores 40 hit points or more, the tadpoles infesting the creature are killed instantly, ending the effect on the creature.\n\nIf a Humanoid is reduced to 0 hit points while infested, the creature is stable but remains unconscious for 6d12 hours. When the period of unconsciousness ends, the creature transforms into a mind flayer (see the Monster Manual) with all its hit points. Casting a wish spell on the unconscious creature rids it of the infestation and prevents it from turning into a mind flayer."}
+    {:type :legendary-action,
+     :name "Tentacle",
+     :description "The dragon makes one Tentacle attack."}
+    {:type :legendary-action,
+     :description
+     "The dragon targets a creature it is grappling. The target's concentration on a spell it has cast or an ability it is maintaining ends, and the target takes 19 (3d12) psychic damage.",
+     :name "Shatter Concentration (Costs 2 Actions)"}]}}}

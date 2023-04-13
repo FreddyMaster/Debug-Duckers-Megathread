@@ -1,0 +1,2232 @@
+﻿{"The Lingering Soul"
+ {:orcpub.dnd.e5/subclasses
+  {:calling-of-the-poltergeist
+   {:class :the-lingering-soul,
+    :key :calling-of-the-poltergeist,
+    :level-modifiers
+    [{:type :spell, :value {:ability :str, :key :mage-hand}}],
+    :name "Calling of the Poltergeist",
+    :option-pack "The Lingering Soul",
+    :traits
+    [{:description
+      "Choose either your Strength, Dexterity, or Intelligence to become your Aspect. Your Aspect modifier equals the chosen ability modifier. You gain proficiency in Strength saving throws.",
+      :name "Aspect of the Poltergeist"}
+     {:description
+      "You gain proficiency with 3 melee weapons of your choice. You can choose 2 more melee weapons to gain proficiency with at 6th, 11th, and 15th level.",
+      :name "Implements of Anger"}
+     {:description
+      "You learn the Mage Hand cantrip. As an action, you can choose an object that weighs no more than 10 lbs within 30ft of you. You mystically hurl it 30ft in any direction. If you choose to have the object strike a creature, roll a ranged Aspect attack. On a hit, the creature takes 1d4 + your Aspect modifier bludgeoning damage, and the object drops to the ground. If the object is a weapon you are proficient in, use the weapon's damage dice and type instead. Any magical weapons you are proficient with and attuned to can be used with this feature.\nIf the target object is held by another creature, they must make a Strength save. On a fail, the creature drops the object you choose and you may move it up to 15ft.",
+      :name "Haunt"}
+     {:description
+      "You can move two objects when you take the Haunt action. Alternatively, you can move a single object twice, allowing two attacks with a single object.",
+      :level 6,
+      :name "Advanced Haunt"}
+     {:description
+      "As a bonus action, select any pieces of wearable equipment within 30ft that aren't currently being worn. The equipment assembles around you, granting any AC bonuses, benefits, and detriments granted by wearing this equipment.\nYou don't need armor proficiency or the Str requirement of heavy armor. Any magical equipment you are attuned to can be used with this feature. You are limited by equipment slots.\nThis equipment remains assembled around you until you choose to drop it, attempt to possess a creature, you pass through a solid object, or until you take a rest.",
+      :level 6,
+      :name "Spectral Warrior"}
+     {:description
+      "As an action, you can choose a creature that is Large or smaller within 30ft. The target must make a Str save or be hurled 30ft in any direction, including upward. If the target hits a hard surface, creature, or heavy object, the target takes 1d8 bludgeoning damage per 10ft moved and is knocked prone.\nIf the target is hurled into another creature, they must make a Dex save. The second creature also takes this damage and is knocked prone on a fail, or half as much and remains standing on a success.\nYou can use this feature a number of times = your Aspect modifier per rest.",
+      :level 11,
+      :name "Phantasmic Force"}
+     {:description
+      "As an action, you cause nearby debris to whirl around you. Whenever an enemy comes within 30ft of you for the first time on a turn, or starts its turn there, it suffers 3d6 physical damage, 1 dice of each type. This feature lasts for 1 minute. You can use this feature once per long rest.",
+      :level 15,
+      :name "Torrent of Rage"}]},
+   :calling-of-the-spirit-guardian
+   {:class :the-lingering-soul,
+    :key :calling-of-the-spirit-guardian,
+    :level-modifiers [],
+    :name "Calling of the Spirit Guardian",
+    :option-pack "The Lingering Soul",
+    :traits
+    [{:description
+      "Choose either your Wisdom or Charisma modifier to become your Aspect modifier. You gain proficiency in Charisma saving throws.",
+      :name "Aspect of the Spirit Guardian"}
+     {:description
+      "As an action, target a weapon or object within 30ft of you. Until the end of your next turn, the next time the weapon or object hits a creature, it deals an additional 1d8 radiant damage (if you're good or neutral) or necrotic damage (if you are evil). You can use this feature while possessing a host.\nThe damage increases by 1d8 at 6th level, and again at 11th level and 15th level.",
+      :name "Invoke Smite"}
+     {:description
+      "As an action, target a creature within 30ft of you to regain HP equal to 1d8 + your Aspect modifier. You can use this while possessing a host, and if your host is not your target, your host also regains an equal amount of HP.\nYou can use this feature twice per long rest. The number of d8s healed and uses increases at 6th, 11th, and 15th level.",
+      :name "Sympathetic Mending"}
+     {:description
+      "While you are possessing a host, if an attacker that you can see hits your host with an attack, you can use your reaction to grant your host a bonus to their AC or save against the attack equal to your Aspect modifier. Once the attack is resolved, the possession immediately ends, and you cannot use your Possession feature until the end of your next turn.",
+      :level 6,
+      :name "Divine Barrier"}
+     {:description
+      "you can use an action to emit an aura around you up to a distance of 15ft for up to 1 minute. You can choose any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enter the area for the first time on a turn or starts its turn there, it must make a Wis save. On a fail, the creature takes 3d6 radiant/necrotic damage. On a success, the creature takes half damage. You can use this feature while possessing a host. You can use this feature once per rest.",
+      :level 11,
+      :name "Consecrated Emanation"}
+     {:description
+      "All friendly creature within 30ft of you gain 1 HP on a death saving throw of 18-20. This feature remains while possessing a host.",
+      :level 15,
+      :name "Savior Spirit"}
+     {:description
+      "As an action, you can imbue your host for 10 min. For the duration or until possession ends, they gain the following benefits. --They are resistant to bludgeoning, piercing, and slashing damage from nonmagical weapons. --They are immune to poison damage and the poisoned condition --They are immune to the prone, grappled, restrained, and petrified conditions --They can move through other creatures and objects as if they were difficult terrain. You both take 1d10 force damage if they end their turn inside an object. --They have a flying speed equal to their speed.\nThis feature can be used once per long rest.",
+      :level 15,
+      :name "Guardian Transformation"}]},
+   :calling-of-the-wraith
+   {:class :the-lingering-soul,
+    :key :calling-of-the-wraith,
+    :level-modifiers
+    [{:level 6, :type :damage-resistance, :value :cold}
+     {:level 6, :type :damage-resistance, :value :necrotic}],
+    :name "Calling of the Wraith",
+    :option-pack "The Lingering Soul",
+    :traits
+    [{:description
+      "You choose your Dexterity, Intelligence, or Charisma modifier to become your Aspect modifier. You gain proficiency in Intelligence saving throws.",
+      :name "Aspect of the Wraith"}
+     {:description
+      "As an action, you can make a melee Aspect attack against a creature within 5 feet of you. On a hit, the target takes necrotic damage equal to 1d8 + your Aspect modifier. If the target isn't Undead or a Construct, you regain HP = damage dealt.\nThe damage of Scything Claw increases to 2d8 at 6th level, 3d8 at 11th level, and 4d8 at 15th level.",
+      :name "Scything Claw"}
+     {:description
+      "You no longer emit dim light in a 5ft radius. You gain darkvision out to 60ft, resistance to cold and necrotic damage, and Sunlight Sensitivity.\nWhile possessing a host, you can impart these benefits and detriments to them.",
+      :level 6,
+      :name "Shadow of the Grave"}
+     {:description
+      "You extinguish any natural open flames within 30ft of you. While in dim light or darkness, you can Hide as a bonus action. Whenever a living creature in dim light or darkness dies within 30ft of you, you gain temp. HP = 1d8 + your Aspect modifier. This aura remains while possessing a host.\nAt 15th level, the amount of temporary HP gained increases to 2d8 + your Aspect modifier.",
+      :level 11,
+      :name "Aura of Midnight"}
+     {:description
+      "As an action, you can target a humanoid corpse within 10ft that has been dead for no more than 1 minute, and died violently. A specter rises from the corpse or the nearest unoccupied space, and is under your control. You can issue commands as a free action while you are conscious, which it does its best to obey. You can have a number of specters equal to your Aspect modifier under your control at one time.",
+      :level 15,
+      :name "Create Specter"}]}},
+  :orcpub.dnd.e5/classes
+  {:the-lingering-soul
+   {:key :the-lingering-soul,
+    :level-modifiers
+    [{:level 10, :type :flying-speed-equals-walking-speed}
+     {:type :damage-resistance, :value :bludgeoning}
+     {:type :damage-resistance, :value :piercing}
+     {:type :damage-resistance, :value :slashing}
+     {:type :damage-immunity, :value :poison}],
+    :name "The Lingering Soul",
+    :option-pack "The Lingering Soul",
+    :subclass-title "Phantom Calling",
+    :ability-increase-levels [4 8 12 16 19],
+    :help
+    "You’ve been cut down, left to die, and your spirit now remains, unable to pass on when so filled with fear, with anger, with questions. Binding to whatever symbol will anchor you to the world of the living, you feel the hunger for answers rival your need for vengeance as you learn to control this ethereal existence thrust upon you.",
+    :profs
+    {:save {:orcpub.dnd.e5.character/con true},
+     :skill-options
+     {:choose 3,
+      :options
+      {:history true,
+       :insight true,
+       :intimidation true,
+       :investigation true,
+       :perception true,
+       :religion true,
+       :sleight-of-hand true,
+       :stealth true}}},
+    :disabled? false,
+    :hit-die 6,
+    :traits
+    [{:description
+      "You must select an object or creature of your choice to bind to indefinitely. You remain within 150 ft of this object at all times, and are dragged along if it moves farther than 150 ft away. You always know where you bound object or creature is.\nShould the object be destroyed or the creature slain, you drop to 0 HP. If you regain consciousness without a spirit bond, you must immediately select a new object or creature within 150 feet to bind to. If nothing is present to bind to, you are paralyzed until an object or creature comes close enough to bind to.",
+      :name "Spirit Binding"}
+     {:description
+      "Lingering Soul save DC = 8 + your proficiency bonus + your Aspect modifier\nAspect Attack modifier = your proficiency bonus + your Aspect modifier",
+      :name "Phantom Calling"}
+     {:description
+      "You are dead. --You're considered Undead --You give off a cold glow equal to dim light in a 5ft radius --You cannot physically carry objects or wear equipment, you don't need to eat or drink, and you can't gain benefits from things that require ingestion. --You are immune to the Poisoned, Prone, Grappled, Restrained, and Petrified conditions. --You can move through other creatures and objects as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object. --You fall at a rate of 60ft per round, and do not suffer fall damage. --You don't require sleep, but must rest to use hit dice and regain ability uses. --When you drop to 0 hp, you make death saving throws as usual. Should you die, you cannot be restored to life short of a Wish spell. --Should you ever be restored to life, you lose all Lingering Soul levels and gain Class levels equal to what your character had prior to death, plus levels equal to your Lingering Soul levels gained while playing that class. ",
+      :name "Ghostly Form"}
+     {:description
+      "As a bonus action, you attempt to possess a creature within 5ft of you. The target must succeed a Cha save or become possessed.\nWhile possessing a creature, you cannot be targeted, but you take half of any damage dealt to the host. You share their body and senses and can communicate with them telepathically. You can only use features specified for use while possessing a host.\nYour host acts as normal on its turn. You can use your action to force the host to make a weapon attack against a target of your choice within range, adding your Aspect modifier to the damage dealt. You can also use your action to force the host to Dash in a chosen direction, or take the Dodge action.\nPossession lasts until you or the host drops to 0 hit points, or you are forced out by an effect like Dispel Evil or Turn Undead. You reappear within 5ft of the creature. The host is immune to possession for 24 hours after succeeding the possession save or after the possession ends.",
+      :level 2,
+      :name "Possession"}
+     {:description
+      "You can spend an hour siphoning the mystic properties from a magic item. Upon completion, the enchantment (and any attunement) becomes bound to your form, leaving the item inert. You have a limit of 5 enchantments that can be bound to you, only 3 can require attunement. To gain a new enchantment beyond 5, you must permanently discard an enchantment.\nYour weapon enchantments can be applied to any physical or weapon attacks you make. While possessing a host, you can apply one enchantment to any attacks you force them to make with a non-magical weapon.",
+      :level 3,
+      :name "Consume Enchantment"}
+     {:description
+      "You can possess dead bodies for 1 min. Corpses automatically fail their saving throw, have 1 HP and start prone. If the host corpse is reduced to 0 HP, it is destroyed and cannot be possessed again.  ",
+      :level 5,
+      :name "Pervade the Fallen"}
+     {:description
+      "If a creature is unaware of your presence, you can make a Stealth check contested by the target's Perception check. If you win, they fail their save and you possess them without their knowledge.\nWhenever you force the host to do anything, they can make an Insight check against your Lingering Soul DC. On a success, they become aware of the possession.",
+      :level 5,
+      :name "Unseen Passenger"}
+     {:description
+      "When an attacker you can see hits you with an attack, you can use your reaction to halve the damage. If you're possessing a host that receives damage, you can use your reaction to reduce the damage you take to a quarter of what the host suffers.",
+      :level 7,
+      :name "Obfuscate"}
+     {:description
+      "You can use an action while possessing a host to force them to say or yell a phrase of 25 words or less. Any Cha checks initiated in this way use your Cha modifier and skills.\nIf the host begins casting a spell that uses verbal components, you can use your reaction to make them fumble the incantation. The host makes a Con save against your Lingering Soul DC. On a fail, the spell fails, the spell slot is expended, and the possession ends immediately.",
+      :level 9,
+      :name "Xenoglossia"}
+     {:description
+      "You can cast invisibility on yourself, requiring no material components, twice per day.",
+      :level 10,
+      :name "Supernal Body"}
+     {:description
+      "When your host makes an attack, you can use your reaction to give the triggering attack disadvantage.",
+      :level 13,
+      :name "Piercing Chill"}
+     {:description
+      "As an action, choose any number of creatures within 30ft of you. If they can see you, they must succeed a Wis save or be frightened of you until the end of your next turn. You can use your action on subsequent turns to extend the effect on the frightened creatures until the end of your next turn. This effect ends if a creature ends its turn out of sight of you. Creatures that succeed the save are immune to this feature for 24 hours.\nYou must finish a short or long rest before using this feature again.",
+      :level 14,
+      :name "Ghastly Visage"}
+     {:description
+      "You are no longer bound to an object or creature. Whenever you would be destroyed by failing a 3rd death save, you instead vanish for 24 hours. You then return to the spot where you fell, rested as if you completed a long rest. You suffer a -4 to all attack rolls, saves, and checks. Every following long rest decreases this penalty by 1. If the spot is now hallowed, you are lost forever in the Ethereal Plane.",
+      :level 17,
+      :name "Eternal Spirit"}
+     {:description
+      "While possessing a host, you can use an action to take total control. Until the end of your next turn, the creature only takes actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction at the cost of your own reaction. \nEach time the host is damaged during a turn where you have total control, it makes a Cha save against your possession. If it succeeds, the possession ends.",
+      :level 18,
+      :name "Possession Mastery"}
+     {:description
+      "While possessing a host that isn't an Undead or Construct, you can use your action to end the possession and force the creature to make a Con save. It takes 12d10 necrotic damage on a failure, and half as much on a success. If the creature is brought to under 50 HP by this damage, it dies.\nYou can use this feature once per rest.",
+      :level 20,
+      :name "Ravage Soul"}]}}},
+ "Martial Archetype - Gunslinger"
+ {:orcpub.dnd.e5/selections
+  {:trick-shots
+   {:key :trick-shots,
+    :name "Trick Shots",
+    :option-pack "Gunslinger Fighter Archetype",
+    :options
+    [{:description
+      "When making a CHA (Intimidation) check, you can expend 1 grit point to gain advantage on the roll",
+      :name "Bullying Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to dizzy the target. On a hit, the creature takes normal damage and must succeed a CON saving throw or suffer disadvantage on attacks until the end of their next turn.",
+      :name "Dazing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, expend 1 grit point to gain advantage on the attack roll.",
+      :name "Deadeye Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to shoot an object from their hands. On a hit, the creature takes normal damage and must succeed a STR saving throw or drop 1 held object of your choice and have that object pushed 10ft away from you. ",
+      :name "Disarming Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to trip them or push them back. On a hit, the creature takes normal damage and must succeed a STR saving throw or be pushed 15ft away from you.",
+      :name "Forceful Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to fire through multiple opponents. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind you target within your first range increment. Only the initial attack can misfire. ",
+      :name "Piercing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to topple a moving target. On a hit, the creature takes normal damage and must succeed a STR saving throw or be knocked prone. ",
+      :name "Winging Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains +2 to the firearm's misfire score. If the attack hits, you can roll 1 additional weapon damage die per grit point spent when determining the damage.",
+      :name "Violent Shot"}]},
+   :trick-shots-lvl-10-
+   {:key :trick-shots-lvl-10-,
+    :name "Trick Shots (lvl.10)",
+    :option-pack "Gunslinger Fighter Archetype",
+    :options
+    [{:description
+      "When making a CHA (Intimidation) check, you can expend 1 grit point to gain advantage on the roll",
+      :name "Bullying Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to dizzy the target. On a hit, the creature takes normal damage and must succeed a CON saving throw or suffer disadvantage on attacks until the end of their next turn.",
+      :name "Dazing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, expend 1 grit point to gain advantage on the attack roll.",
+      :name "Deadeye Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to shoot an object from their hands. On a hit, the creature takes normal damage and must succeed a STR saving throw or drop 1 held object of your choice and have that object pushed 10ft away from you. ",
+      :name "Disarming Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to trip them or push them back. On a hit, the creature takes normal damage and must succeed a STR saving throw or be pushed 15ft away from you.",
+      :name "Forceful Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to fire through multiple opponents. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind you target within your first range increment. Only the initial attack can misfire. ",
+      :name "Piercing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to topple a moving target. On a hit, the creature takes normal damage and must succeed a STR saving throw or be knocked prone. ",
+      :name "Winging Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains +2 to the firearm's misfire score. If the attack hits, you can roll 1 additional weapon damage die per grit point spent when determining the damage.",
+      :name "Violent Shot"}]},
+   :trick-shots-lvl-15-
+   {:key :trick-shots-lvl-15-,
+    :name "Trick Shots (lvl.15)",
+    :option-pack "Gunslinger Fighter Archetype",
+    :options
+    [{:description
+      "When making a CHA (Intimidation) check, you can expend 1 grit point to gain advantage on the roll",
+      :name "Bullying Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to dizzy the target. On a hit, the creature takes normal damage and must succeed a CON saving throw or suffer disadvantage on attacks until the end of their next turn.",
+      :name "Dazing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, expend 1 grit point to gain advantage on the attack roll.",
+      :name "Deadeye Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to shoot an object from their hands. On a hit, the creature takes normal damage and must succeed a STR saving throw or drop 1 held object of your choice and have that object pushed 10ft away from you. ",
+      :name "Disarming Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to trip them or push them back. On a hit, the creature takes normal damage and must succeed a STR saving throw or be pushed 15ft away from you.",
+      :name "Forceful Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to fire through multiple opponents. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind you target within your first range increment. Only the initial attack can misfire. ",
+      :name "Piercing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to topple a moving target. On a hit, the creature takes normal damage and must succeed a STR saving throw or be knocked prone. ",
+      :name "Winging Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains +2 to the firearm's misfire score. If the attack hits, you can roll 1 additional weapon damage die per grit point spent when determining the damage.",
+      :name "Violent Shot"}]},
+   :trick-shots-lvl-18-
+   {:key :trick-shots-lvl-18-,
+    :name "Trick Shots (lvl.18)",
+    :option-pack "Gunslinger Fighter Archetype",
+    :options
+    [{:description
+      "When making a CHA (Intimidation) check, you can expend 1 grit point to gain advantage on the roll",
+      :name "Bullying Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to dizzy the target. On a hit, the creature takes normal damage and must succeed a CON saving throw or suffer disadvantage on attacks until the end of their next turn.",
+      :name "Dazing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, expend 1 grit point to gain advantage on the attack roll.",
+      :name "Deadeye Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to shoot an object from their hands. On a hit, the creature takes normal damage and must succeed a STR saving throw or drop 1 held object of your choice and have that object pushed 10ft away from you. ",
+      :name "Disarming Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to trip them or push them back. On a hit, the creature takes normal damage and must succeed a STR saving throw or be pushed 15ft away from you.",
+      :name "Forceful Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to fire through multiple opponents. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind you target within your first range increment. Only the initial attack can misfire. ",
+      :name "Piercing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to topple a moving target. On a hit, the creature takes normal damage and must succeed a STR saving throw or be knocked prone. ",
+      :name "Winging Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains +2 to the firearm's misfire score. If the attack hits, you can roll 1 additional weapon damage die per grit point spent when determining the damage.",
+      :name "Violent Shot"}]},
+   :trick-shots-lvl-7-
+   {:key :trick-shots-lvl-7-,
+    :name "Trick Shots (lvl.7)",
+    :option-pack "Gunslinger Fighter Archetype",
+    :options
+    [{:description
+      "When making a CHA (Intimidation) check, you can expend 1 grit point to gain advantage on the roll",
+      :name "Bullying Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to dizzy the target. On a hit, the creature takes normal damage and must succeed a CON saving throw or suffer disadvantage on attacks until the end of their next turn.",
+      :name "Dazing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, expend 1 grit point to gain advantage on the attack roll.",
+      :name "Deadeye Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to shoot an object from their hands. On a hit, the creature takes normal damage and must succeed a STR saving throw or drop 1 held object of your choice and have that object pushed 10ft away from you. ",
+      :name "Disarming Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to trip them or push them back. On a hit, the creature takes normal damage and must succeed a STR saving throw or be pushed 15ft away from you.",
+      :name "Forceful Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to fire through multiple opponents. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind you target within your first range increment. Only the initial attack can misfire. ",
+      :name "Piercing Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 grit point to attempt to topple a moving target. On a hit, the creature takes normal damage and must succeed a STR saving throw or be knocked prone. ",
+      :name "Winging Shot"}
+     {:description
+      "When you make a firearm attack against a creature, you can expend 1 or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains +2 to the firearm's misfire score. If the attack hits, you can roll 1 additional weapon damage die per grit point spent when determining the damage.",
+      :name "Violent Shot"}]}},
+  :orcpub.dnd.e5/subclasses
+  {:gunslinger
+   {:class :fighter,
+    :key :gunslinger,
+    :level-modifiers
+    [{:level 3, :type :tool-prof, :value :tinkers-tools}],
+    :level-selections
+    [{:level 3, :num 2, :type :trick-shots}
+     {:level 7, :num 1, :type :trick-shots-lvl-7-}
+     {:level 10, :num 1, :type :trick-shots-lvl-10-}
+     {:level 15, :num 1, :type :trick-shots-lvl-15-}
+     {:level 18, :num 1, :type :trick-shots-lvl-18-}],
+    :name "Gunslinger",
+    :option-pack "Martial Archetype - Gunslinger",
+    :traits
+    [{:description
+      "You gain a number of grit points = your WIS modifier (min 1). You can regain 1 spent grit when you score a critical hit (Critical hits gained outside of dice rolls do not generate grit) and when you reduce a creature to 0 HP with a firearm. You regain all expended grit after a rest.",
+      :level 3,
+      :name "Grit"}
+     {:description
+      "You add your proficiency bonus to your initiative. You can also stow a firearm then draw another firearm as a single object interaction on your turn.",
+      :level 7,
+      :name "Quickdraw"}
+     {:description "You can reload any firearm as a bonus action",
+      :level 15,
+      :name "Lightning Reload"}
+     {:description
+      "Your firearm attacks score a critical hit on a roll of 19-20.",
+      :level 18,
+      :name "Vicious Intent"}
+     {:description
+      "Whenever you score a critical hit on an attack with a firearm, the target suffers half the damage from the attack at the end of its next turn.",
+      :level 18,
+      :name "Hemorrhaging Critical"}
+     {:description
+      "Each use of a trick shot must be declared before the attack roll is made. You can only make one trick shot per attack. Each time you learn a new trick shot, you can also replace one trick shot you know with another from the list. (DC = 8 + your proficiency modifier + your DEX modifier).",
+      :level 3,
+      :name "Trick Shots"}
+     {:description
+      "You can spend 1 grit point to attempt to repair a misfire (but not broken) firearm as a bonus action.",
+      :level 10,
+      :name "Rapid Repair"}]}}},
+ "Totem of the Duck"
+ {:orcpub.dnd.e5/subclasses
+  {:totem-of-the-duck
+   {:class :barbarian,
+    :key :totem-of-the-duck,
+    :level-modifiers
+    [{:level 3,
+      :type :spell,
+      :value {:ability :con, :key :beast-sense, :level 2}}
+     {:level 3,
+      :type :spell,
+      :value {:ability :con, :key :speak-with-animals, :level 1}}
+     {:level 6, :type :damage-resistance, :value :acid}
+     {:level 10,
+      :type :spell,
+      :value {:ability :con, :key :commune-with-nature, :level 5}}],
+    :name "Totem of the Duck",
+    :option-pack "Totem of the Duck",
+    :traits
+    [{:description
+      "While raging, when you are targeted with an attack that you can see, you can use your reaction to impose disadvantage on the attack roll.",
+      :level 3,
+      :name "Feathered Spirit"}
+     {:description
+      "You can cast Beast Sense and Speak with Animals, but only as rituals.",
+      :level 3,
+      :name "Spirit Seeker"}
+     {:description
+      "You gain resistance to Acid damage and a swimming speed = your walking speed.",
+      :level 6,
+      :name "Aspect of the Mallard"}
+     {:description
+      "You can cast Commune with Nature, but only as a ritual. When you do so, a duck appears to you to convey the information you seek.",
+      :level 10,
+      :name "Spirit Walker"}
+     {:description
+      "While raging, if you hit a creature with a melee attack on your turn, you can forgo one of your attacks to flap your arms while honking and flailing at that same target. The creature must succeed a WIS saving throw (DC = 8 + your proficiency modifier + your CHA modifier) or be frightened of you until the end of your next turn.",
+      :level 14,
+      :name "Ducktemic Attunement"}],
+    :disabled? false}}},
+ "Bardic College - College of the Maestro"
+ {:orcpub.dnd.e5/selections
+  {:conducting-techniques
+   {:key :conducting-techniques,
+    :name "Conducting Techniques",
+    :option-pack "Bardic College - College of the Maestro",
+    :options
+    [{:description
+      "You build an air of tension and paranoia with subtle, droning tones. As an action, you expend and roll a Bardic Inspiration die. For the next 10 minutes, any creatures of your choice within 60 feet cannot be surprised, and gain a bonus on saving throws against traps and environmental hazards equal to your Bardic Inspiration die roll.",
+      :name "Aria of Suspense (Ansia)"}
+     {:description
+      "You learn how to harness and amplify the roar of a well-placed blow into a violent explosion of sound. When a creature other than yourself within 60 feet of you hits with an attack, you can use your reaction to expend and roll a Bardic Inspiration die. The target of the triggering attack must make a Strength saving throw against your Spell save DC or take thunder damage equal to half of the number rolled and be knocked prone.",
+      :name "Crash (Marcato)"}
+     {:description
+      "You play a terrifying dirge to accompany a deathblow, striking fear into the hearts of your nearby enemies. When an ally brings a creature within 60 feet to 0 hit points, you can use your reaction to expend and roll a Bardic Inspiration die. Select a number of creatures within 15 feet of the triggering ally equal to half of the number rolled (minimum 1). Each target must make a Wisdom saving throw against your Spell save DC or become frightened of the triggering ally until the end of that ally's next turn. After the effect ends, or the save is successful, targeted creatures are immune to Dirge of Dread for the next 24 hours.",
+      :name "Dirge of Dread (Finale)"}
+     {:description
+      "Summoning a harsh, discordant tone, you muddle the mind of an opponent, lessening their defenses. When a creature within 60 feet is forced to make a saving throw, you can use your reaction to expend and roll a Bardic Inspiration die. You reduce their saving throw by half of the number rolled. You can use this feature after the creature makes its saving throw roll, but before the DM determines a success or failure.",
+      :name "Dissonance (Discordia)"}
+     {:description
+      "You drag a sharp, powerful chord through the mind of a creature, forcing it to suddenly stumble in a direction you wish. As a bonus action, you expend and roll a Bardic Inspiration die and select a creature other than yourself within 60 feet. The target must succeed on a Wisdom saving throw against your Spell save DC or take psychic damage equal to half of the number rolled and be pushed 10 feet in a direction you choose. A target can fail the saving throw voluntarily.",
+      :name "Guiding Tone (Fermata)"}
+     {:description
+      "Your manipulation of tempo and song can inspire others to act more quickly. You can use a Bonus action on your turn to choose one creature other than yourself within 60 feet. Expend and roll a Bardic Inspiration die, adding the number rolled to the creature's initiative and moving them up the initiative order accordingly. If this would move them higher than you, they immediately take their turn after you this round. A creature cannot be affected by Hasten Tempo again until they've finished a short or long rest.",
+      :name "Hasten Tempo (Accelerando)"}
+     {:description
+      "The melodies surrounding your allies promote rapid recovery. When a creature that has a Bardic Inspiration die from you regains any hit points, they can expend and roll their inspiration die to regain additional hit points equal to the number rolled.",
+      :name "Hymn of Harmony (Armonia)"}
+     {:description
+      "Pulled from the chaos, you muster an uplifting melody that bolsters the resolve of your allies. You can expend and roll a Bardic Inspiration die as an action, and all other creatures you choose within 60 ft. gain temporary hit points equal to the number rolled plus your Charisma modifier (minimum of 1). These temporary hit points last until the end of your next turn.",
+      :name "Majestic Anthem (Maestoso)"}
+     {:description
+      "You shape the harmonic vibrations of a weapon's movements into a dangerous, sonic enhancement. Using a bonus action, you can expend and roll a Bardic Inspiration die, choosing one weapon within 60 feet of you. Until the end of your next turn, all attacks with that weapon deal additional thunder damage equal to half of number rolled (minimum of 1).",
+      :name "Resonance (Risonanza)"}
+     {:description
+      "The song you conjure can stir the winds, pushing along those who require expedient travel. A creature that has a Bardic Inspiration die from you can expend and roll their inspiration to increase their speed for that turn. A roll of 1—4 increases their speed by 10 feet. A roll of 5-8 increases their Speed by 15 feet, and a roll of 9—12 increases their speed by 20 feet.",
+      :name "Sprint (Presto)"}]}},
+  :orcpub.dnd.e5/subclasses
+  {:college-of-the-maestro
+   {:class :bard,
+    :key :college-of-the-maestro,
+    :level-modifiers [],
+    :level-selections
+    [{:level 14, :num 4, :type :conducting-techniques}
+     {:level 6, :type :conducting-techniques, :num 3}
+     {:level 3, :type :conducting-techniques, :num 2}],
+    :name "College of the Maestro",
+    :option-pack "Bardic College - College of the Maestro",
+    :traits
+    [{:description
+      "When you join the College of the Maestro at 3rd level, you gain one additional use of your Bardic Inspiration feature.\n   This feature grants you another additional use of Bardic Inspiration at 6th level, and again at 14th level.",
+      :level 3,
+      :name "Battle Muse"}
+     {:description
+      "You learn 2 conducting techniques of your choice. All techniques require at least one free hand, baton, or wand to utilize. For these techniques to function, you must be able to see your target, and they must be able to hear you.\n   You learn 1 additional conducting technique of your choice at 6th and 14th level. Each time you learn a new technique, you can also replace one technique you know with a different one.",
+      :level 3,
+      :name "Symphony of Conflict"}
+     {:description
+      "You can use your action to expend any number of uses of your Bardic Inspiration feature. For each expended use, you can immediately grant a Bardic Inspiration die to a creature other than yourself within 60 feet that you can see. A creature can have only one Bardic Inspiration die at a time.\n   Once you use this feature, you must finish a long rest before you can use it again.",
+      :level 6,
+      :name "Frenetic Crescendo"}
+     {:description
+      "You can begin conducting a mystical symphony as an action, distracting and capturing the minds of of nearby creatures. For up to 10 minutes, any number of creatures you choose within 60 feet who can hear you have disadvantage on any saving throws against being charmed and against magical steep.\n   In addition, affected targets have disadvantage on Wisdom (Perception) rolls that rely on sight or sound to detect targets other than you.\n   In combat, you must spend your action each turn to continue the performance or the effect ends. Once you use Virtuoso of Captivation, you must finish a short or long rest before you can use it again.",
+      :level 14,
+      :name "Virtuoso of Captivation"}]}}},
+ "Tal'Dorei Campaign Setting"
+ {:orcpub.dnd.e5/languages {},
+  :orcpub.dnd.e5/classes {},
+  :orcpub.dnd.e5/subclasses
+  {:runechild
+   {:class :sorcerer,
+    :key :runechild,
+    :level-modifiers [],
+    :name "Runechild",
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :traits
+    [{:description
+      "You begin with 1 Essence Rune, and gain an additional rune whenever you gain a level in this class. At the end of a turn where you spent any number of sorcery points for any of your class features, an equal number of essence runes glow with stored energy, becoming charged runes. If you expend a charged rune to use one of your Runechild features, it returns to being an inert essence rune. As a bonus action, you may spend any number of sorcery points to convert an equal number of essence runes into charged runes. If you have no sorcery points and no charged runes, you can convert a single essence rune into a charged rune as an action. If you have 5 or more charged runes, you emit bright light in a 5 foot radius and dim light for an additional 5 feet. Any charged runes revert to inert essence runes after you complete a long rest.",
+      :name "Essence Runes"}
+     {:description
+      "Whenever you take damage from an attack, hazard, or spell, you can use a reaction to expend any number of charged runes, rolling 1d6 per charged rune. You subtract the total rolled from the damage inflicted by the attack, hazard, or spell.",
+      :name "Glyphs of Aegis"}
+     {:description
+      "You can use an action to expend a charged rune, temporarily transferring a Glyph of Aegis to a creature you touch. A creature can only hold a single glyph, and it lasts for 1 hour, or until the creature is damaged by an attack, hazard, or spell. The next time that creature takes damage from any of those sources, roll 1d6 and subtract the number rolled from the damage roll. The glyph is then lost. ",
+      :level 6,
+      :name "Enhanced Glyphs of Aegis"}
+     {:description
+      "You can expend a charged rune as a bonus action to enhance either your Strength, Dexterity, or Constitution, granting you advantage on ability checks with the chosen ability score until the start of your next turn. You can choose to maintain this benefit additional rounds by expending a charged rune at the start of each of your following turns. ",
+      :level 6,
+      :name "Sigilic Augmentation"}
+     {:description
+      "As an action, you can expend a charged rune to cause any hidden magical marks, runes, wards, or glyphs within 15 feet of you to reveal themselves with a glow for 1 round. This glow is considered dim light for a 5 foot radius around the mark or glyph",
+      :level 6,
+      :name "Manifest Inscriptions"}
+     {:description
+      "Whenever you cast a spell, you can expend a number of charged runes equal to the spell’s level to allow it to ignore any resistance or immunity to the spell’s damage type the targets may have.",
+      :level 14,
+      :name "Runic Torrent"}
+     {:description
+      "You can use a bonus action and expend 6 or more charged runes to temporarily become a being of pure magical energy. This new form lasts for 3 rounds plus 1 round for each charged rune expended over 6. While you are in your exemplar form, you gain the following benefits:\n• You have a flying speed of 40 feet. \n• Your spell save DC is increased by 2. \n• You have resistance to damage from spells. \n• When you cast a spell of 1st level or higher, you regain hit points equal to the spell’s level. \nWhen your Arcane Exemplar form ends, you can’t move or take actions until after your next turn, as your body recovers from the transformation. Once you use this feature, you must finish a long rest before you can use it again.",
+      :level 18,
+      :name "Arcane Exemplar Form"}]},
+   :path-of-the-juggernaut
+   {:class :barbarian,
+    :key :path-of-the-juggernaut,
+    :level-modifiers [],
+    :name "Path of the Juggernaut",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :traits
+    [{:description
+      "Once per turn while raging, when you damage a creature with a melee attack, you can force the target to make a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier). On a failure, you push the target 5 feet away from you, and you can choose to immediately move 5 feet into the target’s previous position.",
+      :level 3,
+      :name "Thunderous Blows"}
+     {:description
+      "You harness your fury to anchor your feet to the earth, shrugging off the blows of those who wish to topple you. You cannot be knocked prone while raging unless you become unconscious. ",
+      :level 3,
+      :name "Stance of the Mountain"}
+     {:description
+      "You can muster destructive force with your assault, shaking the core of even the strongest structures. All of your melee attacks gain the siege property. Your melee attacks against creatures of the construct type deal an additional 1d8 weapon damage.",
+      :level 6,
+      :name "Demolishing Might"}
+     {:description
+      "When you make a weapon attack while raging, you can make another attack as a bonus action with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.",
+      :level 10,
+      :name "Overwhelming Cleave"}
+     {:description
+      "You can become “unstoppable” when you rage. If you do so, for the duration of the rage your speed cannot be reduced, and you are immune to the frightened, paralyzed, and stunned conditions. If you are frightened, paralyzed, or stunned, you can still take your bonus action to enter your rage and suspend the effects for the duration of the rage.  When your rage ends, you suffer one level of exhaustion ",
+      :level 14,
+      :name "Unstoppable"}]},
+   :way-of-the-cobalt-soul
+   {:class :monk,
+    :key :way-of-the-cobalt-soul,
+    :level-modifiers [],
+    :name "Way of the Cobalt Soul",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :traits
+    [{:description
+      "Upon choosing this tradition at 3rd level, you’ve undergone extensive training with the Cobalt Soul, teaching you extensively in history or lore from the monastery’s collected volumes. You learn one language of your choice (enter this manually), and you choose one skill from the following list to gain proficiency in: Arcana, History, Nature, and Religion.\n\nYou gain an additional language and an additional skill proficiency from the above list at 11th and 17th level. If you already have proficiency in one of the listed skills at 11th or 17th level, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency. Enter all of these choices manually.",
+      :level 3,
+      :name "Mystical Erudition"}
+     {:description
+      "Beginning at 3rd level when choosing this tradition, you can strike pressure points to extract crucial information about your foe. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can learn the following attributes about the target: Damage Vulnerabilities, Damage Resistances, Damage Immunities, and Condition Immunities.",
+      :level 3,
+      :name "Extract Aspects"}
+     {:description
+      "At 6th level, you can hit a series of hidden nerves on a creature with precision, temporarily causing them to be unable to mask their true thoughts and intent. If you manage to hit a single creature with two or more attacks in one round, you can spend 1 ki point to force them to make a Charisma saving throw. You can choose to have these attacks deal no damage. On a failed save, the creature is unable to speak a deliberate lie for 1 minute and all Charisma checks directed at the creature are made with advantage for the duration. You know if they succeeded or failed on their saving throw.\n\nAn affected creature is aware of the effect and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as the effect lasts.",
+      :level 6,
+      :name "Extort Truth"}
+     {:description
+      "Starting at 11th level, you’ve honed your awareness and reflexes through mental aptitude and pattern recognition. Once per turn, if you’ve already taken your reaction, you may spend 1 ki point to take an additional reaction. You can only use one reaction per trigger.",
+      :level 11,
+      :name "Mind of Mercury"}
+     {:description
+      "Beginning at 6th level, your quick mind and study of your foe allows you to use their failure to your advantage. If a creature misses you with an attack, you can immediately use your reaction to make an unarmed melee attack against that creature.",
+      :level 6,
+      :name "Preternatural Counter"}
+     {:description
+      "Upon reaching 17th level, you’ve gained the knowledge to temporarily lower a creature’s fortitude by striking a series of pressure points. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can spend 3 ki points to cause the creature to suffer a vulnerability to a damage type of your choice for 1 minute, or until they take damage of that type.",
+      :level 17,
+      :name "Debilitating Barrage"}],
+    :profs
+    {:skill-options
+     {:options
+      {:arcana true, :history true, :nature true, :religion true}}}},
+   :blood-domain
+   {:class :cleric,
+    :cleric-spells
+    {1 {0 :sleep, 1 :ray-of-sickness},
+     2 {0 :ray-of-enfeeblement, 1 :crown-of-madness},
+     3 {0 :haste, 1 :slow},
+     4 {0 :blight, 1 :stoneskin},
+     5 {0 :dominate-person, 1 :hold-monster}},
+    :key :blood-domain,
+    :level-modifiers [{:type :weapon-prof, :value :martial}],
+    :name "Blood Domain",
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :traits
+    [{:description
+      "When you use a spell of 1st level or higher to inflict damage to any creatures that have blood, those creatures suffer additional necrotic damage equal to 2 + the spell’s level. ",
+      :level 1,
+      :name "Bloodletting Focus"}
+     {:description
+      "As an action, you target a Large or smaller creature that has blood within 60 feet of you. That creature must succeed on a Constitution saving throw against your spell save DC or immediately move up to half of their movement in any direction of your choice and make a single weapon attack against a creature of your choice within range. Dead or unconscious creatures automatically fail their saving throw. At 8th level, you can target a Huge or smaller creature. ",
+      :level 2,
+      :name "Channel Divinity: Blood Puppet"}
+     {:description
+      "As an action, if you have at sample of a creature's blood that's more than 2 ounces and less than a week old, you can learn information about them. You know their approximate distance and direction from you, as well as their general state of health, as long as they are within 10 miles of you. You can maintain this effect as though you were concentrating on a spell for up to 1 hour. \n\nDuring your bond, you can spend an action to attempt to connect with the bonded creature’s senses. The target makes a Constitution saving throw against your spell save DC. If they succeed, the connection is resisted, ending the bond. You suffer 2d6 necrotic damage. Upon a failed saving throw, you can choose to either see through the eyes of or hear through their ears of the target for a number of rounds equal to your Wisdom modifier (minimum of 1). During this time, you are blind or deaf (respectively) with regard to your own senses. Once this connection ends, the Crimson Bond is lost.\n",
+      :level 6,
+      :name "Channel Divinity: Crimson Bond"}
+     {:description
+      " As an action, you recover spell slots that have a combined level equal to or less than half of your cleric level (rounded up), and none of the slots can be 6th level or higher. You immediately suffer 1d6 damage per spell slot level recovered. You can’t use this feature again until you finish a long rest",
+      :level 8,
+      :name "Sanguine Recall"}
+     {:description
+      "As an action, you emit an aura in a 30 ft radius around you. For 1 minute, any enemy creatures with blood that begin their turn within the aura or enter it for the first time on their turn immediately suffer \n2d6 necrotic damage. Any enemy creature with blood that would regain hit points while within the aura only regains half of the intended number of hit points (rounded up). \n\nOnce you use this feature, you can’t use it again until you finish a long rest.",
+      :level 10,
+      :name "Vascular Corruption Aura"}]}},
+  :orcpub.dnd.e5/monsters
+  {:cinderslag-elemental
+   {:description
+    "Cinderslag elementals are pure manifestations of the hatred and furor of the deceased Cinder King, Thordak. A cinderslag’s molten gaze is a weapon of incredible power, capable of melting steel and stone with a single glance. If an elemental’s gaze were focused on buildings over the course of a few hours, or if several elementals worked in unison, entire cities could be leveled in a tide of molten stone.",
+    :key :cinderslag-elemental,
+    :int 1,
+    :speed "20 ft., burrow 40 ft.",
+    :name "Cinderslag Elemental",
+    :alignment "chaotic evil",
+    :cha 3,
+    :hit-points {:die 10, :die-count 12, :modifier 36},
+    :type :elemental,
+    :size :large,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 15,
+    :str 15,
+    :challenge 5,
+    :con 20,
+    :dex 12,
+    :wis 10,
+    :props
+    {:condition-immunity
+     {:grappled true,
+      :paralyzed true,
+      :petrified true,
+      :poisoned true,
+      :prone true,
+      :restrained true,
+      :unconscious true},
+     :damage-immunity {:fire true, :poison true},
+     :damage-resistance
+     {:bludgeoning true,
+      :piercing true,
+      :poison false,
+      :slashing true}},
+    :traits
+    [{:description "", :name "Senses: darkvision 60 ft."}
+     {:description
+      "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and must make a DC 14 Strength saving throw, becoming restrained on a failure. When the begins its turn while restrained in this way, it takes 5 (1d10) fire damage.   ",
+      :name "Molten Form"}
+     {:description
+      "For every 5 feet that elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.",
+      :name "Water Susceptibility"}
+     {:description "The elemental makes two slam attacks.",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 2) bludgeoning damage plus 5 (1d10) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns. ",
+      :name "Slam",
+      :type :action}
+     {:description
+      "Ranged Spell Attack: +8 to hit, range 30 ft., one target. Hit: 21 (6d6) fire damage and the target must make a DC 14 Constitution saving throw. On a failure, one nonmagical item the target is carrying instantly melts or burns to cinders.\n",
+      :name "Molten Gaze"}]},
+   :ashari-waverider
+   {:description
+    "The waveriders of Vesrah know firsthand the dangers of the open ocean, and dedicate their lives to protecting seafarers from storms, pirates, and sea monsters. Though they are not warriors, they are accomplished healers and aquatic empaths, using their powers to seek out and rescue survivors of marine disasters, sometimes returning critically wounded survivors to Vesrah itself. The isolationist water ashari condemn this practice, fearing that the refugees threaten their way of life. The waveriders take their peers’ scorn in stride, for they would rather be righteous than popular. A waverider turns to violence only as a last resort, and prefer to fight in fishform than with their fishing harpoon, using hit-and-run tactics as a shark or their octopus form’s natural camouflage to harry opponents. When patrolling the open seas, waveriders skim across the water on personal waveboards with folding sails, similar in function to the skysails of the Zephrah. ",
+    :key :ashari-waverider,
+    :int 10,
+    :speed "30 ft.",
+    :name "Ashari Waverider",
+    :alignment "neutral good",
+    :cha 13,
+    :hit-points {:die 8, :die-count 14, :modifier 14},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 14,
+    :skills {:athletics 8, :nature 3},
+    :str 15,
+    :saving-throws {:con 4, :wis 6},
+    :challenge 4,
+    :con 12,
+    :dex 14,
+    :wis 16,
+    :props
+    {:damage-resistance {:cold true},
+     :damage-vulnerability {:cold false},
+     :language {:common true, :druidic true, :primordial true}},
+    :traits
+    [{:description
+      "As a bonus action, the waverider can transform into a hunter shark or giant octopus. While in this form, the waverider cannot cast spells, but can expend a spell slot as a bonus action to regain 1d8 hit points per level of the spell slot expended. When the waverider is reduced to 0 hit points, falls unconscious, or dies in this form, it reverts to its humanoid form. It can remain in fishform for up to 3 hours, and can enter fishform twice, regaining expended uses after completing a short or long rest. ",
+      :name "Fishform (Bonus Action)"}
+     {:description
+      "Whenever the waverider casts a spell of 1st level or higher that affects a nonhostile creature, that creature regains 3 hit points (in addition to any healing the spell may provide). ",
+      :name "Healing Tides"}
+     {:description
+      "The waverider can speak with and understand aquatic plants and animals. ",
+      :name "Marine Empathy"}
+     {:description
+      " The waverider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): druidcraft, poison spray, resistance 1st level (4 slots): cure wounds, create or destroy water, healing word 2nd level (3 slots): animal messenger, enhance ability, lesser restoration 3rd level (3 slots): conjure animals (aquatic beasts only), water walk, water breathing 4th level (1 slots): control water",
+      :name "Spellcasting"}
+     {:description
+      "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Attacks with this weapon while underwater are not made with disadvantage.",
+      :name "Harpoon",
+      :type :action}]},
+   :remnant-cultist
+   {:description
+    "All cultists of the Whispered One endure horrific rites of initiation that forever shackle them to the will of the cult leaders. Every cultist can feel the presence of their foul god just beyond the fabric of the physical world, and many claim to hear him speaking to them when the rest of the world is silent, urging them to prepare for his resurrection, either by secretly molding society to accept his return, or by concocting rituals that hasten his rebirth. ",
+    :key :remnant-cultist,
+    :int 18,
+    :speed "30 ft.",
+    :name "Remnant Cultist",
+    :alignment "neutral evil",
+    :cha 8,
+    :hit-points {:die 8, :die-count 11, :modifier 11},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 13,
+    :skills {:deception 7, :stealth 7},
+    :str 10,
+    :saving-throws {:wis 3},
+    :challenge 7,
+    :con 12,
+    :dex 16,
+    :wis 8,
+    :props
+    {:damage-resistance {:necrotic true, :psychic true},
+     :language {:common true, :infernal true}},
+    :traits
+    [{:description
+      "The remnant cultist is an 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The cultist has the following wizard spells prepared: Cantrips (at will): chill touch, message, minor illusion, prestidigitation, ray of frost 1st level (4 slots): detect magic, hideous laughter, mage armor, shield 2nd level (3 slots): detect thoughts, suggestion 3rd level (3 slots): counterspell, fear, vampiric touch 4th level (3 slots): greater invisibility, phantasmal killer 5th level (2 slot): dream, mislead 6th level (1 slot): circle of death ",
+      :name "Spellcasting"}
+     {:description
+      "Any attempt to form a mental link with the remnant cultist, scry the cultist, or cast speak with dead on a cultist instantly fails, and the creature that initiated the attempt takes 6d6 psychic damage.",
+      :name "Unknowable Secrets"}
+     {:description
+      " The cultist has disadvantage on any attack roll made against a target more than 30 feet away. ",
+      :name "One-Eyed"}
+     {:description
+      "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft., range 20/60 ft.,  one target. Hit: 5 (1d4 + 3) piercing damage. Hit points lost to this weapon’s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means. Once per turn, the cultist may choose to wound its target. At the start of each of the wounded creature’s turns, it takes 1d4 necrotic damage for each time the cultist wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
+      :name "Dagger of Wounding",
+      :type :action}]},
+   :ashari-stoneguard
+   {:description
+    "The earth ashari of Terrah are a stoic people, slow to change socially, and more likely to fight defensive battles and outlast enemies than wage offensive wars. The Terrah stoneguard are the perfect embodiment of this ideal; their druidic training has been augmented by ancient combat techniques, allowing them to hold fast against a tide of enemies. They craft arms and armor from the granite around them, and their magical stonecraft rivals that of the dwarves. It is said that in mythic times, when elemental armies poured into Exandria, that two legendary stoneguards protected all of Terrah against the elemental onslaught for ten days and ten nights, guarding each other while their partner rested. ",
+    :key :ashari-stoneguard,
+    :int 10,
+    :speed "30 ft.",
+    :name "Ashari Stoneguard",
+    :alignment "lawful neutral",
+    :cha 9,
+    :hit-points {:die 8, :die-count 16, :modifier 80},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 15,
+    :skills {:athletics 8, :intimidation 3},
+    :str 18,
+    :saving-throws {:con 9, :str 8, :wis 6},
+    :challenge 7,
+    :con 20,
+    :dex 10,
+    :wis 14,
+    :props
+    {:condition-immunity {:petrified true},
+     :language {:common true, :druidic true, :primordial true}},
+    :traits
+    [{:description "The stoneguard makes three granite maul attacks.",
+      :name "Multiattack",
+      :type :action}
+     {:description "", :name "Tremorsense 30ft"}
+     {:description
+      " The stoneguard is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): druidcraft, resistance 1st level (4 slots): goodberry, speak with animals, thunderwave 2nd level (2 slots): hold person, spike growth ",
+      :name "Spellcasting"}
+     {:description
+      "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the attack hits, the stoneguard may also immediately cast thunderwave as a bonus action. This casting uses a spell slot, but no material components. ",
+      :name "Granite Maul",
+      :type :action}
+     {:description
+      "When a creature within 5 feet of the stoneguard attacks a target other than the stoneguard, it can make a single attack roll against the attacker.",
+      :name "Sentinel (Reaction)"}
+     {:description
+      "When the stoneguard is attacked, it may gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks until the end of the attacker’s turn. ",
+      :name "Skin to Stone (Reaction"}]},
+   :ravager-stabby-stabber
+   {:description
+    " Most adventurers and mercenaries take up arms against the Ravager after hearing stories of muscle-bound orcs terrorizing the free people of the Dividing Plains. They are prepared for single combat with great foes. They are not prepared for the Ravagers’ most terrifying weapon: the stabby-stabbers. Fresh-faced warriors from Emon laugh at the name when they first hear it in Kymal’s taverns, but veteran mercenaries close their eyes and hastily bury their face in their tankards.\nGoblins only join the Ravagers as slaves; spoils from orcish raids of goblin nests. Those that show exceptional skill are brought before their Slaughter Lord and forced to drink a terrible brew the orcs call skullfire. The concoction burns what little reason \nthe goblins had away, turning them into perfectly obedient, flesh-hungry monsters. In battle, stabby-stabbers swarm like rats, eviscerating fleeing innocents and warriors alike in seconds.",
+    :key :ravager-stabby-stabber,
+    :int 10,
+    :speed "30 ft.",
+    :name "Ravager Stabby-Stabber",
+    :alignment "chaotic evil",
+    :cha 7,
+    :hit-points {:die 6, :die-count 8, :modifier 8},
+    :type :humanoid,
+    :size :small,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 15,
+    :str 10,
+    :saving-throws {:wis 1},
+    :challenge 2,
+    :con 12,
+    :dex 16,
+    :wis 8,
+    :props
+    {:condition-immunity {:charmed true},
+     :language {:common true, :goblin true}},
+    :traits
+    [{:description
+      " The goblin can take the Disengage or Hide action as a bonus action on each of its turns. ",
+      :name "Nimble Escape"}
+     {:description
+      "When the goblin hits with a melee attack, it may attack again. It can continue making additional attacks until it does not hit. The goblin cannot move between attacks made with this trait. ",
+      :name "Stabby Frenzy"}
+     {:description
+      "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage",
+      :name "Shortsword",
+      :type :action}
+     {:description
+      "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.\n",
+      :name "Dagger",
+      :type :action}]},
+   :ashari-firetamer
+   {:description
+    "Firetamers are the elite elementalists of the Pyrah, using their attunement to the primordial forces of the world to not just create fire, not just command it, but tame it to their will. A firetamer of Pyrah is nothing like the manic pyromancers of Tal’Dorei; while the latter recklessly wields fire as a weapon, firetamers use their talent to protect others from fire’s destructive power—or to use that same power to destroy those who threaten their people. Firetamers are almost always accompanied by a salamander, a fire elemental, or a small herd of magma or smoke mephits. While home in Pyrah, ashari firetamers use their power to control the Rift of Flame or to control the flames of the Cindergrove.",
+    :key :ashari-firetamer,
+    :int 12,
+    :speed "30 ft.",
+    :name "Ashari Firetamer",
+    :alignment "neutral good",
+    :cha 11,
+    :hit-points {:die 8, :die-count 16, :modifier 20},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 17,
+    :skills {:arcana 5, :nature 9},
+    :str 8,
+    :challenge 7,
+    :con 14,
+    :dex 15,
+    :wis 18,
+    :props
+    {:damage-resistance {:fire true},
+     :language {:common true, :druidic true, :primordial true}},
+    :traits
+    [{:description
+      " As a bonus action, the firetamer can transform into a fire elemental. While in this form, the firetamer cannot cast spells, but can expend a spell slot as a bonus action to regain 1d8 hit points per level of the spell slot expended. When the firetamer is reduced to 0 hit points, falls unconscious, or dies in this form, it reverts to its humanoid form. It can remain in flameform for up to 5 hours, and can enter flameform twice, regaining expended uses after completing a short or long rest. ",
+      :name "Fireform"}
+     {:description
+      "The firetamer is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): druidcraft, mending, produce flame 1st level (4 slots): cure wounds, faerie fire, longstrider, jump 2nd level (3 slots): flame blade, heat metal, lesser restoration 3rd level (3 slots): daylight, dispel magic, protection from energy 4th level (3 slots): blight, freedom of movement, wall of fire 5th level (1 slot): conjure elemental ",
+      :name "Spellcasting"}
+     {:description
+      "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage plus 14 (4d6) fire damage. ",
+      :name "Scimitar",
+      :type :action}
+     {:description
+      "Flamecharm (Recharges after a Short or Long Rest). The firetamer can cast dominate monster (save DC 16) on a fire elemental or other fire elemental creature. If the elemental has 150 or more hit points, it has advantage on the saving throw. ",
+      :name "Flamecharm",
+      :type :action}]},
+   :cyclops-stormcaller
+   {:description
+    "When a cyclops is born beneath a raging storm, the child is sometimes born different. Smaller than the rest, sickly and weak. Most of these stormborn cyclopes are relentlessly bullied and beaten for their tiny stature, and most die before adulthood. Those who survive do so because of the magic the Stormlord has bestowed upon them—intentionally or otherwise. As cyclopes are a simple-minded and magically-inert people, the power of a stormcaller awes and terrifies them. They believe that a stormcaller is nothing short of a god. ",
+    :key :cyclops-stormcaller,
+    :int 15,
+    :speed "30 ft., fly 60 ft. (storm only)",
+    :name "Cyclops Stormcaller",
+    :alignment "neutral evil",
+    :cha 20,
+    :hit-points {:die 10, :die-count 12, :modifier 48},
+    :type :giant,
+    :size :large,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 18,
+    :skills {:arcana 6},
+    :str 16,
+    :saving-throws {:cha 11, :con 6, :dex 2, :int 4, :str 5, :wis 5},
+    :challenge 10,
+    :con 18,
+    :dex 10,
+    :wis 8,
+    :props {:language {:common true, :elvish true, :giant true}},
+    :traits
+    [{:description
+      "The cyclops has disadvantage on any attack roll against a target more than 30 feet away. ",
+      :name "Poor Depth Perception"}
+     {:description
+      "While within 1 mile of a storm, the cyclops gains a fly speed of 60 feet. ",
+      :name "Storm Wings"}
+     {:description
+      "The cyclops has advantage on Constitution saving throws made to maintain concentration on a spell, and cannot lose concentration because of turbulent weather. ",
+      :name "Supernatural Focus"}
+     {:description
+      "The cyclops’s innate spellcasting ability is Charisma (spell save DC 17). The cyclops can innately cast the following spells, requiring no material components: At-will: ray of frost (3d8), water walk 3/day each: ice storm, sleet storm, wind wall 1/day each: control weather, storm of vengeance ",
+      :name "Innate Spellcasting"}
+     {:description "The cyclops makes two ice claws attacks.",
+      :name "Multiattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (3d6 +3) slashing damage plus 3 (1d6) cold damage.",
+      :name "Ice Claws",
+      :type :action}]},
+   :goliath-brawler
+   {:description "",
+    :key :goliath-brawler,
+    :int 9,
+    :speed "40 ft.",
+    :name "Goliath Brawler",
+    :alignment "chaotic neutral",
+    :cha 7,
+    :hit-points {:die 8, :die-count 10, :modifier 20},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 15,
+    :skills
+    {:acrobatics 4, :athletics 5, :intimidation 0, :perception 5},
+    :str 17,
+    :saving-throws {:con nil},
+    :challenge 3,
+    :con 14,
+    :dex 15,
+    :wis 16,
+    :props {:language {:common true, :giant true}},
+    :traits
+    [{:description
+      "While the brawler is wearing no armor and not wielding a shield, its AC equals 10 + its Dexterity modifier + its Wisdom modifier.",
+      :name "Unarmored Defense"}
+     {:description "The brawler makes three unarmed attacks.",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the target is a creature, the brawler can choose one of the following additional effects: \n• Bruise. The target must succeed on a DC 13 Constitution saving throw. On a failure, its speed is reduced by 5 feet until it receives at least 1 point of magical healing. A DC 15 Wisdom (Medicine) check performed as an action can also restore any lost speed. \n• Disarm. The target must succeed on a DC 13 Strength saving throw or drop one item it is holding. The brawler may choose which item is dropped, and may choose to pick it up. \n• Suplex. The target must succeed on a DC 13 Strength saving throw or be knocked prone. ",
+      :name "Unarmed Attack",
+      :type :action}
+     {:description
+      "When the stormborn takes damage, it may reduce the damage by 10 (1d12 + 4). It cannot use this trait again until it completes a short or long rest.",
+      :name "Endurance (Reaction)"}]},
+   :clasp-cutthroat
+   {:description
+    "When the thieves and assassins of the Clasp need to “acquire” additional funds or “relieve” specific people of their possessions, their cutthroats are the first to be called. Clasp cutthroats can also represent any number of different rogues within the thieves’ guilds of Tal’Dorei.",
+    :key :clasp-cutthroat,
+    :int 8,
+    :speed "30 ft.",
+    :name "Clasp Cutthroat",
+    :alignment "any non-lawful alignment",
+    :cha 9,
+    :hit-points {:die 8, :die-count 8, :modifier 8},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 14,
+    :skills {:deception 3, :stealth 7},
+    :str 10,
+    :saving-throws {:dex 5},
+    :challenge 3,
+    :con 12,
+    :dex 16,
+    :wis 14,
+    :props {:language {:common true, :thieves-cant true}},
+    :traits
+    [{:description
+      " On each of its turns, the cutthroat can use a bonus action to take the Dash, Disengage, or Hide action. ",
+      :name "Cunning Action"}
+     {:description
+      " The cutthroat deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the cutthroat that isn’t incapacitated and the cutthroat doesn’t have disadvantage on the attack roll. ",
+      :name "Sneak Attack (1/turn)"}
+     {:description
+      "The cutthroat makes two shortsword or dagger attacks. ",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. ",
+      :name "Shortsword",
+      :type :action}
+     {:description
+      " Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft., range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. ",
+      :name "Dagger",
+      :type :action}
+     {:description
+      "When an attacker that the cutthroat can see hits it with an attack, the cutthroat takes half damage instead. ",
+      :name "Uncanny Dodge (Reaction)"}]},
+   :goat-knight-steed
+   {:description "",
+    :key :goat-knight-steed,
+    :int 6,
+    :speed "40 ft.",
+    :name "Goat-Knight Steed",
+    :alignment "unaligned",
+    :cha 6,
+    :hit-points {:die 10, :die-count 3, :modifier 3},
+    :type :celestial,
+    :size :large,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 11,
+    :skills
+    {:acrobatics 0,
+     :athletics 0,
+     :intimidation 0,
+     :nature 0,
+     :perception 0,
+     :religion 0},
+    :str 17,
+    :saving-throws
+    {:cha nil, :con nil, :dex nil, :int nil, :str nil, :wis nil},
+    :challenge 0.5,
+    :con 12,
+    :dex 11,
+    :wis 12,
+    :props
+    {:damage-immunity {:poison false},
+     :damage-resistance {:poison false},
+     :language {:common false, :dwarvish true, :giant false}},
+    :traits
+    [{:description
+      " If the goat-knight steed moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes a extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. ",
+      :name "Charge"}
+     {:description
+      "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4  + 3) bludgeoning damage.\n",
+      :name "Ram",
+      :type :action}
+     {:description
+      "Any spell with a range of Self cast by a goat-knight rider who is mounted on a goat-knight steed also targets the goat-knight steed. ",
+      :name "Rider and Steed"}
+     {:description
+      " The goat-knight steed has advantage on Strength and Dexterity saving throws made against effects that would knock it prone. ",
+      :name "Sure-footed"}
+     {:description
+      " When the goat-knight steed drops to 0 hit points it disappears, leaving behind no physical form. A goat knight can also dismiss his steed at any point as an action, causing it to disappear. In either case, the same steed is summoned when the goat-knight casts find steed. ",
+      :name "Divine Provenance"}]},
+   :ravager-slaughter-lord
+   {:description
+    " Orc warchiefs, hungry for recognition in the single burning eye of their god, turn to the Ravagers as a way to fight greater battles, kill stronger foes, and win bloodier spoils. The few war chiefs whose deeds live up to their ambitions soon find themselves leading an arm of the Ravagers—and honored by the title of Slaughter Lord. A Slaughter Lord craves combat like it craves food, and leads Ravager raids as often as possible, but is frequently forced to remain at its stronghold because of its strict regimen of alchemical treatments.\n A small army of shamans and alchemists attend to the Slaughter Lords in order to artificially enhance their already-tremendous strength. The blessings and concoctions crafted by the orc-lords’ lackeys grow their muscular forms to mountainous size, sharpen their tactical reasoning, and bestow upon them the divine protection of the One-Eyed Ruiner. While their unnatural size is a Slaughter Lord’s most obvious martial advantage—it dual-wields weapons most humans could only wield with two hands—the Ruiner’s blessings grant it tremendous divine magic. Rumors abound of brave warriors being slain or blinded by a single guttural utterance.",
+    :legendary-actions
+    {:description
+     "The Slaughter Lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Slaughter Lord regains spent legendary actions at the start of its turn."},
+    :key :ravager-slaughter-lord,
+    :int 12,
+    :speed "30 ft.",
+    :name "Ravager Slaughter Lord",
+    :alignment "lawful evil",
+    :cha 16,
+    :hit-points {:die 8, :die-count 16, :modifier 80},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 17,
+    :skills {:intimidation 11, :religion 5},
+    :str 22,
+    :saving-throws {:con 9, :str 10, :wis 7},
+    :challenge 9,
+    :con 20,
+    :dex 14,
+    :wis 16,
+    :props {:language {:common true, :orc true}},
+    :traits
+    [{:description
+      "As a bonus action, the Slaughter Lord can move up to its speed toward a hostile creature it can see.",
+      :name "Aggressive"}
+     {:description
+      "The Slaughter Lord has been showered with a cocktail of divine blessings, and can call upon them at any time. Its innate spellcasting ability is Wisdom (spell save DC 15). The Slaughter Lord can innately cast the following spells, requiring no material components: At will: thaumaturgy 3/day each: flame strike, spirit guardians 1/day each: control weather, divine word, fire storm",
+      :name "Blessings of the Ruiner"}
+     {:description
+      "If the Slaughter Lord fails a saving throw, it can choose to succeed instead. ",
+      :name "Legendary Resistance (2/Day)"}
+     {:description
+      " While the Slaughter Lord is wearing no armor and not wielding a shield, its AC equals 10 + its Dexterity modifier + its Constitution modifier. ",
+      :name "Unarmored Defense"}
+     {:description
+      "The Slaughter Lord makes four attacks with its greatswords or three attacks with its spear. ",
+      :name "Multiattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) piercing damage plus 3 (1d6) fire damage. ",
+      :name "Dual Greatswords",
+      :type :action}
+     {:description
+      "Melee or Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage plus 3 (1d6) fire damage, or 15 (2d8 + 6) piercing damage plus 3 (1d6) fire damage if used with both hands to make a melee attack.",
+      :name "Spear",
+      :type :action}
+     {:description
+      "The Slaughter Lord makes a spear or greatsword attack. ",
+      :name "Attack",
+      :type :legendary-action}
+     {:description "The Slaughter Lord moves up to half its speed.",
+      :name "Move",
+      :type :legendary-action}
+     {:description "The Slaughter Lord casts an innate spell.\n",
+      :name "Cast a Spell (Costs 3 Actions)",
+      :type :legendary-action}]},
+   :ashari-skydancer
+   {:description
+    " While all in Zephrah love the sensation of flight, few hone their skills as rigorously as the skydancers. These graceful masters of the wind are at once artists, performers, and warriors; they are beloved heroes of their people, both defending them in times of danger and bringing them happiness in times of peace. ",
+    :key :ashari-skydancer,
+    :int 12,
+    :speed "30 ft., fly 60 ft. (with skysail)",
+    :name "Ashari Skydancer",
+    :alignment "chaotic neutral",
+    :cha 11,
+    :hit-points {:die 8, :die-count 14},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 14,
+    :skills {:acrobatics 7, :perception 6},
+    :str 10,
+    :saving-throws {:dex 7},
+    :challenge 5,
+    :con 10,
+    :dex 18,
+    :wis 16,
+    :props {:language {:common true, :druidic true, :primordial true}},
+    :traits
+    [{:description
+      "If the skydancer is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the skydancer instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. ",
+      :name "Evasion"}
+     {:description
+      "The skydancer doesn’t provoke opportunity attacks when it flies out of an enemy’s reach. ",
+      :name "Flyby"}
+     {:description
+      "The skydancer flies with a special ashari weapon called a skysail. While the skysail’s wings are extended, the skydancer can cast levitate at will, and can spend an action to cast fly on itself (no concentration required) for up to 1 minute once per day. This use of fly instantly replenishes when in an area of powerful air elemental magic, such as the Rift of Air in Zephrah. ",
+      :name "Skysail"}
+     {:description
+      " The skydancer is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared: Cantrips (at will): guidance, shillelagh 1st level (4 slots): fog cloud, entangle, jump 2nd level (2 slots): gust of wind, skywrite ",
+      :name "Spellcasting"}
+     {:description "The skydancer makes two skysail staff attacks. ",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. If the skydancer makes this attack while flying, the target must make a DC 14 Dexterity saving throw, taking 21 (6d6) lightning damage on a failure or half as much damage on a success.",
+      :name "Skysail Staff"}
+     {:description
+      "When the skydancer takes falling damage, it may reduce the damage by half.",
+      :name "Slow Fall (Reaction)"}]},
+   :clasp-enforcer
+   {:description
+    "The Clasp prefers to operate within the shadows, but sometimes targets of blackmail need a little “convincing.” Whenever scare tactics and brute force are needed, the Clasp’s musclebound enforcers make quite an impression.",
+    :key :clasp-enforcer,
+    :int 8,
+    :speed "30 ft.",
+    :name "Clasp Enforcer",
+    :alignment "any non-lawful alignment",
+    :cha 14,
+    :hit-points {:die 8, :die-count 12, :modifier 48},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 16,
+    :skills {:athletics 6, :deception 0, :intimidation 8, :stealth 7},
+    :str 16,
+    :saving-throws {:dex nil},
+    :challenge 5,
+    :con 18,
+    :dex 12,
+    :wis 11,
+    :props {:language {:common true, :thieves-cant true}},
+    :traits
+    [{:description
+      " Whenever the enforcer hits with a melee attack, the target must make a DC 15 Wisdom saving throw. On a failure, the target is frightened of the enforcer until the end of its next turn. The enforcer’s allies have advantage on attack rolls against creatures frightened in this way. ",
+      :name "Intimidating Presence"}
+     {:description
+      "As a bonus action, the enforcer can regain 12 hit points.  ",
+      :name "Second Wind (Recharges after a Short or Long Rest)"}
+     {:description "The enforcer makes three warhammer attacks",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage. ",
+      :name "Warhammer",
+      :type :action}]},
+   :goliath-stormborn
+   {:description
+    "Countless goliath legends tell of heroes born beneath a raging storm. These stormborn grow to become peerless warriors, blessed with preternatural skill with a blade and the uncanny ability to command lightning itself. As warriors destined to become mythic heroes, stormborn fight with reckless abandon and are often distressingly prideful. Little do they know that destiny is a fickle thing, and that the songs of defeated stormborn (or worse, tyrannical ones) are rarely sung by the bards.",
+    :key :goliath-stormborn,
+    :int 9,
+    :speed "30 ft.",
+    :name "Goliath Stormborn",
+    :alignment "chaotic neutral",
+    :cha 9,
+    :hit-points {:die 8, :die-count 12, :modifier 48},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 13,
+    :skills {:athletics 6, :intimidation 3},
+    :str 18,
+    :saving-throws {:con 6},
+    :challenge 4,
+    :con 18,
+    :dex 12,
+    :wis 11,
+    :props {:language {:common true, :giant true}},
+    :traits
+    [{:description
+      " At the start of its turn, the stormborn can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn. ",
+      :name "Reckless"}
+     {:description
+      "The stormborn’s innate spellcasting ability is Charisma (spell save DC 9). The stormborn can innately cast the following spells, requiring no material components: 3/day: lightning bolt 1/day: call lightning ",
+      :name "Innate Spellcasting"}
+     {:description " The stormborn makes two greataxe attacks",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage plus 7 (2d6) lightning damage. Miss: 3 (1d6) lightning damage",
+      :name "Greataxe",
+      :type :action}
+     {:description
+      "When the stormborn takes damage, it may reduce the damage by 10 (1d12 + 4). It cannot use this trait again until it completes a short or long rest.",
+      :name "Endurance (Reaction)"}]},
+   :kraghammer-goat-knight
+   {:description
+    "The sheer cliff faces and winding winding mountainside roads of the Cliffkeep Mountains are nearly impossible to traverse by normal means with any speed. However, the Peakclimber Knights of Kraghammer—commonly known as the goat-knights—are enforcers of peace and justice across the mountain range, and their giant goat steeds can easily traverse the harsh mountain slopes and climb nearly vertical slopes at their full pace. These knights are in service to the Allhammer, and often find themselves at odds with enforcing the laws of Kraghammer and upholding the edicts of their god. Travelers lost within the mountains are sometimes saved by a traveling goat-knight, who is able to lead them through dangerous-but-traversable mountain roads. ",
+    :key :kraghammer-goat-knight,
+    :int 10,
+    :speed "25 ft., mounted 40 ft.",
+    :name "Kraghammer Goat-Knight",
+    :alignment "neutral good",
+    :cha 14,
+    :hit-points {:die 8, :die-count 8, :modifier 16},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 20,
+    :skills
+    {:acrobatics 0,
+     :athletics 0,
+     :intimidation 0,
+     :nature 3,
+     :perception 0,
+     :religion 6},
+    :str 16,
+    :saving-throws {:cha 4, :con 4, :dex 1, :int 2, :str 5, :wis 2},
+    :challenge 3,
+    :con 14,
+    :dex 8,
+    :wis 11,
+    :props
+    {:damage-immunity {:poison false},
+     :damage-resistance {:poison true},
+     :language {:common true, :dwarvish true, :giant false}},
+    :traits
+    [{:description
+      "Whenever the goat-knight or a friendly creature within 10 feet of it makes a saving throw, the creature gains a +2 bonus (included above). The knight must be conscious to grant this bonus. ",
+      :name "Aura of Protection"}
+     {:description "The goat-knight makes two warhammer attacks.",
+      :name "Mutliattack",
+      :type :action}
+     {:description
+      "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands.",
+      :name "Warhammer",
+      :type :action}
+     {:description
+      "The goat-knight has advantage on saving throws against poison.",
+      :name "Dwarven Resiliance"}
+     {:description
+      "The goat-knight is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The goat-knight has the following paladin spells prepared: 1st level (4 slots): bless, cure wounds, protection from evil and good, sanctuary, shield of faith 2nd level (2 slots): branding smite, lesser restoration, locate object, zone of truth ",
+      :name "Spellcasting"}]},
+   :remnant-chosen
+   {:description
+    "All followers of the Whispered One are zealous followers of their god-to-be. Every cultist spends hours in silent meditation, hoping to hear their long-dead master whisper a commandment from beyond the veil. For most, this meditation is fruitless. \nBut some do hear the whispers. In the silence of their meditation, the spectral voice of the Whispered One worms its way into their emptied minds, filling their heads with words of power. Fragments of the Whispered One’s ancient arcane might boils within their blood, granting them spells unseen since the Age of Arcanum.",
+    :key :remnant-chosen,
+    :int 15,
+    :speed "30 ft.",
+    :name "Remnant Chosen",
+    :alignment "neutral evil",
+    :cha 20,
+    :hit-points {:die 8, :die-count 18, :modifier 36},
+    :type :humanoid,
+    :size :medium,
+    :option-pack "TDCG (NineArtsDragon#3773)",
+    :armor-class 12,
+    :skills {:arcana 11, :deception 9, :stealth 0},
+    :str 10,
+    :saving-throws {:cha 9, :wis 6},
+    :challenge 12,
+    :con 14,
+    :dex 14,
+    :wis 16,
+    :props
+    {:damage-immunity {:necrotic true},
+     :damage-resistance {:necrotic false, :psychic false},
+     :language {:abyssal true, :common true, :infernal true}},
+    :traits
+    [{:description
+      "The Chosen is an 18th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). The Chosen has the following sorcerer spells prepared: \nCantrips (at will): chill touch, dancing lights, mage hand, message, shocking grasp \n1st level (4 slots): charm person, expeditious retreat, mage armor,* shield \n2nd level (3 slots): blindness/deafness, darkness, detect thoughts \n3rd level (3 slots): counterspell, fly, hypnotic pattern \n4th level (3 slots): confusion, greater invisibility* \n5th level (3 slots): dominate person, scrying, seeming \n6th level (1 slot): eyebite \n7th level (1 slot): finger of death \n8th level (1 slot): power word stun \n9th level (1 slot): power word kill \n*The Chosen typically casts these spells on itself before combat. ",
+      :name "Spellcasting"}
+     {:description
+      "As a bonus action, the Chosen may select a creature or object affected by an illusion spell of 4th level or lower. One illusion of the Chosen’s choice affecting that creature is instantly dispelled.",
+      :name "All-Seeing Eye"}
+     {:description
+      "The Chosen has advantage on saving throws against spells and other magical effects, and resistance to all damage dealth by spells. ",
+      :name "Magic Resistance"}
+     {:description
+      "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 37 (5d6 + 20) force damage. If this damage reduces the target to 0 hit points, it is disintegrated.",
+      :name "Withered Hand",
+      :type :action}
+     {:name "Senses: Truesight 60 ft."}]}},
+  :orcpub.dnd.e5/feats
+  {:flash-recall-prerequisite-the-ability-to-prepare-spells-
+   {:ability-increases #{},
+    :description
+    "You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity. As an action, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have spell slots. You then lose preparation of a different spell of your choice of equal or higher spell level.\nIf you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.",
+    :key :flash-recall-prerequisite-the-ability-to-prepare-spells-,
+    :name "Flash Recall (Prerequisite: The ability to prepare spells)",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{:spellcasting}},
+   :mystic-conflux
+   {:ability-increases #{},
+    :description
+    "Through your repeated exposure to the natural flow of arcane magic throughout Exandria, you’ve adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:\n• You have advantage on Intelligence (Arcana) checks when investigating the nature of a magical object or device.\n• You can now be attuned to a maximum of four magical items, rather than the normal limit of three. Other attunement limitations still apply.",
+    :key :mystic-conflux,
+    :name "Mystic Conflux",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{}},
+   :dual-focused
+   {:ability-increases #{},
+    :description
+    "Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.\n\n• If you attempt to cast a spell that requires concentration while already concentrating on an existing spell, you can maintain concentration on both spells simultaneously.\n• If you take damage during this time, you must make a concentration check for each spell individually.\n• At the end of each turn where you have two spells you are concentrating on, you must make a Constitution saving throw (DC equals 8 + both spells’ levels combined). On a success, you maintain concentration on both spells. On a failure, you lose concentration on both spells.",
+    :key :dual-focused,
+    :name "Dual-Focused",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{:spellcasting}},
+   :rapid-drinker
+   {:ability-increases #{},
+    :prereqs #{},
+    :option-pack "Tal'Dorei Campaign Setting",
+    :name "Rapid Drinker",
+    :description
+    "Through a lifestyle of hard, competitive drinking, you’ve learned how to quaff drinks at an incredibly accelerated pace. You gain the following benefits:\n• You can drink a potion as a Bonus action, instead of as an action.\n• You have advantage on any saving throws triggered by ingesting an alcoholic or dangerous substance.",
+    :key :rapid-drinker},
+   :gambler
+   {:ability-increases #{:orcpub.dnd.e5.character/cha},
+    :description
+    "Spending countless hours winning and losing coin in alestained taverns has forged you into a consummate gambler and chance-seeking addict. You gain the following benefits and features:\n• Increase your Charisma score by 1, to a maximum of 20.\n• You gain proficiency with two types of gaming sets of your choice.\n• You have advantage on Charisma (Deception) checks to bluff opponents in games of chance, and Charisma (Persuasion) checks to convince others to join you for a game.\n• You have a reputation as a card shark in some circles. Some folks may avoid playing you for this reason, while other higher-stakes gamblers may seek you out specifically.\n• When you take the Carousing downtime action, you may reroll your result once, but must keep the results of the second roll.",
+    :key :gambler,
+    :name "Gambler",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{},
+    :props
+    {:tool-prof-or-expertise
+     {:dice-set true,
+      :dragonchess-set true,
+      :playing-card-set true,
+      :poisoners-tools false,
+      :three-dragon-ante-set true}}},
+   :spelldriver-prerequisite-8th-level-
+   {:ability-increases #{},
+    :description
+    "Through intense focus, training, and dedication, you’ve harnessed the techniques of rapid spellcasting. You are no longer limited to only one non-cantrip spell per turn. However, should you cast two or more spells in a single turn, only one of them can be of 3rd level or higher.",
+    :key :spelldriver-prerequisite-8th-level-,
+    :name "Spelldriver (Prerequisite: 8th level)",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{}},
+   :mending-affinity
+   {:ability-increases #{:orcpub.dnd.e5.character/con},
+    :description
+    "Your body has begun to adapt extremely well to healing itself through extraordinary means, gifting you the following benefits:\n• Increase your Constitution score by 1, to a maximum of 20.\n• When a creature uses a healer’s kit to stabilize you when you are dying, you also regain hit points equal to your proficiency modifier.\n• Whenever you regain hit points as a result of a spell, potion, or class ability, you regain additional hit points equal to your proficiency modifier.",
+    :key :mending-affinity,
+    :name "Mending Affinity",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{}},
+   :thrown-arms-master
+   {:ability-increases
+    #{:orcpub.dnd.e5.character/dex :orcpub.dnd.e5.character/str},
+    :description
+    "You’ve honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:\n• Increase your Strength or Dexterity score by 1, to a maximum of 20.\n• Simple and martial melee weapons without the thrown property can be treated as if they have the thrown property. One-handed weapons have a range of 20/60, while two-handed weapons have a range of 15/30.\n• Weapons that naturally have the thrown property increase their range by +20/+40.\n• When you miss with a thrown weapon attack using a light weapon, the weapon immediately boomerangs back into your grasp.",
+    :key :thrown-arms-master,
+    :name "Thrown Arms Master",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{}},
+   :cruel
+   {:ability-increases #{},
+    :description
+    "The challenges and struggles you’ve faced throughout your life have left you ruthless in combat, relishing in the pain you inflict.\n\n• You have a number of cruelty points equal to your proficiency modifier. Once per turn, whenever you deal damage to a creature with an attack, you can spend one cruelty point to deal an additional 1d6 damage of the attack damage type to that creature.\n• You can also spend one cruelty point when you score a critical hit against a creature to regain 1d6 hit points.\n• While making a Charisma (Intimidation) check that involves inflicting pain, you can spend one cruelty point to gain advantage on the roll.\n• You regain your expended cruelty points when you finish a long rest.",
+    :key :cruel,
+    :name "Cruel",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :prereqs #{}}},
+  :orcpub.dnd.e5/backgrounds
+  {:ashari
+   {:equipment {:clothes-traveler-s 1, :hunting-trap 1, :quiver 1},
+    :key :ashari,
+    :name "Ashari",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :profs
+    {:language-options {:choose 1, :options {:any true}},
+     :skill {:nature true},
+     :tool {:herbalism-kit true}},
+    :traits
+    [{:description
+      "You gain the prestidigitation cantrip, but can only use it to create a minor elemental effect based on your chosen Ashari tribe: Zephrah- a puff of wind that can blow papers or ruffle hair. Pyrah- a burst of flame that can light or snuff out a candle, a torch, or a small campfire. Terrah- you create a small rock in your hand no larger than a gold coin, that lasts for 1 minute. Visrah- create enough hot or cold water to fill a small glass.",
+      :name "Elemental Harmony"}
+     {:description
+      "Choose from Arcana or Survival and add it to your proficiencies (using the homebrew button)",
+      :name "Skill Proficiency Choice"}],
+    :treasure {:gp 10},
+    :help
+    "You've been raised to revere and uphold the protection of the natural world, while policing, bending, and guiding the elemental powers that either foster life or destroy it. Each Ashari is tethered to one of the four elemental tribes and their villages.\nFeature: Elemental Harmony"},
+   :clasp-member
+   {:equipment {:clothes-common 1},
+    :key :clasp-member,
+    :name "Clasp Member",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :profs
+    {:skill {:deception true},
+     :tool
+     {:disguise-kit true, :forgery-kit true, :thieves-tools true}},
+    :traits
+    [{:description
+      "You learn thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a Message than it does to speak the same idea plainly.\n\nIn addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.",
+      :name "Thieves' Cant"}
+     {:description
+      "You have gained enough clout within the Clasp that you\ncan call in a favor from your contacts, should you be close\nenough to a center of Clasp activity. A request for a favor\ncan be no longer than 20 words, and is passed up the\nchain to an undisclosed Spireling for approval. This favor\ncan take a shape up to the DM’s discretion depending on\nthe request, with varying speeds of fulfillment: If muscle\nis requested, an NPC Clasp minion can temporarily\naid the party. If money is needed, a small loan can be\nprovided. If you’ve been imprisoned, they can look into\nbreaking you free, or paying off the jailer.\n\nThe turn comes when a favor is asked to be repaid. The\nfavor debt can be called in without warning, and many\ntimes with intended immediacy.If a favor is not repaid within a reasonable period\nof time, membership to the Clasp can be revoked, and if\nthe debt is large enough, the player may become\nthe next hit contract to make\nthe rounds.",
+      :name "A Favor In Turn"}
+     {:description
+      "From your Clasp background, you gain proficiency in either Sleight of Hand or Stealth. (Use the homebrew button)\n Also, you have proficiency with either Thieves' Tools, the Forgery Kit, or the Disguise Kit. Choose one and add it to your inventory.",
+      :name "Proficiency Choices"}],
+    :treasure {:gp 10},
+    :help
+    "You drew the attention of the Clasp: the most organized, and dangerous, crime syndicate across Tal’Dorei. Offering protection and a number of useful resources, you agreed to receive the brand of the Clasp and joined their ranks.\nFeature: A Favor in Turn"},
+   :fate-touched
+   {:key :fate-touched,
+    :name "Fate-Touched",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :traits
+    [{:description
+      "Your fate-touched essence occasionally leads surrounding\nevents to shift in your favor. You gain 1 Luck point, as per\nthe Lucky feat outlined within the PHB. This luck point\nis used in the same fashion as the feat, and you regain this\nexpended luck point when you finish a long rest. If you\nalready have the Lucky feat, you add this luck point to\nyour total for the feat.",
+      :name "Fortune's Grace"}
+     {:description
+      "Player's are not intended to choose this background. As a DM, consider the character's significance in the story before giving them this background.",
+      :name "Plot Significance"}],
+    :help
+    "Players are not intended to select this background; it is instead provided for the dungeon master to consider for their players."},
+   :lyceum-student
+   {:equipment
+    {:clothes-fine 1,
+     :ink 1,
+     :ink-pen 1,
+     :knife-small 1,
+     :parchment 1,
+     :pouch 1},
+    :key :lyceum-student,
+    :name "Lyceum Student",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :profs {:language-options {:choose 2, :options {:any true}}},
+    :traits
+    [{:description
+      "As a Lyceum Student, choose 2 from Arcana, History, and Persuasion. (Add these skills using the homebrew button)",
+      :name "Skill Proficiency Choice"}
+     {:description
+      "You’ve cleared enough lessons, and gained an ally or two\non staff, to have access to certain chambers within the\nLyceum (and some other allied universities) that outsiders\nwould not. This allows use of any Tool Kit, so long as\nthe Tool Kit is used on the grounds of the Lyceum and is\nnot removed from its respective chamber (each tool kit is\nmagically marked and will sound an alarm if removed).\nMore dangerous kits and advanced crafts (such as use\nof a Poisoner’s Kit, or the enchanting of a magical item)\nmight require staff supervision. You may also have access\nto free crafting materials and enchanting tables, so long\nas they are relatively inexpensive, or your argument for\nthem is convincing (up to the staff’s approval and DM’s\ndiscretion).",
+      :name "Student Privilege"}],
+    :treasure {:gp 10},
+    :help
+    "Your interests and pursuits have brought you to the glittering halls of Tal’Dorei’s highest place of learning, soaking in all and every lesson you can to better make your mark on the world.\nFeature: Student Privilege"},
+   :recovered-cultist
+   {:equipment {:clothes-common 1, :holy-symbol 1, :vestements 1},
+    :key :recovered-cultist,
+    :name "Recovered Cultist",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :profs
+    {:language-options {:choose 1, :options {:any true}},
+     :skill {:deception true, :religion true}},
+    :traits
+    [{:description
+      "Your time worshipping in secrecy and shadow at the altar of\nmalevolent forces has left you with insight and keen awareness\nto those who still operate in such ways.\nYou can often spot hidden signs, messages, and signals left in populated\nplaces. If actively seeking signs of a cult or dark following,\nyou have an easier time locating and decoding the signs or\nsocial interactions that signify cult activity, gaining advantage\non any ability checks to discover such details.",
+      :name "Wicked Awareness"}],
+    :treasure {:gp 15},
+    :help
+    "You once belonged to such a cult. Then one day the veil was lifted and the cruel truth shook your faith, sending you running from the false promises and seeking redemption.\nFeature: Wicked Awareness"}},
+  :orcpub.dnd.e5/subraces
+  {:draconian
+   {:key :draconian,
+    :name "Draconian",
+    :option-pack "Tal'Dorei Campaign Setting",
+    :race :dragonborn,
+    :traits [],
+    :disabled? false},
+   :ravenite
+   {:key :ravenite,
+    :speed 35,
+    :race :dragonborn,
+    :name "Ravenite",
+    :abilities
+    {:orcpub.dnd.e5.character/cha -1,
+     :orcpub.dnd.e5.character/con 1,
+     :orcpub.dnd.e5.character/str -2,
+     :orcpub.dnd.e5.character/wis 1},
+    :option-pack "Tal'Dorei Campaign Setting",
+    :disabled? false,
+    :props
+    {:damage-resistance {:slashing true},
+     :language {:common false, :draconic false}},
+    :traits
+    [{:description
+      "You have resistance to non-magical slashing damage.",
+      :name "Damage Resistance"}]}},
+  :orcpub.dnd.e5/selections {},
+  :disabled? false},
+ "Blood Hunter (2020)"
+ {:orcpub.dnd.e5/classes
+  {:blood-hunter
+   {nil nil,
+    :key :blood-hunter,
+    :level-modifiers
+    [{:type :armor-prof, :value :light}
+     {:type :armor-prof, :value :medium}
+     {:type :armor-prof, :value :shields}
+     {:type :weapon-prof, :value :simple}
+     {:type :weapon-prof, :value :martial}
+     {:type :num-attacks, :level 5, :value 2}
+     {:type :saving-throw-advantage, :value :charmed, :level 14}
+     {:type :saving-throw-advantage, :value :frightened, :level 14}],
+    :name "Blood Hunter",
+    :equipment {:explorers-pack 1, :crossbow-bolt 20},
+    :armor-choices
+    [{:name "Armor", :options {:scale-mail 1, :studded 1}}],
+    :subclass-level 3,
+    :option-pack "Blood Hunter (2020)",
+    :subclass-title "Blood Hunter Order",
+    :weapon-choices
+    [{:name "Weapon Choice 1", :options {:simple 2, :martial 1}}
+     {:name "Crossbow",
+      :options {:crossbow-light 1, :crossbow-hand 1}}],
+    :level-selections
+    [{:type :blood-curses, :level 18}
+     {:type :blood-curses, :level 14}
+     {:type :blood-curses, :level 10}
+     {:type :blood-curses, :level 6}
+     {:type :blood-curses}
+     {:type :primal-rite, :level 7}
+     {:type :primal-rite, :level 2}
+     {:type :esoteric-rites, :level 14}
+     {:type :blood-hunter-fighting-styles, :level 2}],
+    :ability-increase-levels [4 8 12 16 19],
+    :subclass-help
+    "There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.",
+    :help
+    "Often feared or misunderstood, and driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt to better stalk and survive their prey.",
+    :profs
+    {:save
+     {:orcpub.dnd.e5.character/dex true,
+      :orcpub.dnd.e5.character/int true},
+     :skill-options
+     {:choose 3,
+      :options
+      {:athletics true,
+       :acrobatics true,
+       :arcana true,
+       :history true,
+       :insight true,
+       :investigation true,
+       :religion true,
+       :survival true}}},
+    :hit-die 10,
+    :traits
+    [{:name "Hunter's Bane",
+      :description
+      "Beginning at 1st level, you have survived the Hunter’s Bane, a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.\n   The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:\n\nHemocraft save DC = 8 + your proficiency bonus + your Intelligence modifier."}
+     {:description
+      "At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the “Blood Curses” section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.\n   When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.\n   You can use this feature once. Beginning at 6th level, you can use your Blood Maledict feature twice, at 13th level you can use it three times between rests, and at 17th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.\n\nLevel      Hemocraft Die\n 1st                 1d4\n 2nd                1d4\n 3rd                1d4\n 4th                1d4\n 5th                1d6\n 6th                1d6\n 7th                1d6\n 8th                1d6\n 9th                1d6\n10th               1d6\n11th               1d8\n12th               1d8\n13th               1d8\n14th               1d8\n15th               1d8\n16th               1d8\n17th              1d10\n18th              1d10\n19th              1d10\n20th              1d10",
+      :name "Blood Maledict"}
+     {:description
+      "At 2nd level, you adopt a style of fighting as your specialty. Choose one of the provided options. You can’t take a Fighting Style option more than once, even if you later get to choose again.",
+      :name "Fighting Style",
+      :level 2}
+     {:description
+      "At 2nd level, you learn to invoke a rite of hemocraft within your weapon at the cost of your own vitality. Choose one rite from the Primal Rites list below to learn.\n   As a bonus action, you activate a crimson rite on a single weapon with the elemental energy of a known rite of your choice that lasts until you finish a short or long rest, or if you aren’t holding the weapon at the end of your turn. When you activate a rite, you lose a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table.\n   While active, attacks from this weapon deal an additional 1d4 damage of the chosen rite’s type. This damage is magical, and increases as you gain levels as a blood hunter, as shown in the Hemocraft Die column of the Blood Hunter table. A weapon can only hold a single active rite at a time.\n   You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.",
+      :name "Crimson Rite"}
+     {:description
+      "At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence modifier (minimum of 1 damage).\n   Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of dispel magic, and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).\n   Once you use this feature, you can’t use it again until you finish a short or long rest.",
+      :name "Brand of Castigation",
+      :level 6}
+     {:description
+      "When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence (History) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.",
+      :name "Grim Psychometry",
+      :level 9}
+     {:description
+      "Upon reaching 10th level, arcane blood magic suffuses your body, permanently reinforcing your resilience. Your speed increases by 5 feet, and whenever you make a Strength, Dexterity, or Constitution saving throw, you gain a bonus to the saving throw equal to your Intelligence modifier (minimum of one).",
+      :name "Dark Augmentation",
+      :level 10}
+     {:description
+      "Starting at 13th level, the psychic damage from your Brand of Castigation feature increases to twice your Intelligence modifier (minimum of 2).\n   In addition, a branded creature can’t take the Dash action, and if a creature branded by you attempts to teleport or leave their current plane via ability, spell, or portal, they take 4d6 psychic damage and must make a Wisdom saving throw. On a failure, the teleport or plane shift fails.",
+      :name "Brand of Tethering",
+      :level 13}
+     {:description
+      "When you reach 14th level, you have advantage on saving throws against being charmed and frightened.",
+      :level 14,
+      :name "Hardened Soul"}
+     {:description
+      "Upon becoming 20th level, you honed your control over blood magic, mitigating your sacrifice and empowering your capability. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can choose to reroll the die and choose which result to use.\n   In addition, whenever you score a critical hit with a weapon attack empowered by your Crimson Rite, you regain one expended use of your Blood Maledict feature.",
+      :name "Sanguine Mastery",
+      :level 20}
+     {:name "Blood Hunter Multiclassing",
+      :description
+      "Should you wish to multiclass into a blood hunter, the prerequisites and proficiencies gained are listed below.\n\nBlood Hunter Multiclassing Prerequisites\nAbility Score Minimum\nStrength 13 or Dexterity 13, and Intelligence 13\n\nBlood Hunter Multiclassing Proficiencies\nProficiencies Gained\nLight armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list, alchemical supplies.\n\nBlood Hunter Multiclassing with Warlock\nIf multiclassing Order of the Profane Soul with Warlock levels, add a third of your blood hunter levels (rounded down) to your Warlock level and consult the Warlock progression table in the Player’s Handbook for total Spell Slots, Cantrips known, and Spell Slot Level."}]},
+   :blood-hunter-order-of-the-profane-soul-
+   {nil nil,
+    :key :blood-hunter-order-of-the-profane-soul-,
+    :level-modifiers
+    [{:type :armor-prof, :value :light}
+     {:type :armor-prof, :value :medium}
+     {:type :armor-prof, :value :shields}
+     {:type :weapon-prof, :value :simple}
+     {:type :weapon-prof, :value :martial}
+     {:type :num-attacks, :level 5, :value 2}
+     {:type :saving-throw-advantage, :value :charmed, :level 14}
+     {:type :saving-throw-advantage, :value :frightened, :level 14}],
+    :name "Blood Hunter (Order of the Profane Soul)",
+    :equipment {:explorers-pack 1, :crossbow-bolt 20},
+    :armor-choices
+    [{:name "Armor", :options {:scale-mail 1, :studded 1}}],
+    :subclass-level 3,
+    :option-pack "Blood Hunter (2020)",
+    :subclass-title "Blood Hunter Order",
+    :weapon-choices
+    [{:name "Weapon Choice 1", :options {:simple 2, :martial 1}}
+     {:name "Crossbow",
+      :options {:crossbow-light 1, :crossbow-hand 1}}],
+    :level-selections
+    [{:type :blood-curses, :level 18}
+     {:type :blood-curses, :level 14}
+     {:type :blood-curses, :level 10}
+     {:type :blood-curses, :level 6}
+     {:type :blood-curses}
+     {:type :primal-rite, :level 7}
+     {:type :primal-rite, :level 2}
+     {:type :esoteric-rites, :level 14}
+     {:type :blood-hunter-fighting-styles, :level 2}],
+    :spellcasting
+    {:level-factor 3,
+     :known-mode :schedule,
+     :ability :orcpub.dnd.e5.character/int,
+     :spells-known
+     {3 3, 4 1, 7 1, 8 1, 10 1, 11 1, 13 1, 14 1, 16 1, 19 1, 20 1},
+     :spell-list-kw nil,
+     :cantrips? true,
+     :cantrips-known {3 1, 1 1, 10 1},
+     :spell-list
+     {0
+      #{:mage-hand :lightning-lure :toll-the-dead :frostbite
+        :booming-blade
+        :minor-illusion
+        :thunderclap
+        :mind-sliver
+        :magic-stone
+        :friends
+        :chill-touch
+        :true-strike
+        :eldritch-blast
+        :create-bonfire
+        :poison-spray
+        :sword-burst
+        :blade-ward
+        :prestidigitation
+        :infestation
+        :green-flame-blade},
+      1
+      #{:armor-of-agathys :distort-value :healing-elixir
+        :protection-from-evil-and-good
+        :witch-bolt
+        :puppet
+        :sense-emotion
+        :cause-fear
+        :comprehend-languages
+        :hex
+        :unseen-servant
+        :id-insinuation
+        :expeditious-retreat
+        :charm-person
+        :illusory-script
+        :hellish-rebuke
+        :arms-of-hadar},
+      2
+      #{:crown-of-madness :mind-spike :shadow-blade :shatter :enthrall
+        :ray-of-enfeeblement
+        :suggestion
+        :thought-shield
+        :mirror-image
+        :cloud-of-daggers
+        :mental-barrier
+        :invisibility
+        :earthbind
+        :mind-thrust
+        :hold-person
+        :spider-climb
+        :darkness
+        :misty-step},
+      3
+      #{:counterspell :remove-curse :dispel-magic :vampiric-touch
+        :summon-lesser-demons
+        :hypnotic-pattern
+        :fly
+        :tongues
+        :magic-circle
+        :major-image
+        :hunger-of-hadar
+        :enemies-abound
+        :incite-greed
+        :fear
+        :thunder-step
+        :psionic-blast
+        :gaseous-form},
+      4
+      #{:dimension-door :summon-greater-demon :ego-whip :elemental-bane
+        :hallucinatory-terrain
+        :blight
+        :banishment
+        :sickening-radiance
+        :shadow-of-moil
+        :charm-monster}}},
+    :ability-increase-levels [4 8 12 16 19],
+    :subclass-help
+    "There are a handful of secretive orders of blood hunters that guard their cryptic techniques and rituals. One must adhere to one of these orders to even be granted access to the Hunter’s Bane rite that starts their journey, and only once they’ve proven their dedication and ability will the secrets of the order begin to be revealed. It’s within these small, enigmatic sects that the real power of a blood hunter is learned.",
+    :help
+    "Often feared or misunderstood, and driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt to better stalk and survive their prey.",
+    :profs
+    {:save
+     {:orcpub.dnd.e5.character/dex true,
+      :orcpub.dnd.e5.character/int true},
+     :skill-options
+     {:choose 3,
+      :options
+      {:athletics true,
+       :acrobatics true,
+       :arcana true,
+       :history true,
+       :insight true,
+       :investigation true,
+       :religion true,
+       :survival true}}},
+    :hit-die 10,
+    :traits
+    [{:name "Hunter's Bane",
+      :description
+      "Beginning at 1st level, you have survived the Hunter’s Bane, a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.\n   The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:\n\nHemocraft save DC = 8 + your proficiency bonus + your Intelligence modifier."}
+     {:description
+      "At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the “Blood Curses” section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.\n   When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.\n   You can use this feature once. Beginning at 6th level, you can use your Blood Maledict feature twice, at 13th level you can use it three times between rests, and at 17th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.\n\nLevel      Hemocraft Die\n 1st                 1d4\n 2nd                1d4\n 3rd                1d4\n 4th                1d4\n 5th                1d6\n 6th                1d6\n 7th                1d6\n 8th                1d6\n 9th                1d6\n10th               1d6\n11th               1d8\n12th               1d8\n13th               1d8\n14th               1d8\n15th               1d8\n16th               1d8\n17th              1d10\n18th              1d10\n19th              1d10\n20th              1d10",
+      :name "Blood Maledict"}
+     {:description
+      "At 2nd level, you adopt a style of fighting as your specialty. Choose one of the provided options. You can’t take a Fighting Style option more than once, even if you later get to choose again.",
+      :name "Fighting Style",
+      :level 2}
+     {:description
+      "At 2nd level, you learn to invoke a rite of hemocraft within your weapon at the cost of your own vitality. Choose one rite from the Primal Rites list below to learn.\n   As a bonus action, you activate a crimson rite on a single weapon with the elemental energy of a known rite of your choice that lasts until you finish a short or long rest, or if you aren’t holding the weapon at the end of your turn. When you activate a rite, you lose a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table.\n   While active, attacks from this weapon deal an additional 1d4 damage of the chosen rite’s type. This damage is magical, and increases as you gain levels as a blood hunter, as shown in the Hemocraft Die column of the Blood Hunter table. A weapon can only hold a single active rite at a time.\n   You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.",
+      :name "Crimson Rite"}
+     {:description
+      "At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence modifier (minimum of 1 damage).\n   Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of dispel magic, and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).\n   Once you use this feature, you can’t use it again until you finish a short or long rest.",
+      :name "Brand of Castigation",
+      :level 6}
+     {:description
+      "When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence (History) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.",
+      :name "Grim Psychometry",
+      :level 9}
+     {:description
+      "Upon reaching 10th level, arcane blood magic suffuses your body, permanently reinforcing your resilience. Your speed increases by 5 feet, and whenever you make a Strength, Dexterity, or Constitution saving throw, you gain a bonus to the saving throw equal to your Intelligence modifier (minimum of one).",
+      :name "Dark Augmentation",
+      :level 10}
+     {:description
+      "Starting at 13th level, the psychic damage from your Brand of Castigation feature increases to twice your Intelligence modifier (minimum of 2).\n   In addition, a branded creature can’t take the Dash action, and if a creature branded by you attempts to teleport or leave their current plane via ability, spell, or portal, they take 4d6 psychic damage and must make a Wisdom saving throw. On a failure, the teleport or plane shift fails.",
+      :name "Brand of Tethering",
+      :level 13}
+     {:description
+      "When you reach 14th level, you have advantage on saving throws against being charmed and frightened.",
+      :level 14,
+      :name "Hardened Soul"}
+     {:description
+      "Upon becoming 20th level, you honed your control over blood magic, mitigating your sacrifice and empowering your capability. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can choose to reroll the die and choose which result to use.\n   In addition, whenever you score a critical hit with a weapon attack empowered by your Crimson Rite, you regain one expended use of your Blood Maledict feature.",
+      :name "Sanguine Mastery",
+      :level 20}
+     {:name "Otherworldly Patron",
+      :description
+      "When you reach 3rd level, you strike a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each detailed in the Player’s Handbook, the Undying within the Sword Coast Adventurer’s Guide, and the Celestial or Hexblade in Xanathar’s Guide to Everything. Your choice augments some of your order features.",
+      :level 3}
+     {:description
+      "When you reach 3rd level, you can augment your combat techniques with the ability to cast spells. See chapter 10 of the Player’s Handbook for the general rules of spellcasting and chapter 11 of the Player’s Handbook for the Warlock spell list.\n   Cantrips. You learn two cantrips of your choice from the warlock spell list. You learn an additional warlock cantrip of your choice at 10th level.\n   Spell Slots. The Profane Soul Spellcasting table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.\n   For example, when you are 8th level, you have two 2nd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 2nd-level spell.\n   Spells Known of 1st Level and Higher. At 3rd level, you know two 1st-level spells of your choice from the warlock spell list.\n   The Spells Known column of the Profane Soul table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 11th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.\n   Additionally, when you gain a level in this class and order, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.\n   Spellcasting Ability. Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.\n\nNote: Your spell slots and cantrips known do not display properly. Refer to the table below for proper spells known and spell slot level.\n\nProfane Soul Spellcasting\nBlood Hunter Level    Cantrips Known    Spells Known      Spell Slots       Slot Level\n                3rd                             2                             2                         1                     1st\n                4th                             2                             2                         1                     1st\n                5th                             2                             3                         1                     1st\n                6th                             2                             3                         2                     1st\n                7th                             2                             4                         2                     2nd\n                8th                             2                             4                         2                     2nd\n                9th                             2                             5                         2                     2nd\n               10th                            3                             5                         2                     2nd\n               11th                            3                             6                         2                     2nd\n               12th                            3                             6                         2                     2nd\n               13th                            3                             7                         2                     3rd\n               14th                            3                             7                         2                     3rd\n               15th                            3                             8                         2                     3rd\n               16th                            3                             8                         2                     3rd\n               17th                            3                             9                         2                     3rd\n               18th                            3                             9                         2                     3rd\n               19th                            3                             10                       2                     4th\n               20th                            3                             11                       2                     4th\n\nSpell save DC = 8 + your proficiency bonus + your Intelligence modifier.\n\nSpell attack modifier = your proficiency bonus + your Intelligence modifier.",
+      :name "Pact Magic",
+      :level 3}
+     {:description
+      "Starting at 7th level, when you use your action to cast a cantrip, you can immediately make one weapon attack as a bonus action.",
+      :name "Mystic Frenzy",
+      :level 7}
+     {:description
+      "Upon reaching 11th level, your Brand of Castigation feature now digs dark, arcane scars into your target, leaving them vulnerable to your magic. A creature branded by you has disadvantage on their saving throws against your warlock spells.",
+      :name "Brand of the Sapping Scar",
+      :level 11}
+     {:description
+      "Starting at 18th level, you’ve learned to siphon the soul from your fallen prey. You gain the Blood Curse of the Souleater for your Blood Maledict feature. This does not count against your number of blood curses known.",
+      :name "Blood Curse of the Souleater",
+      :level 18}
+     {:description
+      "Should you wish to multiclass into a blood hunter, the prerequisites and proficiencies gained are listed below.\n\nBlood Hunter Multiclassing Prerequisites\nAbility Score Minimum\nStrength 13 or Dexterity 13, and Intelligence 13\n\nBlood Hunter Multiclassing Proficiencies\nProficiencies Gained\nLight armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list, alchemical supplies.\n\nBlood Hunter Multiclassing with Warlock\nIf multiclassing Order of the Profane Soul with Warlock levels, add a third of your blood hunter levels (rounded down) to your Warlock level and consult the Warlock progression table in the Player’s Handbook for total Spell Slots, Cantrips known, and Spell Slot Level.",
+      :name "Blood Hunter Multiclassing"}]}},
+  :orcpub.dnd.e5/selections
+  {:blood-curses
+   {:options
+    [{:name "Blood Curse of the Anxious",
+      :description
+      "As a bonus action, you magnify the adrenaline in the body of a creature within 30 feet of you, making them susceptible to forceful influence. Until the end of your next turn, all creatures have advantage on Charisma (Intimidation) checks directed at the target creature.\n   Amplify. The next Wisdom saving throw the target has to make before this curse ends has disadvantage."}
+     {:name "Blood Curse of Binding",
+      :description
+      "As a bonus action, you can attempt to bind a creature you can see within 30 feet of you that is no more than one size larger than you. The target must succeed on a Strength saving throw or have their speed be reduced to 0 and they can’t use reactions until the end of your next turn.\n   Amplify. This curse lasts for 1 minute and can affect a creature regardless of their size category. At the end of each of its turns, the cursed creature can make another Strength saving throw. On a success, this curse ends."}
+     {:description
+      "As a bonus action, you curse a creature that you can see within 30 feet of you to painfully swell until the end of your next turn. For the duration of this curse, the creature has disadvantage on Strength and Dexterity ability checks, and suffers 1d8 necrotic damage if it makes more than one melee or ranged attack during its turn.\n   Amplify. This curse lasts for 1 minute. At the end of each of its turns, the cursed creature can make a Constitution saving throw. On a success, this curse ends.",
+      :name "Blood Curse of Bloated Agony"}
+     {:description
+      "As a bonus action, a creature within 30 feet of you must make a Constitution saving throw or become poisoned. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the curse ends.\n   Amplify. The cursed creature suffers 4d6 necrotic damage, and suffers this damage again every time it fails its Constitution saving throw to end this curse at the end of its turn.",
+      :name
+      "Blood Curse of Corrosion (Prerequisite: 15th level, Order of the Mutant)"}
+     {:description
+      "When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness.\n   Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll a new hemocraft die for each affected attack.",
+      :name "Blood Curse of the Eyeless"}
+     {:description
+      "When a creature you can see within 30 feet drops to 0 hit points, you can use your reaction to make that creature immediately makes a single weapon attack against a target of your choice within its attack range.\n   Amplify. You can first move the cursed creature up to half their speed, and you grant a bonus to the cursed creature’s attack roll equal to your Intelligence modifier (minimum of 1).",
+      :name "Blood Curse of the Fallen Puppet"}
+     {:description
+      "As a bonus action, you can mark a creature within 30 feet of you. Until the end of your turn, whenever you deal rite damage to the target, you deal an additional hemocraft die of rite damage.\n   Amplify. The next attack roll you make against the target before the end of your turn has advantage.",
+      :name "Blood Curse of the Marked"}
+     {:description
+      "As a bonus action, you curse a creature that you can see within 30 feet of you that is concentrating on a spell. That creature has disadvantage on the next Constitution saving throw it must make to maintain concentration before the end of your next turn.\n   Amplify. The cursed creature has disadvantage on all Constitution saving throws made to maintain concentration of spells until the end of your next turn.",
+      :name "Blood Curse of the Muddled Mind"}
+     {:description
+      "As a bonus action, you can choose one creature you can see within 30 feet of you that is charmed, frightened, or possessed. The target creature is no longer charmed, frightened, or possessed.\n   Amplify. The creature that charmed, frightened, or possessed the target of your curse suffers 3d6 psychic damage and must make a Wisdom saving throw or be stunned until the end of your next turn.",
+      :name
+      "Blood Curse of the Exorcist (Prerequisite: 15th level, Order of the Ghostslayer)"}
+     {:description
+      "When a creature that isn’t a construct or undead is reduced to 0 hit points within 30 feet of you, you can use your reaction to usher their soul to your patron in exchange for power. Until the end of your next turn, your weapon attacks have advantage.\n   Amplify. In addition, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a long rest before you can amplify it again.",
+      :name
+      "Blood Curse of the Souleater (Prerequisite: 18th level, Order of the Profane Soul)"}
+     {:description
+      "As an action, you unleash a blood-curdling howl. Each creature within 30 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. If they fail their saving throw by 5 or more, they are stunned while frightened in this way. A creature that succeeds on this saving throw is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by this howl.\n   Amplify. The range of this curse increases to 60 feet.",
+      :name
+      "Blood Curse of the Howl (Prerequisite: 18th level, Order of the Lycan)"}
+     {:description
+      "When a creature you can see within 30 feet is hit with an attack or spell, you can use your reaction to temporarily weaken their resilience against it. Until the end of the turn, the target loses their resistance to the damage types of the triggering attack or spell.\n   Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, having resistance to them until the end of the turn.",
+      :name "Blood Curse of Exposure"}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Blood Curses",
+    :key :blood-curses},
+   :primal-rite
+   {:options
+    [{:description "Your rite damage is fire damage.",
+      :name "Rite of the Flame"}
+     {:description "Your rite damage is cold damage.",
+      :name "Rite of the Frozen"}
+     {:description "Your rite damage is lightning damage.",
+      :name "Rite of the Storm"}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Primal Rite",
+    :key :primal-rite},
+   :esoteric-rites
+   {:options
+    [{:description "Your rite damage is necrotic damage.",
+      :name "Rite of the Dead"}
+     {:description "Your rite damage is psychic damage.",
+      :name "Rite of the Oracle"}
+     {:description "Your rite damage is thunder damage.",
+      :name "Rite of the Roar"}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Esoteric Rites",
+    :key :esoteric-rites},
+   :mutagen-formulas
+   {:options
+    [{:description
+      "You gain a flying speed of 20 feet for 1 hour. As a side effect, you gain disadvantage on Strength and Dexterity ability checks for 1 hour.",
+      :name "Aether (Prerequisite: 11th Level)"}
+     {:description
+      "Your skin and voice become malleable, allowing you to slightly enhance your appearance and presence. You have advantage on Charisma ability checks. As a side effect, you gain disadvantage on initiative rolls.",
+      :name "Alluring"}
+     {:description
+      "Your Dexterity score increases by 3, as does your Dexterity maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Wisdom saving throws.",
+      :name "Celerity"}
+     {:description
+      "You gain advantage on Intelligence ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.",
+      :name "Conversant"}
+     {:description
+      "When you use the Attack action, you can make an additional weapon attack as a bonus action. As a side effect, you gain disadvantage on Intelligence, Wisdom, and Charisma saving throws.",
+      :name "Cruelty (Prerequisite: 11th level)"}
+     {:description
+      "You gain advantage on Dexterity ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.",
+      :name "Deftness"}
+     {:description
+      "You gain resistance to fire damage. As a side effect, you gain vulnerability to cold damage.",
+      :name "Embers"}
+     {:description
+      "You gain resistance to cold damage. As a side effect, you gain vulnerability to fire damage.",
+      :name "Gelid"}
+     {:description
+      "You gain resistance to piercing damage. As a side effect, you gain vulnerability to slashing damage.",
+      :name "Impermeable"}
+     {:description
+      "You are immune to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. As a side effect, you gain disadvantage on Strength ability checks.",
+      :name "Mobile"}
+     {:description
+      "You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. As a side effect, you gain sunlight sensitivity (detailed in the Dark Elf section on page 24 in the Player’s Handbook).",
+      :name "Nighteye"}
+     {:description
+      "You gain advantage on Wisdom ability checks. As a side effect, you gain disadvantage on Charisma ability checks.",
+      :name "Percipient"}
+     {:description
+      "Your Strength score increases by 3, as does your Strength maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you have disadvantage on Dexterity saving throws.",
+      :name "Potency"}
+     {:description
+      "Your weapon attacks score a critical hit on a roll of 19-20. As a side effect, you gain disadvantage on Strength saving throws.",
+      :name "Precision (Prerequisite: 11th level)"}
+     {:description
+      "Your speed increases by 10 feet. At 15th level, your speed increases by 15 feet instead. As a side effect, you gain disadvantage on Intelligence ability checks.",
+      :name "Rapidity"}
+     {:description
+      "For 1 hour, at the start of each of your turns, you regain hit points equal to your proficiency bonus if you have at least 1 hit point but no more than half of your hit points left. As a side effect, your speed decreases by 10 ft for 1 hour.",
+      :name "Reconstruction (Prerequisite: 7th level)"}
+     {:description
+      "Your Intelligence score increases by 3, as does your Intelligence maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Charisma saving throws.",
+      :name "Sagacity"}
+     {:description
+      "You gain resistance to slashing damage. As a side effect, you gain vulnerability to bludgeoning damage.",
+      :name "Shielded"}
+     {:description
+      "You gain resistance to bludgeoning damage. As a side effect, you gain vulnerability to piercing damage.",
+      :name "Unbreakable"}
+     {:description
+      "You gain an additional use of your Blood Maledict feature. As a side effect, you gain disadvantage on death saving throws.",
+      :name "Vermillion"}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Mutagen Formulas",
+    :key :mutagen-formulas},
+   :blood-hunter-fighting-styles
+   {:options
+    [{:description
+      "You gain a +2 bonus to attack rolls you make with ranged weapons.",
+      :name "Archery"}
+     {:description
+      "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.",
+      :name "Dueling"}
+     {:description
+      "When you roll a 1 or 2 on a non-rite damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.",
+      :name "Great Weapon Fighting"}
+     {:description
+      "When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.",
+      :name "Two-Weapon Fighting"}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Blood Hunter Fighting Styles",
+    :key :blood-hunter-fighting-styles}},
+  :orcpub.dnd.e5/subclasses
+  {:the-archfey
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :key :the-archfey,
+    :level-modifiers
+    [{:level 7,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int, :key :blur, :level 2}}
+     {:level 15,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int, :key :slow, :level 3}}],
+    :name "The Archfey",
+    :option-pack "Blood Hunter (2020)",
+    :traits
+    [{:description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Archfey. When you deal rite damage to a creature, it glows with faint light until the end of your next turn. For the duration, the creature can’t benefit from half cover, three-quarters cover, or being invisible.",
+      :level 3,
+      :name "Rite Focus"}
+     {:description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Archfey. You can cast blur once using a pact magic spell slot. You can’t do so again until you finish a long rest.",
+      :level 7,
+      :name "Revealed Arcana"}
+     {:description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Archfey. You can cast slow once without expending a spell slot. You can’t do so again until you finish a long rest.",
+      :level 15,
+      :name "Unsealed Arcana"}]},
+   :the-hexblade
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :traits
+    [{:name "Rite Focus",
+      :description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Hexblade. Whenever you target a creature with a blood curse, your next attack against the cursed creature deals additional damage equal to your proficiency modifier.",
+      :level 3}
+     {:name "Revealed Arcana",
+      :level 7,
+      :description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Hexblade. You can cast branding smite once using a pact magic spell slot. You can’t do so again until you finish a long rest."}
+     {:level 15,
+      :name "Unsealed Arcana",
+      :description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Hexblade. You can cast blink once without expending a spell slot. You can’t do so again until you finish a long rest."}],
+    :level-modifiers
+    [{:type :spell,
+      :level 7,
+      :value
+      {:level 2,
+       :ability :orcpub.dnd.e5.character/int,
+       :key :branding-smite}}
+     {:type :spell,
+      :level 15,
+      :value
+      {:level 3, :ability :orcpub.dnd.e5.character/int, :key :blink}}],
+    :option-pack "Blood Hunter (2020)",
+    :name "The Hexblade",
+    :key :the-hexblade},
+   :order-of-the-lycan
+   {:class :blood-hunter,
+    :traits
+    [{:description
+      "Starting when you choose this archetype at 3rd level, you begin to adopt the improved abilities of a natural predator. You gain advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      :name "Heightened Senses",
+      :level 3}
+     {:name "Hybrid Transformation",
+      :level 3,
+      :description
+      "Upon choosing this archetype at 3rd level, you begin to learn to control the lycanthropic curse that now lives in your blood. As a bonus action, you can transform into your hybrid form for up to 1 hour. You can speak, use equipment, and wear armor in this form. You can revert to your normal form earlier as a bonus action. You automatically revert to your normal form if you fall unconscious, drop to 0 hit points, or die. This feature replaces the rules for Lycanthropy within the Monster’s Manual.\n   Once you use this feature, you must finish a short or long rest before you can use it again. While you are transformed, you gain the following features:\n   Feral Might. You gain a +1 to melee damage rolls. This bonus increases by 1 at 11th level (+2) and 18th level (+3). You also have advantage on Strength checks and Strength saving throws.\n   Resilient Hide. You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silver weapons. While you are not wearing heavy armor, you gain a +1 bonus to your AC.\n   Predatory Strikes. You can apply your Crimson Rite feature to your unarmed strikes as single weapon. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. When you use the Attack action with an unarmed strike, you can make one unarmed strike as a bonus action.\n   Your unarmed strikes deal 1d6 slashing damage. The damage increases to 1d8 at 11th level.\n   Bloodlust. If you begin your turn with no more than half of your maximum hit points, you must succeed on a DC 8 Wisdom saving throw or move directly towards the nearest creature to you and use the Attack action against that creature. You can choose whether or not to use your Extra Attack feature for this frenzied attack. If there is more than one possible target, roll to randomly determine the target. You then regain control for the remainder of your turn.\n   If you are under an effect that prevents you from concentrating (like the barbarian’s Rage feature), you automatically fail this saving throw."}
+     {:description
+      "At 7th level, your speed increases by 10 feet. You also can add 10 feet to your long jump distance and 3 feet to your high jump distance. In addition, your hybrid form gains the\n   Improved Predatory Strikes feature. Improved Predatory Strikes. You gain a +1 bonus to attack rolls made with your unarmed strikes. This bonus increases by 1 at 11th level (+2) and 18th level (+3). In addition, when you have an active Crimson Rite while in your hybrid form, your unarmed strikes are considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.",
+      :name "Stalker's Prowess",
+      :level 7}
+     {:name "Advanced Transformation",
+      :level 11,
+      :description
+      "Starting at 11th level, you learn to unleash and control more of the beast within. You can use your Hybrid Transformation feature twice, regaining all expended uses when you finish a short or long rest. In addition, your hybrid form gains the Lycan Regeneration feature.\n   Lycan Regeneration. At the start of each of your turns, before you roll for bloodlust, you regain hit points equal to 1 + your Constitution modifier (minimum of 1) if you have at least 1 hit point and no more than half of your hit points left."}
+     {:description
+      "At 15th level, you have advantage on your Wisdom saving throws to maintain control of your bloodlust in hybrid form. In addition, your Brand of Castigation now binds your foe to your hunter’s thirst for savagery. While in your hybrid form, your attacks have advantage against a creature branded by you.",
+      :name "Brand of the Voracious",
+      :level 15}
+     {:name "Hybrid Transformation Mastery",
+      :description
+      "At 18th level, you have wrestled your inner predator and mastered it. You can use your Hybrid Transformation feature an unlimited number of times, and your hybrid form can now last indefinitely.\n   You also gain the Blood Curse of the Howl for your Blood Maledict feature. This does not count against your number of blood curses known.",
+      :level 18}],
+    :level-modifiers [],
+    :option-pack "Blood Hunter (2020)",
+    :name "Order of the Lycan",
+    :key :order-of-the-lycan},
+   :the-great-old-one
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :key :the-great-old-one,
+    :level-modifiers
+    [{:level 7,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int,
+       :key :detect-thoughts,
+       :level 2}}
+     {:level 15,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int, :key :haste, :level 3}}],
+    :name "The Great Old One",
+    :option-pack "Blood Hunter (2020)",
+    :traits
+    [{:description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Great Old One. When you score a critical hit against a creature while using the weapon, that creature is frightened of you until the end of your next turn.",
+      :level 3,
+      :name "Rite Focus"}
+     {:description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Great Old One. You can cast detect thoughts once using a pact magic spell slot. You can’t do so again until you finish a long rest.",
+      :level 7,
+      :name "Revealed Arcana"}
+     {:description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Great Old One. You can cast haste once without expending a spell slot. You can’t do so again until you finish a long rest.",
+      :level 15,
+      :name "Unsealed Arcana"}]},
+   :order-of-the-mutant
+   {:class :blood-hunter,
+    :traits
+    [{:description
+      "You begin to uncover forbidden alchemical formulas that temporarily alter your mental and physical abilities.\n   Beginning at 3rd level, you choose to learn four mutagen formulas. Your formula options are detailed at the end of this order description. You gain an additional formula at 7th level, 11th level, 15th level, and 18th level.\n   Additionally, when you gain a new mutagen formula, you can choose one of the formulas you already know and replace it with a new mutagen formula.",
+      :name "Formulas",
+      :level 3}
+     {:name "Mutagencraft",
+      :level 3,
+      :description
+      "At 3rd level, you can concoct a single mutagen when you finish a short or long rest. Starting at 7th level, the number of mutagens you can create when you finish a rest increases to two, and you can create three mutagens at 15th level.\n   As a bonus action you can consume a single mutagen, and the effects and side effects last until you finish a short or long rest, unless otherwise specified. While one or more mutagens are affecting you, you can use an action to focus and flush the toxins from your system, ending the effects and side effects of all mutagens.\n   Mutagens are designed for your biology and have no effect on other creatures. They are also unstable by nature,losing their potency over time and becoming inert if not used before you finish your next short or long rest."}
+     {:description
+      "Beginning at 7th level, your body has begun to adapt to toxins and venoms, ignoring their corroding effects. You gain immunity to poison damage and the poisoned condition.\n   In addition, you can instill a burst of adrenaline to temporarily resist the negative effects of a mutagen. As a bonus action, you can choose to ignore the side effect of a mutagen affecting you for 1 minute.\n   Once you use this feature to resist side effects, you can’t do so again until you finish a long rest.",
+      :level 7,
+      :name "Strange Metabolism"}
+     {:description
+      "At 11th level, your hemocraft has altered your Brand of Castigation to enforce a foe’s true nature. Any illusions disguising or making a creature invisible when you brand them end, and they can’t benefit from such illusions while branded. If a creature branded by you is polymorphed or has changed shape, they must succeed on a Wisdom saving throw or revert to their true form and be stunned until the end of your next turn. Whenever a branded creature attempts to polymorph or change shape, they must succeed on a Wisdom saving throw or the attempt fails, and they are stunned until the end of your next turn.",
+      :level 11,
+      :name "Brand of Axiom"}
+     {:description
+      "Starting at 15th level, your blood curse can wrack a creature’s body with terrible toxins. You gain the Blood Curse of Corrosion for your Blood Maledict feature. This does not count against your number of blood curses known.",
+      :name "Blood Curse of Corrosion",
+      :level 15}
+     {:description
+      "At 18th level, your body has adapted to produce your toxins naturally in a moment of need. As a bonus action, you can choose one mutagen currently affecting you to flush from your system and end, then immediately have a mutagen you know the formula for take effect in its place.\n   You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all uses of this feature after you finish a long rest.",
+      :name "Exalted Mutation",
+      :level 18}],
+    :level-modifiers
+    [{:type :damage-immunity, :value :poison, :level 7}],
+    :option-pack "Blood Hunter (2020)",
+    :name "Order of the Mutant",
+    :key :order-of-the-mutant,
+    :level-selections
+    [{:type :mutagen-formulas, :level 18, :num 8}
+     {:type :mutagen-formulas, :level 15, :num 7}
+     {:type :mutagen-formulas, :level 11, :num 6}
+     {:type :mutagen-formulas, :level 7, :num 5}
+     {:type :mutagen-formulas, :level 3, :num 4}]},
+   :the-undying
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :key :the-undying,
+    :level-modifiers
+    [{:level 7,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int,
+       :key :blindness-deafness,
+       :level 2}}
+     {:level 15,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int,
+       :key :bestow-curse,
+       :level 3}}],
+    :name "The Undying",
+    :option-pack "Blood Hunter (2020)",
+    :traits
+    [{:description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Undying. Whenever you reduce a hostile creature to 0 hit points using a weapon, you regain a number of hit points equal to one roll of your hemocraft die.",
+      :level 3,
+      :name "Rite Focus"}
+     {:description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Undying. You can cast blindness/deafness once using a pact magic spell slot. You can’t do so again until you finish a long rest.",
+      :level 7,
+      :name "Revealed Arcana"}
+     {:description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Undying. You can cast bestow curse once without expending a spell slot. You can’t do so again until you finish a long rest.",
+      :level 15,
+      :name "Unsealed Arcana"}]},
+   :order-of-the-profane-soul
+   {:class :blood-hunter,
+    :traits
+    [{:level 3,
+      :description
+      "Due to spellcasting restrictions on the website, this subclass has been built as a standalone class. Change your class to Blood Hunter (Order of the Profane Soul) to access the subclass features.",
+      :name "Note: Order of the Profane Soul"}],
+    :level-modifiers [],
+    :option-pack "Blood Hunter (2020)",
+    :name "Order of the Profane Soul",
+    :key :order-of-the-profane-soul},
+   :the-fiend
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :key :the-fiend,
+    :level-modifiers
+    [{:level 7,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int,
+       :key :scorching-ray,
+       :level 2}}
+     {:level 15,
+      :type :spell,
+      :value
+      {:ability :orcpub.dnd.e5.character/int,
+       :key :fireball,
+       :level 3}}],
+    :name "The Fiend",
+    :option-pack "Blood Hunter (2020)",
+    :traits
+    [{:description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Fiend. When you hit a creature with your Rite of the Flame, if you roll a 1 or 2 on your hemocraft die, you can reroll the die and choose which roll to use.",
+      :level 3,
+      :name "Rite Focus"}
+     {:description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Fiend. You can cast scorching ray once using a pact magic spell slot. You can’t do so again until you finish a long rest.",
+      :level 7,
+      :name "Revealed Arcana"}
+     {:description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Fiend. You can cast fireball once without expending a spell slot. You can’t do so again until you finish a long rest.",
+      :level 15,
+      :name "Unsealed Arcana"}]},
+   :order-of-the-ghostslayer
+   {:class :blood-hunter,
+    :traits
+    [{:level 3,
+      :description
+      "When you join this order at 3rd level, you learn the Rite of the Dawn esoteric rite (detailed below).\n   Rite of the Dawn. Your rite damage is radiant damage. While the rite is active, you gain the following benefits:\n   • Your weapon sheds bright light out to a radius of 20 feet.\n   • You have resistance to necrotic damage.\n   • Your weapon deals one additional hemocraft die of rite damage when you hit an undead.",
+      :name "Rite of the Dawn"}
+     {:description
+      "Beginning at 3rd level, your ancient order teaches advanced mastery over blood curses. You gain an additional use of your Blood Maledict feature. In addition, your blood curses can target any creature, whether it has blood or not.",
+      :name "Curse Specialist",
+      :level 3}
+     {:description
+      "Upon reaching 7th level, at the start of your turn, if you aren’t incapacitated, you can choose to magically step into the veil between the planes. You can move through other creatures and objects as if they were difficult terrain, as well as see and affect creatures and objects on the Ethereal Plane. You take 1d10 force damage if you end your turn inside an object. If you are inside an object when this feature ends, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you moved. This feature lasts for a number of rounds equal to your Intelligence modifier (minimum of 1 round).\n   You can use this feature once. Beginning at 15th level, you can use your Ethereal Step feature twice between rests. You regain all expended uses when you finish a short or long rest.",
+      :level 7,
+      :name "Ethereal Step"}
+     {:description
+      "Beginning at 11th level, your Brand of Castigation now exposes a fragment of your foe’s essence, leaving them vulnerable to your Crimson Rite. Whenever you damage a branded creature with your Crimson Rite, you weapon deals one additional hemocraft die of rite damage. In addition, the branded creature can’t move through creatures or objects.",
+      :level 11,
+      :name "Brand of Sundering"}
+     {:description
+      "At 15th level, you’ve honed your hemocraft to tear wicked influence from your allies, punishing those who would infiltrate their body and mind. You gain the Blood Curse of the Exorcist for your Blood Maledict feature. This doesn’t count against your number of blood curses known.",
+      :name "Blood Curse of the Exorcist",
+      :level 15}
+     {:description
+      "Upon reaching 18th level, you learn to protect your fading life by absorbing your blood rite. When you are reduced to 0 hit points while you have an active Crimson Rite, but don’t die outright, the rite ends and you drop to 1 hit point instead. If you have rites active on multiple weapons, you choose which one ends.",
+      :name "Rite Revival",
+      :level 18}],
+    :level-modifiers [],
+    :option-pack "Blood Hunter (2020)",
+    :name "Order of the Ghostslayer",
+    :key :order-of-the-ghostslayer},
+   :the-celestial
+   {:class :blood-hunter-order-of-the-profane-soul-,
+    :traits
+    [{:name "Rite Focus",
+      :level 3,
+      :description
+      "Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Celestial. You can expend a use of your Blood Maledict feature as a bonus action to heal one creature that you can see within 60 feet of you. They regain a number of hit points equal to one roll of your hemocraft damage die + your Intelligence modifier (minimum of 1)."}
+     {:name "Revealed Arcana",
+      :level 7,
+      :description
+      "At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Celestial. You can cast lesser restoration once using a pact magic spell slot. You can’t do so again until you finish a long rest."}
+     {:name "Unsealed Arcana",
+      :description
+      "At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.\n   The Celestial. You can cast revivify once without expending a spell slot. You can’t do so again until you finish a long rest.",
+      :level 15}],
+    :level-modifiers
+    [{:type :spell,
+      :level 7,
+      :value
+      {:level 2,
+       :ability :orcpub.dnd.e5.character/int,
+       :key :lesser-restoration}}
+     {:type :spell,
+      :level 15,
+      :value
+      {:level 3,
+       :ability :orcpub.dnd.e5.character/int,
+       :key :revivify}}],
+    :option-pack "Blood Hunter (2020)",
+    :name "The Celestial", 
+    :key :the-celestial}}}}

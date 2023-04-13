@@ -1,0 +1,228 @@
+﻿{:orcpub.dnd.e5/races
+ {:thri-kreen
+  {:key :thri-kreen,
+   :speed 30,
+   :name "Thri-Kreen",
+   :darkvision 60,
+   :size :medium,
+   :option-pack "Astral Adventures Guide",
+   :languages #{"Thri-kreen" "Common"},
+   :props {:lizardfolk-ac true},
+   :traits
+   [{:name "Secondary Arms",
+     :description
+     "You have two slightly smaller secondary arms below your primary pair of arms. The secondary arms can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property"}
+    {:name "Sleepless",
+     :description
+     "You do not require sleep and can remain conscious during a long rest, though you must still refrain from strenuous activity to gain the benefit of the rest"}
+    {:name "Thri-kreen Telepathy",
+     :description
+     "Without the assistance of magic, you can't speak the non-thri-keen languages you know. Instead, you use telepathy to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures, you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required)"}
+    {:type :action,
+     :name "Chameleon Carapace",
+     :description
+     "(only if not wearing armor) As an action, you can change the color of your carapace to match the color and texture of your surroundings, giving you advantage on Dexterity (Stealth) checks made to hide in those surroundings"}]},
+  :astral-elf
+  {:key :astral-elf,
+   :speed 30,
+   :name "Astral Elf",
+   :darkvision 60,
+   :spells [],
+   :size :medium,
+   :option-pack "Astral Adventures Guide",
+   :profs {:language-options {:options {:common false}}},
+   :languages #{"Common"},
+   :props {:skill-prof {:perception true}},
+   :traits
+   [{:name "Fey Ancestry",
+     :description
+     "You have advantage on saving throws you make to avoid or end the charmed condition on yourself"}
+    {:type :b-action,
+     :name "Starlight Step",
+     :description
+     "As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."}
+    {:name "Astral Trance",
+     :description
+     "You don't need to sleep, and magic cant put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.\n\nWhenever you finish this trance, you gain proficiency in one skill of your choice and with a weapon or tool of your choice, selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from the shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest."}]},
+  :autognome
+  {:size :small,
+   :speed 30,
+   :languages #{"Common"},
+   :traits
+   [{:name "Built for Success",
+     :description
+     "You can add a d4 to one attack roll, ability check, or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest"}
+    {:name "Healing Machine",
+     :description
+     "If the mending spell is cast on you, you can spend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point).\n In addition, your Creator designed you to benefit from several spells that preserve life but that normally don't affect Constructs: Cure wounds, healing word, mass cure wounds, mass healing word, and spare the dying"}
+    {:name "Mechanical Nature",
+     :description
+     "You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being paralyzed or poisoned. You don't need to eat, drink or breath."}
+    {:name "Sentry's Rest",
+     :description
+     "When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state you appear inert, but you remain conscious"}
+    {:name "Specialized Design",
+     :description
+     "You gain two tool proficiencies of your choice, Selected from the Player's Handbook"}],
+   :name "Autognome",
+   :option-pack "Astral Adventures Guide",
+   :props {:lizardfolk-ac true, :damage-resistance {:poison true}},
+   :key :autognome},
+  :giff
+  {:size :medium,
+   :speed 30,
+   :languages #{"Common"},
+   :traits
+   [{:name "Astral Spark",
+     :description
+     "Your psychic connection to the Astral Plane enables you to mystically access a spark of divine power, which you can channel through your weapons. When you hit a target with a simple or martial weapon, you can cause the target to take extra force damage equal to your proficiency bonus.\nYou can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest"}
+    {:name "Firearms Mastery",
+     :description
+     "You have a mystical connection to firearms that traces back to the gods of the Giff, who delighted in such weapons. You have proficiency with all firearms and ignore the loading property of any firearm. In addition, attacking at long range with a firearm doesn't impose disadvantage on your attack roll"}
+    {:name "Hippo Build",
+     :description
+     "You have advantage on Strength based ability checks and Strength saving throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift"}],
+   :option-pack "Astral Adventures Guide",
+   :name "Giff",
+   :props {:swimming-speed 30},
+   :key :giff},
+  :hadozee
+  {:size :medium,
+   :speed 30,
+   :languages #{"Common"},
+   :traits
+   [{:type :b-action,
+     :name "Dexterous Feet",
+     :description
+     "As a bonus action, you can use your feet to manipulate and object, open or close a door or container, or pick up or set down a Tiny object."}
+    {:name "Glide",
+     :description
+     "If you are not incapacitated or wearing heavy armor, you can extend your skin membranes and glide. When you do so, you can preform the following aerial maneuvers:\n\nYou can move up to 5 feet horizontally for every 1 foot you descend in the air, at no movement cost to you\n\nWhen you would take damage from a fall you can use your reaction to reduce the fall's damage to 0."}
+    {:type :reaction,
+     :name "Hadozee resilience",
+     :description
+     "The magic that runs in your veins heightens your natural defenses. When you take damage, you can use your reaction to roll a d6. Add your proficiency bonus to the number rolled, and reduce the damage you take by an amount equal to that total (minimum of 0 damage).\nYou can use this trait a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest"}
+    {:name "Speed",
+     :description
+     "You have a climbing speed equal to your movement speed"}],
+   :option-pack "Astral Adventures Guide",
+   :name "Hadozee",
+   :key :hadozee},
+  :plasmoid
+  {:key :plasmoid,
+   :speed 30,
+   :name "Plasmoid",
+   :darkvision 60,
+   :size :medium,
+   :option-pack "Astral_Adventures_Guide_Races",
+   :help
+   "Creature Type. You are an Ooze.\nSize. You are Medium or Small. You choose the size when you select this race.\nAmorphous. You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing. You have advantage on ability checks you make to initiate or escape a grapple.\nHold Breath. You can hold your breath for 1 hour.\nNatural Resilience. You have resistance to acid and poison damage, and you have advantage on saving throws against being poisoned.\nShape Self. As an action, you can reshape your body to give yourself a head, one or two arms, one or two legs, and makeshift hands and feet, or you can revert to a limbless blob. While you have a humanlike shape, you can wear clothing and armor made for a Humanoid of your size.\nAs a bonus action, you can extrude a pseudopod that is up to 6 inches wide and 10 feet long or reabsorb it into your body. As part of the same bonus action, you can use this pseudopod to manipulate an object, open or close a door or container, or pick up or set down a Tiny object. The pseudopod contains no sensory organs and can't attack, activate magic items, or lift more than 10 pounds.\nLanguages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.\n\n",
+   :profs
+   {:language-options
+    {:choose 1,
+     :options
+     {:draconic true,
+      :deep-speech true,
+      :orc true,
+      :dwarvish true,
+      :gnomish true,
+      :sylvan true,
+      :elvish true,
+      :abyssal true,
+      :infernal true,
+      :celestial true,
+      :common true,
+      :undercommon true,
+      :primordial true,
+      :giant true,
+      :halfling true,
+      :goblin true}}},
+   :languages #{"Common"},
+   :props {:damage-resistance {:acid true, :poison true}},
+   :traits []}},
+ :orcpub.dnd.e5/spells
+ {:air-bubble
+  {:description
+   "You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).\nAt Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.\n\n\n",
+   :key :air-bubble,
+   :school "conjuration",
+   :name "Air Bubble",
+   :duration "24 hours",
+   :level 2,
+   :option-pack "Astral_Adventures_Guide_Races",
+   :components {:somatic true},
+   :casting-time "1 Action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid true,
+    :paladin false,
+    :ranger true,
+    :sorcerer true,
+    :warlock false,
+    :wizard true},
+   :range "60 feet"},
+  :create-spelljamming-helm
+  {:description
+   "Holding the rod used in the casting of the spell, you touch a Large or smaller chair that is unoccupied. The rod disappears, and the chair is transformed into a spelljamming helm.\n\n",
+   :key :create-spelljamming-helm,
+   :school "transmutation",
+   :name "Create Spelljamming Helm",
+   :duration "Instantaneous ",
+   :level 5,
+   :option-pack "Astral_Adventures_Guide_Races",
+   :components
+   {:verbal true,
+    :somatic true,
+    :material true,
+    :material-component
+    "a crystal rod worth at least 5,000 gp, which the spell consumes\n"},
+   :casting-time "1 Action",
+   :spell-lists
+   {:bard false,
+    :cleric false,
+    :druid false,
+    :paladin false,
+    :ranger false,
+    :sorcerer false,
+    :warlock false,
+    :wizard true},
+   :range "Touch"}},
+ :orcpub.dnd.e5/backgrounds
+ {:astral-drifter
+  {:traits
+   [{:name "Longevity",
+     :description
+     "You are 20d6 years older than you look, because you have spent that much time in the Astral Sea without aging."}
+    {:name "Divine Contract",
+     :description
+     "You gain the Magic Initiate fear from the Player's Handbook and must choose cleric for the feat. In the Astral Sea, you crossed paths with a wandering deity. The encounter was brief and nonviolent, yet it made a lasting impression on you. This deity saw fit to share one secret or obscure bit of cosmic lore with you. Work with your DM to determine the details of this knowledge and its impact on the campaign.\n\nD10 Wandering Deity\n1 Corellon, god of art and magic (Chaotic Good)\n2 Tymora, god of good fortune (Chaotic Good)\n3 Fharlanghn, god of horizons and travel (Neutral Good)\n4 Istus, god of fate and destiny (Neutral)\n5 Nuada, god of war and warriors (Neutral)\n6 Zivilyn, god of wisdom (Neutral)\n7 Arawn, god of life and death (Neutral Evil)\n8 Hecate, god of magic and moons (Chaotic Evil)\n9 Celestian, god of stars and wanderers (Neutral)\n10 Ptah, god of knowledge and secrets (Lawful Neutral) "}],
+   :option-pack "Astral_Adventures_Guide_SpellsRaces",
+   :name "Astral Drifter",
+   :help
+   "For longer than you can remember, you have traversed the Astral Sea. There, you experienced first hand the wonders of the Silver Void: you stopped aging and no longer felt hunger or thirst. Driven by wanderlust, you drifted from one part of the Astral Sea to another, like a mote of dust on the wind. You have lost count of the decades that have passed since you arrived here. \nIn your travels, you have camped on the petrified hulks of dead gods and narrowly escaped the psychic winds that sweep across the Astral Sea while also avoiding prolonged contact with the plane's most dangerous denizens ",
+   :profs
+   {:skill {:insight true, :religion true},
+    :language-options {:choose 2, :options {:any true}}},
+   :treasure {:gp 10},
+   :equipment {:clothes-traveler-s 1, :ink-pen 1},
+   :key :astral-drifter},
+  :wildspacer
+  {:traits
+   [{:name "Close Encounter",
+     :description
+     "You had a harrowing encounter with one of WildSpace's many terrors. You escaped with your life, but this encounter left you with a scar or two, or perhaps a recurring nightmare. Roll on the close encounter table to determine which creature nearly got the best of you. Creatures marked with an asterisk appear in Boo's Astral menagerie: the others are described in the Monster Manual.\n\nD10 Creature\n1 Beholder\n2 Cosmic horror*\n3 Feyr*\n4 Lunar dragon*\n5 Mind Flayer\n6 Neh-thaggu*\n7 Neogi*\n8 Space Clown*\n9 Vampirate*\n10 Void scavver*"}
+    {:name "WildSpace Adaptation",
+     :description
+     "You gain the Tough feat from the Players Handbook. In addition, you learned how to adapt to zero gravity. Being weightless doesn't give you disadvantage on any of your melee attack rolls"}],
+   :option-pack "Astral_Adventures_Guide_SpellsRaces",
+   :name "WildSpacer",
+   :help
+   "You were raised in the void of Wildspace-home to asteroid miners, moon farmers, and other hardy fold. Perhaps you grew up in a far-flung settlement such as the Rock of Bral or you spent your early years on the crew of a spell jamming ship, preforming helpful chores such as swabbing the deck, loading and offloading the cargo, and scraping barnacles off the hull.\nWhatever your history, life in WildSpace has toughened you so well that you are as brave as a miniature giant space hamster when it comes to facing the terror and other challenges of the air less night.",
+   :profs
+   {:skill {:athletics true, :survival true},
+    :tool {:navigators-tools true}},
+   :treasure {:gp 10},
+   :equipment
+   {:clothes-traveler-s 1, :grappling-hook 1, :rope-hempen 1},
+   :key :wildspacer}}}
