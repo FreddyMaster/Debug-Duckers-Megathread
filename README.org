@@ -770,8 +770,6 @@ Creator Note: You should not be using a proprietary browser. If you are, I would
      :END:
 
 - [[https://1337x.to/][1337x]] 🌟 1337x is a torrent site that offers verified torrent downloads.
-- [[https://eztv.ag/][EZTV]] EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
-- [[https://rarbg.to/][RARBG]] 🌟 Public tracker with its own release group
 - [[https://idope.se/][Idope (Clone)]] iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [[http://rutor.info/][rutor]] Russian tracker
 - [[https://glodls.to/][GloTorrents]] Download Movies, TV, Games and Other Torrents Free
